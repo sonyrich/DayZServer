@@ -1,0 +1,12 @@
+{
+    "m_Version": 3,
+    "Safezone": 1,
+    "AdminTools": 1,
+    "VehicleCarKey": 1,
+    "VehicleTowing": 1,
+    "VehicleLockPicking": 1,
+    "VehicleDestroyed": 1,
+    "Party": 1,
+    "LogToScripts": 0,
+    "LogToADM": 0
+}
