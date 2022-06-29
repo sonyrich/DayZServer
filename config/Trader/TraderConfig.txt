@@ -337,56 +337,56 @@
 	//<Category> Light Machine Guns
 		
 	<Category> Sniper Rifles
-		VSS,					W	450000	225000
-		Scout_Chernarus,		W	180000	90000
-		B95,					W	190000	95000
-		SVD,					W	600000	300000
+		VSS,					W,	450000,	225000
+		Scout_Chernarus,		W,	180000,	90000
+		B95,					W,	190000,	95000
+		SVD,					W,	600000,	300000
 		
 	<Category> TF | WEAPONS
-        TF_AN94,				*,	480000,	384000
-		TF_AN94M,				*,	480000,	384000
-		TF_Anzio20,				*,	2400000,1920000
-		TF_FiveSeven,			*,	85000,	68000
-		TF_M14_DMR,				*,	650000,	520000
-		TF_M14_EBR,				*,	680000,	544000
-		TF_M14_STD,				*,	640000,	512000
-		TF_M1A_Black,			*,	620000,	496000
-		TF_M1A_OD,				*,	620000,	496000
-		TF_M1A_Tan,				*,	620000,	496000
-		TF_MAR10,				*,	1200000,960000
-		TF_SCAR_20_FDE,			*,	670000,	536000
-		TF_SCAR_20_Black,		*,	670000,	536000
-		TF_SCAR_20_Shd,			*,	670000,	536000
-		TF_SCAR_L_FDE,			*,	650000,	520000
-		TF_SCAR_L_Black,		*,	650000,	520000
-		TF_SCAR_L_CQC_FDE,		*,	645000,	516000
-		TF_SCAR_L_CQC_Black,	*,	645000,	516000
-		TF_SCAR_H_FDE,			*,	675000,	540000
-		TF_SCAR_H_Black,		*,	675000,	540000
-		TF_SCAR_H_CQC_FDE,		*,	672500,	538000
-		TF_SCAR_H_CQC_Black,	*,	672500,	538000
-		TF_OTs_12_Tiss,			*,	550000,	440000
-		TF_OTs_14_Groza,		*,	490000,	392000
-		TF_MakarovPB,			*,	68000,	54400
-		TF_M79,					*,	830000,	664000
-		TF_M79_AOR1,			*,	830000,	664000
-		TF_AK101,				*,	460000,	368000
-		TF_AK102,				*,	460000,	368000
-		TF_AK103,				*,	600000,	480000
-		TF_AK104,				*,	450000,	360000
-		TF_AK105,				*,	450000,	360000
-		TF_AK105_Bullpup,		*,	700000,	560000
-		TF_AK74M,				*,	420000,	336000
-		TF_AKM,					*,	550000,	440000
-		TF_VPO136,				*,	700000,	560000
-		TF_AKS74U,				*,	380000,	304000
-		TF_M4A1,				*,	540000,	432000
-		TF_ADAR2_15,			*,	420000,	336000
-		TF_M4A1_CQBR,			*,	535000,	428000
-		TF_MK47_CQBR,			*,	610000,	488000
-		TF_MK47,				*,	610000,	488000
-		TF_MP443,				*,	60000,	48000
-		TF_VPO190,				*,	720000,	576000
+        TF_AN94,				W,	480000,	384000
+		TF_AN94M,				W,	480000,	384000
+		TF_Anzio20,				W,	2400000,1920000
+		TF_FiveSeven,			W,	85000,	68000
+		TF_M14_DMR,				W,	650000,	520000
+		TF_M14_EBR,				W,	680000,	544000
+		TF_M14_STD,				W,	640000,	512000
+		TF_M1A_Black,			W,	620000,	496000
+		TF_M1A_OD,				W,	620000,	496000
+		TF_M1A_Tan,				W,	620000,	496000
+		TF_MAR10,				W,	1200000,960000
+		TF_SCAR_20_FDE,			W,	670000,	536000
+		TF_SCAR_20_Black,		W,	670000,	536000
+		TF_SCAR_20_Shd,			W,	670000,	536000
+		TF_SCAR_L_FDE,			W,	650000,	520000
+		TF_SCAR_L_Black,		W,	650000,	520000
+		TF_SCAR_L_CQC_FDE,		W,	645000,	516000
+		TF_SCAR_L_CQC_Black,	W,	645000,	516000
+		TF_SCAR_H_FDE,			W,	675000,	540000
+		TF_SCAR_H_Black,		W,	675000,	540000
+		TF_SCAR_H_CQC_FDE,		W,	672500,	538000
+		TF_SCAR_H_CQC_Black,	W,	672500,	538000
+		TF_OTs_12_Tiss,			W,	550000,	440000
+		TF_OTs_14_Groza,		W,	490000,	392000
+		TF_MakarovPB,			W,	68000,	54400
+		TF_M79,					W,	830000,	664000
+		TF_M79_AOR1,			W,	830000,	664000
+		TF_AK101,				W,	460000,	368000
+		TF_AK102,				W,	460000,	368000
+		TF_AK103,				W,	600000,	480000
+		TF_AK104,				W,	450000,	360000
+		TF_AK105,				W,	450000,	360000
+		TF_AK105_Bullpup,		W,	700000,	560000
+		TF_AK74M,				W,	420000,	336000
+		TF_AKM,					W,	550000,	440000
+		TF_VPO136,				W,	700000,	560000
+		TF_AKS74U,				W,	380000,	304000
+		TF_M4A1,				W,	540000,	432000
+		TF_ADAR2_15,			W,	420000,	336000
+		TF_M4A1_CQBR,			W,	535000,	428000
+		TF_MK47_CQBR,			W,	610000,	488000
+		TF_MK47,				W,	610000,	488000
+		TF_MP443,				W,	60000,	48000
+		TF_VPO190,				W,	720000,	576000
 		
 	<Category> Grenades
 		RGD5Grenade,				1,	60000,	30000
@@ -495,38 +495,38 @@
 		Mag_308WinSnaploader_2Rnd,	M,	5000,	1500
 		
 	<Category> TF | MAGS
-        TF_Mag_OTs_14_Groza_20Rnd,		*,	22000,	17600
-		TF_Mag_SCAR_H_20Rnd_Black,		*,	19000,	15200
-		TF_Mag_SCAR_H_20Rnd_FDE,		*,	19000,	15200
-		TF_Mag_SCAR_H_20Rnd_Shd,		*,	19000,	15200
-		TF_Mag_SCAR_H_25Rnd_Black,		*,	20000,	16000
-		TF_Mag_SCAR_H_25Rnd_FDE,		*,	20000,	16000
-		TF_Mag_SCAR_H_30Rnd_Black,		*,	21000,	16800
-		TF_Mag_SCAR_H_30Rnd_FDE,		*,	21000,	16800
-		TF_Mag_SCAR_H_PMAG25Rnd_Black,	*,	20000,	16000
-		TF_Mag_SCAR_H_Drum50Rnd,		*,	38500,	30800
-		TF_Mag_FAL_Drum50Rnd_Black,		*,	35000,	28000
-		TF_Mag_MAR10_10Rnd,				*,	70000,	56000
-		TF_Mag_Anzio20_3Rnd,			*,	78000,	62400
-		TF_Mag_M14_20Rnd,				*,	19000,	15200
-		TF_Mag_M14_10Rnd,				*,	11000,	8800
-		TF_Mag_FiveSeven_20Rnd,			*,	10000,	8000
-		TF_Mag_AK74_60Rnd,				*,	32000,	25600
-		TF_Mag_AK74_45Rnd,				*,	21500,	17200
-		TF_Mag_AKM_Plastic30Rnd,		*,	20000,	16000
-		TF_Mag_AKM_30Rnd,				*,	20000,	16000
-		TF_Mag_AKM_10Rnd,				*,	10000,	8000
-		TF_Mag_AKM_PMAG30Rnd,			*,	20500,	16400
-		TF_Mag_AKM_PMAG30Rnd_Banana,	*,	20800,	16640
-		TF_Mag_M4_STANAG30Rnd,			*,	22000,	17600
-		TF_Mag_M4_PMAG10Rnd,			*,	11000,	8800
-		TF_Mag_M4_PMAG20Rnd,			*,	17000,	13600
-		TF_Mag_M4_PMAG30Rnd,			*,	23000,	18400
-		TF_Mag_M4_PMAG30Rnd_FDE,		*,	23000,	18400
-		TF_Mag_M4_PMAG40Rnd,			*,	28000,	22400
-		TF_Mag_M4_PMAG40Rnd_FDE,		*,	28000,	22400
-		TF_Mag_MP443_18Rnd,				*,	14000,	11200
-		TF_Mag_VPO190_4Rnd,				*,	25000,	20000
+        TF_Mag_OTs_14_Groza_20Rnd,		M,	22000,	17600
+		TF_Mag_SCAR_H_20Rnd_Black,		M,	19000,	15200
+		TF_Mag_SCAR_H_20Rnd_FDE,		M,	19000,	15200
+		TF_Mag_SCAR_H_20Rnd_Shd,		M,	19000,	15200
+		TF_Mag_SCAR_H_25Rnd_Black,		M,	20000,	16000
+		TF_Mag_SCAR_H_25Rnd_FDE,		M,	20000,	16000
+		TF_Mag_SCAR_H_30Rnd_Black,		M,	21000,	16800
+		TF_Mag_SCAR_H_30Rnd_FDE,		M,	21000,	16800
+		TF_Mag_SCAR_H_PMAG25Rnd_Black,	M,	20000,	16000
+		TF_Mag_SCAR_H_Drum50Rnd,		M,	38500,	30800
+		TF_Mag_FAL_Drum50Rnd_Black,		M,	35000,	28000
+		TF_Mag_MAR10_10Rnd,				M,	70000,	56000
+		TF_Mag_Anzio20_3Rnd,			M,	78000,	62400
+		TF_Mag_M14_20Rnd,				M,	19000,	15200
+		TF_Mag_M14_10Rnd,				M,	11000,	8800
+		TF_Mag_FiveSeven_20Rnd,			M,	10000,	8000
+		TF_Mag_AK74_60Rnd,				M,	32000,	25600
+		TF_Mag_AK74_45Rnd,				M,	21500,	17200
+		TF_Mag_AKM_Plastic30Rnd,		M,	20000,	16000
+		TF_Mag_AKM_30Rnd,				M,	20000,	16000
+		TF_Mag_AKM_10Rnd,				M,	10000,	8000
+		TF_Mag_AKM_PMAG30Rnd,			M,	20500,	16400
+		TF_Mag_AKM_PMAG30Rnd_Banana,	M,	20800,	16640
+		TF_Mag_M4_STANAG30Rnd,			M,	22000,	17600
+		TF_Mag_M4_PMAG10Rnd,			M,	11000,	8800
+		TF_Mag_M4_PMAG20Rnd,			M,	17000,	13600
+		TF_Mag_M4_PMAG30Rnd,			M,	23000,	18400
+		TF_Mag_M4_PMAG30Rnd_FDE,		M,	23000,	18400
+		TF_Mag_M4_PMAG40Rnd,			M,	28000,	22400
+		TF_Mag_M4_PMAG40Rnd_FDE,		M,	28000,	22400
+		TF_Mag_MP443_18Rnd,				M,	14000,	11200
+		TF_Mag_VPO190_4Rnd,				M,	25000,	20000
 		
 	<Category> Handguards
 		MP5_PlasticHndgrd,	*,	6000,	1800
@@ -1358,18 +1358,18 @@
 	
 <Trader> Vehicles Trader
 	<Category> Vehicles
-		OffroadHatchback,			V,	520000,		260000	// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
-		OffroadHatchback_Blue,		V,	520000,		260000
-		OffroadHatchback_White,		V,	520000,		260000
-		Hatchback_02,				V,	500000,		250000
-		Hatchback_02_Blue,			V,	500000,		250000
-		Hatchback_02_Black,			V,	500000,		250000
-		Sedan_02,					V,	400000,		200000
-		Sedan_02_Red,				V,	400000,		200000
-		Sedan_02_Grey,				V,	400000,		200000
-		Truck_01_Covered,			V,	1000000,	500000
-		Truck_01_Covered_Blue,		V,	1000000,	500000
-		Truck_01_Covered_Orange,	V,	1000000,	500000
+		OffroadHatchback,			VNK,	520000,		260000	// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
+		OffroadHatchback_Blue,		VNK,	520000,		260000
+		OffroadHatchback_White,		VNK,	520000,		260000
+		Hatchback_02,				VNK,	500000,		250000
+		Hatchback_02_Blue,			VNK,	500000,		250000
+		Hatchback_02_Black,			VNK,	500000,		250000
+		Sedan_02,					VNK,	400000,		200000
+		Sedan_02_Red,				VNK,	400000,		200000
+		Sedan_02_Grey,				VNK,	400000,		200000
+		Truck_01_Covered,			VNK,	1000000,	500000
+		Truck_01_Covered_Blue,		VNK,	1000000,	500000
+		Truck_01_Covered_Orange,	VNK,	1000000,	500000
 	
 	<Category> RusForma Vehicles
         UAZ_3163,				VNK,	1700000,	1360000
