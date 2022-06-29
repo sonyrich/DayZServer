@@ -44,12 +44,12 @@ whitelist.txt
 *.mdmp
 *.ADM
 *.log
+*.bak
 config/VPPAdminTools/Logging/*.txt
 mpmissions/dayzOffline.enoch/
 mpmissions/dayzOffline.chernarusplus/storage_0/
 mpmissions/dayzOffline.chernarusplus/storage_1/
 config/ExpansionMod/Groups/
-
 
 #include
 !DayzServer.bat
