@@ -61,10 +61,10 @@
         <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="13858.6" z="13460.5" r="50"/>
     </territory>
 	<territory color="1925774598">
-        <zone name="InfectedNBC" smin="8" smax="10" dmin="1" dmax="2" x="2148.21" z="3334.64" r="80"/>
-        <zone name="InfectedNBC" smin="0" smax="0" dmin="60" dmax="80" x="2093.57" z="3510" r="100"/>
-        <zone name="InfectedNBC" smin="0" smax="0" dmin="60" dmax="80" x="1915.71" z="3413.57" r="100"/>
-        <zone name="InfectedNBC" smin="8" smax="10" dmin="20" dmax="80" x="13683.3" z="11180" r="80"/>
+        <zone name="InfectedNBC" smin="100" smax="150" dmin="50" dmax="60" x="2148.21" z="3334.64" r="200"/> // MB Pavlovo
+        <zone name="InfectedNBC" smin="50" smax="80" dmin="30" dmax="40" x="2093.57" z="3510" r="200"/> // MB Pavlovo
+        <zone name="InfectedNBC" smin="20" smax="30" dmin="20" dmax="30" x="1915.71" z="3413.57" r="100"/> // MB Pavlovo
+        <zone name="InfectedNBC" smin="150" smax="200" dmin="250" dmax="300" x="13683.3" z="11180" r="270"/> // Shipwreck near Rify
     </territory>
     <territory color="2615190015">
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="60" dmax="80" x="12584.2" z="13797.5" r="70"/>
@@ -506,8 +506,8 @@
         <zone name="InfectedFirefighter" smin="0" smax="0" dmin="20" dmax="50" x="12241.4" z="13815" r="50"/>
     </territory>
     <territory color="2575065676">
-        <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40" x="6022.53" z="7788.68" r="150"/>
-        <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40" x="7198.67" z="7649.43" r="130"/>
+        <zone name="InfectedVillage" smin="80" smax="90" dmin="20" dmax="30" x="6022.53" z="7788.68" r="250"/> //Stary Sobor
+        <zone name="InfectedVillage" smin="50" smax="60" dmin="20" dmax="30" x="7198.67" z="7649.43" r="180"/> //Novy Sobor
         <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40" x="3821.74" z="9020.6" r="80"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40" x="5967.79" z="10329.7" r="80"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40" x="2743.59" z="9850.77" r="70"/>
@@ -525,7 +525,7 @@
         <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40" x="8155.83" z="11563.3" r="110"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40" x="6277" z="7665" r="130"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="80" x="8380" z="12770" r="100"/>
-        <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40"x="2435.91" z="6366.82" r="70"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40" x="2435.91" z="6366.82" r="70"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40" x="3040" z="12600" r="80"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40" x="2925" z="12465" r="80"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40" x="1578.67" z="12036.3" r="80"/>
@@ -616,8 +616,8 @@
     </territory>
     <territory color="1124502272">
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40"dmax="80" x="620.333" z="13648.7" r="75"/>
-		<zone name="InfectedArmy" smin="8" smax="8" dmin="40" dmax="80" x="4484.86" z="10807.4" r="90"/>
-        <zone name="InfectedArmy" smin="8" smax="8" dmin="20" dmax="80" x="4128.52" z="10560" r="80"/>
+		<zone name="InfectedArmy" smin="8" smax="8" dmin="40" dmax="80" x="4484.86" z="10807.4" r="90"/> //Top Vybor Airfield
+        <zone name="InfectedArmy" smin="8" smax="8" dmin="20" dmax="80" x="4128.52" z="10560" r="80"/> //Top Left Vybor Airfield
 		<zone name="InfectedArmy" smin="2" smax="8" dmin="40" dmax="80" x="2152.57" z="3327.73" r="110"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40" dmax="80" x="5086.5" z="2288.33" r="50"/>
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="40" dmax="80" x="2703" z="6757.38" r="80"/>
@@ -625,8 +625,8 @@
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40"dmax="80" x="3705" z="5982" r="80"/>
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="40" dmax="80" x="725" z="1874.33" r="80"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40"dmax="80" x="338" z="9368" r="80"/>
-		<zone name="InfectedArmy" smin="0" smax="0" dmin="40" dmax="80" x="1064" z="13897.5" r="80"/>
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="40"dmax="80" x="1427" z="14453" r="100"/>
+		<zone name="InfectedArmy" smin="5" smax="10" dmin="10" dmax="12" x="1064" z="13897.5" r="80"/>
+        <zone name="InfectedArmy" smin="30" smax="40" dmin="40"dmax="60" x="1427" z="14453" r="150"/> // Top MB Tisy
         <zone name="InfectedArmy" smin="0" smax="0" dmin="20" dmax="80" x="13622" z="13756" r="80"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="20" dmax="80" x="5794" z="3072" r="80"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="20" dmax="80" x="2080.67" z="3509.67" r="60"/>
@@ -636,26 +636,26 @@
         <zone name="InfectedArmy" smin="20" smax="30" dmin="40" dmax="60" x="7105.71" z="12709.9" r="100"/> //mili camp near base
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40"dmax="80" x="9555" z="11808.8" r="80"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40"dmax="80" x="10224" z="4029" r="80"/>
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="40" dmax="80" x="3357.5" z="15185" r="80"/>
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="40"dmax="80" x="4627.5" z="10492.5" r="80"/>
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="20" dmax="80" x="5015.24" z="9835.36" r="80"/>
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="20" dmax="80" x="4970.83" z="10062.5" r="80"/>
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="80" x="4285.17" z="10191.2" r="80"/>
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="40" dmax="80" x="4937.14" z="10446.4" r="80"/>
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="40" dmax="80" x="1555" z="14042.5" r="80"/>
+        <zone name="InfectedArmy" smin="15" smax="20" dmin="20" dmax="30" x="3357.5" z="15185" r="100"/> //Grozovoy Pass
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="40"dmax="80" x="4627.5" z="10492.5" r="80"/> //Center Vybor Airfield
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="20" dmax="80" x="5015.24" z="9835.36" r="80"/> //Bottom Vybor Airfield
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="20" dmax="80" x="4970.83" z="10062.5" r="80"/> //Bottom Vybor Airfield
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="80" x="4285.17" z="10191.2" r="80"/> //Left Vybor Airfield
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="40" dmax="80" x="4937.14" z="10446.4" r="80"/> //Right Vybor Airfield
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="40" dmax="80" x="1555" z="14042.5" r="80"/> //Mid left MB Tisy
         <zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="80" x="4888.83" z="2522.5" r="100"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40" dmax="80" x="5255" z="2176.67" r="60"/>
 		<zone name="InfectedArmyHard" smin="0" smax="0" dmin="50" dmax="80" x="7971.43" z="14642.8" r="150"/>
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="30" dmax="50" x="7781.25" z="14780.3" r="150"/>
-        <zone name="InfectedArmyHard" smin="20" smax="8" dmin="40" dmax="50" x="1684.51" z="14254.8" r="160"/> 
+        <zone name="InfectedArmyHard" smin="20" smax="8" dmin="40" dmax="50" x="1684.51" z="14254.8" r="160"/> /mid MB Tisy
         <zone name="InfectedArmyHard" smin="20" smax="8" dmin="40" dmax="80" x="4197.51" z="11036.8" r="150"/>
         <zone name="InfectedArmyHard" smin="20" smax="8" dmin="40" dmax="80" x="4458.96" z="9614.9" r="100"/>
         <zone name="InfectedArmyHard" smin="20" smax="8" dmin="40" dmax="80" x="4519.75" z="8303.5" r="100"/>
         <zone name="InfectedArmyHard" smin="20" smax="8" dmin="40" dmax="80" x="1158.25" z="7236.92" r="150"/>
         <zone name="InfectedArmyHard" smin="20" smax="8" dmin="30" dmax="50" x="2564.11" z="5083.26" r="150"/>
-        <zone name="InfectedArmyHard" smin="8" smax="10" dmin="40" dmax="80" x="1508.5" z="13619" r="150"/>
+        <zone name="InfectedArmyHard" smin="150" smax="180" dmin="10" dmax="20" x="1508.5" z="13619" r="250"/> //mili tents below MB Tisy
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="40" dmax="80" x="4063.29" z="11645.1" r="100"/>
-        <zone name="InfectedArmyHard" smin="20" smax="8" dmin="30" dmax="50" x="1818.5" z="13816" r="160"/>
+        <zone name="InfectedArmyHard" smin="20" smax="40" dmin="20" dmax="25" x="1818.5" z="13816" r="160"/> //bottom MB Tisy
 		<zone name="InfectedArmyHard" smin="0" smax="0" dmin="40" dmax="50" x="5244.71" z="9816.21" r="150"/>
 		<zone name="InfectedArmyHard" smin="20" smax="8" dmin="40" dmax="80" x="4773.33" z="10288.3" r="100"/>
 		<zone name="InfectedArmyHard" smin="0" smax="0" dmin="40" dmax="80" x="4007.14" z="11843.6" r="100"/>
