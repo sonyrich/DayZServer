@@ -609,7 +609,7 @@
         <zone name="InfectedMedic" smin="2" smax="4" dmin="2" dmax="5" x="8552.5" z="13978.6" r="50"/>		//Arsenovo Medicare
         <zone name="InfectedMedic" smin="7" smax="10" dmin="2" dmax="4" x="8120" z="11017.5" r="50"/>		//Romashka Medicare
         <zone name="InfectedMedic" smin="8" smax="10" dmin="2" dmax="5" x="7278.43" z="7061.24" r="50"/>	//Nadezhda Medicare
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="5" x="3673.33" z="14845" r="50"/>
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="5" x="3673.33" z="14845" r="50"/>		//
         <zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="5" x="7059.16" z="4309.09" r="50"/>
         <zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="5" x="10133.6" z="5511.43" r="50"/>
         <zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="5" x="1272.6" z="11410.1" r="50"/>
