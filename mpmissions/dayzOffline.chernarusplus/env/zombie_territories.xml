@@ -623,7 +623,7 @@
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40" dmax="80" x="2703" z="6757.38" r="80"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40" dmax="80" x="6333" z="7806" r="70"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40"dmax="80" x="3705" z="5982" r="80"/>
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="40" dmax="80" x="725" z="1874.33" r="80"/>
+        <zone name="InfectedArmy" smin="20" smax="30" dmin="10" dmax="20" x="725" z="1874.33" r="80"/>			//mili camp near Tikhiyzaliv
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40"dmax="80" x="338" z="9368" r="80"/>
         <zone name="InfectedArmy" smin="5" smax="10" dmin="10" dmax="12" x="1064" z="13897.5" r="80"/>
         <zone name="InfectedArmy" smin="35" smax="40" dmin="10"dmax="12" x="1427" z="14453" r="90"/>			//Top MB Tisy
@@ -643,7 +643,7 @@
         <zone name="InfectedArmy" smin="5" smax="10" dmin="10" dmax="20" x="3357.5" z="15185" r="100"/>			//Grozovoy Pass
         <zone name="InfectedArmy" smin="38" smax="40" dmin="10" dmax="20" x="4484.86" z="10807.4" r="120"/>		//Top Vybor Airfield
         <zone name="InfectedArmy" smin="10" smax="20" dmin="1" dmax="4" x="4128.52" z="10560" r="100"/>			//Top Left Vybor Airfield
-        <zone name="InfectedArmyHard" smin="38" smax="40" dmin="10" dmax="15" x="4197.51" z="11036.8" r="90"/>	//mili tents top Vybor Airfield
+        <zone name="InfectedArmyHard" smin="39" smax="40" dmin="10" dmax="15" x="4197.51" z="11036.8" r="90"/>	//mili tents top Vybor Airfield
         <zone name="InfectedArmy" smin="39" smax="40" dmin="10"dmax="20" x="4627.5" z="10492.5" r="150"/>		//Center Vybor Airfield
         <zone name="InfectedArmy" smin="15" smax="20" dmin="3" dmax="5" x="5015.24" z="9835.36" r="100"/>		//Bottom Vybor Airfield
         <zone name="InfectedArmy" smin="5" smax="10" dmin="2" dmax="3" x="4970.83" z="10062.5" r="80"/>			//Bottom Vybor Airfield
