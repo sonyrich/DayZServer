@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
     <territory color="1136576269">
-        <zone name="InfectedCity" smin="0" smax="0" dmin="60" dmax="80" x="2408.18" z="5138.18" r="100"/>		//Zelenogorsk
-        <zone name="InfectedCity" smin="0" smax="0" dmin="60" dmax="80" x="2500.91" z="5250" r="100"/>
-        <zone name="InfectedCity" smin="0" smax="0" dmin="60" dmax="80" x="2638.64" z="5235" r="100"/>
-        <zone name="InfectedCity" smin="0" smax="0" dmin="60" dmax="80" x="2727.86" z="5084.29" r="100"/>
-        <zone name="InfectedCity" smin="0" smax="0" dmin="60" dmax="80" x="2772.27" z="5200.91" r="100"/>
-        <zone name="InfectedCity" smin="0" smax="0" dmin="60" dmax="80" x="2749.17" z="5387.09" r="100"/>
-        <zone name="InfectedCity" smin="0" smax="0" dmin="60" dmax="80" x="2888.18" z="5265" r="100"/>			//end of Zelenogorsk
+        <zone name="InfectedCity" smin="5" smax="10" dmin="10" dmax="20" x="2408.18" z="5138.18" r="100"/>		//Zelenogorsk
+        <zone name="InfectedCity" smin="5" smax="10" dmin="10" dmax="20" x="2500.91" z="5250" r="100"/>
+        <zone name="InfectedCity" smin="5" smax="10" dmin="10" dmax="20" x="2638.64" z="5235" r="100"/>
+        <zone name="InfectedCity" smin="5" smax="10" dmin="10" dmax="20" x="2727.86" z="5084.29" r="100"/>
+        <zone name="InfectedCity" smin="5" smax="10" dmin="10" dmax="20" x="2772.27" z="5200.91" r="100"/>
+        <zone name="InfectedCity" smin="5" smax="10" dmin="10" dmax="20" x="2749.17" z="5387.09" r="100"/>
+        <zone name="InfectedCity" smin="5" smax="10" dmin="10" dmax="20" x="2888.18" z="5265" r="100"/>			//end of Zelenogorsk
         <zone name="InfectedCity" smin="10" smax="20" dmin="30" dmax="40" x="3357.72" z="13141.2" r="100"/>		//Novaya
         <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="30" x="3387.62" z="12889.8" r="100"/>		//Novaya
         <zone name="InfectedCity" smin="2" smax="5" dmin="10" dmax="11" x="7714.73" z="12723.7" r="100"/>		//Severograd
-        <zone name="InfectedCity" smin="2" smax="5" dmin="10" dmax="11" x="7842.86" z="12722.1" r="80"/>
-        <zone name="InfectedCity" smin="15" smax="20" dmin="25" dmax="40" x="7732.5" z="12603.2" r="120"/>		//main road left Severograd
-        <zone name="InfectedCity" smin="2" smax="5" dmin="10" dmax="12" x="7856.79" z="12592.5" r="80"/>
-        <zone name="InfectedCity" smin="2" smax="5" dmin="10" dmax="12" x="7982.14" z="12536.8" r="80"/>
-        <zone name="InfectedCity" smin="20" smax="30" dmin="10" dmax="20" x="7965" z="12660" r="120"/>			//mid main road Severograd
-        <zone name="InfectedCity" smin="5" smax="10" dmin="10" dmax="12" x="7937.14" z="12790.7" r="70"/>
+		<zone name="InfectedCity" smin="15" smax="20" dmin="25" dmax="40" x="7732.5" z="12603.2" r="120"/>		//main road left Severograd
+        <zone name="InfectedCity" smin="2" smax="5" dmin="10" dmax="11" x="7842.86" z="12722.1" r="80"/>		//Seve
+        <zone name="InfectedCity" smin="2" smax="5" dmin="10" dmax="12" x="7856.79" z="12592.5" r="80"/>		//Seve
+		<zone name="InfectedCity" smin="5" smax="10" dmin="10" dmax="12" x="7937.14" z="12790.7" r="70"/>		//Seve
+		<zone name="InfectedCity" smin="20" smax="30" dmin="10" dmax="20" x="7965" z="12660" r="120"/>			//mid main road Severograd
+        <zone name="InfectedCity" smin="2" smax="5" dmin="10" dmax="12" x="7982.14" z="12536.8" r="80"/>		//Seve
         <zone name="InfectedCity" smin="10" smax="20" dmin="10" dmax="20" x="8079.64" z="12717.9" r="80"/>		//hospital Severograd
         <zone name="InfectedCity" smin="5" smax="10" dmin="10" dmax="20" x="8048.57" z="12841.1" r="70"/>		//above hospital
-        <zone name="InfectedCity" smin="1" smax="3" dmin="10" dmax="20" x="8101.07" z="12594.6" r="70"/>
+        <zone name="InfectedCity" smin="1" smax="3" dmin="10" dmax="20" x="8101.07" z="12594.6" r="70"/>		//Seve
         <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="30" x="8176.07" z="12847.5" r="100"/>		//right Severograd
         <zone name="InfectedCity" smin="10" smax="15" dmin="10" dmax="15" x="8208.21" z="12723.2" r="100"/>		//end of Severograd
     </territory>
