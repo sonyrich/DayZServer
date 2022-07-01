@@ -595,6 +595,7 @@
 		<zone name="InfectedMedic" smin="10" smax="20" dmin="5" dmax="7" x="10283.9" z="2286.79" r="50"/>	//Elektro Hospital
 		<zone name="InfectedMedic" smin="10" smax="12" dmin="2" dmax="5" x="11924.6" z="9069.43" r="50"/>	//Berezino Hospital
 		<zone name="InfectedMedic" smin="15" smax="20" dmin="2" dmax="5" x="11415" z="14611.1" r="50"/>		//Novodmitrovsk Hospital
+		<zone name="InfectedMedic" smin="10" smax="20" dmin="2" dmax="5" x="2174.61" z="3359.61" r="60"/>	//MB Pavlovo Hospital
         <zone name="InfectedMedic" smin="5" smax="8" dmin="2" dmax="5" x="2740.16" z="5180.91" r="50"/>		//Zelenogorsk Medicare
         <zone name="InfectedMedic" smin="4" smax="6" dmin="2" dmax="5" x="12780" z="10056" r="50"/>			//Berezino Medicare
         <zone name="InfectedMedic" smin="3" smax="6" dmin="2" dmax="5" x="13887.4" z="13112.6" r="50"/>		//Svetlojarsk Medicare
@@ -603,7 +604,6 @@
         <zone name="InfectedMedic" smin="1" smax="2" dmin="2" dmax="5" x="5987.14" z="7680" r="50"/>		//Stary Sobor Medicare
         <zone name="InfectedMedic" smin="2" smax="3" dmin="2" dmax="5" x="3463.33" z="13160" r="50"/>		//Novaya Medicare
         <zone name="InfectedMedic" smin="6" smax="8" dmin="2" dmax="5" x="3778.33" z="9031.9" r="50"/>		//Vybor Medicare
-        <zone name="InfectedMedic" smin="10" smax="20" dmin="2" dmax="5" x="2174.61" z="3359.61" r="60"/>	//MB Pavlovo Hospital
         <zone name="InfectedMedic" smin="0" smax="2" dmin="2" dmax="5" x="10352.5" z="3459.5" r="50"/>		//Kometa Medicare
         <zone name="InfectedMedic" smin="5" smax="8" dmin="2" dmax="5" x="13405" z="6318.93" r="50"/>		//Solnichniy Medicare
         <zone name="InfectedMedic" smin="2" smax="4" dmin="2" dmax="5" x="8552.5" z="13978.6" r="50"/>		//Arsenovo Medicare
