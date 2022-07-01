@@ -17,7 +17,7 @@
 		<zone name="InfectedCity" smin="5" smax="10" dmin="10" dmax="12" x="7937.14" z="12790.7" r="70"/>		//Seve
 		<zone name="InfectedCity" smin="20" smax="30" dmin="10" dmax="20" x="7965" z="12660" r="120"/>			//mid main road Severograd
         <zone name="InfectedCity" smin="2" smax="5" dmin="10" dmax="12" x="7982.14" z="12536.8" r="80"/>		//Seve
-        <zone name="InfectedCity" smin="10" smax="20" dmin="10" dmax="20" x="8079.64" z="12717.9" r="80"/>		//hospital Severograd
+        <zone name="InfectedCity" smin="5" smax="10" dmin="5" dmax="8" x="8079.64" z="12717.9" r="80"/>			//Severograd Hospital Area
         <zone name="InfectedCity" smin="5" smax="10" dmin="10" dmax="20" x="8048.57" z="12841.1" r="70"/>		//above hospital
         <zone name="InfectedCity" smin="1" smax="3" dmin="10" dmax="20" x="8101.07" z="12594.6" r="70"/>		//Seve
         <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="30" x="8176.07" z="12847.5" r="100"/>		//right Severograd
@@ -590,25 +590,25 @@
         <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40" x="2055" z="7310.63" r="50"/>
     </territory>
     <territory color="2387830984">
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="6487.12" z="2722.55" r="50"/>
+        <zone name="InfectedMedic" smin="15" smax="20" dmin="5" dmax="7" x="6487.12" z="2722.55" r="50"/>	//Cherno Hospital
         <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="2740.16" z="5180.91" r="50"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="10283.9" z="2286.79" r="50"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="12780" z="10056" r="50"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="11924.6" z="9069.43" r="50"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="13887.4" z="13112.6" r="50"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="9476.25" z="8836" r="50"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="11415" z="14611.1" r="50"/>
+        <zone name="InfectedMedic" smin="10" smax="20" dmin="5" dmax="7" x="10283.9" z="2286.79" r="50"/>	//Elektro Hospital
+        <zone name="InfectedMedic" smin="4" smax="6" dmin="2" dmax="5" x="12780" z="10056" r="50"/>			//Berezino Medicare
+        <zone name="InfectedMedic" smin="10" smax="12" dmin="2" dmax="5" x="11924.6" z="9069.43" r="50"/>	//Berezino Hospital
+        <zone name="InfectedMedic" smin="3" smax="6" dmin="2" dmax="5" x="13887.4" z="13112.6" r="50"/>		//Svetlojarsk Medicare
+        <zone name="InfectedMedic" smin="7" smax="10" dmin="2" dmax="3" x="9476.25" z="8836" r="50"/>		//Gorka Medicare
+        <zone name="InfectedMedic" smin="15" smax="20" dmin="2" dmax="5" x="11415" z="14611.1" r="50"/>		//Novodmitrovsk Hospital
         <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="11271.4" z="12153.8" r="50"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="5987.14" z="7680" r="50"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="8010" z="12753.3" r="50"/>
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="5987.14" z="7680" r="50"/>		//Stary Sobor Medicare
+        <zone name="InfectedMedic" smin="15" smax="20" dmin="5" dmax="6" x="8010" z="12753.3" r="60"/>		//Severograd Hospital
         <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="3463.33" z="13160" r="50"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="3778.33" z="9031.9" r="50"/>
+        <zone name="InfectedMedic" smin="6" smax="8" dmin="2" dmax="5" x="3778.33" z="9031.9" r="50"/>		//Vybor Medicare
         <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="2174.61" z="3359.61" r="60"/>
         <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="10352.5" z="3459.5" r="50"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="13405" z="6318.93" r="50"/>
+        <zone name="InfectedMedic" smin="5" smax="8" dmin="2" dmax="5" x="13405" z="6318.93" r="50"/>		//Solnichniy Medicare
         <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="8552.5" z="13978.6" r="50"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="8120" z="11017.5" r="50"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="7278.43" z="7061.24" r="50"/>
+        <zone name="InfectedMedic" smin="7" smax="10" dmin="2" dmax="4" x="8120" z="11017.5" r="50"/>		//Romashka Medicare
+        <zone name="InfectedMedic" smin="8" smax="10" dmin="2" dmax="5" x="7278.43" z="7061.24" r="50"/>	//Nadezhda Medicare
         <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="3673.33" z="14845" r="50"/>
         <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="7059.16" z="4309.09" r="50"/>
         <zone name="InfectedMedic" smin="0" smax="0" dmin="20" dmax="50" x="10133.6" z="5511.43" r="50"/>
