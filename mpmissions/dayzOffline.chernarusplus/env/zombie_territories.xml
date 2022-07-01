@@ -604,15 +604,15 @@
         <zone name="InfectedMedic" smin="2" smax="3" dmin="2" dmax="5" x="3463.33" z="13160" r="50"/>		//Novaya Medicare
         <zone name="InfectedMedic" smin="6" smax="8" dmin="2" dmax="5" x="3778.33" z="9031.9" r="50"/>		//Vybor Medicare
         <zone name="InfectedMedic" smin="10" smax="20" dmin="2" dmax="5" x="2174.61" z="3359.61" r="60"/>	//MB Pavlovo Hospital
-        <zone name="InfectedMedic" smin="0" smax="2" dmin="2" dmax="5" x="10352.5" z="3459.5" r="50"/>		//Medicare Above Elektro
+        <zone name="InfectedMedic" smin="0" smax="2" dmin="2" dmax="5" x="10352.5" z="3459.5" r="50"/>		//Kometa Medicare
         <zone name="InfectedMedic" smin="5" smax="8" dmin="2" dmax="5" x="13405" z="6318.93" r="50"/>		//Solnichniy Medicare
         <zone name="InfectedMedic" smin="2" smax="4" dmin="2" dmax="5" x="8552.5" z="13978.6" r="50"/>		//Arsenovo Medicare
         <zone name="InfectedMedic" smin="7" smax="10" dmin="2" dmax="4" x="8120" z="11017.5" r="50"/>		//Romashka Medicare
         <zone name="InfectedMedic" smin="8" smax="10" dmin="2" dmax="5" x="7278.43" z="7061.24" r="50"/>	//Nadezhda Medicare
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="5" x="3673.33" z="14845" r="50"/>		//
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="5" x="7059.16" z="4309.09" r="50"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="5" x="10133.6" z="5511.43" r="50"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="5" x="1272.6" z="11410.1" r="50"/>
+        <zone name="InfectedMedic" smin="2" smax="3" dmin="2" dmax="5" x="3673.33" z="14845" r="50"/>		//Pobeda Medicare
+        <zone name="InfectedMedic" smin="1" smax="2" dmin="2" dmax="5" x="7059.16" z="4309.09" r="50"/>		//Stroytel Medicare
+        <zone name="InfectedMedic" smin="0" smax="2" dmin="2" dmax="5" x="10133.6" z="5511.43" r="50"/>		//Staroye Medicare
+        <zone name="InfectedMedic" smin="0" smax="2" dmin="2" dmax="5" x="1272.6" z="11410.1" r="50"/>		//Medicare near Sinystok
     </territory>
     <territory color="1124502272">
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40"dmax="80" x="620.333" z="13648.7" r="75"/>
