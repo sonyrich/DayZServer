@@ -844,9 +844,9 @@
 		BandanaMask_CamoPattern,	*,	35,		10
 		NioshFaceMask,				*,	40,		10
 		HockeyMask,					*,	40,		10
-		HoxtonMask,					*,	40000,	32000
-		WolfMask,					*,	40000,	32000
-		DallasMask,					*,	40000,	32000
+		//HoxtonMask,					*,	40000,	32000
+		//WolfMask,					*,	40000,	32000
+		//DallasMask,					*,	40000,	32000
 		Balaclava3Holes_Blue,		*,	50,		12
 		Balaclava3Holes_Beige,		*,	50,		12
 		Balaclava3Holes_Black,		*,	55,		13
