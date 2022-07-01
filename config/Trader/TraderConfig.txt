@@ -495,7 +495,7 @@
 		Mag_308WinSnaploader_2Rnd,	M,	5000,	1500
 		
 	<Category> TF | MAGS
-        TF_Mag_OTs_14_Groza_20Rnd,		M,	22000,	17600
+        	TF_Mag_OTs_14_Groza_20Rnd,		M,	22000,	17600
 		TF_Mag_SCAR_H_20Rnd_Black,		M,	19000,	15200
 		TF_Mag_SCAR_H_20Rnd_FDE,		M,	19000,	15200
 		TF_Mag_SCAR_H_20Rnd_Shd,		M,	19000,	15200
@@ -518,7 +518,7 @@
 		TF_Mag_AKM_10Rnd,				M,	10000,	8000
 		TF_Mag_AKM_PMAG30Rnd,			M,	20500,	16400
 		TF_Mag_AKM_PMAG30Rnd_Banana,	M,	20800,	16640
-		TF_Mag_M4_STANAG30Rnd,			M,	22000,	17600
+		TF_Mag_M4_STANAG_30Rnd,			M,	22000,	17600
 		TF_Mag_M4_PMAG10Rnd,			M,	11000,	8800
 		TF_Mag_M4_PMAG20Rnd,			M,	17000,	13600
 		TF_Mag_M4_PMAG30Rnd,			M,	23000,	18400
@@ -1364,6 +1364,9 @@
 		Hatchback_02,				VNK,	500000,		250000
 		Hatchback_02_Blue,			VNK,	500000,		250000
 		Hatchback_02_Black,			VNK,	500000,		250000
+		CivilianSedan,			V,	500000,	260000
+		CivilianSedan_Wine,		V,	500000,	260000
+		CivilianSedan_Black,	 	V,	500000,	260000
 		Sedan_02,					VNK,	400000,		200000
 		Sedan_02_Red,				VNK,	400000,		200000
 		Sedan_02_Grey,				VNK,	400000,		200000
