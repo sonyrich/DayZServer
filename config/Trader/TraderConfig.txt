@@ -308,6 +308,7 @@
 		Mosin9130,		W,	130000,	65000
 		CZ527,			W,	150000,	75000
 		Winchester70,	W,	280000,	140000
+		Repeater,		W,	280000, 140000
 		SKS,			W,	170000,	85000
 		
 	<Category> Shotguns
