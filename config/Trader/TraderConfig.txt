@@ -1364,6 +1364,9 @@
 		Hatchback_02,				VNK,	500000,		250000
 		Hatchback_02_Blue,			VNK,	500000,		250000
 		Hatchback_02_Black,			VNK,	500000,		250000
+		CivilianSedan,			V,	500000,	260000
+		CivilianSedan_Wine,		V,	500000,	260000
+		CivilianSedan_Black,	 	V,	500000,	260000
 		Sedan_02,					VNK,	400000,		200000
 		Sedan_02_Red,				VNK,	400000,		200000
 		Sedan_02_Grey,				VNK,	400000,		200000
