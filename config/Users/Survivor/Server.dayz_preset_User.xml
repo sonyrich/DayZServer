@@ -975,6 +975,9 @@
     <input name="UAToggleInvis">
         <btn name="kI" />
     </input>
+    <input name="UAZBerryOpenAdminMenu">
+        <btn name="kO" />
+    </input>
     <input name="UAExpansionMapDeleteMarker">
         <btn name="kDelete" />
     </input>
