@@ -408,9 +408,9 @@
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="60" dmax="80" x="12960" z="6760" r="100"/>
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="60" dmax="80" x="13343.3" z="5431.67" r="80"/>
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="60" dmax="80" x="12905.8" z="7087.57" r="80"/>
-        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="60" dmax="80" x="13182.1" z="7120.47" r="100"/>
+        <zone name="InfectedVillageTier1" smin="15" smax="20" dmin="5" dmax="8" x="13182.1" z="7120.47" r="110"/>	//train station above Solnichniy
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="60" dmax="80" x="12945" z="6265" r="80"/>
-        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="60" dmax="80" x="13386.9" z="6309.15" r="100"/>
+        <zone name="InfectedVillageTier1" smin="20" smax="30" dmin="20" dmax="25" x="13386.9" z="6309.15" r="120"/>	//Solnichniy
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="60" dmax="80" x="12020" z="3505" r="80"/>
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="60" dmax="80" x="12198.2" z="3519.78" r="80"/>
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="20" dmax="80" x="10167.5" z="2324.38" r="80"/>
