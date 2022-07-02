@@ -56,3 +56,4 @@ config/ExpansionMod/Groups/
 #include
 !DayzServer.bat
 
+config/DataCache/cache.ch
