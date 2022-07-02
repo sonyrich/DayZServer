@@ -23,6 +23,7 @@
 @Trader/
 @VPPAdminTools/
 @WSPTraderLayout/
+@ZomBerry Admin Tools/
 
 #server files
 addons/
@@ -45,6 +46,7 @@ whitelist.txt
 *.ADM
 *.log
 *.bak
+*.ch
 config/VPPAdminTools/Logging/*.txt
 mpmissions/dayzOffline.enoch/
 mpmissions/dayzOffline.chernarusplus/storage_0/
@@ -53,3 +55,4 @@ config/ExpansionMod/Groups/
 
 #include
 !DayzServer.bat
+
