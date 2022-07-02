@@ -11,17 +11,17 @@
         <zone name="InfectedCity" smin="10" smax="20" dmin="30" dmax="40" x="3357.72" z="13141.2" r="100"/>		//Novaya
         <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="30" x="3387.62" z="12889.8" r="100"/>		//Novaya
         <zone name="InfectedCity" smin="2" smax="5" dmin="10" dmax="11" x="7714.73" z="12723.7" r="100"/>		//Severograd
-		<zone name="InfectedCity" smin="15" smax="20" dmin="25" dmax="40" x="7732.5" z="12603.2" r="120"/>		//main road left Severograd
-        <zone name="InfectedCity" smin="2" smax="5" dmin="10" dmax="11" x="7842.86" z="12722.1" r="80"/>		//Seve
-        <zone name="InfectedCity" smin="2" smax="5" dmin="10" dmax="12" x="7856.79" z="12592.5" r="80"/>		//Seve
-		<zone name="InfectedCity" smin="5" smax="10" dmin="10" dmax="12" x="7937.14" z="12790.7" r="70"/>		//Seve
-		<zone name="InfectedCity" smin="20" smax="30" dmin="10" dmax="20" x="7965" z="12660" r="120"/>			//mid main road Severograd
+		<zone name="InfectedCity" smin="3" smax="5" dmin="35" dmax="50" x="7732.5" z="12603.2" r="120"/>		//main road left Severograd
+        <zone name="InfectedCity" smin="0" smax="0" dmin="10" dmax="11" x="7842.86" z="12722.1" r="80"/>		//Seve
+        <zone name="InfectedCity" smin="0" smax="0" dmin="10" dmax="12" x="7856.79" z="12592.5" r="80"/>		//Seve
+		<zone name="InfectedCity" smin="2" smax="5" dmin="10" dmax="12" x="7937.14" z="12790.7" r="70"/>		//Seve
+		<zone name="InfectedCity" smin="5" smax="8" dmin="40" dmax="50" x="7965" z="12660" r="120"/>			//mid main road Severograd
         <zone name="InfectedCity" smin="2" smax="5" dmin="10" dmax="12" x="7982.14" z="12536.8" r="80"/>		//Seve
-        <zone name="InfectedCity" smin="5" smax="10" dmin="5" dmax="8" x="8079.64" z="12717.9" r="80"/>			//Severograd Hospital Area
-        <zone name="InfectedCity" smin="5" smax="10" dmin="10" dmax="20" x="8048.57" z="12841.1" r="70"/>		//above hospital
-        <zone name="InfectedCity" smin="1" smax="3" dmin="10" dmax="20" x="8101.07" z="12594.6" r="70"/>		//Seve
-        <zone name="InfectedCity" smin="10" smax="20" dmin="20" dmax="30" x="8176.07" z="12847.5" r="100"/>		//right Severograd
-        <zone name="InfectedCity" smin="10" smax="15" dmin="10" dmax="15" x="8208.21" z="12723.2" r="100"/>		//end of Severograd
+        <zone name="InfectedCity" smin="2" smax="5" dmin="10" dmax="11" x="8079.64" z="12717.9" r="80"/>		//Severograd Hospital Area
+        <zone name="InfectedCity" smin="2" smax="5" dmin="5" dmax="10" x="8048.57" z="12841.1" r="70"/>			//above hospital
+        <zone name="InfectedCity" smin="0" smax="0" dmin="10" dmax="11" x="8101.07" z="12594.6" r="70"/>		//Seve
+        <zone name="InfectedCity" smin="2" smax="5" dmin="35" dmax="40" x="8176.07" z="12847.5" r="100"/>		//right Severograd
+        <zone name="InfectedCity" smin="2" smax="5" dmin="14" dmax="15" x="8208.21" z="12723.2" r="100"/>		//end of Severograd
     </territory>
     <territory color="1291845632">
         <zone name="InfectedReligious" smin="0" smax="0" dmin="20" dmax="50" x="10582.1" z="2490.38" r="100"/>
@@ -604,7 +604,7 @@
         <zone name="InfectedMedic" smin="1" smax="2" dmin="2" dmax="5" x="5987.14" z="7680" r="50"/>		//Stary Sobor Medicare
         <zone name="InfectedMedic" smin="2" smax="3" dmin="2" dmax="5" x="3463.33" z="13160" r="50"/>		//Novaya Medicare
         <zone name="InfectedMedic" smin="6" smax="8" dmin="2" dmax="5" x="3778.33" z="9031.9" r="50"/>		//Vybor Medicare
-        <zone name="InfectedMedic" smin="0" smax="2" dmin="2" dmax="5" x="10352.5" z="3459.5" r="50"/>		//Kometa Medicare
+        S<zone name="InfectedMedic" smin="0" smax="2" dmin="2" dmax="5" x="10352.5" z="3459.5" r="50"/>		//Kometa Medicare
         <zone name="InfectedMedic" smin="5" smax="8" dmin="2" dmax="5" x="13405" z="6318.93" r="50"/>		//Solnichniy Medicare
         <zone name="InfectedMedic" smin="2" smax="4" dmin="2" dmax="5" x="8552.5" z="13978.6" r="50"/>		//Arsenovo Medicare
         <zone name="InfectedMedic" smin="7" smax="10" dmin="2" dmax="4" x="8120" z="11017.5" r="50"/>		//Romashka Medicare
