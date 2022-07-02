@@ -1032,19 +1032,19 @@
     </input>
     <input name="UAExpansionHeliCollectiveUp">
         <btn name="kLShift" />
-        <btn name="x1ShoulderRight" />
+        <btn name="x1TriggerRight" />
     </input>
     <input name="UAExpansionHeliCollectiveDown">
         <btn name="kZ" />
-        <btn name="x1ShoulderLeft" />
+        <btn name="x1TriggerLeft" />
     </input>
     <input name="UAExpansionHeliAntiTorqueLeft">
         <btn name="kQ" />
-        <btn name="x1TriggerLeft" />
+        <btn name="x1ShoulderLeft" />
     </input>
     <input name="UAExpansionHeliAntiTorqueRight">
         <btn name="kE" />
-        <btn name="x1TriggerRight" />
+        <btn name="x1ShoulderRight" />
     </input>
     <input name="UAExpansionHeliCargoDoorUp">
         <btn name="kO" />
