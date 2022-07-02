@@ -64,7 +64,7 @@
         <zone name="InfectedNBC" smin="35" smax="40" dmin="10" dmax="15" x="2148.21" z="3334.64" r="90"/>		//mid MB Pavlovo
         <zone name="InfectedNBC" smin="20" smax="30" dmin="10" dmax="15" x="2093.57" z="3510" r="80"/>			//top MB Pavlovo
         <zone name="InfectedNBC" smin="10" smax="20" dmin="10" dmax="12" x="1915.71" z="3413.57" r="80"/>		//left MB Pavlovo
-        <zone name="InfectedNBC" smin="35" smax="40" dmin="35" dmax="40" x="13683.3" z="11180" r="140"/>		//Shipwreck near Rify
+        <zone name="InfectedNBC" smin="35" smax="40" dmin="30" dmax="35" x="13683.3" z="11180" r="140"/>		//Shipwreck near Rify
     </territory>
     <territory color="2615190015">
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="60" dmax="80" x="12584.2" z="13797.5" r="70"/>
@@ -86,21 +86,21 @@
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="20" dmax="80" x="10653" z="14287.5" r="60"/>
     </territory>
     <territory color="4287731209">
-        <zone name="InfectedCityTier1" smin="30" smax="35" dmin="35" dmax="40" x="10049.4" z="2133.75" r="120"/>	//mid left elektro
-        <zone name="InfectedCityTier1" smin="5" smax="10" dmin="10" dmax="20" x="10050" z="1985.63" r="100"/> 
-        <zone name="InfectedCityTier1" smin="1" smax="2" dmin="5" dmax="10" x="10080.6" z="1843.05" r="80"/>		//bottom elektro
-        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="1" dmax="10" x="10166.3" z="1961.25" r="80"/>
-        <zone name="InfectedCityTier1" smin="10" smax="15" dmin="20" dmax="30" x="10198.1" z="2081.25" r="100"/>	//railway elektro
+        <zone name="InfectedCityTier1" smin="3" smax="5" dmin="35" dmax="40" x="10049.4" z="2133.75" r="120"/>		//mid left elektro
+        <zone name="InfectedCityTier1" smin="1" smax="3" dmin="15" dmax="25" x="10050" z="1985.63" r="100"/> 
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="10080.6" z="1843.05" r="80"/>		//bottom elektro
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="1" dmax="5" x="10166.3" z="1961.25" r="80"/>
+        <zone name="InfectedCityTier1" smin="2" smax="5" dmin="20" dmax="30" x="10198.1" z="2081.25" r="100"/>		//railway elektro
         <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="10333.6" z="2054.21" r="80"/>
-        <zone name="InfectedCityTier1" smin="20" smax="30" dmin="20" dmax="30" x="10400.6" z="2214.38" r="120"/>	//mid elektro
-        <zone name="InfectedCityTier1" smin="20" smax="30" dmin="20" dmax="30" x="10464.4" z="2341.88" r="100"/>	//mid right elektro
-        <zone name="InfectedCityTier1" smin="3" smax="5" dmin="10" dmax="20" x="10526.3" z="2214.38" r="80"/>
-        <zone name="InfectedCityTier1" smin="10" smax="15" dmin="15" dmax="20" x="10609.2" z="2317.16" r="100"/>	//end of elektro
-        <zone name="InfectedCityTier1" smin="10" smax="20" dmin="10" dmax="20" x="12111.7" z="9805" r="90"/>		//berezino
-        <zone name="InfectedCityTier1" smin="10" smax="20" dmin="10" dmax="20" x="11861.2" z="9213.43" r="80"/> 	//berezino
-        <zone name="InfectedCityTier1" smin="5" smax="10" dmin="5" dmax="10" x="12066.6" z="9382.21" r="60"/>		//berezino
-        <zone name="InfectedCityTier1" smin="5" smax="10" dmin="10" dmax="20" x="12655.8" z="9501.38" r="100"/>		//bottom left of berezino right
-        <zone name="InfectedCityTier1" smin="10" smax="15" dmin="5" dmax="10" x="12454.1" z="9550.54" r="100"/>		//mid right of berezino left
+        <zone name="InfectedCityTier1" smin="5" smax="7" dmin="25" dmax="35" x="10400.6" z="2214.38" r="120"/>		//mid elektro
+        <zone name="InfectedCityTier1" smin="2" smax="5" dmin="25" dmax="35" x="10464.4" z="2341.88" r="100"/>		//mid right elektro
+        <zone name="InfectedCityTier1" smin="0" smax="1" dmin="10" dmax="20" x="10526.3" z="2214.38" r="80"/>
+        <zone name="InfectedCityTier1" smin="1" smax="3" dmin="25" dmax="30" x="10609.2" z="2317.16" r="100"/>		//end of elektro
+        <zone name="InfectedCityTier1" smin="3" smax="5" dmin="20" dmax="30" x="12111.7" z="9805" r="90"/>			//berezino
+        <zone name="InfectedCityTier1" smin="3" smax="5" dmin="20" dmax="30" x="11861.2" z="9213.43" r="80"/> 		//berezino
+        <zone name="InfectedCityTier1" smin="1" smax="3" dmin="10" dmax="20" x="12066.6" z="9382.21" r="60"/>		//berezino
+        <zone name="InfectedCityTier1" smin="1" smax="3" dmin="10" dmax="20" x="12655.8" z="9501.38" r="100"/>		//bottom left of berezino right
+        <zone name="InfectedCityTier1" smin="1" smax="5" dmin="10" dmax="15" x="12454.1" z="9550.54" r="100"/>		//mid right of berezino left
         <zone name="InfectedCityTier1" smin="0" smax="0" dmin="60" dmax="80" x="13898.2" z="13312.5" r="100"/>		//svetlojarsk
         <zone name="InfectedCityTier1" smin="0" smax="0" dmin="60" dmax="80" x="14021.9" z="13099.7" r="100"/>
         <zone name="InfectedCityTier1" smin="0" smax="0" dmin="20" dmax="80" x="5692.27" z="2327.5" r="100"/>		//Vysotovo
@@ -114,14 +114,14 @@
         <zone name="InfectedCityTier1" smin="0" smax="0" dmin="60" dmax="80" x="6075" z="3139.5" r="100"/>			//Novoselki
 		<zone name="InfectedCityTier1" smin="0" smax="0" dmin="1" dmax="5" x="6210" z="2190" r="100"/>				//dead bottom left Cherno
         <zone name="InfectedCityTier1" smin="0" smax="0" dmin="3" dmax="5" x="6298.13" z="2293.13" r="100"/>		//bottom left Cherno
-		<zone name="InfectedCityTier1" smin="20" smax="30" dmin="20" dmax="30" x="6324.46" z="2561.07" r="100"/>	//left entry mid Cherno
+		<zone name="InfectedCityTier1" smin="2" smax="5" dmin="30" dmax="40" x="6324.46" z="2561.07" r="100"/>		//left entry mid Cherno
 		<zone name="InfectedCityTier1" smin="0" smax="0" dmin="2" dmax="5" x="6418.13" z="2261.25" r="100"/>		//bottom left Cherno
-		<zone name="InfectedCityTier1" smin="3" smax="5" dmin="5" dmax="10" x="6424.65" z="2403.93" r="100"/>		//mid bottom left Cherno
-        <zone name="InfectedCityTier1" smin="20" smax="30" dmin="20" dmax="30" x="6518.57" z="2528.57" r="100"/>	//mid Cherno
-        <zone name="InfectedCityTier1" smin="5" smax="10" dmin="10" dmax="20" x="6568.13" z="2341.88" r="100"/>		//mid bottom left Cherno
-		<zone name="InfectedCityTier1" smin="20" smax="30" dmin="20" dmax="30" x="6640.71" z="2616.43" r="100"/>	//mid right Cherno
+		<zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="6424.65" z="2403.93" r="100"/>		//mid bottom left Cherno
+        <zone name="InfectedCityTier1" smin="2" smax="3" dmin="30" dmax="40" x="6518.57" z="2528.57" r="100"/>		//mid Cherno
+        <zone name="InfectedCityTier1" smin="2" smax="5" dmin="10" dmax="20" x="6568.13" z="2341.88" r="100"/>		//mid bottom left Cherno
+		<zone name="InfectedCityTier1" smin="2" smax="3" dmin="30" dmax="40" x="6640.71" z="2616.43" r="100"/>		//mid right Cherno
         <zone name="InfectedCityTier1" smin="2" smax="5" dmin="5" dmax="10" x="6655.71" z="2468.57" r="100"/>		//bottom mid Cherno
-        <zone name="InfectedCityTier1" smin="20" smax="25" dmin="20" dmax="25" x="6781.43" z="2680.21" r="100"/>	//right Cherno
+        <zone name="InfectedCityTier1" smin="2" smax="5" dmin="25" dmax="30" x="6781.43" z="2680.21" r="100"/>		//right Cherno
 		<zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="6788.57" z="2528.57" r="100"/>		//bottom right Cherno
         <zone name="InfectedCityTier1" smin="0" smax="0" dmin="20" dmax="80" x="12005" z="9055" r="100"/>
         <zone name="InfectedCityTier1" smin="0" smax="0" dmin="20" dmax="80" x="11933.3" z="8965" r="100"/>
