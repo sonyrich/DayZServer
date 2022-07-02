@@ -386,7 +386,7 @@
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="10" dmax="30" x="6081" z="4896" r="50"/>
     </territory>
     <territory color="3870921329">
-        <zone name="InfectedVillageTier1" smin="15" smax="20" dmin="10" dmax="15" x="12913.3" z="8020" r="90"/>		//Nizhneye
+        <zone name="InfectedVillageTier1" smin="5" smax="10" dmin="10" dmax="15" x="12913.3" z="8020" r="90"/>		//Nizhneye
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="60" dmax="80" x="13296.3" z="12996.3" r="80"/>
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="20" dmax="50" x="13582.3" z="14092.8" r="80"/>
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="20" dmax="50" x="13036.9" z="14409.4" r="80"/>
@@ -408,11 +408,11 @@
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="60" dmax="80" x="12960" z="6760" r="100"/>
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="60" dmax="80" x="13343.3" z="5431.67" r="80"/>
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="60" dmax="80" x="12905.8" z="7087.57" r="80"/>
-        <zone name="InfectedVillageTier1" smin="15" smax="20" dmin="5" dmax="8" x="13182.1" z="7120.47" r="110"/>	//train station above Solnichniy
+        <zone name="InfectedVillageTier1" smin="1" smax="2" dmin="15" dmax="20" x="13182.1" z="7120.47" r="110"/>	//train station above Solnichniy
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="60" dmax="80" x="12945" z="6265" r="80"/>
-        <zone name="InfectedVillageTier1" smin="20" smax="30" dmin="20" dmax="25" x="13386.9" z="6309.15" r="120"/>	//Solnichniy
-        <zone name="InfectedVillageTier1" smin="20" smax="30" dmin="20" dmax="30" x="12020" z="3505" r="100"/>		//mid left Kamyshovo
-        <zone name="InfectedVillageTier1" smin="15" smax="20" dmin="10" dmax="20" x="12198.2" z="3519.78" r="90"/>	//right Kamyshovo
+        <zone name="InfectedVillageTier1" smin="2" smax="3" dmin="30" dmax="35" x="13386.9" z="6309.15" r="120"/>	//Solnichniy
+        <zone name="InfectedVillageTier1" smin="2" smax="3" dmin="25" dmax="35" x="12020" z="3505" r="100"/>		//mid left Kamyshovo
+        <zone name="InfectedVillageTier1" smin="1" smax="2" dmin="20" dmax="30" x="12198.2" z="3519.78" r="90"/>	//right Kamyshovo
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="20" dmax="80" x="10167.5" z="2324.38" r="80"/>
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="20" dmax="80" x="10481.1" z="2084.38" r="80"/>
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="20" dmax="80" x="9561.7" z="1998.33" r="80"/>
@@ -469,7 +469,7 @@
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="60" dmax="80" x="14085" z="13063.6" r="80"/>
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="60" dmax="80" x="6252" z="2914.5" r="80"/>
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="60" dmax="80" x="6082.5" z="2982" r="80"/>
-        <zone name="InfectedVillageTier1" smin="20" smax="30" dmin="10" dmax="20" x="4568.33" z="2671.67" r="100"/>	//Balota
+        <zone name="InfectedVillageTier1" smin="12" smax="15" dmin="10" dmax="20" x="4568.33" z="2671.67" r="100"/>	//Balota
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="20" dmax="50" x="5190" z="2080" r="80"/>
     </territory>
     <territory color="1794965508">
@@ -506,11 +506,11 @@
         <zone name="InfectedFirefighter" smin="0" smax="0" dmin="20" dmax="50" x="12241.4" z="13815" r="50"/>
     </territory>
     <territory color="2575065676">
-        <zone name="InfectedVillage" smin="35" smax="40" dmin="10" dmax="20" x="6022.53" z="7788.68" r="120"/>	//Stary Sobor
-        <zone name="InfectedVillage" smin="20" smax="30" dmin="10" dmax="20" x="7198.67" z="7649.43" r="100"/>	//Novy Sobor
+        <zone name="InfectedVillage" smin="10" smax="12" dmin="20" dmax="30" x="6022.53" z="7788.68" r="120"/>	//Stary Sobor
+        <zone name="InfectedVillage" smin="10" smax="11" dmin="20" dmax="30" x="7198.67" z="7649.43" r="100"/>	//Novy Sobor
         <zone name="InfectedVillage" smin="4" smax="5" dmin="5" dmax="10" x="3821.74" z="9020.6" r="80"/>		//top Vybor
-        <zone name="InfectedVillage" smin="20" smax="30" dmin="10" dmax="20" x="3854.17" z="8828.5" r="90"/>	//mid right Vybor
-        <zone name="InfectedVillage" smin="30" smax="35" dmin="10" dmax="20" x="3716.75" z="8924.5" r="100"/>	//mid Vybor
+        <zone name="InfectedVillage" smin="5" smax="10" dmin="20" dmax="30" x="3854.17" z="8828.5" r="90"/>		//mid right Vybor
+        <zone name="InfectedVillage" smin="1" smax="5" dmin="30" dmax="32" x="3716.75" z="8924.5" r="100"/>		//mid Vybor
         <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40" x="5967.79" z="10329.7" r="80"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40" x="2743.59" z="9850.77" r="70"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40" x="2267.03" z="11198.1" r="80"/>
@@ -590,12 +590,12 @@
         <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40" x="2055" z="7310.63" r="50"/>
     </territory>
     <territory color="2387830984">
-		<zone name="InfectedMedic" smin="15" smax="20" dmin="5" dmax="6" x="8010" z="12753.3" r="60"/>		//Severograd Hospital
-        <zone name="InfectedMedic" smin="15" smax="20" dmin="5" dmax="7" x="6487.12" z="2722.55" r="50"/>	//Cherno Hospital
-		<zone name="InfectedMedic" smin="10" smax="20" dmin="5" dmax="7" x="10283.9" z="2286.79" r="50"/>	//Elektro Hospital
-		<zone name="InfectedMedic" smin="10" smax="12" dmin="2" dmax="5" x="11924.6" z="9069.43" r="50"/>	//Berezino Hospital
-		<zone name="InfectedMedic" smin="15" smax="20" dmin="2" dmax="5" x="11415" z="14611.1" r="50"/>		//Novodmitrovsk Hospital
-		<zone name="InfectedMedic" smin="10" smax="20" dmin="2" dmax="5" x="2174.61" z="3359.61" r="60"/>	//MB Pavlovo Hospital
+		<zone name="InfectedMedic" smin="5" smax="8" dmin="7" dmax="8" x="8010" z="12753.3" r="60"/>		//Severograd Hospital
+        <zone name="InfectedMedic" smin="5" smax="8" dmin="5" dmax="7" x="6487.12" z="2722.55" r="50"/>	//Cherno Hospital
+		<zone name="InfectedMedic" smin="5" smax="8" dmin="5" dmax="7" x="10283.9" z="2286.79" r="50"/>	//Elektro Hospital
+		<zone name="InfectedMedic" smin="5" smax="8" dmin="2" dmax="5" x="11924.6" z="9069.43" r="50"/>	//Berezino Hospital
+		<zone name="InfectedMedic" smin="5" smax="8" dmin="2" dmax="5" x="11415" z="14611.1" r="50"/>		//Novodmitrovsk Hospital
+		<zone name="InfectedMedic" smin="8" smax="10" dmin="2" dmax="5" x="2174.61" z="3359.61" r="60"/>	//MB Pavlovo Hospital
         <zone name="InfectedMedic" smin="5" smax="8" dmin="2" dmax="5" x="2740.16" z="5180.91" r="50"/>		//Zelenogorsk Medicare
         <zone name="InfectedMedic" smin="4" smax="6" dmin="2" dmax="5" x="12780" z="10056" r="50"/>			//Berezino Medicare
         <zone name="InfectedMedic" smin="3" smax="6" dmin="2" dmax="5" x="13887.4" z="13112.6" r="50"/>		//Svetlojarsk Medicare
@@ -683,7 +683,7 @@
         <zone name="InfectedCity" smin="0" smax="0" dmin="20" dmax="50" x="11055" z="12273.8" r="100"/>
     </territory>
     <territory color="3432609885">
-        <zone name="InfectedVillage" smin="15" smax="20" dmin="10" dmax="20" x="1965" z="2241.67" r="80"/>		//Kamenka
+        <zone name="InfectedVillage" smin="11" smax="15" dmin="15" dmax="25" x="1965" z="2241.67" r="80"/>		//Kamenka
         <zone name="InfectedVillage" smin="7" smax="10" dmin="2" dmax="5" x="1698" z="2202.67" r="60"/>			//right Kamenka
         <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40" x="3605.76" z="2474.04" r="100"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="20" dmax="40" x="5878" z="4865" r="80"/>
