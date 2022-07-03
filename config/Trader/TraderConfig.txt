@@ -344,7 +344,7 @@
 		SVD,					W,	600000,	300000
 		
 	<Category> TF | WEAPONS
-        TF_AN94,				W,	480000,	384000
+		TF_AN94,				W,	480000,	384000
 		TF_AN94M,				W,	480000,	384000
 		TF_Anzio20,				W,	2400000,1920000
 		TF_FiveSeven,			W,	85000,	68000
@@ -379,15 +379,25 @@
 		TF_AK105_Bullpup,		W,	700000,	560000
 		TF_AK74M,				W,	420000,	336000
 		TF_AKM,					W,	550000,	440000
+		TF_AKMN,				W,	550000,	440000
 		TF_VPO136,				W,	700000,	560000
 		TF_AKS74U,				W,	380000,	304000
 		TF_M4A1,				W,	540000,	432000
+		TF_M16A4,				W,	540000,	432000
 		TF_ADAR2_15,			W,	420000,	336000
 		TF_M4A1_CQBR,			W,	535000,	428000
 		TF_MK47_CQBR,			W,	610000,	488000
 		TF_MK47,				W,	610000,	488000
 		TF_MP443,				W,	60000,	48000
 		TF_VPO190,				W,	720000,	576000
+		TF_AEK999
+		TF_M240
+		TF_M249
+		TF_PKM
+		TF_PKP
+		TF_SVCh308
+		TF_SVCh
+		TF_SR25
 		
 	<Category> Grenades
 		RGD5Grenade,				1,	60000,	30000
@@ -496,7 +506,7 @@
 		Mag_308WinSnaploader_2Rnd,	M,	5000,	1500
 		
 	<Category> TF | MAGS
-        	TF_Mag_OTs_14_Groza_20Rnd,		M,	22000,	17600
+        TF_Mag_OTs_14_Groza_20Rnd,		M,	22000,	17600
 		TF_Mag_SCAR_H_20Rnd_Black,		M,	19000,	15200
 		TF_Mag_SCAR_H_20Rnd_FDE,		M,	19000,	15200
 		TF_Mag_SCAR_H_20Rnd_Shd,		M,	19000,	15200
@@ -528,6 +538,16 @@
 		TF_Mag_M4_PMAG40Rnd_FDE,		M,	28000,	22400
 		TF_Mag_MP443_18Rnd,				M,	14000,	11200
 		TF_Mag_VPO190_4Rnd,				M,	25000,	20000
+		TF_Mag_AK101_Plastic30Rnd
+		TF_Mag_AK74_Bakelit30Rnd
+		TF_Mag_AK74_Plum30Rnd
+		TF_Mag_AK74_Plastic30Rnd
+		TF_Mag_AKM_Bakelit40Rnd
+		TF_Mag_AKM_Steel40Rnd
+		TF_Mag_M240_50Rnd
+		TF_Mag_M249_200Rnd
+		TF_Mag_PKM_100Rnd
+		TF_Mag_SVCh308_10Rnd
 		
 	<Category> Handguards
 		MP5_PlasticHndgrd,	*,	6000,	1800
@@ -598,23 +618,34 @@
 		TF_HAMROptic_Black,					*,	40500,	32400
 		TF_OTs_14_GrozaOptic,				*,	28000,	22400
 		TF_PK122_ValdayOptic,				*,	34000,	27200
+		TF_OKP7Optic,						*,	30000,	24000
 		TF_M4_ColtA2Optic,					*,	30000,	24000
 
 	<Category> TF | BUTTSTOCKS
-		TF_SCAR_Mk20Bttstck_FDE,	*,	18000,	14400
-		TF_SCAR_Mk20Bttstck_Black,	*,	18000,	14400
-		TF_SCAR_Mk20Bttstck_Shd,	*,	18000,	14400
-		TF_SCAR_StndBttstck_FDE,	*,	17500,	14000
-		TF_SCAR_StndBttstck_Black,	*,	17500,	14000
-		TF_SCAR_VadapterBttstck,	*,	18000,	14400
-		TF_AK_AdapterBttstck,		*,	18000,	14400
-		TF_AK_MVRIBttstck,			*,	18300,	14640
-		TF_AK_Zenit_PT1Bttstck,		*,	18800,	15040
-		TF_AN94_AdapterBttstck,		*,	19200,	15360
-		TF_AN94_PlasticBttstck,		*,	19000,	15200
-		TF_M4_ADARBttstck,			*,	16000,	12800
-		TF_M4_CMMG_RIPBttstck,		*,	19500,	15600
-		TF_M4CraneBttstck,			*,	20000,	16000
+		TF_SCAR_Mk20Bttstck_FDE,			*,	18000,	14400
+		TF_SCAR_Mk20Bttstck_Black,			*,	18000,	14400
+		TF_SCAR_Mk20Bttstck_Shd,			*,	18000,	14400
+		TF_SCAR_StndBttstck_FDE,			*,	18000,	14400
+		TF_SCAR_StndBttstck_Black,			*,	18000,	14400
+		TF_SCAR_VadapterBttstck,			*,	18000,	14400
+		TF_AK_AdapterBttstck,				*,	18000,	14400
+		TF_AK_MVRIBttstck,					*,	18000,	14400
+		TF_AK_Zenit_PT1Bttstck,				*,	18000,	14400
+		TF_AK_MagpulZhukovBttstck,			*,	18000,	14400
+		TF_AN94_AdapterBttstck,				*,	18000,	14400
+		TF_AN94_PlasticBttstck,				*,	18000,	14400
+		TF_M4_ADARBttstck,					*,	18000,	14400
+		TF_M4_CMMG_RIPBttstck,				*,	18000,	14400
+		TF_M4_B5PrecisionBttstck,			*,	18000,	14400
+		TF_M4_FABDGLCoreBttstck,			*,	18000,	14400
+		TF_M4_MagpulPRSGen3Bttstck_Black,	*,	18000,	14400
+		TF_M4_MagpulPRSGen3Bttstck_Grey,	*,	18000,	14400
+		TF_M4CraneBttstck,					*,	18000,	14400
+		TF_M16_Bttstck,						*,	18000,	14400
+		TF_PKM_CNCC39Bttstck,				*,	18000,	14400
+		TF_PKM_ZenitPT2Bttstck,				*,	18000,	14400
+		TF_PKM_WoodBttstck,					*,	18000,	14400
+		TF_PKP_PlasticBttstck,				*,	18000,	14400
 
 	<Category> TF | GRIPS
         TF_SAW_RIS_Grip_FDE,		*,	7000,	5600
@@ -627,34 +658,68 @@
 		TF_BCM_MLOCK_Grip_Black,	*,	10900,	8720
 		TF_RVG_RIS_Grip_FDE,		*,	11200,	8960
 		TF_RVG_RIS_Grip_Black,		*,	11200,	8960
+		TF_AK_ZenitRK1B25U_RIS_Grip,*,	11200,	8960
+
+	<Category> TF | PISTOL GRIPS
+		TF_M4_MIADPistolGrip_FDE,		*,	9000,	7200
+		TF_M4_MOEPistolGrip_FDE,		*,	9000,	7200
+		TF_M4_MOEPistolGrip_Black,		*,	9000,	7200
+		TF_M4_OMRGPistolGrip_FDE,		*,	9000,	7200
+		TF_M4_OMRGPistolGrip_Black,		*,	9000,	7200
+		TF_M4_TDSPistolGrip,			*,	9000,	7200
+		TF_AK_ZenitRK3PistolGrip,		*,	9000,	7200
+		TF_AK_KGBMG47PistolGrip_FDE,	*,	9000,	7200
+		TF_AK_MOEPistolGrip_Black,		*,	9000,	7200
+		TF_AK_TAPCOPistolGrip_Black,	*,	9000,	7200
+		TF_AK_TAPCOPistolGrip_FDE,		*,	9000,	7200
 
 	<Category> TF | HANDGUARDS
-        TF_SCAR_ADDHndgrd,						*,	25000,	20000
-		TF_SCAR_MREXHndgrd_FDE,					*,	25500,	20400
-		TF_SCAR_MREXHndgrd_Black,				*,	25500,	20400
-		TF_SCAR_StndHndgrd,						*,	22000,	17600
-		TF_AKS74U_WoodHndgrd,					*,	18000,	14400
-		TF_AKS74U_CAAHndgrd_RIS,				*,	23500,	18800
-		TF_AKS74U_ZenitB11PlasticHndgrd_RIS,	*,	23000,	18400
-		TF_AKS74U_ZenitB11WoodHndgrd_RIS,		*,	22800,	18240
-		TF_AK_ZenitB30B31Hndgrd_RIS,			*,	24000,	19200
+		TF_SCAR_ADDHndgrd,						*,	25000,	20000
+		TF_SCAR_MREXHndgrd_FDE,					*,	25000,	20000
+		TF_SCAR_MREXHndgrd_Black,				*,	25000,	20000
+		TF_SCAR_StndHndgrd,						*,	25000,	20000
+		TF_AKS74U_WoodHndgrd,					*,	25000,	20000
+		TF_AKS74U_CAAHndgrd_RIS,				*,	25000,	20000
+		TF_AKS74U_ZenitB11PlasticHndgrd_RIS,	*,	25000,	20000
+		TF_AKS74U_ZenitB11WoodHndgrd_RIS,		*,	25000,	20000
+		TF_AK_ZenitB30B31Hndgrd_RIS,			*,	25000,	20000
+		TF_AK_MagpulMOEHndgrd_MLOCK,			*,	25000,	20000
+		TF_AK_MagpulZhukovHndgrdU_MLOCK,		*,	25000,	20000
+		TF_AK_ZenitB10MB19Hndgrd_RIS,			*,	25000,	20000
 		TF_AR10_CMMG15Hndgrd_MLOCK,				*,	25000,	20000
 		TF_AR10_CMMG9Hndgrd_MLOCK,				*,	25000,	20000
-		TF_M4_ADARWoodHndgrd,					*,	18000,	14400
-		TF_M4_DD12Hndgrd_RIS_FDE,				*,	24500,	19600
-		TF_M4_DD9Hndgrd_RIS_FDE,				*,	24500,	19600
-		TF_M4_DDFSPHndgrd_RIS_FDE,				*,	24000,	19200
-		TF_M4_SMR13Hndgrd_MLOCK_FDE,			*,	24000,	19200
-		TF_M4_SMR9Hndgrd_MLOCK_FDE,				*,	23700,	18960
-		TF_M4_KACHndgrd_RIS,					*,	23500,	18800
+		TF_AR10_KACHndgrd_RIS,					*,	25000,	20000
+		TF_AR10_LancerHndgrd_MLOCK,				*,	25000,	20000
+		TF_AR10_NoveskeHndgrd_Short_RIS,		*,	25000,	20000
+		TF_AR10_NoveskeHndgrd_Long_RIS,			*,	25000,	20000
+		TF_AR10_URXHndgrd_MLOCK,				*,	25000,	20000
+		TF_M4_ADARWoodHndgrd,					*,	25000,	20000
+		TF_M4_DD12Hndgrd_RIS_FDE,				*,	25000,	20000
+		TF_M4_DD9Hndgrd_RIS_FDE,				*,	25000,	20000
+		TF_M4_DDFSPHndgrd_RIS_FDE,				*,	25000,	20000
+		TF_M4_SMR13Hndgrd_MLOCK_FDE,			*,	25000,	20000
+		TF_M4_SMR9Hndgrd_MLOCK_FDE,				*,	25000,	20000
+		TF_M4_KACHndgrd_RIS,					*,	25000,	20000
+		TF_M16_KACHndgrd_RIS,					*,	25000,	20000
+		TF_PKM_ZenitB50Hndgrd_RIS,				*,	25000,	20000
+		TF_PKP_CNCC46Hndgrd_RIS,				*,	25000,	20000
 
 	<Category> TF | MUZZLES
 		TF_SCAR_Suppressor_Black,		*,	43000,	34400
-		TF_MakarovPB_Suppressor,		*,	18500,	14800
-		TF_OTs_14_Groza_Suppressor,		*,	39000,	31200
-		TF_OTs_14_Groza_Barrel_Grip,	*,	12000,	9600
-		TF_MAR10_Suppressor,			*,	54000,	43200
-		TF_M4_SOCOMSuppressor,			*,	48000,	38400
+		TF_MakarovPB_Suppressor,		*,	43000,	34400
+		TF_OTs_14_Groza_Suppressor,		*,	43000,	34400
+		TF_OTs_14_Groza_Barrel_Grip,	*,	43000,	34400
+		TF_MAR10_Suppressor,			*,	43000,	34400
+		TF_M4_SOCOMSuppressor,			*,	43000,	34400
+		TF_AK_PBS1Suppressor,			*,	43000,	34400
+		TF_AEK999_Suppressor,			*,	43000,	34400
+		TF_PKM_6ch43Compensator,		*,	43000,	34400
+		TF_PKM_6ch63Compensator,		*,	43000,	34400
+		TF_PKM_6ch76Compensator,		*,	43000,	34400
+		TF_AK_6p20Compensator,			*,	43000,	34400
+		TF_AK_ZenitDTK1Compensator,		*,	43000,	34400
+		TF_PKM_SAICompensator,			*,	43000,	34400
+		TF_AK_Rotor43Suppressor,		*,	43000,	34400
 		
 	<Category> TF | ACCESSORIES AND MORE
         TF_Atlas_Bipod,						*,	10000,	8000
@@ -664,13 +729,16 @@
 		TF_RifleSling_Brown,				*,	7000,	5600
 		TF_RifleSling_OD,					*,	7000,	5600
 		TF_NVGoggles_AVS9,					*,	80000,	64000
+		TF_NVGoggles_PVS14,					*,	80000,	64000
+		TF_NVGoggles_PVS15,					*,	80000,	64000
+		TF_NVGoggles_PNV10T,				*,	80000,	64000
 		TF_Foil_hat,						*,	10000,	8000
 		TF_6B43PelvisArmor,					*,	270000,	216000
+		TF_6B43PelvisArmor_Syrian,			*,	270000,	216000
 		TF_AK_6kh5Bayonet,					*,	10000,	8000
 		TF_6kh5KnifeSheath,					*,	25000,	20000
-		TF_M4_MIADPistolGrip_FDE,			*,	9000,	7200
 		TF_AK_Tactica_Tula10000Receiver,	*,	15000,	12000
-		TF_AK_ReceiverZenitB33,				*,	16000,	12800
+		TF_AK_B33Receiver,					*,	16000,	12800
 	
 <Trader> Clothing Trader
 	<Category> Glasses
@@ -845,9 +913,9 @@
 		BandanaMask_CamoPattern,	*,	35,		10
 		NioshFaceMask,				*,	40,		10
 		HockeyMask,					*,	40,		10
-		//HoxtonMask,					*,	40000,	32000
+		//HoxtonMask,				*,	40000,	32000
 		//WolfMask,					*,	40000,	32000
-		//DallasMask,					*,	40000,	32000
+		//DallasMask,				*,	40000,	32000
 		Balaclava3Holes_Blue,		*,	50,		12
 		Balaclava3Holes_Beige,		*,	50,		12
 		Balaclava3Holes_Black,		*,	55,		13
@@ -1226,6 +1294,7 @@
 	<Category> TF | HELMETS AND COVERS
         TF_6B47Helmet,						*,	40000,	32000
 		TF_6B47HelmetCover_EMR,				*,	8000,	6400
+		TF_6B47HelmetCover_Syrian,			*,	8000,	6400
 		TF_LSHZHelmet_OD,					*,	50000,	40000
 		TF_MICH2000Helmet,					*,	60000,	48000
 		TF_MICH2000Helmet_Khaku,			*,	60000,	48000
@@ -1238,21 +1307,30 @@
 		TF_Maska1SchVizor,					*,	30000,	24000
 
 	<Category> TF | VESTS
-		TF_PlateCarrierVest_EMR,		*,	30000,	24000
-		TF_PlateCarrierVest_Coyote,		*,	30000,	24000
-		TF_6sh112_EMR,					*,	20000,	16000
-		TF_6B23_112Vest_GFlora,			*,	60000,	48000
-		TF_6B23_112Vest_EMR,			*,	60000,	48000
-		TF_6B23Vest_GFlora,				*,	60000,	48000
-		TF_6B23Vest_EMR,				*,	60000,	48000
-		TF_6B43Vest_EMR,				*,	60000,	48000
-		TF_IMTVVest,					*,	3000,	2400
-		TF_IMTVVest_Khaki,				*,	3000,	2400
-		TF_AVSVest_Coyote,				*,	30000,	24000
-		TF_AVSVest_Tagilla,				*,	30000,	24000
-		TF_JPCVest_MC,					*,	40000,	32000
-		TF_JPCVest_Coyote,				*,	40000,	32000
-		TF_LVMBAVVest_KH,				*,	50000,	40000
+	
+		TF_PlateCarrierVest_EMR,			*,	30000,	24000
+		TF_PlateCarrierVest_Coyote,			*,	30000,	24000
+		TF_6sh112_EMR,						*,	30000,	24000
+		TF_6sh112_Syrian,					*,	30000,	24000
+		TF_6B23_112Vest_GFlora_Syrian,		*,	30000,	24000
+		TF_6B23_112Vest_EMR_Syrian,			*,	30000,	24000
+		TF_6B23_112Vest_GFlora,				*,	30000,	24000
+		TF_6B23_112Vest_EMR,				*,	30000,	24000
+		TF_6B23Vest_GFlora,					*,	30000,	24000
+		TF_6B23Vest_EMR,					*,	30000,	24000
+		TF_6B43Vest_EMR,					*,	30000,	24000
+		TF_6B43Vest_Syrian,					*,	30000,	24000
+		TF_6B43Vest_6sh112_EMR,				*,	30000,	24000
+		TF_6B43Vest_6sh112_Syrian,			*,	30000,	24000
+		TF_6B43Vest_6sh112_EMR_Syrian,		*,	30000,	24000
+		TF_6B43Vest_6sh112_Syrian_EMR,		*,	30000,	24000
+		TF_IMTVVest,						*,	30000,	24000
+		TF_IMTVVest_Khaki,					*,	30000,	24000
+		TF_AVSVest_Coyote,					*,	30000,	24000
+		TF_AVSVest_Tagilla,					*,	30000,	24000
+		TF_JPCVest_MC,						*,	30000,	24000
+		TF_JPCVest_Coyote,					*,	30000,	24000
+		TF_LVMBAVVest_KH,					*,	30000,	24000
 
 	<Category> TF | POUCHES
         TF_PlateCarrierPouches_EMR,		*,	5000,	4000
@@ -1305,57 +1383,27 @@
 		TF_MAPBag_Coyote,		*,	30000,	24000
 
 	<Category> TF | Clothes/Gear
-		TF_PMK4GasMask,				*,	80000,	64000
-		TF_PMK4GasMask_OD,			*,	80000,	64000
-		TF_6sh122Pants_Spring,		*,	4000,	3200
-		TF_6sh122Pants_Autumn,		*,	4000,	3200
-		TF_CargoPantsShort_Black,	*,	3000,	2400
-		TF_CargoPantsShort_MARPAT,	*,	3000,	2400
-		TF_G3CombatPants_RG,		*,	3000,	2400
-		TF_G3CombatPants_MC,		*,	3000,	2400
-		TF_G3CombatPants_WD,		*,	3000,	2400
+		TF_PMK4GasMask,				*,	8000,	6400
+		TF_PMK4GasMask_OD,			*,	8000,	6400
+		TF_6sh122Pants_Spring,		*,	8000,	6400
+		TF_6sh122Pants_Autumn,		*,	8000,	6400
+		TF_6sh122Pants_Syrian,		*,	8000,	6400
+		TF_6sh122Pants_Syrian_EMR,	*,	8000,	6400
+		TF_6sh122Pants_Winter,		*,	8000,	6400
+		TF_CargoPantsShort_Black,	*,	8000,	6400
+		TF_CargoPantsShort_MARPAT,	*,	8000,	6400
+		TF_G3CombatPants_RG,		*,	8000,	6400
+		TF_G3CombatPants_MC,		*,	8000,	6400
+		TF_G3CombatPants_WD,		*,	8000,	6400
 		TF_6sh122Jacket_Spring,		*,	8000,	6400
 		TF_6sh122Jacket_Autumn,		*,	8000,	6400
-		TF_G3CombatShirt_RG,		*,	6000,	4800
-		TF_G3CombatShirt_MC,		*,	6000,	4800
-		TF_G3CombatShirt_WD,		*,	6000,	4800
-		TF_FannyPack_Coyote,		*,	6000,	4800
-
-	//<Category> Handmade
-		//LeatherGloves_Beige,	*,		0,		0
-		//LeatherGloves_Black,	*,		0,		0
-		//LeatherGloves_Brown,	*,		0,		0
-		//LeatherGloves_Natural,*,		0,		0
-		//LeatherHat_Beige,		*,		0,		0
-		//LeatherHat_Black,		*,		0,		0
-		//LeatherHat_Brown,		*,		0,		0
-		//LeatherHat_Natural,	*,		0,		0
-		//LeatherShirt_Natural,	*,		0,		0
-		//LeatherStorageVest_Beige,*,	0,		0
-		//LeatherStorageVest_Black,*,	0,		0
-		//LeatherStorageVest_Brown,*,	0,		0
-		//LeatherStorageVest_Natural,*,	0,		0
-		//LeatherJacket_Beige,	*,		0,		0
-		//LeatherJacket_Black,	*,		0,		0
-		//LeatherJacket_Brown,	*,		0,		0
-		//LeatherJacket_Natural,*,		0,		0
-		//LeatherPants_Beige,	*,		0,		0
-		//LeatherPants_Black,	*,		0,		0
-		//LeatherPants_Brown,	*,		0,		0
-		//LeatherPants_Natural,	*,		0,		0
-		//LeatherShoes_Beige,	*,		0,		0
-		//LeatherShoes_Black,	*,		0,		0
-		//LeatherShoes_Brown,	*,		0,		0
-		//LeatherShoes_Natural,	*,		0,		0
-		//CourierBag,			*,		0,		0
-		//FurCourierBag,		*,		0,		0
-		//FurImprovisedBag,		*,		0,		0
-		//ImprovisedBag,		*,		0,		0
-		//LeatherSack_Beige,	*,		0,		0
-		//LeatherSack_Black,	*,		0,		0
-		//LeatherSack_Brown,	*,		0,		0
-		//LeatherSack_Natural,	*,		0,		0
-	
+		TF_6sh122Jacket_Syrian,		*,	8000,	6400
+		TF_6sh122Jacket_Syrian_EMR,	*,	8000,	6400
+		TF_6sh122Jacket_Winter,		*,	8000,	6400
+		TF_G3CombatShirt_RG,		*,	8000,	6400
+		TF_G3CombatShirt_MC,		*,	8000,	6400
+		TF_G3CombatShirt_WD,		*,	8000,	6400
+		TF_FannyPack_Coyote,		*,	8000,	6400
 	
 <Trader> Vehicles Trader
 	<Category> Vehicles
