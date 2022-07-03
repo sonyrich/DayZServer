@@ -26,7 +26,7 @@
 		PigSteakMeat,		S,	40000,	10000		// Buyvalue -1 means it can not be bought
 		BoarSteakMeat,		S,	-1,		20000		// Sellvalue -1 means it can not be selled
 		BearSteakMeat,		S,	-1,		80000
-		WolfSteakMeat,		S,	-1,		40000
+		WolfSteakMeat,		S,	-1,		20000
 		DeerSteakMeat,		S,	-1,		30000
 		CowSteakMeat,		S,	-1,		15000
 		Sardines,			S,	-1,		10000
@@ -390,14 +390,14 @@
 		TF_MK47,				W,	610000,	488000
 		TF_MP443,				W,	60000,	48000
 		TF_VPO190,				W,	720000,	576000
-		TF_AEK999
-		TF_M240
-		TF_M249
-		TF_PKM
-		TF_PKP
-		TF_SVCh308
-		TF_SVCh
-		TF_SR25
+		TF_AEK999,				W,	2400000,1920000
+		TF_M240,				W,	1600000,1280000
+		TF_M249,				W,	1800000,1440000
+		TF_PKM,					W,	2000000,1600000
+		TF_PKP,					W,	2000000,1600000
+		TF_SVCh308,				W,	1400000,	1120000
+		TF_SVCh,				W,	1400000,	1120000
+		TF_SR25,				W,	600000,		480000
 		
 	<Category> Grenades
 		RGD5Grenade,				1,	60000,	30000
@@ -538,15 +538,15 @@
 		TF_Mag_M4_PMAG40Rnd_FDE,		M,	28000,	22400
 		TF_Mag_MP443_18Rnd,				M,	14000,	11200
 		TF_Mag_VPO190_4Rnd,				M,	25000,	20000
-		TF_Mag_AK101_Plastic30Rnd
-		TF_Mag_AK74_Bakelit30Rnd
-		TF_Mag_AK74_Plum30Rnd
-		TF_Mag_AK74_Plastic30Rnd
-		TF_Mag_AKM_Bakelit40Rnd
-		TF_Mag_AKM_Steel40Rnd
-		TF_Mag_M240_50Rnd
-		TF_Mag_M249_200Rnd
-		TF_Mag_PKM_100Rnd
+		TF_Mag_AK101_Plastic30Rnd,		M,	20000, 	16000
+		TF_Mag_AK74_Bakelit30Rnd,		M,	20000, 	16000
+		TF_Mag_AK74_Plum30Rnd,			M,	20000, 	16000
+		TF_Mag_AK74_Plastic30Rnd,		M,	20000, 	16000
+		TF_Mag_AKM_Bakelit40Rnd,		M,	25000, 	16000
+		TF_Mag_AKM_Steel40Rnd,			M,	25000, 	16000
+		TF_Mag_M240_50Rnd,				M,	50000, 	40000
+		TF_Mag_M249_200Rnd,				M,	90000, 	72000
+		TF_Mag_PKM_100Rnd,				M,	70000, 	56000
 		TF_Mag_SVCh308_10Rnd
 		
 	<Category> Handguards
