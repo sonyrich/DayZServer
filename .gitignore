@@ -52,7 +52,7 @@ mpmissions/dayzOffline.enoch/
 mpmissions/dayzOffline.chernarusplus/storage_0/
 mpmissions/dayzOffline.chernarusplus/storage_1/
 config/ExpansionMod/Groups/
+config/DataCache/
 
 #include
 !DayzServer.bat
-
