@@ -622,7 +622,7 @@
         <zone name="InfectedArmy" smin="10" smax="15" dmin="5" dmax="10" x="5255" z="2176.67" r="60"/>			//bottom Balota Airfield
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40" dmax="80" x="2703" z="6757.38" r="80"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40" dmax="80" x="6333" z="7806" r="70"/>
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="40"dmax="80" x="3705" z="5982" r="80"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="0"dmax="0" x="3705" z="5982" r="80"/>				//green mountain
         <zone name="InfectedArmy" smin="20" smax="30" dmin="10" dmax="20" x="725" z="1874.33" r="80"/>			//mili camp near Tikhiyzaliv
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40"dmax="80" x="338" z="9368" r="80"/>
         <zone name="InfectedArmy" smin="5" smax="10" dmin="10" dmax="12" x="1064" z="13897.5" r="80"/>
