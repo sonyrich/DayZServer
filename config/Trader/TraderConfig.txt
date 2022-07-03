@@ -565,6 +565,7 @@
 		Fal_OeBttstck,		*,	10000,	3000
 		Fal_FoldingBttstck,	*,	15000,	4500
 		Saiga_Bttstck,		*,	12000,	3600
+		PP19_Bttstck,		*,	11000,	3300
 		AKS74U_Bttstck,		*,	11000,	3300
 		AK74_WoodBttstck,	*,	12000,	3600
 		AK_PlasticBttstck,	*,	12500,	3750
