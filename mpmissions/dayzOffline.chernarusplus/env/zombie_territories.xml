@@ -617,8 +617,8 @@
     <territory color="1124502272">
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="40"dmax="80" x="338" z="9368" r="80"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40"dmax="80" x="620.333" z="13648.7" r="75"/>
-		<zone name="InfectedArmy" smin="5" smax="10" dmin="10" dmax="12" x="1064" z="13897.5" r="80"/>
 		<zone name="InfectedArmy" smin="20" smax="30" dmin="10" dmax="20" x="725" z="1874.33" r="80"/>			//mili camp near Tikhiyzaliv
+		<zone name="InfectedArmy" smin="5" smax="10" dmin="10" dmax="12" x="1064" z="13897.5" r="80"/>
         <zone name="InfectedArmy" smin="2" smax="8" dmin="40" dmax="80" x="2152.57" z="3327.73" r="110"/>
 		<zone name="InfectedArmy" smin="20" smax="30" dmin="10" dmax="20" x="4888.83" z="2522.5" r="100"/>		//top Balota Airfield
 		<zone name="InfectedArmy" smin="20" smax="22" dmin="5" dmax="10" x="5086.5" z="2288.33" r="60"/>		//mid Balota Airfield
