@@ -1,5 +1,5 @@
-sceneComplexity=500000;
 shadowQuality=5;
+sceneComplexity=500000;
 shadowZDistance=250;
 viewDistance=2200;
 preferredObjectViewDistance=1375.8242;
