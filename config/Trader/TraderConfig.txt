@@ -27,7 +27,7 @@
 		BoarSteakMeat,		S,	-1,		20000		// Sellvalue -1 means it can not be selled
 		BearSteakMeat,		S,	-1,		80000
 		WolfSteakMeat,		S,	-1,		20000
-		DeerSteakMeat,		S,	-1,		30000
+		DeerSteakMeat,		S,	-1,		35000
 		CowSteakMeat,		S,	-1,		15000
 		Sardines,			S,	-1,		10000
 		Carp,				S,	-1,		10000
