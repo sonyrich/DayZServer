@@ -26,5 +26,5 @@
     <var name="TimePenalty" type="0" value="20"/>
     <var name="WorldWetTempUpdate" type="0" value="1"/>
     <var name="ZombieMaxCount" type="0" value="2000"/> //was 1500
-    <var name="ZoneSpawnDist" type="0" value="500"/> //was 300
+    <var name="ZoneSpawnDist" type="0" value="300"/>
 </variables>
