@@ -206,7 +206,7 @@
 		LargeGasCanister,		*,	2000,	500
 		CanisterGasoline,		*,	10000,	2500
 		NailBox,				*,	5000,	1250
-		BarbedWire,				*,	450,	112.5
+		BarbedWire,				*,	450,	150
 		Camonet,				*,	10000,	2500
 		HescoBox,				*,	7000,	1750
 		CombinationLock,		*,	700,	175
@@ -255,33 +255,33 @@
 		M_WorkBench_Hammer,			*,	50000,	12500
 	
 	<Category> BPP Kits
-		BBP_Workbench_Kit,				*,	100,	50
-		BBP_Step_Ladder_Kit,			*,	100,	50
-		BBP_Wall_Kit,					*,	100,	50
-		BBP_Door_Kit,					*,	100,	50
-		BBP_Floor_Kit,					*,	100,	50
-		BBP_Roof_Hatch_Kit,				*,	100,	50
-		BBP_Floor_Hatch_Kit,			*,	100,	50
-		BBP_Foundation_Kit,				*,	100,	50
-		BBP_Gate_Kit,					*,	100,	50
-		BBP_SGate_Kit,					*,	100,	50
-		BBP_Half_Wall_Kit,				*,	100,	50
-		BBP_Pillar_Kit,					*,	100,	50
-		BBP_Ramp_Kit,					*,	100,	50
-		BBP_Roof_Kit,					*,	100,	50
-		BBP_Hanger_Roof_Kit,			*,	100,	50
-		BBP_Slope_Roof_Kit,				*,	100,	50
-		BBP_Slope_Wall_Kit,				*,	100,	50
-		BBP_Stair_Kit,					*,	100,	50
-		BBP_Triangle_Floor_Kit,			*,	100,	50
-		BBP_Triangle_Roof_Kit,			*,	100,	50
-		BBP_Window_Kit,					*,	100,	50
-		BBP_Barbwire_Fence_Kit,			*,	100,	50
-		BBP_Floor_Mesh_Kit,				*,	100,	50
-		BBP_Mesh_Fence_Kit,				*,	100,	50
-		BBP_Mesh_Gate_Kit,				*,	100,	50
-		BBP_Metal_Stair_Kit,			*,	100,	50
-		BBP_Triangle_Foundation_Kit,	*,	100,	50
+		BBP_Workbench_Kit,				*,	1000,	500
+		BBP_Step_Ladder_Kit,			*,	1000,	500
+		BBP_Wall_Kit,					*,	1000,	500
+		BBP_Door_Kit,					*,	1000,	500
+		BBP_Floor_Kit,					*,	1000,	500
+		BBP_Roof_Hatch_Kit,				*,	1000,	500
+		BBP_Floor_Hatch_Kit,			*,	1000,	500
+		BBP_Foundation_Kit,				*,	1000,	500
+		BBP_Gate_Kit,					*,	1000,	500
+		BBP_SGate_Kit,					*,	1000,	500
+		BBP_Half_Wall_Kit,				*,	1000,	500
+		BBP_Pillar_Kit,					*,	1000,	500
+		BBP_Ramp_Kit,					*,	1000,	500
+		BBP_Roof_Kit,					*,	1000,	500
+		BBP_Hanger_Roof_Kit,			*,	1000,	500
+		BBP_Slope_Roof_Kit,				*,	1000,	500
+		BBP_Slope_Wall_Kit,				*,	1000,	500
+		BBP_Stair_Kit,					*,	1000,	500
+		BBP_Triangle_Floor_Kit,			*,	1000,	500
+		BBP_Triangle_Roof_Kit,			*,	1000,	500
+		BBP_Window_Kit,					*,	1000,	500
+		BBP_Barbwire_Fence_Kit,			*,	1000,	500
+		BBP_Floor_Mesh_Kit,				*,	1000,	500
+		BBP_Mesh_Fence_Kit,				*,	1000,	500
+		BBP_Mesh_Gate_Kit,				*,	1000,	500
+		BBP_Metal_Stair_Kit,			*,	1000,	500
+		BBP_Triangle_Foundation_Kit,	*,	1000,	500
 	
 	<Category> BBP Item Pack
 		BBP_Land_Claim_FlagKit,			*,		5000,		2500
