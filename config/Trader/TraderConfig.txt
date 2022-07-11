@@ -343,64 +343,6 @@
 		BBP_Blueprint_Expanded,			*,		400,		200
 		
 <Trader> Weapon Trader
-	<Category> Melee	
-		BrassKnuckles_Shiny,	W,	5000,	2500
-		StunBaton,				W,	10000,	5000
-		Pipe,					W,	5000,	2500
-		CattleProd,				W,	5000,	2500
-		BaseballBat,			W,	10000,	5000
-		NailedBaseballBat,		W,	15000,	7500
-		
-	<Category> Sidearms
-		Flaregun,		W,	10000,	5000
-		MakarovIJ70,	W,	50000,	25000
-		CZ75,			W,	72000,	36000
-		FNX45,			W,	78500,	39250
-		Glock19,		W,	80000,	40000
-		MKII,			W,	77000,	38500
-		Colt1911,		W,	76000,	38000
-		Engraved1911,	W,	76500,	38250
-		
-	<Category> Rifles
-		Izh18,			W,	100000,	50000
-		Mosin9130,		W,	130000,	65000
-		CZ527,			W,	150000,	75000
-		Winchester70,	W,	280000,	140000
-		Repeater,		W,	280000, 140000
-		SKS,			W,	170000,	85000
-		
-	<Category> Shotguns
-		Mp133Shotgun,	W,	135000,	67500
-		Izh43Shotgun,	W,	105000,	52500
-		Saiga,			W,	200000,	100000
-		
-	<Category> Submachine Guns
-		CZ61,	W,	150000,	75000
-		UMP45,	W,	180000,	90000
-		MP5K,	W,	175000,	87500
-		PP19,	W,	174000,	87000
-		AKS74U,	W,	300000,	150000
-		
-	<Category> Assault Rifles
-		FAL,			W,	550000,	275000
-		AKM,			W,	450000,	225000
-		AK101,			W,	420000,	210000
-		AK74,			W,	380000,	190000
-		M4A1,			W,	480000,	240000
-		M16A2,			W,	350000,	175000
-		AUG,			W,	-1,		260000
-		AUGShort,		W,	-1,		260000
-		FAMAS,			W,	-1,		280000
-		SawedoffFAMAS,	W,	-1,		280000
-		
-	//<Category> Light Machine Guns
-		
-	<Category> Sniper Rifles
-		VSS,					W,	450000,	225000
-		Scout_Chernarus,		W,	180000,	90000
-		B95,					W,	190000,	95000
-		SVD,					W,	600000,	300000
-		
 	<Category> TF | WEAPONS
 		TF_AN94,				W,	480000,	384000
 		TF_AN94M,				W,	480000,	384000
@@ -457,6 +399,64 @@
 		TF_SVCh,				W,	1400000,1120000
 		TF_SR25,				W,	600000,	480000
 		
+	<Category> Sidearms
+		Flaregun,		W,	10000,	5000
+		MakarovIJ70,	W,	50000,	25000
+		CZ75,			W,	72000,	36000
+		FNX45,			W,	78500,	39250
+		Glock19,		W,	80000,	40000
+		MKII,			W,	77000,	38500
+		Colt1911,		W,	76000,	38000
+		Engraved1911,	W,	76500,	38250
+		
+	<Category> Rifles
+		Izh18,			W,	100000,	50000
+		Mosin9130,		W,	130000,	65000
+		CZ527,			W,	150000,	75000
+		Winchester70,	W,	280000,	140000
+		Repeater,		W,	280000, 140000
+		SKS,			W,	170000,	85000
+		
+	<Category> Shotguns
+		Mp133Shotgun,	W,	135000,	67500
+		Izh43Shotgun,	W,	105000,	52500
+		Saiga,			W,	200000,	100000
+		
+	<Category> Submachine Guns
+		CZ61,	W,	150000,	75000
+		UMP45,	W,	180000,	90000
+		MP5K,	W,	175000,	87500
+		PP19,	W,	174000,	87000
+		AKS74U,	W,	300000,	150000
+		
+	<Category> Assault Rifles
+		FAL,			W,	550000,	275000
+		AKM,			W,	450000,	225000
+		AK101,			W,	420000,	210000
+		AK74,			W,	380000,	190000
+		M4A1,			W,	480000,	240000
+		M16A2,			W,	350000,	175000
+		AUG,			W,	-1,		260000
+		AUGShort,		W,	-1,		260000
+		FAMAS,			W,	-1,		280000
+		SawedoffFAMAS,	W,	-1,		280000
+	
+	<Category> Melee	
+		BrassKnuckles_Shiny,	W,	5000,	2500
+		StunBaton,				W,	10000,	5000
+		Pipe,					W,	5000,	2500
+		CattleProd,				W,	5000,	2500
+		BaseballBat,			W,	10000,	5000
+		NailedBaseballBat,		W,	15000,	7500
+		
+	//<Category> Light Machine Guns
+		
+	<Category> Sniper Rifles
+		VSS,					W,	450000,	225000
+		Scout_Chernarus,		W,	180000,	90000
+		B95,					W,	190000,	95000
+		SVD,					W,	600000,	300000
+		
 	<Category> Grenades
 		RGD5Grenade,				1,	60000,	30000
 		M67Grenade,					1,	80000,	40000
@@ -478,6 +478,25 @@
 		
 <Trader> Weapon Supplies
 	<Category> Ammunition
+		AmmoBox_380_35rnd,			*,	3500,	1750
+		AmmoBox_9x19_25rnd,			*,	5500,	2750
+		AmmoBox_45ACP_25rnd,		*,	7000,	3500
+		AmmoBox_22_50Rnd,			*,	2900,	1450
+		AmmoBox_00buck_10rnd,		*,	8000,	4000
+		AmmoBox_12gaSlug_10Rnd,		*,	7000,	3500
+		AmmoBox_9x39_20Rnd,			*,	14000,	7000
+		AmmoBox_9x39AP_20Rnd,		*,	16000,	8000
+		AmmoBox_308Win_20Rnd,		*,	20000,	10000
+		AmmoBox_545x39_20Rnd,		*,	12000,	6000
+		AmmoBox_556x45_20Rnd,		*,	13000,	6500
+		AmmoBox_762x39_20Rnd,		*,	16000,	8000
+		AmmoBox_762x54_20Rnd,		*,	19000,	9500
+		AmmoBox_308WinTracer_20Rnd,	*,	20000,	10000
+		AmmoBox_545x39Tracer_20Rnd,	*,	12000,	6000
+		AmmoBox_556x45Tracer_20Rnd,	*,	13000,	6500
+		AmmoBox_762x39Tracer_20Rnd,	*,	16000,	8000
+		AmmoBox_762x54Tracer_20Rnd,	*,	19000,	9500
+		
 		Ammo_380,				1,	-1,	10
 		Ammo_9x19,				1,	-1,	10
 		Ammo_22,				1,	-1,	10
@@ -500,30 +519,6 @@
 		Ammo_FlareBlue,			1,	500,100
 		Ammo_FlareGreen,		1,	500,100
 		Ammo_FlareRed,			1,	500,100
-
-		// When changing Prices here keep in Mind that Players
-		// can just unpack the Ammoboxes and sell the Ammo seperatly!
-		// Originally the Ammoboxes buying Price is 20% less than
-		// buying single Ammo. The Selling Price is the same as
-		// selling the Ammo seperately.
-		AmmoBox_380_35rnd,			*,	3500,	1750
-		AmmoBox_9x19_25rnd,			*,	5500,	2750
-		AmmoBox_45ACP_25rnd,		*,	7000,	3500
-		AmmoBox_22_50Rnd,			*,	2900,	1450
-		AmmoBox_00buck_10rnd,		*,	8000,	4000
-		AmmoBox_12gaSlug_10Rnd,		*,	7000,	3500
-		AmmoBox_9x39_20Rnd,			*,	14000,	7000
-		AmmoBox_9x39AP_20Rnd,		*,	16000,	8000
-		AmmoBox_308Win_20Rnd,		*,	20000,	10000
-		AmmoBox_545x39_20Rnd,		*,	12000,	6000
-		AmmoBox_556x45_20Rnd,		*,	13000,	6500
-		AmmoBox_762x39_20Rnd,		*,	16000,	8000
-		AmmoBox_762x54_20Rnd,		*,	19000,	9500
-		AmmoBox_308WinTracer_20Rnd,	*,	20000,	10000
-		AmmoBox_545x39Tracer_20Rnd,	*,	12000,	6000
-		AmmoBox_556x45Tracer_20Rnd,	*,	13000,	6500
-		AmmoBox_762x39Tracer_20Rnd,	*,	16000,	8000
-		AmmoBox_762x54Tracer_20Rnd,	*,	19000,	9500
 		
 	<Category> TF | AMMO
 		TF_Ammo_20mm,		1,	35000,	28000
