@@ -39,20 +39,20 @@
 		Guts,		S,	8000,	2000
 		SmallGuts,	S,	6000,	1500
 							
-	<Category> Vegetables							
-		CaninaBerry,			*,	7000,	2800	
-		SambucusBerry,			*,	7000,	2800	
-		Plum,					*,	6000,	2400	
-		Kiwi,					*,	10000,	4000	
-		Apple,					*,	5000,	3200
+	<Category> Vegetables	
 		Pear,					*,	4000,	2800
-		Orange,					*,	9000,	3200
-		Banana,					*,	11000,	4400
-		Tomato,					*,	9000,	3600
-		Potato,					*,	8000,	3200
-		GreenBellPepper,		*,	7000,	2800
+		Apple,					*,	5000,	3200
 		Zucchini,				*,	6000,	2400
+		Plum,					*,	6000,	2400	
+		CaninaBerry,			*,	7000,	2800	
+		SambucusBerry,			*,	7000,	2800
+		GreenBellPepper,		*,	7000,	2800
+		Potato,					*,	8000,	3200
 		Pumpkin,				*,	8000,	3200
+		Orange,					*,	9000,	3200
+		Tomato,					*,	9000,	3600
+		Kiwi,					*,	10000,	4000	
+		Banana,					*,	11000,	4400
 		AgaricusMushroom,		*,	10000,	4600
 		AmanitaMushroom,		*,	10000,	4600
 		LactariusMushroom,		*,	10000,	4600
