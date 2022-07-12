@@ -91,7 +91,7 @@
 		DisinfectantSpray,		*,	3000,		800
 		Heatpack,				*,	2000,		500
 		StartKitIV,				*,	3500,		900
-		SalineBag,				*,	1000,		400
+		SalineBag,				*,	4000,		800
 		BloodBagEmpty,			*,	4000,		1000
 		FirstAidKit,			*,	1000,		400
 		Defibrillator,			*,	10000,		2500
