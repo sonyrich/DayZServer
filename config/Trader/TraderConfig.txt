@@ -53,14 +53,14 @@
 		GreenBellPepper,		*,	7000,	2800
 		Zucchini,				*,	6000,	2400
 		Pumpkin,				*,	8000,	3200
-		AgaricusMushroom,		*,	12000,	4800
-		AmanitaMushroom,		*,	12000,	4800
-		LactariusMushroom,		*,	12000,	4800
-		MacrolepiotaMushroom,	*,	12000,	4800
-		PsilocybeMushroom,		*,	12000,	4800
-		AuriculariaMushroom,	*,	12000,	4800
-		BoletusMushroom,		*,	12000,	4800
-		PleurotusMushroom,		*,	12000,	4800
+		AgaricusMushroom,		*,	10000,	4600
+		AmanitaMushroom,		*,	10000,	4600
+		LactariusMushroom,		*,	10000,	4600
+		MacrolepiotaMushroom,	*,	10000,	4600
+		PsilocybeMushroom,		*,	10000,	4600
+		AuriculariaMushroom,	*,	10000,	4600
+		BoletusMushroom,		*,	10000,	4600
+		PleurotusMushroom,		*,	10000,	4600
 	
 	<Category> Packaged Food
 		PowderedMilk,		*,	4000,	1000
