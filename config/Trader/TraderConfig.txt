@@ -84,27 +84,28 @@
 		Vodka,			*,	-1,		400000
 		
 	<Category> Medical Supplies
-		Rag,					1,	200,		50
-		BandageDressing,		2,	5000,		1300
+		BandageDressing,		*,	10000,		1300
+		StartKitIV,				*,	3500,		900
+		SalineBag,				*,	3000,		800
+		BloodBagEmpty,			*,	2000,		600
+		Rag,					2,	400,		100
 		BloodTestKit,			*,	1000,		300
 		Thermometer,			*,	500,		200
 		DisinfectantSpray,		*,	3000,		800
 		Heatpack,				*,	2000,		500
-		StartKitIV,				*,	3500,		900
-		SalineBag,				*,	4000,		800
-		BloodBagEmpty,			*,	4000,		1000
 		FirstAidKit,			*,	1000,		400
 		Defibrillator,			*,	10000,		2500
 		GasMask_Filter,			*,	20000,		8000
 		
 	<Category> Medications
-		CharcoalTablets,		*,		10000,		2000
-		DisinfectantAlcohol,	*,		4500,		1000
 		VitaminBottle,			1,		50000,		25000
 		TetracyclineAntibiotics,1,		40000,		20000
 		PainkillerTablets,		2,		25000,		12500
-		Epinephrine,			*,		10000,		5000
 		Morphine,				*,		15000,		7500
+		Epinephrine,			*,		10000,		5000
+		CharcoalTablets,		*,		10000,		2000
+		DisinfectantAlcohol,	*,		4500,		1000
+
 		
 	<Category> Money Exchange
 		MoneyRuble1,	1,	1,		-1
