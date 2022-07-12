@@ -64,7 +64,7 @@
         <zone name="InfectedNBC" smin="35" smax="40" dmin="10" dmax="15" x="2148.21" z="3334.64" r="90"/>		//mid MB Pavlovo
         <zone name="InfectedNBC" smin="20" smax="30" dmin="10" dmax="15" x="2093.57" z="3510" r="80"/>			//top MB Pavlovo
         <zone name="InfectedNBC" smin="10" smax="20" dmin="10" dmax="12" x="1915.71" z="3413.57" r="80"/>		//left MB Pavlovo
-        <zone name="InfectedNBC" smin="35" smax="40" dmin="30" dmax="35" x="13683.3" z="11180" r="140"/>		//Shipwreck near Rify
+        <zone name="InfectedNBC" smin="35" smax="40" dmin="15" dmax="20" x="13683.3" z="11180" r="120"/>		//Rify Shipwreck
     </territory>
     <territory color="2615190015">
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="60" dmax="80" x="12584.2" z="13797.5" r="70"/>
@@ -492,8 +492,8 @@
         <zone name="InfectedPolice" smin="0" smax="0" dmin="20" dmax="50" x="6213.36" z="2928.93" r="70"/>
         <zone name="InfectedPolice" smin="0" smax="0" dmin="20" dmax="50" x="5882.14" z="4690.71" r="70"/>
         <zone name="InfectedPolice" smin="0" smax="0" dmin="20" dmax="50" x="3589.29" z="2453.57" r="60"/>
-        <zone name="InfectedPolice" smin="10" smax="20" dmin="8" dmax="10" x="2772.5" z="1267.5" r="70"/>		//right Storozh prison
-        <zone name="InfectedPolice" smin="20" smax="30" dmin="10" dmax="15" x="2602.5" z="1301.25" r="70"/>		//left Storozh prison
+        <zone name="InfectedPolice" smin="10" smax="20" dmin="3" dmax="6" x="2772.5" z="1267.5" r="70"/>		//right Storozh prison
+        <zone name="InfectedPolice" smin="20" smax="30" dmin="8" dmax="10" x="2602.5" z="1301.25" r="70"/>		//left Storozh prison
     </territory>
     <territory color="1790009876">
         <zone name="InfectedFirefighter" smin="0" smax="0" dmin="20" dmax="50" x="6502.79" z="2335.25" r="50"/>
@@ -662,8 +662,8 @@
         <zone name="InfectedArmyHard" smin="0" smax="20" dmin="30" dmax="50" x="4666.33" z="9616.33" r="100"/>
     </territory>
     <territory color="1289674462">
-        <zone name="InfectedPrisoner" smin="5" smax="8" dmin="1" dmax="3" x="2601.31" z="1317.64" r="80"/>		//left Storozh prison
-        <zone name="InfectedPrisoner" smin="38" smax="40" dmin="20" dmax="25" x="2776.25" z="1252.5" r="80"/>	//right Storozh prison
+        <zone name="InfectedPrisoner" smin="5" smax="6" dmin="1" dmax="2" x="2601.31" z="1317.64" r="80"/>		//left Storozh prison
+        <zone name="InfectedPrisoner" smin="38" smax="40" dmin="10" dmax="15" x="2776.25" z="1252.5" r="80"/>	//right Storozh prison
     </territory>
     <territory color="3014176010">
         <zone name="InfectedCity" smin="0" smax="0" dmin="20" dmax="50" x="10967" z="12433.5" r="100"/>
