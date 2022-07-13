@@ -128,19 +128,19 @@
 		Hacksaw,				*,	10000,	2500
 		HandSaw,				*,	20000,	5000
 		WeaponCleaningKit,		*,	60000,	15000
-		KitchenKnife,			*,	-1,		1000
-		SteakKnife,				*,	-1,		1000
-		HuntingKnife,			*,	-1,		1000
 		CanOpener,				*,	2000,	500
 		Compass,				*,	500,	200
 		OrienteeringCompass,	*,	500,	200
-		Hatchet,				*,	-1,		1000
 		CombatKnife,			*,	5000,	1300
+		FishingRod,				*,	10000,	2500
+		KitchenKnife,			*,	-1,		1000
+		SteakKnife,				*,	-1,		1000
+		HuntingKnife,			*,	-1,		1000
+		Hatchet,				*,	-1,		1000
 		Machete,				*,	-1,		2000
 		ChernarusMap,			*,	-1,		500
 		Lockpick,				*,	-1,		2000
 		Binoculars,				*,	-1,		1000
-		FishingRod,				*,	10000,	2500
 		
 	<Category> Tools (big)
 		LugWrench,			*,	5000,	1250
