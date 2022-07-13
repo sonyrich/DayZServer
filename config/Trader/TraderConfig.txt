@@ -304,13 +304,13 @@
 		BBP_Painting_1,					*,		2000,		100
 		BBP_Painting_2,					*,		2000,		100
 		BBP_Xmas_Tree,					*,		4000,		200
-		BBP_Golf,						*,		800,		40
+		BBP_Golf,						*,		800,		400
 		BBP_Gang_Plug,					*,		800,		400
 		BBP_Step_LadderKit,				*,		800,		400
 		BBP_Wheelbarrow,				*,		400,		200
 		BBP_Dance_FloorKit,				*,		4000,		200
-		BBP_XmasLights_9v,				*,		1000,		40
-		BBP_XmasLights_Solar,			*,		2000,		60
+		BBP_XmasLights_9v,				*,		1000,		100
+		BBP_XmasLights_Solar,			*,		2000,		150
 		BBP_Painting_Landscape,			*,		400,		100
 		BBP_PhotoFrame_Portrait,		*,		500,		100
 		BBP_PhotoFrame_Landscape,		*,		500,		100
@@ -839,75 +839,75 @@
 		
 
 	<Category> Hats & Caps
-		MedicalScrubsHat_Blue,		*,	200,	1
-		MedicalScrubsHat_White,		*,	200,	1
-		MedicalScrubsHat_Green,		*,	200,	1
-		Bandana_Polkapattern,		*,	600,	2
-		Bandana_Redpattern,			*,	600,	2
-		Bandana_Blackpattern,		*,	600,	2
-		Bandana_Greenpattern,		*,	800,	2
-		Bandana_Camopattern,		*,	100,	3
-		BaseballCap_CMMG_Pink,		*,	120,	3
-		BaseballCap_Pink,			*,	120,	3
-		BaseballCap_Red,			*,	120,	3
-		BaseballCap_Blue,			*,	120,	3
-		BaseballCap_Beige,			*,	120,	3
-		BaseballCap_CMMG_Black,		*,	120,	3
-		BaseballCap_Black,			*,	130,	3
-		BaseballCap_Olive,			*,	140,	4
-		BaseballCap_Camo,			*,	160,	5
-		PrisonerCap,				*,	160,	5
-		BoonieHat_Orange,			*,	160,	5
-		BoonieHat_Red,				*,	160,	5
-		BoonieHat_Blue,				*,	160,	5
-		BoonieHat_NavyBlue,			*,	160,	5
-		BoonieHat_Black,			*,	170,	5
-		BoonieHat_Tan,				*,	180,	6
-		BoonieHat_Olive,			*,	180,	6
-		BoonieHat_DPM,				*,	200,	7
-		BoonieHat_Dubok,			*,	200,	7
-		BoonieHat_Flecktran,		*,	200,	7
-		CowboyHat_Brown,			*,	200,	7
-		CowboyHat_darkBrown,		*,	200,	7
-		CowboyHat_black,			*,	200,	7
-		CowboyHat_green,			*,	200,	7
-		PilotkaCap,					*,	250,	7
-		OfficerHat,					*,	250,	7
-		PoliceCap,					*,	250,	7
-		MilitaryBeret_ChDKZ,		*,	260,	7
-		MilitaryBeret_Red,			*,	260,	7
-		MilitaryBeret_UN,			*,	260,	7
-		MilitaryBeret_CDF,			*,	270,	7
-		MilitaryBeret_NZ,			*,	270,	7
-		BeanieHat_Pink,				*,	300,	8
-		BeanieHat_Red,				*,	300,	8
-		BeanieHat_Blue,				*,	300,	8
-		BeanieHat_Grey,				*,	300,	8
-		BeanieHat_Beige,			*,	300,	8
-		BeanieHat_Brown,			*,	300,	8
-		BeanieHat_Black,			*,	310,	8
-		BeanieHat_Green,			*,	320,	9
-		FlatCap_Red,				*,	320,	8
-		FlatCap_Blue,				*,	320,	8
-		FlatCap_BrownCheck,			*,	320,	8
-		FlatCap_GreyCheck,			*,	320,	8
-		FlatCap_Grey,				*,	320,	8
-		FlatCap_Brown,				*,	320,	8
-		FlatCap_Black,				*,	320,	8
-		FlatCap_BlackCheck,			*,	320,	8
-		ZmijovkaCap_Red,			*,	360,	9
-		ZmijovkaCap_Blue,			*,	360,	9
-		ZmijovkaCap_Brown,			*,	360,	9
-		ZmijovkaCap_Black,			*,	370,	9
-		ZmijovkaCap_Green,			*,	380,	10
-		RadarCap_Red,				*,	400,	10
-		RadarCap_Blue,				*,	400,	10
-		RadarCap_Brown,				*,	400,	10
-		RadarCap_Black,				*,	420,	10
-		RadarCap_Green,				*,	450,	12
-		Ushanka_Blue,				*,	500,	15
-		Ushanka_Black,				*,	500,	15
-		Ushanka_Green,				*,	550,	18
+		MedicalScrubsHat_Blue,		*,	200,	10
+		MedicalScrubsHat_White,		*,	200,	10
+		MedicalScrubsHat_Green,		*,	200,	10
+		Bandana_Polkapattern,		*,	600,	20
+		Bandana_Redpattern,			*,	600,	20
+		Bandana_Blackpattern,		*,	600,	20
+		Bandana_Greenpattern,		*,	800,	20
+		Bandana_Camopattern,		*,	100,	30
+		BaseballCap_CMMG_Pink,		*,	120,	30
+		BaseballCap_Pink,			*,	120,	30
+		BaseballCap_Red,			*,	120,	30
+		BaseballCap_Blue,			*,	120,	30
+		BaseballCap_Beige,			*,	120,	30
+		BaseballCap_CMMG_Black,		*,	120,	30
+		BaseballCap_Black,			*,	130,	30
+		BaseballCap_Olive,			*,	140,	40
+		BaseballCap_Camo,			*,	160,	50
+		PrisonerCap,				*,	160,	50
+		BoonieHat_Orange,			*,	160,	50
+		BoonieHat_Red,				*,	160,	50
+		BoonieHat_Blue,				*,	160,	50
+		BoonieHat_NavyBlue,			*,	160,	50
+		BoonieHat_Black,			*,	170,	50
+		BoonieHat_Tan,				*,	180,	60
+		BoonieHat_Olive,			*,	180,	60
+		BoonieHat_DPM,				*,	200,	70
+		BoonieHat_Dubok,			*,	200,	70
+		BoonieHat_Flecktran,		*,	200,	70
+		CowboyHat_Brown,			*,	200,	70
+		CowboyHat_darkBrown,		*,	200,	70
+		CowboyHat_black,			*,	200,	70
+		CowboyHat_green,			*,	200,	70
+		PilotkaCap,					*,	250,	70
+		OfficerHat,					*,	250,	70
+		PoliceCap,					*,	250,	70
+		MilitaryBeret_ChDKZ,		*,	260,	70
+		MilitaryBeret_Red,			*,	260,	70
+		MilitaryBeret_UN,			*,	260,	70
+		MilitaryBeret_CDF,			*,	270,	70
+		MilitaryBeret_NZ,			*,	270,	70
+		BeanieHat_Pink,				*,	300,	80
+		BeanieHat_Red,				*,	300,	80
+		BeanieHat_Blue,				*,	300,	80
+		BeanieHat_Grey,				*,	300,	80
+		BeanieHat_Beige,			*,	300,	80
+		BeanieHat_Brown,			*,	300,	80
+		BeanieHat_Black,			*,	310,	80
+		BeanieHat_Green,			*,	320,	90
+		FlatCap_Red,				*,	320,	80
+		FlatCap_Blue,				*,	320,	80
+		FlatCap_BrownCheck,			*,	320,	80
+		FlatCap_GreyCheck,			*,	320,	80
+		FlatCap_Grey,				*,	320,	80
+		FlatCap_Brown,				*,	320,	80
+		FlatCap_Black,				*,	320,	80
+		FlatCap_BlackCheck,			*,	320,	80
+		ZmijovkaCap_Red,			*,	360,	90
+		ZmijovkaCap_Blue,			*,	360,	90
+		ZmijovkaCap_Brown,			*,	360,	90
+		ZmijovkaCap_Black,			*,	370,	90
+		ZmijovkaCap_Green,			*,	380,	100
+		RadarCap_Red,				*,	400,	100
+		RadarCap_Blue,				*,	400,	100
+		RadarCap_Brown,				*,	400,	100
+		RadarCap_Black,				*,	420,	100
+		RadarCap_Green,				*,	450,	120
+		Ushanka_Blue,				*,	500,	150
+		Ushanka_Black,				*,	500,	150
+		Ushanka_Green,				*,	550,	180
 		NBCHoodGray,				*,	20000,	6000
 
 	<Category> Helmets
