@@ -1708,9 +1708,11 @@
 		
 <Trader> Aircraft Trader
 	<Category> Helicopters
-		ExpansionUh1h,			V,	3000000,	2400000
-		ExpansionMh6,			V,	2700000,	2160000
-		ExpansionMerlin,		V,	3500000,	2800000
+		ExpansionUh1h,			V,	2800000,	2300000
+		ExpansionMh6,			V,	2700000,	2200000
+		ExpansionMh6_Blueline,	V,	2700000,	2200000
+		ExpansionMh6_Digital,	V,	2700000,	2200000
+		ExpansionMerlin,		V,	3200000,	2600000
 		ExpansionGyrocopter,	V,	1800000,	1440000
 	
 	<Category> Helicopter Parts
