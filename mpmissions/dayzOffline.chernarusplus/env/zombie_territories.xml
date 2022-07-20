@@ -64,7 +64,7 @@
         <zone name="InfectedNBC" smin="35" smax="40" dmin="10" dmax="15" x="2148.21" z="3334.64" r="90"/>		//mid MB Pavlovo
         <zone name="InfectedNBC" smin="20" smax="30" dmin="10" dmax="15" x="2093.57" z="3510" r="80"/>			//top MB Pavlovo
         <zone name="InfectedNBC" smin="10" smax="20" dmin="10" dmax="12" x="1915.71" z="3413.57" r="80"/>		//left MB Pavlovo
-        <zone name="InfectedNBC" smin="35" smax="40" dmin="15" dmax="20" x="13683.3" z="11180" r="120"/>		//Rify Shipwreck
+        <zone name="InfectedNBC" smin="10" smax="15" dmin="15" dmax="20" x="13683.3" z="11180" r="110"/>		//Rify Shipwreck
     </territory>
     <territory color="2615190015">
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="60" dmax="80" x="12584.2" z="13797.5" r="70"/>
