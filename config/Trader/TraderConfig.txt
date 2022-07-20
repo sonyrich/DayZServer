@@ -21,17 +21,18 @@
 <Trader> Consume Trader	
 	<Category> Meat									// Trader Name (first Trader has ID = 0, second Trader has ID = 1, and so on..)
 		ChickenBreastMeat,	S,	20000,	8000		// Category Name
-		GoatSteakMeat,		S,	-1,		15000		// Item Classname, Quantity, Buyvalue, Sellvalue
-		SheepSteakMeat,		S,	40000,	10000		// Quantity * means max value; Quantity V means Vehicle; Quantity VNK means Vehicle without Key; Quantity M means Magazine; Quantity W means Weapon; Quantity S means Steack Meat; Quantity K means Key Duplication
-		PigSteakMeat,		S,	40000,	10000		// Buyvalue -1 means it can not be bought
+		GoatSteakMeat,		S,	65000,	28000		// Item Classname, Quantity, Buyvalue, Sellvalue
+		WolfSteakMeat,		S,	-1,		14000		
+		SheepSteakMeat,		S,	-1,		28000		// Quantity * means max value; Quantity V means Vehicle; Quantity VNK means Vehicle without Key; Quantity M means Magazine; Quantity W means Weapon; Quantity S means Steack Meat; Quantity K means Key Duplication
+		PigSteakMeat,		S,	38000,	18000		// Buyvalue -1 means it can not be bought
 		BoarSteakMeat,		S,	-1,		20000		// Sellvalue -1 means it can not be selled
 		BearSteakMeat,		S,	-1,		80000
-		WolfSteakMeat,		S,	-1,		20000
-		DeerSteakMeat,		S,	-1,		35000
+		DeerSteakMeat,		S,	-1,		22000
 		CowSteakMeat,		S,	-1,		15000
-		Sardines,			S,	-1,		10000
+		Sardines,			S,	-1,		9000
 		Carp,				S,	-1,		10000
-		Mackerel,			S,	-1,		10000
+		Mackerel,			S,	-1,		14000
+		Bitterlings,		S,	-1,		8000
 		
 	<Category> Animal Parts
 		Bone,		*,	4000,	1000
