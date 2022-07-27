@@ -404,7 +404,7 @@
 		TF_SVCh,				W,	1400000,1120000
 		TF_SR25,				W,	600000,	480000
 		
-	<Category> Sidearms
+	<Category> Pistols
 		Flaregun,		W,	10000,	5000
 		Derringer_Black,W,	20000,	10000
 		Derringer_Grey,	W,	20000,	10000
@@ -424,23 +424,14 @@
 		
 	<Category> Rifles
 		Izh18,			W,	100000,	50000
+		B95,			W,	190000,	95000
+		SawedoffB95,	W,	220000,	110000
 		Mosin9130,		W,	130000,	65000
 		CZ527,			W,	150000,	75000
 		SKS,			W,	170000,	85000
 		Winchester70,	W,	280000,	140000
 		Repeater,		W,	280000, 140000
-		
-	<Category> Shotguns
-		Izh43Shotgun,	W,	105000,	52500
-		Mp133Shotgun,	W,	135000,	67500
-		Saiga,			W,	200000,	100000
-		
-	<Category> Submachine Guns
-		CZ61,	W,	150000,	75000
-		MP5K,	W,	175000,	87500
-		PP19,	W,	174000,	87000
-		UMP45,	W,	180000,	90000
-		
+	
 	<Category> Assault Rifles
 		FAL,			W,	550000,	275000
 		AKM,			W,	450000,	225000
@@ -453,6 +444,18 @@
 		AUGShort,		W,	-1,		260000
 		FAMAS,			W,	-1,		280000
 		SawedoffFAMAS,	W,	-1,		280000
+		
+	<Category> Shotguns
+		Izh43Shotgun,			W,	105000,	52500
+		SawedoffIzh43Shotgun,	W,	120000,	60000
+		Mp133Shotgun,			W,	135000,	67500
+		Saiga,					W,	200000,	100000
+		
+	<Category> Submachine Guns
+		CZ61,	W,	150000,	75000
+		MP5K,	W,	175000,	87500
+		PP19,	W,	174000,	87000
+		UMP45,	W,	180000,	90000
 	
 	<Category> Melee	
 		BrassKnuckles_Shiny,	W,	5000,	2500
@@ -466,8 +469,9 @@
 		
 	<Category> Sniper Rifles
 		VSS,					W,	450000,	225000
+		Scout,					W,	180000,	90000
 		Scout_Chernarus,		W,	180000,	90000
-		B95,					W,	190000,	95000
+		Scout_Livonia,			W,	180000,	90000
 		SVD,					W,	600000,	300000
 		
 	<Category> Grenades
@@ -801,7 +805,7 @@
 		M4_Suppressor,		*,	43000,	22000
 
 	<Category> Compensators
-		Mosin_Compensator,	*,	20000,	9000
+		Mosin_Compensator,	*,	10000,	6000
 		MP5_Compensator	,	*,	25000,	12000
 	
 	<Category> Bayonets
@@ -811,7 +815,8 @@
 		SKS_Bayonet,	*,	9000,	2700
 		
 	<Category> Flashlights
-		Universallight,	*,	5000,	1500
+		Universallight,	*,	6000,	2000
+		TLRLight,		*,	5000,	1800
 	
 <Trader> Clothing Trader
 	<Category> Glasses
