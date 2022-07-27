@@ -1350,6 +1350,8 @@
 		ChestHolster,			*,	2000,	600
 		PlateCarrierHolster,	*,	8000,	2400
 		PlateCarrierPouches,	*,	12000,	3600
+		LeatherKnifeSheath,		*,	7000,	2200
+		NylonKnifeSheath,		*,	7000,	2200
 		
 	<Category> Belt
 		CivilianBelt,	*,	15000,	4500
@@ -1404,7 +1406,6 @@
 		TF_Maska1SchVizor,					*,	30000,	24000
 
 	<Category> TF | VESTS
-	
 		TF_PlateCarrierVest_EMR,			*,	30000,	24000
 		TF_PlateCarrierVest_Coyote,			*,	30000,	24000
 		TF_6sh112_EMR,						*,	30000,	24000
@@ -1747,7 +1748,7 @@
 <Trader> Aircraft Trader
 	<Category> Helicopters
 		ExpansionUh1h,			V,	2800000,	2300000
-		ExpansionMh6,			V,	2700000,	2200000
+		ExpansionMh6,			V,	3000000,	2500000
 		ExpansionMh6_Blueline,	V,	2700000,	2200000
 		ExpansionMh6_Digital,	V,	2700000,	2200000
 		ExpansionMerlin,		V,	3200000,	2600000
@@ -1756,8 +1757,8 @@
 	<Category> Helicopter Parts
 		ExpansionHelicopterBattery,	*,	50000,	40000
 		CarRadiator,				*,	30000,	24000
-		SparkPlug,					*,	500,	125
-		HeadlightH7,				*,	100,	30
+		SparkPlug,					*,	1000,	200
+		HeadlightH7,				*,	500,	100
 		ExpansionHydraulicHoses,	*,	3000,	2400
 		ExpansionIgniterPlug,		*,	5000,	4000
 	
