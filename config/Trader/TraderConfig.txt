@@ -40,15 +40,15 @@
 		Lard,			S,	5000,	1400
 		Guts,			S,	8000,	2000
 		SmallGuts,		S,	6000,	1500
-		PigPelt,		S,	0000,	24000
-		GoatPelt,		S,	0000,	32000
-		WolfPelt,		S,	0000,	22000
-		DeerPelt,		S,	0000,	30000
-		CowPelt,		S,	0000,	34000
-		WildboarPelt,	S,	0000,	36000
-		BearPelt,		S,	0000,	200000
-		SheepPelt,		S,	0000,	68000
-		RabbitPelt,		S,	0000,	180000
+		PigPelt,		S,	44000,	24000
+		GoatPelt,		S,	64000,	32000
+		WolfPelt,		S,	40000,	22000
+		DeerPelt,		S,	60000,	30000
+		CowPelt,		S,	68000,	34000
+		WildboarPelt,	S,	72000,	36000
+		BearPelt,		S,	1000000,200000
+		SheepPelt,		S,	135000,	68000
+		RabbitPelt,		S,	400000,	180000
 							
 	<Category> Vegetables	
 		Pear,					*,	4000,	2800
