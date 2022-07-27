@@ -50,7 +50,7 @@
 		SheepPelt,		S,	135000,	68000
 		RabbitPelt,		S,	400000,	180000
 							
-	<Category> Vegetables	
+	<Category> Fruits and Vegetables	
 		Pear,					*,	4000,	2800
 		Apple,					*,	5000,	3200
 		Zucchini,				*,	6000,	2400
@@ -60,8 +60,8 @@
 		GreenBellPepper,		*,	7000,	2800
 		Potato,					*,	8000,	3200
 		Pumpkin,				*,	8000,	3200
-		Orange,					*,	9000,	3200
-		Tomato,					*,	9000,	3600
+		Orange,					*,	9500,	3200
+		Tomato,					*,	9600,	3600
 		Kiwi,					*,	10000,	4000	
 		Banana,					*,	11000,	4400
 		AgaricusMushroom,		*,	10000,	4600
@@ -73,11 +73,11 @@
 		BoletusMushroom,		*,	10000,	4600
 		PleurotusMushroom,		*,	10000,	4600
 	
-	<Category> Packaged Food
+	<Category> Canned and Packaged Foods
 		PowderedMilk,		*,	15000,	8000
 		BoxCerealCrunchin,	*,	13800,	7000
 		Rice,				*,	5000,	2000
-		SardinesCan,		*,	-1,		4200
+		SardinesCan,		*,	-1,		4600
 		TunaCan,			*,	-1,		3800
 		Marmalade,			*,	7000,	3500
 		PeachesCan,			*,	-1,		4000
@@ -96,15 +96,15 @@
 		
 	<Category> Medical Supplies
 		BandageDressing,		*,	10000,		1300
-		StartKitIV,				*,	3500,		900
-		SalineBag,				*,	3000,		800
-		BloodBagEmpty,			*,	2000,		600
+		StartKitIV,				*,	5000,		1000
+		SalineBag,				*,	25000,		8000
+		BloodBagEmpty,			*,	2500,		600
 		Rag,					2,	400,		100
 		BloodTestKit,			*,	1000,		300
 		Thermometer,			*,	500,		200
 		DisinfectantSpray,		*,	3000,		800
-		Heatpack,				*,	2000,		500
-		FirstAidKit,			*,	1000,		400
+		Heatpack,				*,	3000,		600
+		FirstAidKit,			*,	1500,		400
 		Defibrillator,			*,	10000,		2500
 		GasMask_Filter,			*,	20000,		8000
 		
@@ -116,7 +116,6 @@
 		Epinephrine,			*,		10000,		5000
 		CharcoalTablets,		*,		10000,		2000
 		DisinfectantAlcohol,	*,		4500,		1000
-
 		
 	<Category> Money Exchange
 		MoneyRuble1,	1,	1,		-1
@@ -139,10 +138,10 @@
 		Hacksaw,				*,	10000,	2500
 		HandSaw,				*,	20000,	5000
 		WeaponCleaningKit,		*,	60000,	15000
-		PetrolLighter,			*,	5000,	2000
-		CanOpener,				*,	3000,	800
-		Compass,				*,	1500,	400
-		OrienteeringCompass,	*,	1500,	400
+		PetrolLighter,			*,	7000,	4000
+		CanOpener,				*,	4000,	2000
+		Compass,				*,	1500,	500
+		OrienteeringCompass,	*,	1500,	500
 		FishingRod,				*,	50000,	10000
 		Hook,					*,	10000,	4000
 		KitchenKnife,			*,	-1,		1000
