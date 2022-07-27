@@ -46,7 +46,7 @@
 		DeerPelt,		S,	60000,	30000
 		CowPelt,		S,	68000,	34000
 		WildboarPelt,	S,	72000,	36000
-		BearPelt,		S,	1000000,200000
+		BearPelt,		S,	800000,200000
 		SheepPelt,		S,	135000,	68000
 		RabbitPelt,		S,	400000,	180000
 							
