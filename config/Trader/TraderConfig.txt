@@ -49,6 +49,18 @@
 		BearPelt,		S,	800000,200000
 		SheepPelt,		S,	135000,	68000
 		RabbitPelt,		S,	400000,	180000
+	
+	<Category> Canned and Packaged Foods
+		PowderedMilk,		*,	15000,	8000
+		BoxCerealCrunchin,	*,	13800,	7000
+		Rice,				*,	5000,	2000
+		SardinesCan,		*,	-1,		4600
+		TunaCan,			*,	-1,		3800
+		Marmalade,			*,	7000,	3500
+		PeachesCan,			*,	-1,		4000
+		SpaghettiCan,		*,	-1,		4800
+		BakedBeansCan,		*,	-1,		6000
+		TacticalBaconCan,	*,	-1,		7200
 							
 	<Category> Fruits and Vegetables	
 		Pear,					*,	4000,	2800
@@ -72,18 +84,6 @@
 		AuriculariaMushroom,	*,	10000,	4600
 		BoletusMushroom,		*,	10000,	4600
 		PleurotusMushroom,		*,	10000,	4600
-	
-	<Category> Canned and Packaged Foods
-		PowderedMilk,		*,	15000,	8000
-		BoxCerealCrunchin,	*,	13800,	7000
-		Rice,				*,	5000,	2000
-		SardinesCan,		*,	-1,		4600
-		TunaCan,			*,	-1,		3800
-		Marmalade,			*,	7000,	3500
-		PeachesCan,			*,	-1,		4000
-		SpaghettiCan,		*,	-1,		4800
-		BakedBeansCan,		*,	-1,		6000
-		TacticalBaconCan,	*,	-1,		7200
 		
 	<Category> Drinks
 		SodaCan_Cola,	*,	5000,	1250
@@ -97,7 +97,7 @@
 	<Category> Medical Supplies
 		BandageDressing,		*,	10000,		1300
 		StartKitIV,				*,	5000,		1000
-		SalineBag,				*,	25000,		8000
+		SalineBag,				*,	25000,		9000
 		BloodBagEmpty,			*,	2500,		600
 		Rag,					2,	400,		100
 		BloodTestKit,			*,	1000,		300
@@ -109,13 +109,14 @@
 		GasMask_Filter,			*,	20000,		8000
 		
 	<Category> Medications
-		VitaminBottle,			1,		50000,		25000
-		TetracyclineAntibiotics,1,		40000,		20000
-		PainkillerTablets,		2,		25000,		12500
-		Morphine,				*,		15000,		7500
-		Epinephrine,			*,		10000,		5000
-		CharcoalTablets,		*,		10000,		2000
-		DisinfectantAlcohol,	*,		4500,		1000
+		VitaminBottle,			1,	50000,		25000
+		TetracyclineAntibiotics,1,	40000,		20000
+		PainkillerTablets,		2,	25000,		12500
+		Morphine,				*,	15000,		7500
+		Epinephrine,			*,	10000,		5000
+		CharcoalTablets,		*,	10000,		2000
+		PurificationTablets,	*,	5000,		1400
+		DisinfectantAlcohol,	*,	4500,		1200
 		
 	<Category> Money Exchange
 		MoneyRuble1,	1,	1,		-1
@@ -131,46 +132,48 @@
 		Screwdriver,			*,	-1,		6000
 		Wrench,					*,	-1,		3000
 		SewingKit,				*,	30000,	7500
-		Pliers,					*,	30000,	7500
 		LeatherSewingKit,		*,	40000,	10000
-		Whetstone,				*,	10000,	2500
-		Hammer,					*,	5000,	1300
-		Hacksaw,				*,	10000,	2500
-		HandSaw,				*,	20000,	5000
 		WeaponCleaningKit,		*,	60000,	15000
+		Matchbox,				*,	2000,	500
 		PetrolLighter,			*,	7000,	4000
 		CanOpener,				*,	4000,	2000
 		Compass,				*,	1500,	500
 		OrienteeringCompass,	*,	1500,	500
 		FishingRod,				*,	50000,	10000
 		Hook,					*,	10000,	4000
-		KitchenKnife,			*,	-1,		1000
-		SteakKnife,				*,	-1,		1000
+		SteakKnife,				*,	-1,		1500
+		KitchenKnife,			*,	-1,		3000
+		Cleaver,				*,	-1,		4000
 		HuntingKnife,			*,	-1,		3000
-		CombatKnife,			*,	7000,	2600
-		Hatchet,				*,	-1,		1000
+		CombatKnife,			*,	7000,	2800
+		Hatchet,				*,	-1,		4500
 		Machete,				*,	50000,	20000
-		ChernarusMap,			*,	-1,		500
+		Pliers,					*,	30000,	7500
+		Whetstone,				*,	10000,	2500
+		Hammer,					*,	5000,	1300
+		Hacksaw,				*,	10000,	2500
+		HandSaw,				*,	20000,	5000
 		Lockpick,				*,	-1,		2000
 		Binoculars,				*,	-1,		1000
+		ChernarusMap,			*,	-1,		500
 		
 	<Category> Tools (big)
 		LugWrench,			*,	5000,	1250
-		Shovel,				*,	20000,	5000
-		WoodAxe,			*,	20000,	5000
-		Pickaxe,			*,	15000,	3800
-		SledgeHammer,		*,	15000,	3800
+		Shovel,				*,	20000,	7000
+		WoodAxe,			*,	20000,	7000
+		Pickaxe,			*,	15000,	6800
+		SledgeHammer,		*,	15000,	4800
 		PipeWrench,			W,	7000,	2500
-		Crowbar,			*,	-1,		3000
+		Crowbar,			*,	-1,		9000
 		FirefighterAxe,		*,	-1,		8000
 		
 	<Category> Electronics
 		Battery9V,				*,	10000,	2500
-		PersonalRadio,			*,	1000,	700
+		PersonalRadio,			*,	2000,	1000
 		ElectronicRepairKit,	*,	11000,	3200
 		CableReel,				*,	4000,	1000
-		BatteryCharger,			*,	8000,	2000
-		NVGoggles,				*,	2000,	5000
+		BatteryCharger,			*,	8000,	3000
+		NVGoggles,				*,	70000,	46000
 		Megaphone,				*,	-1,		2000
 		BaseRadio,				*,	-1,		3000
 		Rangefinder,			*,	-1,		2000
@@ -182,19 +185,17 @@
 		Chemlight_White,		*,	500,	100
 		Chemlight_Yellow,		*,	500,	100
 		Roadflare,				*,	1000,	400
-		Matchbox,				*,	2000,	500
 		PortableGasLamp,		*,	500,	200
 		PortableGasStove,		*,	5000,	1200
-		Headtorch_Black,		*,	2000,	500
-		Headtorch_Grey,			*,	2000,	500
+		Headtorch_Black,		*,	4000,	1000
+		Headtorch_Grey,			*,	4000,	1000
 		Spotlight,				*,	10000,	2500
 		Flashlight,				*,	-1,		1000
 
 	
 	<Category> Cooking & Hunting Supplies
-		PurificationTablets,	*,	5000,	1250
 		Pot,					M,	10000,	2500
-		Tripod,					*,	1000,	250
+		Tripod,					*,	1000,	400
 		BearTrap,				*,	20000,	5000	
 		
 		
@@ -202,31 +203,31 @@
 		Paper,					*,	-1,		10
 		Pen_Blue,				*,	100,	25
 		Rope,					*,	3000,	800
-		TannedLeather,			*,	500,	125
+		TannedLeather,			*,	500,	100
 		AntiPestsSpray,			*,	1000,	200
 		MetalWire,				*,	2000,	500
-		EpoxyPutty,				*,	35000,	8750
+		EpoxyPutty,				*,	35000,	8700
 		DuctTape,				*,	20000,	5000
 		XmasLights,				*,	2000,	500
-		SeaChest,				*,	15000,	3750
+		SeaChest,				*,	15000,	3800
 		HandcuffKeys,			*,	-1,		8000
 		Handcuffs,				*,	-1,		8000
 		Netting,				1,	-1,		100
 		BurlapSack,				*,	-1,		100
-		WoodenPlank,			10,	5000,	1250
+		WoodenPlank,			10,	5000,	1200
 		MetalPlate,				*,	6000,	1500
 		SmallProtectorCase,		*,	10000,	2500
-		AmmoBox,				*,	3000,	750
+		AmmoBox,				*,	3000,	700
 		SmallGasCanister,		*,	800,	200
 		MediumGasCanister,		*,	1000,	250
 		LargeGasCanister,		*,	2000,	500
 		CanisterGasoline,		*,	10000,	2500
-		NailBox,				*,	5000,	1250
-		BarbedWire,				*,	450,	150
+		NailBox,				*,	5000,	1200
+		BarbedWire,				*,	500,	200
 		Camonet,				*,	10000,	2500
-		HescoBox,				*,	7000,	1750
-		CombinationLock,		*,	700,	175
-		CombinationLock4,		*,	900,	225
+		HescoBox,				*,	7000,	1700
+		CombinationLock,		*,	700,	150
+		CombinationLock4,		*,	900,	200
 		BarrelHoles_Blue,		*,	10000,	2500
 		BarrelHoles_Green,		*,	10000,	2500
 		BarrelHoles_Red	,		*,	10000,	2500
@@ -247,13 +248,13 @@
 		PumpkinSeedsPack,		*,	8000,	2000
 		GardenLime,				*,	10000,	3500
 		
-	<Category> Fluffy Pets <3
+	<Category> Teddy Baers <3
 		Bear_Beige,	*,	5000,	1500
 		Bear_Dark,	*,	5000,	1500
 		Bear_Pink,	*,	5000,	1500
 		Bear_White,	*,	5000,	1500
 		
-	<Category> Furniture
+	<Category> Furnitures
 		M_Kit_Gun_Rack,				*,	100000,	25000
 		M_Kit_Gun_Wall,				*,	120000,	30000
 		M_Kit_Fridge,				*,	120000,	30000
@@ -471,6 +472,7 @@
 	
 	<Category> Melee	
 		BrassKnuckles_Shiny,	W,	5000,	2500
+		BrassKnuckles_Dull,		W,	4500,	2200
 		StunBaton,				W,	10000,	5000
 		Pipe,					W,	5000,	2500
 		CattleProd,				W,	5000,	2500
@@ -716,11 +718,11 @@
 		TF_AFG_RIS_Grip_Black,		*,	11000,	8800
 		TF_AFG_MLOCK_Grip_FDE,		*,	10500,	8400
 		TF_AFG_MLOCK_Grip_Black,	*,	10500,	8400
-		TF_BCM_MLOCK_Grip_FDE,		*,	10900,	8720
-		TF_BCM_MLOCK_Grip_Black,	*,	10900,	8720
-		TF_RVG_RIS_Grip_FDE,		*,	11200,	8960
-		TF_RVG_RIS_Grip_Black,		*,	11200,	8960
-		TF_AK_ZenitRK1B25U_RIS_Grip,*,	11200,	8960
+		TF_BCM_MLOCK_Grip_FDE,		*,	10900,	8700
+		TF_BCM_MLOCK_Grip_Black,	*,	10900,	8700
+		TF_RVG_RIS_Grip_FDE,		*,	11200,	8900
+		TF_RVG_RIS_Grip_Black,		*,	11200,	8900
+		TF_AK_ZenitRK1B25U_RIS_Grip,*,	11200,	8900
 
 	<Category> TF | PISTOL GRIPS
 		TF_M4_MIADPistolGrip_FDE,		*,	9000,	7200
@@ -756,9 +758,6 @@
         TF_Atlas_Bipod,						*,	10000,	8000
 		TF_Harris_Bipod,					*,	10000,	8000
 		TF_M14_Adapter,						*,	12000,	9600
-		TF_RifleSling_Black,				*,	7000,	5600
-		TF_RifleSling_Brown,				*,	7000,	5600
-		TF_RifleSling_OD,					*,	7000,	5600
 		TF_NVGoggles_AVS9,					*,	80000,	64000
 		TF_NVGoggles_PVS14,					*,	80000,	64000
 		TF_NVGoggles_PVS15,					*,	80000,	64000
@@ -770,6 +769,10 @@
 		TF_6kh5KnifeSheath,					*,	25000,	20000
 		TF_AK_Tactica_Tula10000Receiver,	*,	15000,	12000
 		TF_AK_B33Receiver,					*,	16000,	12800
+		TF_RifleSling_Black,				*,	3000,	1600
+		TF_RifleSling_Brown,				*,	3000,	1600
+		TF_RifleSling_OD,					*,	3000,	1600
+
 	
 	<Category> Handguards
 		MP5_PlasticHndgrd,	*,	6000,	1800
