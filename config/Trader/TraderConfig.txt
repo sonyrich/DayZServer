@@ -99,6 +99,7 @@
 		StartKitIV,				*,	5000,		1000
 		SalineBag,				*,	25000,		9000
 		BloodBagEmpty,			*,	2500,		600
+		GasMask_Filter,			*,	20000,		8000
 		Rag,					2,	400,		100
 		BloodTestKit,			*,	1000,		300
 		Thermometer,			*,	500,		200
@@ -106,7 +107,6 @@
 		Heatpack,				*,	3000,		600
 		FirstAidKit,			*,	1500,		400
 		Defibrillator,			*,	10000,		2500
-		GasMask_Filter,			*,	20000,		8000
 		
 	<Category> Medications
 		VitaminBottle,			1,	50000,		25000
@@ -191,13 +191,11 @@
 		Headtorch_Grey,			*,	4000,	1000
 		Spotlight,				*,	10000,	2500
 		Flashlight,				*,	-1,		1000
-
 	
 	<Category> Cooking & Hunting Supplies
 		Pot,					M,	10000,	2500
 		Tripod,					*,	1000,	400
 		BearTrap,				*,	20000,	5000	
-		
 		
 	<Category> Hardware Supplies
 		Paper,					*,	-1,		10
@@ -270,7 +268,7 @@
 		M_WorkBench_BluePrint,		*,	30000,	7500
 		M_WorkBench_Hammer,			*,	50000,	12500
 	
-	<Category> BPP Kits
+	<Category> BBP Kits
 		BBP_Workbench_Kit,				*,	1000,	500
 		BBP_Step_Ladder_Kit,			*,	1000,	500
 		BBP_Wall_Kit,					*,	1000,	500
@@ -305,9 +303,9 @@
 		BBP_Bedding,					*,		5000,		2000
 		BBP_Floor_Lamp,					*,		8000,		400
 		BBP_Toilet,						*,		6000,		300
-		BBP_SofaKit,					*,		10000,		400
-		BBP_WellKit,					*,		10000,		5050
-		BBP_Bucket,						*,		3000,		1000
+		BBP_SofaKit,					*,		10000,		4000
+		BBP_WellKit,					*,		10000,		5000
+		BBP_Bucket,						*,		3000,		1500
 		BBP_Land_Claim_FlagKit,			*,		5000,		2500
 		BBP_Wood_Storage,				*,		1000,		500
 		BBP_Old_Lamp,					*,		6000,		300
@@ -357,7 +355,6 @@
 		BBP_Letter_Large_X,				*,		100,		50
 		BBP_Letter_Large_Y,				*,		100,		50
 		BBP_Letter_Large_Z,				*,		100,		50
-		
 		
 <Trader> Weapon Trader
 	<Category> TF | WEAPONS
