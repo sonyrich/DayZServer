@@ -1358,12 +1358,23 @@
 		MilitaryBelt,	*,	16000,	4800
 		
 	<Category> Bags
-		AliceBag_Black,			*,	33000,	10000
-		AliceBag_Green,			*,	33000,	10000
-		AliceBag_Camo,			*,	33000,	10000
-		ChildBag_Red,			*,	2000,	500
-		ChildBag_Blue,			*,	2000,	500
-		ChildBag_Green,			*,	2500,	600
+		AliceBag_Black,			*,	63000,	20000
+		AliceBag_Green,			*,	63000,	20000
+		AliceBag_Camo,			*,	63000,	20000
+		MountainBag_Orange,		*,	55000,	12000
+		MountainBag_Red,		*,	55000,	12000
+		MountainBag_Blue,		*,	55000,	12000
+		MountainBag_Green,		*,	55000,	12000
+		AssaultBag_Black,		*,	44000,	10000
+		AssaultBag_Green,		*,	44000,	10000
+		AssaultBag_Ttsko,		*,	44000,	10000
+		HuntingBag,				*,	28000,	7000
+		TortillaBag,			*,	20000,	6000
+		CoyoteBag_Brown,		*,	20000,	6000
+		CoyoteBag_Green,		*,	20000,	6000
+		ChildBag_Red,			*,	4000,	500
+		ChildBag_Blue,			*,	4000,	500
+		ChildBag_Green,			*,	4500,	600
 		DryBag_Yellow,			*,	3000,	800
 		DryBag_Orange,			*,	3000,	800
 		DryBag_Red,				*,	3000,	800
@@ -1378,17 +1389,6 @@
 		WaterproofBag_Yellow,	*,	1000,	300
 		WaterproofBag_Orange,	*,	1000,	300
 		WaterproofBag_Green,	*,	1100,	300
-		AssaultBag_Black,		*,	16000,	4800
-		AssaultBag_Green,		*,	16000,	4800
-		AssaultBag_Ttsko,		*,	16000,	4800
-		HuntingBag,				*,	18000,	5400
-		TortillaBag,			*,	20000,	6000
-		CoyoteBag_Brown,		*,	20000,	6000
-		CoyoteBag_Green,		*,	20000,	6000
-		MountainBag_Orange,		*,	27000,	8100
-		MountainBag_Red,		*,	27000,	8100
-		MountainBag_Blue,		*,	27000,	8100
-		MountainBag_Green,		*,	27000,	8100
 		
 	<Category> TF | HELMETS AND COVERS
         TF_6B47Helmet,						*,	40000,	32000
@@ -1511,9 +1511,9 @@
 		Hatchback_02,				VNK,	500000,		250000
 		Hatchback_02_Blue,			VNK,	500000,		250000
 		Hatchback_02_Black,			VNK,	500000,		250000
-		CivilianSedan,			V,	500000,	260000
-		CivilianSedan_Wine,		V,	500000,	260000
-		CivilianSedan_Black,	 	V,	500000,	260000
+		CivilianSedan,				VNK,	500000,		260000
+		CivilianSedan_Wine,			VNK,	500000,		260000
+		CivilianSedan_Black,	 	VNK,	500000,		260000
 		Sedan_02,					VNK,	400000,		200000
 		Sedan_02_Red,				VNK,	400000,		200000
 		Sedan_02_Grey,				VNK,	400000,		200000
@@ -1585,13 +1585,13 @@
 		BTR_80_camo2,			VNK,	2550000,	2295000
 	
 	<Category> Vehicle Parts
-		HeadlightH7_Box,					*,	30,		15
-		SparkPlug,							*,	60,		40
-		EngineOil,							*,	70,		40
-		CarBattery,							*,	100,	50
-		TruckBattery,						*,	180,	100
-		CarRadiator,						*,	200,	100
-		TireRepairKit,						*,	220,	100
+		HeadlightH7_Box,					*,	3000,		1500
+		SparkPlug,							*,	6000,		2000
+		EngineOil,							*,	7000,		2400
+		CarBattery,							*,	10000,		4000
+		TruckBattery,						*,	14000,		5000
+		CarRadiator,						*,	17000,		6000
+		TireRepairKit,						*,	18000,		7000
 		CivSedanHood,						*,		400,	140
 		CivSedanHood_Wine,					*,		400,	140
 		CivSedanHood_Black,					*,		400,	140
