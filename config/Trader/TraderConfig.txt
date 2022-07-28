@@ -63,27 +63,27 @@
 		TacticalBaconCan,	*,	-1,		7200
 							
 	<Category> Fruits and Vegetables	
-		Pear,					*,	4000,	2800
-		Apple,					*,	5000,	3200
-		Zucchini,				*,	6000,	2400
-		Plum,					*,	6000,	2400	
-		CaninaBerry,			*,	7000,	2800	
-		SambucusBerry,			*,	7000,	2800
-		GreenBellPepper,		*,	7000,	2800
-		Potato,					*,	8000,	3200
-		Pumpkin,				*,	8000,	3200
-		Orange,					*,	9500,	3200
-		Tomato,					*,	9600,	3600
-		Kiwi,					*,	10000,	4000	
-		Banana,					*,	11000,	4400
-		AgaricusMushroom,		*,	10000,	4600
-		AmanitaMushroom,		*,	10000,	4600
-		LactariusMushroom,		*,	10000,	4600
-		MacrolepiotaMushroom,	*,	10000,	4600
-		PsilocybeMushroom,		*,	10000,	4600
-		AuriculariaMushroom,	*,	10000,	4600
-		BoletusMushroom,		*,	10000,	4600
-		PleurotusMushroom,		*,	10000,	4600
+		Pear,					*,	4000,	700
+		Apple,					*,	5000,	800
+		Zucchini,				*,	6000,	600
+		Plum,					*,	6000,	600	
+		CaninaBerry,			*,	7000,	700	
+		SambucusBerry,			*,	7000,	700
+		GreenBellPepper,		*,	7000,	2700
+		Potato,					*,	8000,	800
+		Pumpkin,				*,	8000,	800
+		Orange,					*,	9500,	800
+		Tomato,					*,	9600,	900
+		Kiwi,					*,	10000,	1000	
+		Banana,					*,	11000,	1100
+		AgaricusMushroom,		*,	10000,	1200
+		AmanitaMushroom,		*,	10000,	1200
+		LactariusMushroom,		*,	10000,	1200
+		MacrolepiotaMushroom,	*,	10000,	1200
+		PsilocybeMushroom,		*,	10000,	1200
+		AuriculariaMushroom,	*,	10000,	1200
+		BoletusMushroom,		*,	10000,	1200
+		PleurotusMushroom,		*,	10000,	1200
 		
 	<Category> Drinks
 		SodaCan_Cola,	*,	5000,	1250
