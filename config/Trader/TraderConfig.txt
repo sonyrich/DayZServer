@@ -69,7 +69,7 @@
 		Plum,					*,	6000,	600	
 		CaninaBerry,			*,	7000,	700	
 		SambucusBerry,			*,	7000,	700
-		GreenBellPepper,		*,	7000,	2700
+		GreenBellPepper,		*,	7000,	700
 		Potato,					*,	8000,	800
 		Pumpkin,				*,	8000,	800
 		Orange,					*,	9500,	800
@@ -86,10 +86,10 @@
 		PleurotusMushroom,		*,	10000,	1200
 		
 	<Category> Drinks
-		SodaCan_Cola,	*,	5000,	1250
-		SodaCan_Kvass,	*,	5000,	1250
-		SodaCan_Pipsi,	*,	5000,	1250
-		SodaCan_Spite,	*,	5000,	1250
+		SodaCan_Cola,	*,	5000,	1200
+		SodaCan_Kvass,	*,	5000,	1200
+		SodaCan_Pipsi,	*,	5000,	1200
+		SodaCan_Spite,	*,	5000,	1200
 		WaterBottle,	*,	10000,	2500
 		Canteen,		*,	20000,	5000
 		Vodka,			*,	-1,		400000
@@ -201,7 +201,7 @@
 		
 	<Category> Hardware Supplies
 		Paper,					*,	-1,		10
-		Pen_Blue,				*,	100,	25
+		Pen_Blue,				*,	100,	20
 		Rope,					*,	3000,	800
 		TannedLeather,			*,	500,	100
 		AntiPestsSpray,			*,	1000,	200
@@ -219,14 +219,14 @@
 		SmallProtectorCase,		*,	10000,	2500
 		AmmoBox,				*,	3000,	700
 		SmallGasCanister,		*,	800,	200
-		MediumGasCanister,		*,	1000,	250
+		MediumGasCanister,		*,	1000,	200
 		LargeGasCanister,		*,	2000,	500
 		CanisterGasoline,		*,	10000,	2500
 		NailBox,				*,	5000,	1200
 		BarbedWire,				*,	500,	200
 		Camonet,				*,	10000,	2500
 		HescoBox,				*,	7000,	1700
-		CombinationLock,		*,	700,	150
+		CombinationLock,		*,	700,	100
 		CombinationLock4,		*,	900,	200
 		BarrelHoles_Blue,		*,	10000,	2500
 		BarrelHoles_Green,		*,	10000,	2500
@@ -423,14 +423,14 @@
 		Derringer_Pink,	W,	20000,	10000
 		MKII,			W,	77000,	38500
 		MakarovIJ70,	W,	50000,	25000
-		P1,				W,	70000,	34000
+		P1,				W,	-1,		34000
 		CZ75,			W,	72000,	36000
 		Glock19,		W,	80000,	40000
 		FNX45,			W,	78500,	39200
 		Colt1911,		W,	76000,	38000
-		Engraved1911,	W,	76500,	38250
+		Engraved1911,	W,	-1,		38300
 		Deagle,			W,	135000,	80000
-		Deagle_Gold,	W,	138000,	75000
+		Deagle_Gold,	W,	138000,	85000
 		Magnum,			W,	120000,	70000
 		SawedoffMagnum,	W,	100000,	60000
 		
@@ -446,29 +446,29 @@
 		Repeater,		W,	280000, 140000
 	
 	<Category> Assault Rifles
-		FAL,			W,	550000,	275000
+		FAL,			W,	-1,		275000
 		AKM,			W,	450000,	225000
 		AK101,			W,	420000,	210000
 		AKS74U,			W,	300000,	150000
 		AK74,			W,	380000,	190000
-		M4A1,			W,	480000,	240000
-		M16A2,			W,	350000,	175000
-		AUG,			W,	-1,		260000
+		M4A1,			W,	-1,		240000
+		M16A2,			W,	-1,		175000
+		AUG,			W,	510000,	260000
 		AUGShort,		W,	-1,		260000
 		FAMAS,			W,	-1,		280000
-		SawedoffFAMAS,	W,	-1,		280000
+		SawedoffFAMAS,	W,	540000,	280000
 		
 	<Category> Shotguns
 		Izh43Shotgun,			W,	105000,	52500
 		SawedoffIzh43Shotgun,	W,	120000,	60000
-		Mp133Shotgun,			W,	135000,	67500
-		Saiga,					W,	200000,	100000
+		Mp133Shotgun,			W,	-1,		67500
+		Saiga,					W,	-1,		100000
 		
 	<Category> Submachine Guns
 		CZ61,	W,	150000,	75000
-		MP5K,	W,	175000,	87500
+		MP5K,	W,	-1,		87500
 		PP19,	W,	174000,	87000
-		UMP45,	W,	180000,	90000
+		UMP45,	W,	-1,		90000
 	
 	<Category> Melee	
 		BrassKnuckles_Shiny,	W,	5000,	2500
@@ -511,8 +511,8 @@
 	<Category> Ammunition
 		AmmoBox_22_50Rnd,			*,	2500,	1100
 		AmmoBox_380_35rnd,			*,	3500,	1700
-		AmmoBox_9x19_25rnd,			*,	5500,	2700
-		AmmoBox_45ACP_25rnd,		*,	6500,	3200
+		AmmoBox_9x19_25rnd,			*,	-1,		2700
+		AmmoBox_45ACP_25rnd,		*,	-1,		3200
 		AmmoBox_357_20Rnd,			*,	12000,	6000
 		AmmoBox_00buck_10rnd,		*,	8000,	4000
 		AmmoBox_12gaSlug_10Rnd,		*,	6500,	3000
