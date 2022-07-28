@@ -74,8 +74,8 @@
 		Pumpkin,				*,	8000,	800
 		Orange,					*,	9500,	800
 		Tomato,					*,	9600,	900
-		Kiwi,					*,	10000,	1000	
-		Banana,					*,	11000,	1100
+		Kiwi,					*,	10000,	-1	
+		Banana,					*,	11000,	-1
 		AgaricusMushroom,		*,	10000,	1200
 		AmanitaMushroom,		*,	10000,	1200
 		LactariusMushroom,		*,	10000,	1200
@@ -86,16 +86,16 @@
 		PleurotusMushroom,		*,	10000,	1200
 		
 	<Category> Drinks
-		SodaCan_Cola,	*,	5000,	1200
-		SodaCan_Kvass,	*,	5000,	1200
-		SodaCan_Pipsi,	*,	5000,	1200
-		SodaCan_Spite,	*,	5000,	1200
+		SodaCan_Cola,	*,	5000,	1000
+		SodaCan_Kvass,	*,	5000,	1000
+		SodaCan_Pipsi,	*,	5000,	1000
+		SodaCan_Spite,	*,	5000,	1000
 		WaterBottle,	*,	10000,	2500
 		Canteen,		*,	20000,	5000
 		Vodka,			*,	-1,		400000
 		
 	<Category> Medical Supplies
-		BandageDressing,		*,	10000,		1300
+		BandageDressing,		*,	10000,		1600
 		StartKitIV,				*,	5000,		1000
 		SalineBag,				*,	25000,		9000
 		BloodBagEmpty,			*,	2500,		600
