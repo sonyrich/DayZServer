@@ -184,7 +184,7 @@
 		Chemlight_Red,			*,	500,	100
 		Chemlight_White,		*,	500,	100
 		Chemlight_Yellow,		*,	500,	100
-		Roadflare,				*,	1000,	400
+		Roadflare,				*,	-1,		400
 		PortableGasLamp,		*,	500,	200
 		PortableGasStove,		*,	5000,	1200
 		Headtorch_Black,		*,	4000,	1000
@@ -213,8 +213,8 @@
 		HandcuffKeys,			*,	-1,		8000
 		Handcuffs,				*,	-1,		8000
 		Netting,				1,	-1,		100
-		BurlapSack,				*,	-1,		100
-		WoodenPlank,			10,	5000,	1200
+		BurlapSack,				*,	-1,		200
+		WoodenPlank,			10,	-1,		1200
 		MetalPlate,				*,	6000,	1500
 		SmallProtectorCase,		*,	10000,	2500
 		AmmoBox,				*,	3000,	700
@@ -755,9 +755,9 @@
 		TF_AK_Rotor43Suppressor,		*,	43000,	34400
 		
 	<Category> TF | ACCESSORIES AND MORE
-        TF_Atlas_Bipod,						*,	10000,	8000
-		TF_Harris_Bipod,					*,	10000,	8000
-		TF_M14_Adapter,						*,	12000,	9600
+        TF_Atlas_Bipod,						*,	30000,	14000
+		TF_Harris_Bipod,					*,	22000,	11000
+		TF_M14_Adapter,						*,	20000,	10000
 		TF_NVGoggles_AVS9,					*,	80000,	64000
 		TF_NVGoggles_PVS14,					*,	80000,	64000
 		TF_NVGoggles_PVS15,					*,	80000,	64000
@@ -769,9 +769,9 @@
 		TF_6kh5KnifeSheath,					*,	25000,	20000
 		TF_AK_Tactica_Tula10000Receiver,	*,	15000,	12000
 		TF_AK_B33Receiver,					*,	16000,	12800
-		TF_RifleSling_Black,				*,	3000,	1600
-		TF_RifleSling_Brown,				*,	3000,	1600
-		TF_RifleSling_OD,					*,	3000,	1600
+		TF_RifleSling_Black,				*,	2000,	1200
+		TF_RifleSling_Brown,				*,	2000,	1200
+		TF_RifleSling_OD,					*,	2000,	1200
 
 	
 	<Category> Handguards
@@ -838,26 +838,26 @@
 	
 <Trader> Clothing Trader
 	<Category> Glasses
-		SportGlasses_Orange,	*,	200,	100
-		SportGlasses_Blue,		*,	200,	100
-		SportGlasses_Black,		*,	200,	100
-		SportGlasses_Green,		*,	200,	100
-		ThinFramesGlasses,		*,	200,	100
-		ThickFramesGlasses,		*,	230,	110
-		DesignerGlasses,		*,	300,	150
-		AviatorGlasses,			*,	400,	200
-		TacticalGoggles,		*,	5000,	1500
+		SportGlasses_Orange,	*,	2000,	1000
+		SportGlasses_Blue,		*,	2000,	1000
+		SportGlasses_Black,		*,	2000,	1000
+		SportGlasses_Green,		*,	2000,	1000
+		ThinFramesGlasses,		*,	2000,	1000
+		ThickFramesGlasses,		*,	2300,	1100
+		DesignerGlasses,		*,	3000,	1500
+		AviatorGlasses,			*,	4000,	2000
+		TacticalGoggles,		*,	9000,	4500
 		NVGHeadstrap,			*,	10000,	3000
 		
 	<Category> Armbands
-		Armband_Pink,			*,		100,	50
-		Armband_Yellow,			*,		100,	50
-		Armband_Orange,			*,		100,	50
-		Armband_Red,			*,		100,	50
-		Armband_Blue,			*,		100,	50
-		Armband_White,			*,		100,	50
-		Armband_Black,			*,		100,	50
-		Armband_Green,			*,		100,	50
+		Armband_Pink,			*,		1000,	500
+		Armband_Yellow,			*,		1000,	500
+		Armband_Orange,			*,		1000,	500
+		Armband_Red,			*,		1000,	500
+		Armband_Blue,			*,		1000,	500
+		Armband_White,			*,		1000,	500
+		Armband_Black,			*,		1000,	500
+		Armband_Green,			*,		1000,	500
 		
 	<Category> Gloves
 		TacticalGloves_Beige,		*,	8000,	2400
@@ -866,225 +866,225 @@
 		OMNOGloves_Gray,			*,	10000,	3000
 		OMNOGloves_Brown,			*,	10000,	3000
 		NBCGlovesGray,				*,	15000,	4500
-		WorkingGloves_Yellow,		*,	500,	150
-		WorkingGloves_Beige,		*,	500,	150
-		WorkingGloves_Brown,		*,	500,	150
-		WorkingGloves_Black,		*,	500,	150
-		SurgicalGloves_LightBlue,	*,	50,		10
-		SurgicalGloves_Blue,		*,	50,		10
-		SurgicalGloves_White,		*,	50,		10
-		SurgicalGloves_Green,		*,	50,		10
+		WorkingGloves_Yellow,		*,	2000,	1000
+		WorkingGloves_Beige,		*,	2000,	1000
+		WorkingGloves_Brown,		*,	2000,	1000
+		WorkingGloves_Black,		*,	2000,	1000
+		SurgicalGloves_LightBlue,	*,	500,	100
+		SurgicalGloves_Blue,		*,	500,	100
+		SurgicalGloves_White,		*,	500,	100
+		SurgicalGloves_Green,		*,	500,	100
 		
 
 	<Category> Hats & Caps
-		MedicalScrubsHat_Blue,		*,	200,	10
-		MedicalScrubsHat_White,		*,	200,	10
-		MedicalScrubsHat_Green,		*,	200,	10
-		Bandana_Polkapattern,		*,	600,	20
-		Bandana_Redpattern,			*,	600,	20
-		Bandana_Blackpattern,		*,	600,	20
-		Bandana_Greenpattern,		*,	800,	20
-		Bandana_Camopattern,		*,	100,	30
-		BaseballCap_CMMG_Pink,		*,	120,	30
-		BaseballCap_Pink,			*,	120,	30
-		BaseballCap_Red,			*,	120,	30
-		BaseballCap_Blue,			*,	120,	30
-		BaseballCap_Beige,			*,	120,	30
-		BaseballCap_CMMG_Black,		*,	120,	30
-		BaseballCap_Black,			*,	130,	30
-		BaseballCap_Olive,			*,	140,	40
-		BaseballCap_Camo,			*,	160,	50
-		PrisonerCap,				*,	160,	50
-		BoonieHat_Orange,			*,	160,	50
-		BoonieHat_Red,				*,	160,	50
-		BoonieHat_Blue,				*,	160,	50
-		BoonieHat_NavyBlue,			*,	160,	50
-		BoonieHat_Black,			*,	170,	50
-		BoonieHat_Tan,				*,	180,	60
-		BoonieHat_Olive,			*,	180,	60
-		BoonieHat_DPM,				*,	200,	70
-		BoonieHat_Dubok,			*,	200,	70
-		BoonieHat_Flecktran,		*,	200,	70
-		CowboyHat_Brown,			*,	200,	70
-		CowboyHat_darkBrown,		*,	200,	70
-		CowboyHat_black,			*,	200,	70
-		CowboyHat_green,			*,	200,	70
-		PilotkaCap,					*,	250,	70
-		OfficerHat,					*,	250,	70
-		PoliceCap,					*,	250,	70
-		MilitaryBeret_ChDKZ,		*,	260,	70
-		MilitaryBeret_Red,			*,	260,	70
-		MilitaryBeret_UN,			*,	260,	70
-		MilitaryBeret_CDF,			*,	270,	70
-		MilitaryBeret_NZ,			*,	270,	70
-		BeanieHat_Pink,				*,	300,	80
-		BeanieHat_Red,				*,	300,	80
-		BeanieHat_Blue,				*,	300,	80
-		BeanieHat_Grey,				*,	300,	80
-		BeanieHat_Beige,			*,	300,	80
-		BeanieHat_Brown,			*,	300,	80
-		BeanieHat_Black,			*,	310,	80
-		BeanieHat_Green,			*,	320,	90
-		FlatCap_Red,				*,	320,	80
-		FlatCap_Blue,				*,	320,	80
-		FlatCap_BrownCheck,			*,	320,	80
-		FlatCap_GreyCheck,			*,	320,	80
-		FlatCap_Grey,				*,	320,	80
-		FlatCap_Brown,				*,	320,	80
-		FlatCap_Black,				*,	320,	80
-		FlatCap_BlackCheck,			*,	320,	80
-		ZmijovkaCap_Red,			*,	360,	90
-		ZmijovkaCap_Blue,			*,	360,	90
-		ZmijovkaCap_Brown,			*,	360,	90
-		ZmijovkaCap_Black,			*,	370,	90
-		ZmijovkaCap_Green,			*,	380,	100
-		RadarCap_Red,				*,	400,	100
-		RadarCap_Blue,				*,	400,	100
-		RadarCap_Brown,				*,	400,	100
-		RadarCap_Black,				*,	420,	100
-		RadarCap_Green,				*,	450,	120
-		Ushanka_Blue,				*,	500,	150
-		Ushanka_Black,				*,	500,	150
-		Ushanka_Green,				*,	550,	180
+		MedicalScrubsHat_Blue,		*,	2000,	100
+		MedicalScrubsHat_White,		*,	2000,	100
+		MedicalScrubsHat_Green,		*,	2000,	100
+		Bandana_Polkapattern,		*,	6000,	200
+		Bandana_Redpattern,			*,	6000,	200
+		Bandana_Blackpattern,		*,	6000,	200
+		Bandana_Greenpattern,		*,	8000,	200
+		Bandana_Camopattern,		*,	1000,	300
+		BaseballCap_CMMG_Pink,		*,	1200,	300
+		BaseballCap_Pink,			*,	1200,	300
+		BaseballCap_Red,			*,	1200,	300
+		BaseballCap_Blue,			*,	1200,	300
+		BaseballCap_Beige,			*,	1200,	300
+		BaseballCap_CMMG_Black,		*,	1200,	300
+		BaseballCap_Black,			*,	1300,	300
+		BaseballCap_Olive,			*,	1400,	400
+		BaseballCap_Camo,			*,	1600,	500
+		PrisonerCap,				*,	1600,	500
+		BoonieHat_Orange,			*,	1600,	500
+		BoonieHat_Red,				*,	1600,	500
+		BoonieHat_Blue,				*,	1600,	500
+		BoonieHat_NavyBlue,			*,	1600,	500
+		BoonieHat_Black,			*,	1700,	500
+		BoonieHat_Tan,				*,	1800,	600
+		BoonieHat_Olive,			*,	1800,	600
+		BoonieHat_DPM,				*,	2000,	700
+		BoonieHat_Dubok,			*,	2000,	700
+		BoonieHat_Flecktran,		*,	2000,	700
+		CowboyHat_Brown,			*,	2000,	700
+		CowboyHat_darkBrown,		*,	2000,	700
+		CowboyHat_black,			*,	2000,	700
+		CowboyHat_green,			*,	2000,	700
+		PilotkaCap,					*,	2500,	700
+		OfficerHat,					*,	2500,	700
+		PoliceCap,					*,	2500,	700
+		MilitaryBeret_ChDKZ,		*,	2600,	700
+		MilitaryBeret_Red,			*,	2600,	700
+		MilitaryBeret_UN,			*,	2600,	700
+		MilitaryBeret_CDF,			*,	2700,	700
+		MilitaryBeret_NZ,			*,	2700,	700
+		BeanieHat_Pink,				*,	3000,	800
+		BeanieHat_Red,				*,	3000,	800
+		BeanieHat_Blue,				*,	3000,	800
+		BeanieHat_Grey,				*,	3000,	800
+		BeanieHat_Beige,			*,	3000,	800
+		BeanieHat_Brown,			*,	3000,	800
+		BeanieHat_Black,			*,	3100,	800
+		BeanieHat_Green,			*,	3200,	900
+		FlatCap_Red,				*,	3200,	800
+		FlatCap_Blue,				*,	3200,	800
+		FlatCap_BrownCheck,			*,	3200,	800
+		FlatCap_GreyCheck,			*,	3200,	800
+		FlatCap_Grey,				*,	3200,	800
+		FlatCap_Brown,				*,	3200,	800
+		FlatCap_Black,				*,	3200,	800
+		FlatCap_BlackCheck,			*,	3200,	800
+		ZmijovkaCap_Red,			*,	3600,	900
+		ZmijovkaCap_Blue,			*,	3600,	900
+		ZmijovkaCap_Brown,			*,	3600,	900
+		ZmijovkaCap_Black,			*,	3700,	900
+		ZmijovkaCap_Green,			*,	3800,	1000
+		RadarCap_Red,				*,	4000,	1000
+		RadarCap_Blue,				*,	4000,	1000
+		RadarCap_Brown,				*,	4000,	1000
+		RadarCap_Black,				*,	4200,	1000
+		RadarCap_Green,				*,	4500,	1200
+		Ushanka_Blue,				*,	5000,	1500
+		Ushanka_Black,				*,	5000,	1500
+		Ushanka_Green,				*,	5500,	1800
 		NBCHoodGray,				*,	20000,	6000
 
 	<Category> Helmets
-		ConstructionHelmet_Yellow,		*,	300,	70
-		ConstructionHelmet_Orange,		*,	300,	70
-		ConstructionHelmet_Red,			*,	300,	70
-		ConstructionHelmet_Blue,		*,	300,	70
-		ConstructionHelmet_White,		*,	300,	70
-		ConstructionHelmet_Lime,		*,	330,	80
-		SkateHelmet_Red,				*,	450,	120
-		SkateHelmet_Blue,				*,	450,	120
-		SkateHelmet_Gray,				*,	450,	120
-		SkateHelmet_Black,				*,	470,	120
-		SkateHelmet_Green,				*,	500,	130
-		HockeyHelmet_Red,				*,	500,	130
-		HockeyHelmet_Blue,				*,	500,	130
-		HockeyHelmet_White,				*,	500,	130
-		HockeyHelmet_Black,				*,	550,	140
-		DirtBikeHelmet_Mouthguard,		*,	150,	40
-		DirtBikeHelmet_Visor,			*,	250,	80
-		DirtBikeHelmet_Red,				*,	600,	150
-		DirtBikeHelmet_Blue,			*,	600,	150
-		DirtBikeHelmet_Police,			*,	600,	150
-		DirtBikeHelmet_Green,			*,	600,	150
-		DirtBikeHelmet_Chernarus,		*,	600,	150
-		DirtBikeHelmet_Black,			*,	650,	160
-		DirtBikeHelmet_Khaki,			*,	700,	180
-		MotoHelmet_Red,					*,	700,	180
-		MotoHelmet_Blue,				*,	700,	180
-		MotoHelmet_White,				*,	700,	180
-		MotoHelmet_Lime,				*,	700,	180
-		MotoHelmet_Grey,				*,	750,	180
-		MotoHelmet_Black,				*,	750,	200
-		MotoHelmet_Green,				*,	800,	220
-		DarkMotoHelmet_Red,				*,	800,	220
-		DarkMotoHelmet_Blue,			*,	800,	220
-		DarkMotoHelmet_White,			*,	800,	220
-		DarkMotoHelmet_Lime,			*,	800,	220
-		DarkMotoHelmet_Grey,			*,	800,	220
-		DarkMotoHelmet_Black,			*,	850,	230
-		DarkMotoHelmet_Green,			*,	900,	250
-		TankerHelmet,					*,	1000,	250
-		GreatHelm,						*,	1200,	300
-		ZSh3PilotHelmet,				*,	1300,	350
-		FirefightersHelmet_Yellow,		*,	1500,	400
-		FirefightersHelmet_Red,			*,	1500,	400
-		FirefightersHelmet_White,		*,	1500,	400
-		Mich2001Helmet,					*,	1500,	400
-		GorkaHelmetVisor,				*,	500,	200
-		GorkaHelmet,					*,	1900,	500
-		Ssh68Helmet,					*,	2500,	800
-		BallisticHelmet_UN,				*,	2500,	800
-		BallisticHelmet_Black,			*,	3000,	1000
-		BallisticHelmet_Green,			*,	3500,	1100
+		ConstructionHelmet_Yellow,		*,	3000,	700
+		ConstructionHelmet_Orange,		*,	3000,	700
+		ConstructionHelmet_Red,			*,	3000,	700
+		ConstructionHelmet_Blue,		*,	3000,	700
+		ConstructionHelmet_White,		*,	3000,	700
+		ConstructionHelmet_Lime,		*,	3300,	800
+		SkateHelmet_Red,				*,	4500,	1200
+		SkateHelmet_Blue,				*,	4500,	1200
+		SkateHelmet_Gray,				*,	4500,	1200
+		SkateHelmet_Black,				*,	4700,	1200
+		SkateHelmet_Green,				*,	5000,	1300
+		HockeyHelmet_Red,				*,	5000,	1300
+		HockeyHelmet_Blue,				*,	5000,	1300
+		HockeyHelmet_White,				*,	5000,	1300
+		HockeyHelmet_Black,				*,	5500,	1400
+		DirtBikeHelmet_Mouthguard,		*,	1500,	400
+		DirtBikeHelmet_Visor,			*,	2500,	800
+		DirtBikeHelmet_Red,				*,	6000,	1500
+		DirtBikeHelmet_Blue,			*,	6000,	1500
+		DirtBikeHelmet_Police,			*,	6000,	1500
+		DirtBikeHelmet_Green,			*,	6000,	1500
+		DirtBikeHelmet_Chernarus,		*,	6000,	1500
+		DirtBikeHelmet_Black,			*,	6500,	16000
+		DirtBikeHelmet_Khaki,			*,	7000,	1800
+		MotoHelmet_Red,					*,	7000,	1800
+		MotoHelmet_Blue,				*,	7000,	1800
+		MotoHelmet_White,				*,	7000,	1800
+		MotoHelmet_Lime,				*,	7000,	1800
+		MotoHelmet_Grey,				*,	7500,	1800
+		MotoHelmet_Black,				*,	7500,	2000
+		MotoHelmet_Green,				*,	8000,	2200
+		DarkMotoHelmet_Red,				*,	8000,	2200
+		DarkMotoHelmet_Blue,			*,	8000,	2200
+		DarkMotoHelmet_White,			*,	8000,	2200
+		DarkMotoHelmet_Lime,			*,	8000,	2200
+		DarkMotoHelmet_Grey,			*,	8000,	2200
+		DarkMotoHelmet_Black,			*,	8500,	2300
+		DarkMotoHelmet_Green,			*,	9000,	2500
+		TankerHelmet,					*,	10000,	2500
+		GreatHelm,						*,	12000,	3000
+		ZSh3PilotHelmet,				*,	13000,	3500
+		FirefightersHelmet_Yellow,		*,	15000,	4000
+		FirefightersHelmet_Red,			*,	15000,	4000
+		FirefightersHelmet_White,		*,	15000,	4000
+		Mich2001Helmet,					*,	15000,	4000
+		GorkaHelmetVisor,				*,	5000,	2000
+		GorkaHelmet,					*,	19000,	5000
+		Ssh68Helmet,					*,	25000,	8000
+		BallisticHelmet_UN,				*,	25000,	8000
+		BallisticHelmet_Black,			*,	30000,	10000
+		BallisticHelmet_Green,			*,	35000,	11000
 
 	<Category> Masks
-		SurgicalMask,				*,	150,		30
-		BandanaMask_PolkaPattern,	*,	250,		60
-		BandanaMask_RedPattern,		*,	250,		60
-		BandanaMask_BlackPattern,	*,	250,		60
-		BandanaMask_GreenPattern,	*,	300,		80
-		BandanaMask_CamoPattern,	*,	350,		100
-		NioshFaceMask,				*,	400,		100
-		HockeyMask,					*,	400,		100
+		SurgicalMask,				*,	1500,		300
+		BandanaMask_PolkaPattern,	*,	2500,		600
+		BandanaMask_RedPattern,		*,	2500,		600
+		BandanaMask_BlackPattern,	*,	2500,		600
+		BandanaMask_GreenPattern,	*,	3000,		800
+		BandanaMask_CamoPattern,	*,	3500,		1000
+		NioshFaceMask,				*,	4000,		1000
+		HockeyMask,					*,	4000,		1000
 		//HoxtonMask,				*,	40000,	32000
 		//WolfMask,					*,	40000,	32000
 		//DallasMask,				*,	40000,	32000
-		Balaclava3Holes_Blue,		*,	500,		100
-		Balaclava3Holes_Beige,		*,	500,		100
-		Balaclava3Holes_Black,		*,	500,		100
-		Balaclava3Holes_Green,		*,	500,		100
+		Balaclava3Holes_Blue,		*,	5000,		1000
+		Balaclava3Holes_Beige,		*,	5000,		1000
+		Balaclava3Holes_Black,		*,	5000,		1000
+		Balaclava3Holes_Green,		*,	5000,		1000
 		WeldingMask,				*,	6000,		2000
 		GP5GasMask,					*,	10000,		6000
 
 	<Category> Shirts
-		TShirt_OrangeWhiteStripes,	*,	80,		20
-		TShirt_RedBlackStripes,		*,	80,		20
-		TShirt_Red,					*,	80,		20
-		TShirt_Blue,				*,	80,		20
-		TShirt_White,				*,	100,	20
-		TShirt_Grey,				*,	100,	20
-		TShirt_Beige,				*,	100,	20
-		TShirt_Black,				*,	120,	30
-		TShirt_Green,				*,	120,	30
-		TelnyashkaShirt,			*,	140,	30
-		Shirt_RedCheck,				*,	160,	40
-		Shirt_BlueCheckBright,		*,	160,	40
-		Shirt_BlueCheck,			*,	160,	40
-		Shirt_WhiteCheck,			*,	160,	40
-		Shirt_PlaneBlack,			*,	170,	40
-		Shirt_GreenCheck,			*,	180,	40
-		Blouse_Violet,				*,	160,	40
-		Blouse_Blue,				*,	160,	40
-		Blouse_White,				*,	160,	40
-		Blouse_Green,				*,	180,	40
-		MedicalScrubsShirt_Blue,	*,	200,	50
-		MedicalScrubsShirt_White,	*,	200,	50
-		MedicalScrubsShirt_Green,	*,	200,	50
-		ChernarusSportShirt,		*,	250,	60
-		TacticalShirt_Grey,			*,	5000,	100
-		TacticalShirt_Tan,			*,	5000,	100
-		TacticalShirt_Black,		*,	5000,	100
-		TacticalShirt_Olive,		*,	5000,	120
+		TShirt_OrangeWhiteStripes,	*,	800,		200
+		TShirt_RedBlackStripes,		*,	800,		200
+		TShirt_Red,					*,	800,		200
+		TShirt_Blue,				*,	800,		200
+		TShirt_White,				*,	1000,		200
+		TShirt_Grey,				*,	1000,		200
+		TShirt_Beige,				*,	1000,		200
+		TShirt_Black,				*,	1200,		300
+		TShirt_Green,				*,	1200,		300
+		TelnyashkaShirt,			*,	1400,		300
+		Shirt_RedCheck,				*,	1600,		400
+		Shirt_BlueCheckBright,		*,	1600,		400
+		Shirt_BlueCheck,			*,	1600,		400
+		Shirt_WhiteCheck,			*,	1600,		400
+		Shirt_PlaneBlack,			*,	1700,		400
+		Shirt_GreenCheck,			*,	1800,		400
+		Blouse_Violet,				*,	1600,		400
+		Blouse_Blue,				*,	1600,		400
+		Blouse_White,				*,	1600,		400
+		Blouse_Green,				*,	1800,		400
+		MedicalScrubsShirt_Blue,	*,	2000,		500
+		MedicalScrubsShirt_White,	*,	2000,		500
+		MedicalScrubsShirt_Green,	*,	2000,		500
+		ChernarusSportShirt,		*,	2500,		600
+		TacticalShirt_Grey,			*,	7000,		1000
+		TacticalShirt_Tan,			*,	7000,		1000
+		TacticalShirt_Black,		*,	7000,		1000
+		TacticalShirt_Olive,		*,	7000,		1200
 
 	<Category> Hoodies & Sweater
-		Sweater_Red,			*,	200,	50
-		Sweater_Blue,			*,	200,	50
-		Sweater_Gray,			*,	200,	50
-		Sweater_Green,			*,	250,	60
-		//Hoodie_DrJ0nes,		*,	300,	60
-		//Hoodie_GraffitiTiles,	*,	300,	60
-		Hoodie_Red,				*,	300,	60
-		Hoodie_Blue,			*,	300,	60
-		Hoodie_Grey,			*,	300,	60
-		Hoodie_Brown,			*,	300,	60
-		Hoodie_Black,			*,	300,	60
-		Hoodie_Green,			*,	350,	70
+		Sweater_Red,			*,	2000,	500
+		Sweater_Blue,			*,	2000,	500
+		Sweater_Gray,			*,	2000,	500
+		Sweater_Green,			*,	2500,	600
+		//Hoodie_DrJ0nes,		*,	3000,	600
+		//Hoodie_GraffitiTiles,	*,	3000,	600
+		Hoodie_Red,				*,	3000,	600
+		Hoodie_Blue,			*,	3000,	600
+		Hoodie_Grey,			*,	3000,	600
+		Hoodie_Brown,			*,	3000,	600
+		Hoodie_Black,			*,	3000,	600
+		Hoodie_Green,			*,	3500,	700
 		
 	<Category> Vests
-		ReflexVest,				*,	1000,	500
-		PoliceVest,				*,	2000,	1000
-		HuntingVest,			*,	3000,	1500
-		PressVest_LightBlue,	*,	2500,	1200
-		PressVest_Blue,			*,	2500,	1200
-		UKAssVest_Black,		*,	10000,	3000
-		UKAssVest_Khaki,		*,	10000,	3000
-		UKAssVest_Olive,		*,	10000,	3000
-		UKAssVest_Camo,			*,	10000,	3000
-		SmershVest,				*,	15000,	4500
-		HighCapacityVest_Black,	*,	20000,	6000
-		HighCapacityVest_Olive,	*,	23000,	6900
-		PlateCarrierVest,		*,	20000,	6000
+		ReflexVest,				*,	2000,	1000
+		PoliceVest,				*,	4500,	2200
+		HuntingVest,			*,	4000,	2000
+		PressVest_LightBlue,	*,	5000,	2500
+		PressVest_Blue,			*,	5000,	2500
+		UKAssVest_Black,		*,	10000,	4000
+		UKAssVest_Khaki,		*,	10000,	4000
+		UKAssVest_Olive,		*,	10000,	4000
+		UKAssVest_Camo,			*,	10000,	4000
+		SmershVest,				*,	15000,	6000
+		HighCapacityVest_Black,	*,	20000,	9000
+		HighCapacityVest_Olive,	*,	20000,	9000
+		PlateCarrierVest,		*,	20000,	9000
 
 	<Category> Jackets & Coats	
-		HuntingJacket_Winter,			*,	1200,	360
-		HuntingJacket_Brown,			*,	1200,	360
-		HuntingJacket_Autumn,			*,	1200,	360
-		HuntingJacket_Spring,			*,	1200,	360
-		HuntingJacket_Summer,			*,	1200,	360
+		HuntingJacket_Winter,			*,	3000,	1000
+		HuntingJacket_Brown,			*,	3000,	1000
+		HuntingJacket_Autumn,			*,	3000,	1000
+		HuntingJacket_Spring,			*,	3000,	1000
+		HuntingJacket_Summer,			*,	3000,	1000
 		M65Jacket_Tan,					*,	8000,	2400
 		M65Jacket_Black,				*,	8000,	2400
 		M65Jacket_Khaki,				*,	8000,	2400
@@ -1096,167 +1096,167 @@
 		USMCJacket_Desert,				*,	12000,	3600
 		USMCJacket_Woodland,			*,	12000,	3600
 		NBCJacketGray,					*,	40000,	12000
-		LabCoat,						*,	100,	20
-		TrackSuitJacket_Red,			*,	150,	30
-		TrackSuitJacket_LightBlue,		*,	150,	30
-		TrackSuitJacket_Blue,			*,	150,	30
-		TrackSuitJacket_Black,			*,	150,	30
-		TrackSuitJacket_Green,			*,	150,	30
-		DenimJacket,					*,	180,	40
-		ManSuit_Blue,					*,	180,	40
-		ManSuit_White,					*,	180,	40
-		ManSuit_LightGrey,				*,	180,	40
-		ManSuit_DarkGrey,				*,	180,	40
-		ManSuit_Beige,					*,	180,	40
-		ManSuit_Brown,					*,	180,	40
-		ManSuit_Black,					*,	180,	40
-		ManSuit_Khaki,					*,	180,	40
-		WomanSuit_Blue,					*,	180,	40
-		WomanSuit_White,				*,	180,	40
-		WomanSuit_LightGrey,			*,	180,	40
-		WomanSuit_DarkGrey,				*,	180,	40
-		WomanSuit_Beige,				*,	180,	40
-		WomanSuit_Brown,				*,	180,	40
-		WomanSuit_Black,				*,	180,	40
-		WomanSuit_Khaki,				*,	180,	40
-		WoolCoat_Red,					*,	180,	40
-		WoolCoat_RedCheck,				*,	180,	40
-		WoolCoat_Blue,					*,	180,	40
-		WoolCoat_BlueCheck,				*,	180,	40
-		WoolCoat_GreyCheck,				*,	180,	40
-		WoolCoat_BrownCheck,			*,	180,	40
-		WoolCoat_Beige,					*,	180,	40
-		WoolCoat_Black,					*,	190,	40
-		WoolCoat_BlackCheck,			*,	190,	40
-		WoolCoat_Green,					*,	200,	50
-		RidersJacket_Black,				*,	200,	50
-		FirefighterJacket_Beige,		*,	240,	60
-		FirefighterJacket_Black,		*,	240,	60
-		JumpsuitJacket_Red,				*,	260,	60
-		JumpsuitJacket_Blue,			*,	260,	60
-		JumpsuitJacket_Gray,			*,	260,	60
-		JumpsuitJacket_Green,			*,	260,	60
-		BomberJacket_Maroon,			*,	260,	60
-		BomberJacket_SkyBlue,			*,	260,	60
-		BomberJacket_Blue,				*,	260,	60
-		BomberJacket_Grey,				*,	260,	60
-		BomberJacket_Brown,				*,	260,	60
-		BomberJacket_Black,				*,	280,	70
-		BomberJacket_Olive,				*,	300,	70
-		QuiltedJacket_Orange,			*,	260,	60
-		QuiltedJacket_Yellow,			*,	260,	60
-		QuiltedJacket_Red,				*,	260,	60
-		QuiltedJacket_Violet,			*,	260,	60
-		QuiltedJacket_Blue,				*,	260,	60
-		QuiltedJacket_Grey,				*,	260,	60
-		QuiltedJacket_Black,			*,	280,	70
-		QuiltedJacket_Green,			*,	300,	70
-		PrisonUniformJacket,			*,	280,	70
-		PoliceJacketOrel,				*,	320,	80
-		PoliceJacket,					*,	340,	80
-		ParamedicJacket_Crimson,		*,	360,	90
-		ParamedicJacket_Blue,			*,	360,	90
-		ParamedicJacket_Green,			*,	360,	90
-		HikingJacket_Red,				*,	300,	90
-		HikingJacket_Blue,				*,	300,	90
-		HikingJacket_Black,				*,	300,	90
-		HikingJacket_Green,				*,	300,	100
-		Raincoat_Pink,					*,	700,	150
-		Raincoat_Orange,				*,	700,	150
-		Raincoat_Yellow,				*,	700,	150
-		Raincoat_Red,					*,	700,	150
-		Raincoat_Blue,					*,	700,	150
-		Raincoat_Black,					*,	700,	200
-		Raincoat_Green,					*,	700,	250
-		TTsKOJacket_Camo,				*,	1000,	250
-		BDUJacket,						*,	1000,	250
+		LabCoat,						*,	1000,	200
+		TrackSuitJacket_Red,			*,	1500,	300
+		TrackSuitJacket_LightBlue,		*,	1500,	300
+		TrackSuitJacket_Blue,			*,	1500,	300
+		TrackSuitJacket_Black,			*,	1500,	300
+		TrackSuitJacket_Green,			*,	1500,	300
+		DenimJacket,					*,	1800,	400
+		ManSuit_Blue,					*,	1800,	400
+		ManSuit_White,					*,	1800,	400
+		ManSuit_LightGrey,				*,	1800,	400
+		ManSuit_DarkGrey,				*,	1800,	400
+		ManSuit_Beige,					*,	1800,	400
+		ManSuit_Brown,					*,	1800,	400
+		ManSuit_Black,					*,	1800,	400
+		ManSuit_Khaki,					*,	1800,	400
+		WomanSuit_Blue,					*,	1800,	400
+		WomanSuit_White,				*,	1800,	400
+		WomanSuit_LightGrey,			*,	1800,	400
+		WomanSuit_DarkGrey,				*,	1800,	400
+		WomanSuit_Beige,				*,	1800,	400
+		WomanSuit_Brown,				*,	1800,	400
+		WomanSuit_Black,				*,	1800,	400
+		WomanSuit_Khaki,				*,	1800,	400
+		WoolCoat_Red,					*,	1800,	400
+		WoolCoat_RedCheck,				*,	1800,	400
+		WoolCoat_Blue,					*,	1800,	400
+		WoolCoat_BlueCheck,				*,	1800,	400
+		WoolCoat_GreyCheck,				*,	1800,	400
+		WoolCoat_BrownCheck,			*,	1800,	400
+		WoolCoat_Beige,					*,	1800,	400
+		WoolCoat_Black,					*,	1900,	400
+		WoolCoat_BlackCheck,			*,	1900,	400
+		WoolCoat_Green,					*,	2000,	500
+		RidersJacket_Black,				*,	2000,	500
+		FirefighterJacket_Beige,		*,	2400,	600
+		FirefighterJacket_Black,		*,	2400,	600
+		JumpsuitJacket_Red,				*,	2600,	600
+		JumpsuitJacket_Blue,			*,	2600,	600
+		JumpsuitJacket_Gray,			*,	2600,	600
+		JumpsuitJacket_Green,			*,	2600,	600
+		BomberJacket_Maroon,			*,	2600,	600
+		BomberJacket_SkyBlue,			*,	2600,	600
+		BomberJacket_Blue,				*,	2600,	600
+		BomberJacket_Grey,				*,	2600,	600
+		BomberJacket_Brown,				*,	2600,	600
+		BomberJacket_Black,				*,	2800,	700
+		BomberJacket_Olive,				*,	3000,	700
+		QuiltedJacket_Orange,			*,	2600,	600
+		QuiltedJacket_Yellow,			*,	2600,	600
+		QuiltedJacket_Red,				*,	2600,	600
+		QuiltedJacket_Violet,			*,	2600,	600
+		QuiltedJacket_Blue,				*,	2600,	600
+		QuiltedJacket_Grey,				*,	2600,	600
+		QuiltedJacket_Black,			*,	2800,	700
+		QuiltedJacket_Green,			*,	3000,	700
+		PrisonUniformJacket,			*,	2800,	700
+		PoliceJacketOrel,				*,	3200,	800
+		PoliceJacket,					*,	3400,	800
+		ParamedicJacket_Crimson,		*,	3600,	900
+		ParamedicJacket_Blue,			*,	3600,	900
+		ParamedicJacket_Green,			*,	3600,	900
+		HikingJacket_Red,				*,	3000,	900
+		HikingJacket_Blue,				*,	3000,	900
+		HikingJacket_Black,				*,	3000,	900
+		HikingJacket_Green,				*,	3000,	1000
+		Raincoat_Pink,					*,	7000,	1500
+		Raincoat_Orange,				*,	7000,	1500
+		Raincoat_Yellow,				*,	7000,	1500
+		Raincoat_Red,					*,	7000,	1500
+		Raincoat_Blue,					*,	7000,	1500
+		Raincoat_Black,					*,	7000,	2000
+		Raincoat_Green,					*,	7000,	2500
+		TTsKOJacket_Camo,				*,	10000,	2500
+		BDUJacket,						*,	10000,	2500
 
 	<Category> Skirts & Dresses
-		Skirt_Yellow,			*,	300,	100
-		Skirt_Red,				*,	300,	100
-		Skirt_Blue,				*,	300,	100
-		Skirt_White,			*,	300,	100
-		MiniDress_Pink,			*,	350,	100
-		MiniDress_PinkChecker,	*,	350,	100
-		MiniDress_RedChecker,	*,	350,	100
-		MiniDress_BlueChecker,	*,	350,	100
-		MiniDress_BlueWithDots,	*,	350,	100
-		MiniDress_WhiteChecker,	*,	350,	100
-		MiniDress_BrownChecker,	*,	350,	100
-		MiniDress_GreenChecker,	*,	350,	100
-		NurseDress_Blue,		*,	400,	100
-		NurseDress_White,		*,	400,	100
+		Skirt_Yellow,			*,	3000,	1000
+		Skirt_Red,				*,	3000,	1000
+		Skirt_Blue,				*,	3000,	1000
+		Skirt_White,			*,	3000,	1000
+		MiniDress_Pink,			*,	3500,	1000
+		MiniDress_PinkChecker,	*,	3500,	1000
+		MiniDress_RedChecker,	*,	3500,	1000
+		MiniDress_BlueChecker,	*,	3500,	1000
+		MiniDress_BlueWithDots,	*,	3500,	1000
+		MiniDress_WhiteChecker,	*,	3500,	1000
+		MiniDress_BrownChecker,	*,	3500,	1000
+		MiniDress_GreenChecker,	*,	3500,	1000
+		NurseDress_Blue,		*,	4000,	1000
+		NurseDress_White,		*,	4000,	1000
 
 	<Category> Pants
-		MedicalScrubsPants_Blue,	*,	100,	20
-		MedicalScrubsPants_White,	*,	100,	20
-		MedicalScrubsPants_Green,	*,	100,	20
-		TrackSuitPants_Red,			*,	150,	30
-		TrackSuitPants_LightBlue,	*,	150,	30
-		TrackSuitPants_Blue,		*,	150,	30
-		TrackSuitPants_Black,		*,	150,	30
-		TrackSuitPants_Green,		*,	150,	30
-		PrisonUniformPants,			*,	170,	40
-		Breeches_Pink,				*,	200,	50
-		Breeches_Red,				*,	200,	50
-		Breeches_Blue,				*,	200,	50
-		Breeches_White,				*,	200,	50
-		Breeches_Beetcheck,			*,	200,	50
-		Breeches_Beige,				*,	210,	50
-		Breeches_Browncheck,		*,	210,	50
-		Breeches_Black,				*,	220,	50
-		Breeches_Blackcheck,		*,	220,	50
-		Breeches_Green,				*,	240,	60
-		SlacksPants_Blue,			*,	200,	50
-		SlacksPants_White,			*,	200,	50
-		SlacksPants_LightGrey,		*,	200,	50
-		SlacksPants_DarkGrey,		*,	200,	50
-		SlacksPants_Beige,			*,	200,	50
-		SlacksPants_Brown,			*,	210,	50
-		SlacksPants_Black,			*,	220,	50
-		SlacksPants_Khaki,			*,	240,	60
-		CanvasPantsMidi_Red,		*,	240,	60
-		CanvasPantsMidi_Violet,		*,	240,	60
-		CanvasPantsMidi_Blue,		*,	240,	60
-		CanvasPantsMidi_Grey,		*,	240,	60
-		CanvasPantsMidi_Beige,		*,	250,	60
-		CanvasPants_Red,			*,	260,	60
-		CanvasPants_Violet,			*,	260,	60
-		CanvasPants_Blue,			*,	260,	60
-		CanvasPants_Grey,			*,	260,	60
-		CanvasPants_Beige,			*,	280,	60
-		JumpsuitPants_Red,			*,	280,	60
-		JumpsuitPants_Blue,			*,	280,	60
-		JumpsuitPants_Grey,			*,	280,	60
-		JumpsuitPants_Green,		*,	280,	60
-		PolicePants,				*,	280,	60
-		ParamedicPants_Crimson,		*,	350,	80
-		ParamedicPants_Blue,		*,	350,	80
-		ParamedicPants_Green,		*,	350,	80
-		FirefightersPants_Beige,	*,	3000,	80
-		FirefightersPants_Black,	*,	3000,	80
-		CargoPants_Blue,			*,	350,	80
-		CargoPants_Grey,			*,	350,	80
-		CargoPants_Beige,			*,	350,	80
-		CargoPants_Black,			*,	350,	80
-		CargoPants_Green,			*,	350,	80
-		ShortJeans_Red,				*,	380,	80
-		ShortJeans_Blue,			*,	380,	80
-		ShortJeans_Darkblue,		*,	380,	80
-		ShortJeans_Brown,			*,	380,	80
-		ShortJeans_Black,			*,	400,	100
-		ShortJeans_Green,			*,	420,	100
-		Jeans_Blue,					*	400,	100
-		Jeans_BlueDark,				*,	400,	100
-		Jeans_Grey,					*,	400,	100
-		Jeans_Brown,				*,	400,	100
-		Jeans_Black,				*,	420,	100
-		Jeans_Green,				*,	450,	120
+		MedicalScrubsPants_Blue,	*,	1000,	200
+		MedicalScrubsPants_White,	*,	1000,	200
+		MedicalScrubsPants_Green,	*,	1000,	200
+		TrackSuitPants_Red,			*,	1500,	300
+		TrackSuitPants_LightBlue,	*,	1500,	300
+		TrackSuitPants_Blue,		*,	1500,	300
+		TrackSuitPants_Black,		*,	1500,	300
+		TrackSuitPants_Green,		*,	1500,	300
+		PrisonUniformPants,			*,	1700,	400
+		Breeches_Pink,				*,	2000,	500
+		Breeches_Red,				*,	2000,	500
+		Breeches_Blue,				*,	2000,	500
+		Breeches_White,				*,	2000,	500
+		Breeches_Beetcheck,			*,	2000,	500
+		Breeches_Beige,				*,	2100,	500
+		Breeches_Browncheck,		*,	2100,	500
+		Breeches_Black,				*,	2200,	500
+		Breeches_Blackcheck,		*,	2200,	500
+		Breeches_Green,				*,	2400,	600
+		SlacksPants_Blue,			*,	2000,	500
+		SlacksPants_White,			*,	2000,	500
+		SlacksPants_LightGrey,		*,	2000,	500
+		SlacksPants_DarkGrey,		*,	2000,	500
+		SlacksPants_Beige,			*,	2000,	500
+		SlacksPants_Brown,			*,	2100,	500
+		SlacksPants_Black,			*,	2200,	500
+		SlacksPants_Khaki,			*,	2400,	600
+		CanvasPantsMidi_Red,		*,	2400,	600
+		CanvasPantsMidi_Violet,		*,	2400,	600
+		CanvasPantsMidi_Blue,		*,	2400,	600
+		CanvasPantsMidi_Grey,		*,	2400,	600
+		CanvasPantsMidi_Beige,		*,	2500,	600
+		CanvasPants_Red,			*,	2600,	600
+		CanvasPants_Violet,			*,	2600,	600
+		CanvasPants_Blue,			*,	2600,	600
+		CanvasPants_Grey,			*,	2600,	600
+		CanvasPants_Beige,			*,	2800,	600
+		JumpsuitPants_Red,			*,	2800,	600
+		JumpsuitPants_Blue,			*,	2800,	600
+		JumpsuitPants_Grey,			*,	2800,	600
+		JumpsuitPants_Green,		*,	2800,	600
+		PolicePants,				*,	2800,	600
+		ParamedicPants_Crimson,		*,	3500,	800
+		ParamedicPants_Blue,		*,	3500,	800
+		ParamedicPants_Green,		*,	3500,	800
+		FirefightersPants_Beige,	*,	3000,	800
+		FirefightersPants_Black,	*,	3000,	800
+		CargoPants_Blue,			*,	3500,	800
+		CargoPants_Grey,			*,	3500,	800
+		CargoPants_Beige,			*,	3500,	800
+		CargoPants_Black,			*,	3500,	800
+		CargoPants_Green,			*,	3500,	800
+		ShortJeans_Red,				*,	3800,	800
+		ShortJeans_Blue,			*,	3800,	800
+		ShortJeans_Darkblue,		*,	3800,	800
+		ShortJeans_Brown,			*,	3800,	800
+		ShortJeans_Black,			*,	4000,	1000
+		ShortJeans_Green,			*,	4200,	1000
+		Jeans_Blue,					*	4000,	1000
+		Jeans_BlueDark,				*,	4000,	1000
+		Jeans_Grey,					*,	4000,	1000
+		Jeans_Brown,				*,	4000,	1000
+		Jeans_Black,				*,	4200,	1000
+		Jeans_Green,				*,	4500,	1200
 		TTSKOPants,					*,	12000,	3600
 		BDUPants,					*,	9000,	2700
 		USMCPants_Desert,			*,	10000,	3000
 		USMCPants_Woodland,			*,	10000,	3000
-		PolicePantsOrel,			*,	600,	180
+		PolicePantsOrel,			*,	6000,	1800
 		HunterPants_Winter,			*,	8000,	2400
 		HunterPants_Brown,			*,	8000,	2400
 		HunterPants_Spring,			*,	8000,	2400
@@ -1269,51 +1269,51 @@
 		NBCPantsGray,				*,	40000,	12000
 	
 	<Category> Shoes & Boots
-		AthleticShoes_Blue,			*,	170,	40
-		AthleticShoes_Grey,			*,	200,	50
-		AthleticShoes_Brown,		*,	200,	50
-		AthleticShoes_Black,		*,	230,	50
-		AthleticShoes_Green,		*,	230,	50
-		JoggingShoes_Violet,		*,	300,	70
-		JoggingShoes_Red,			*,	300,	70
-		JoggingShoes_Blue,			*,	300,	70
-		JoggingShoes_White,			*,	300,	70
-		JoggingShoes_Black,			*,	300,	70
-		Sneakers_Red,				*,	300,	70
-		Sneakers_White,				*,	300,	70
-		Sneakers_Gray,				*,	300,	70
-		Sneakers_Black,				*,	310,	70
-		Sneakers_Green,				*,	320,	70
-		DressShoes_White,			*,	320,	70
-		DressShoes_Brown,			*,	350,	80
-		DressShoes_Black,			*,	350,	80
-		DressShoes_Beige,			*,	350,	80
-		DressShoes_Sunburst,		*,	350,	80
-		HikingBootsLow_Blue,		*,	450,	120
-		HikingBootsLow_Grey,		*,	450,	120
-		HikingBootsLow_Beige,		*,	480,	130
-		HikingBootsLow_Black,		*,	500,	140
-		WorkingBoots_Yellow,		*,	3000,	900
-		WorkingBoots_Grey,			*,	3000,	900
-		WorkingBoots_Beige,			*,	3000,	900
-		WorkingBoots_Brown,			*,	3000,	900
-		WorkingBoots_Green,			*,	3000,	900
-		HikingBoots_Brown,			*,	2500,	750
-		HikingBoots_Black,			*,	2500,	750
+		AthleticShoes_Blue,			*,	1700,	400
+		AthleticShoes_Grey,			*,	2000,	500
+		AthleticShoes_Brown,		*,	2000,	500
+		AthleticShoes_Black,		*,	2300,	500
+		AthleticShoes_Green,		*,	2300,	500
+		JoggingShoes_Violet,		*,	3000,	700
+		JoggingShoes_Red,			*,	3000,	700
+		JoggingShoes_Blue,			*,	3000,	700
+		JoggingShoes_White,			*,	3000,	700
+		JoggingShoes_Black,			*,	3000,	700
+		Sneakers_Red,				*,	3000,	700
+		Sneakers_White,				*,	3000,	700
+		Sneakers_Gray,				*,	3000,	700
+		Sneakers_Black,				*,	3100,	700
+		Sneakers_Green,				*,	3200,	700
+		DressShoes_White,			*,	3200,	700
+		DressShoes_Brown,			*,	3500,	800
+		DressShoes_Black,			*,	3500,	800
+		DressShoes_Beige,			*,	3500,	800
+		DressShoes_Sunburst,		*,	3500,	800
+		HikingBootsLow_Blue,		*,	4500,	700
+		HikingBootsLow_Grey,		*,	4500,	700
+		HikingBootsLow_Beige,		*,	4500,	700
+		HikingBootsLow_Black,		*,	4500,	700
+		WorkingBoots_Yellow,		*,	5000,	900
+		WorkingBoots_Grey,			*,	5000,	900
+		WorkingBoots_Beige,			*,	5000,	900
+		WorkingBoots_Brown,			*,	5000,	900
+		WorkingBoots_Green,			*,	5000,	900
+		HikingBoots_Brown,			*,	5000,	700
+		HikingBoots_Black,			*,	5000,	700
 		CombatBoots_Grey,			*,	8000,	2400
 		CombatBoots_Beige,			*,	8000,	2400
 		CombatBoots_Brown,			*,	8000,	2400
 		CombatBoots_Black,			*,	8000,	2400
 		CombatBoots_Green,			*,	8000,	2400
-		JungleBoots_Beige,			*,	7500,	2250
-		JungleBoots_Brown,			*,	7500,	2250
-		JungleBoots_Black,			*,	7500,	2250
-		JungleBoots_Olive,			*,	7500,	2250
-		JungleBoots_Green,			*,	7500,	2250
-		Wellies_Grey,				*,	850,	250
-		Wellies_Brown,				*,	850,	250
-		Wellies_Black,				*,	850,	250
-		Wellies_Green,				*,	850,	280
+		JungleBoots_Beige,			*,	7500,	2200
+		JungleBoots_Brown,			*,	7500,	2200
+		JungleBoots_Black,			*,	7500,	2200
+		JungleBoots_Olive,			*,	7500,	2200
+		JungleBoots_Green,			*,	7500,	2200
+		Wellies_Grey,				*,	2000,	500
+		Wellies_Brown,				*,	2000,	500
+		Wellies_Black,				*,	2000,	500
+		Wellies_Green,				*,	2000,	500
 		TTSKOBoots,					*,	9000,	2700
 		MilitaryBoots_Redpunk,		*,	8000,	2400
 		MilitaryBoots_Bluerock,		*,	8000,	2400
@@ -1325,21 +1325,21 @@
 	<Category> Ghillie
 		// Keep in Mind that Players can also 
 		// craft Ghillie Clothing and sell them!
-		GhillieAtt_Mossy,		*,	1000,	300
-		GhillieAtt_Tan,			*,	1000,	300
-		GhillieAtt_Woodland,	*,	1000,	300
-		GhillieHood_Mossy,		*,	1000,	300
-		GhillieHood_Tan,		*,	1000,	300
-		GhillieHood_Woodland,	*,	1000,	300
-		GhillieBushrag_Mossy,	*,	1000,	300
-		GhillieBushrag_Tan,		*,	1000,	300
-		GhillieBushrag_Woodland,*,	1000,	300
-		GhillieTop_Mossy,		*,	1000,	300
-		GhillieTop_Tan,			*,	1000,	300
-		GhillieTop_Woodland,	*,	1000,	300
-		GhillieSuit_Mossy,		*,	1000,	300
-		GhillieSuit_Tan,		*,	1000,	300
-		GhillieSuit_Woodland,	*,	1000,	300
+		GhillieAtt_Mossy,		*,	10000,	500
+		GhillieAtt_Tan,			*,	10000,	500
+		GhillieAtt_Woodland,	*,	10000,	500
+		GhillieHood_Mossy,		*,	10000,	500
+		GhillieHood_Tan,		*,	10000,	500
+		GhillieHood_Woodland,	*,	10000,	500
+		GhillieBushrag_Mossy,	*,	10000,	500
+		GhillieBushrag_Tan,		*,	10000,	500
+		GhillieBushrag_Woodland,*,	10000,	500
+		GhillieTop_Mossy,		*,	10000,	500
+		GhillieTop_Tan,			*,	10000,	500
+		GhillieTop_Woodland,	*,	10000,	500
+		GhillieSuit_Mossy,		*,	10000,	500
+		GhillieSuit_Tan,		*,	10000,	500
+		GhillieSuit_Woodland,	*,	10000,	500
 		
 	//<Category> Seasonal
 		//SantasBeard,			*,		15,		0
@@ -1347,7 +1347,7 @@
 		//PumpkinHelmet,		*,		50,		0
 
 	<Category> Holster & Pouches
-		ChestHolster,			*,	2000,	600
+		ChestHolster,			*,	2000,	700
 		PlateCarrierHolster,	*,	8000,	2400
 		PlateCarrierPouches,	*,	12000,	3600
 		LeatherKnifeSheath,		*,	7000,	2200
