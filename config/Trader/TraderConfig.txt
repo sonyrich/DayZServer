@@ -194,12 +194,12 @@
 	
 	<Category> Cooking & Hunting Supplies
 		Pot,					M,	10000,	2500
-		Tripod,					*,	1000,	400
+		Tripod,					*,	1200,	600
 		BearTrap,				*,	20000,	5000	
 		
 	<Category> Hardware Supplies
 		Paper,					*,	-1,		10
-		Pen_Blue,				*,	100,	20
+		Pen_Blue,				*,	100,	500
 		Rope,					*,	3000,	800
 		TannedLeather,			*,	500,	100
 		AntiPestsSpray,			*,	1000,	200
@@ -466,6 +466,13 @@
 		MP5K,	W,	-1,		87500
 		PP19,	W,	174000,	87000
 		UMP45,	W,	-1,		90000
+		
+	<Category> Sniper Rifles
+		VSS,					W,	450000,	225000
+		Scout,					W,	180000,	90000
+		Scout_Chernarus,		W,	180000,	90000
+		Scout_Livonia,			W,	180000,	90000
+		SVD,					W,	600000,	300000
 	
 	<Category> Melee	
 		BrassKnuckles_Shiny,	W,	5000,	2500
@@ -475,15 +482,8 @@
 		CattleProd,				W,	5000,	2500
 		BaseballBat,			W,	10000,	5000
 		NailedBaseballBat,		W,	15000,	7500
-		
+	
 	//<Category> Light Machine Guns
-		
-	<Category> Sniper Rifles
-		VSS,					W,	450000,	225000
-		Scout,					W,	180000,	90000
-		Scout_Chernarus,		W,	180000,	90000
-		Scout_Livonia,			W,	180000,	90000
-		SVD,					W,	600000,	300000
 		
 	<Category> Grenades
 		RGD5Grenade,				1,	60000,	30000
