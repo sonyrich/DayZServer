@@ -20,35 +20,35 @@
 
 <Trader> Consume Trader	
 	<Category> Meat									// Trader Name (first Trader has ID = 0, second Trader has ID = 1, and so on..)
-		ChickenBreastMeat,	S,	20000,	9000		// Category Name
-		PigSteakMeat,		S,	38000,	18000		// Buyvalue -1 means it can not be bought
-		GoatSteakMeat,		S,	65000,	28000		// Item Classname, Quantity, Buyvalue, Sellvalue
-		WolfSteakMeat,		S,	-1,		14000		// Quantity * means max value
-		DeerSteakMeat,		S,	-1,		22000		// Quantity V means Vehicle
-		CowSteakMeat,		S,	-1,		15000		// Quantity VNK means Vehicle without Key
-		BoarSteakMeat,		S,	-1,		20000		// Quantity M means Magazine
+		ChickenBreastMeat,	S,	20000,	6000		// Category Name
+		PigSteakMeat,		S,	38000,	10500		// Buyvalue -1 means it can not be bought
+		GoatSteakMeat,		S,	65000,	16000		// Item Classname, Quantity, Buyvalue, Sellvalue
+		WolfSteakMeat,		S,	-1,		9500		// Quantity * means max value
+		DeerSteakMeat,		S,	-1,		16000		// Quantity V means Vehicle
+		CowSteakMeat,		S,	-1,		12000		// Quantity VNK means Vehicle without Key
+		BoarSteakMeat,		S,	-1,		18000		// Quantity M means Magazine
 		BearSteakMeat,		S,	-1,		100000		// Quantity W means Weapon
-		SheepSteakMeat,		S,	-1,		28000		// Quantity S means Stack Meat
-		RabbitLegMeat,		S,	-1,		150000		// Quantity K means Key Duplication
-		Sardines,			S,	-1,		9000		// Sellvalue -1 means it can not be selled
-		Bitterlings,		S,	-1,		8000		
-		Carp,				S,	-1,		10000		
-		Mackerel,			S,	-1,		14000		
+		SheepSteakMeat,		S,	-1,		24000		// Quantity S means Stack Meat
+		RabbitLegMeat,		S,	-1,		120000		// Quantity K means Key Duplication
+		Sardines,			S,	-1,		8000		// Sellvalue -1 means it can not be selled
+		Bitterlings,		S,	-1,		6500		
+		Carp,				S,	-1,		9500		
+		Mackerel,			S,	-1,		11000		
 		
 	<Category> Animal Parts
 		Bone,			*,	4000,	1000
 		Lard,			S,	5000,	1400
 		Guts,			S,	8000,	2000
 		SmallGuts,		S,	6000,	1500
-		PigPelt,		S,	44000,	24000
-		GoatPelt,		S,	64000,	32000
-		WolfPelt,		S,	40000,	22000
-		DeerPelt,		S,	60000,	30000
-		CowPelt,		S,	68000,	34000
-		WildboarPelt,	S,	72000,	36000
-		BearPelt,		S,	800000,200000
+		PigPelt,		S,	44000,	14000
+		GoatPelt,		S,	64000,	20000
+		WolfPelt,		S,	40000,	21000
+		DeerPelt,		S,	60000,	26000
+		CowPelt,		S,	68000,	30000
+		WildboarPelt,	S,	72000,	32000
+		BearPelt,		S,	800000,	200000
 		SheepPelt,		S,	135000,	68000
-		RabbitPelt,		S,	400000,	180000
+		RabbitPelt,		S,	400000,	140000
 	
 	<Category> Canned and Packaged Foods
 		PowderedMilk,		*,	15000,	8000
