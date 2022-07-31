@@ -569,6 +569,7 @@
 		TF_Mag_SCAR_H_PMAG25Rnd_Black,	M,	20000,	16000
 		TF_Mag_SCAR_H_Drum50Rnd,		M,	38500,	30800
 		TF_Mag_FAL_Drum50Rnd_Black,		M,	35000,	28000
+		TF_Mag_SR25_20Rnd,				M,	19000,	15200
 		TF_Mag_MAR10_10Rnd,				M,	70000,	56000
 		TF_Mag_Anzio20_3Rnd,			M,	78000,	62400
 		TF_Mag_M14_20Rnd,				M,	19000,	15200
