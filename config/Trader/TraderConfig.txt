@@ -814,6 +814,7 @@
 		PSO1Optic,				*,	20000,	6000
 		PSO11Optic,				*,	20000,	6000
 		KazuarOptic,			*,	35000,	10500
+		StarlightOptic,			*,	50000,	20000
 	
 	<Category> Supressors
 		PistolSuppressor,	*,	36000,	18000
