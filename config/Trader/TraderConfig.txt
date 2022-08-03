@@ -55,6 +55,7 @@
 		BoxCerealCrunchin,	*,	13800,	7000
 		Rice,				*,	5000,	2000
 		SardinesCan,		*,	-1,		4600
+		PorkCan,			*,	12000,	4500
 		TunaCan,			*,	-1,		3800
 		Marmalade,			*,	7000,	3500
 		PeachesCan,			*,	-1,		4000
