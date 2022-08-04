@@ -1,7 +1,8 @@
 {
-    "m_Version": 4,
+    "m_Version": 5,
     "Safezone": 1,
     "AdminTools": 1,
+    "ExplosionDamageSystem": 1,
     "VehicleCarKey": 1,
     "VehicleTowing": 1,
     "VehicleLockPicking": 1,
