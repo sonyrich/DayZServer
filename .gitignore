@@ -1,5 +1,6 @@
 #mods
 @AmmoStacks/
+@AmmoStackBullet/
 @BaseBuildingPlus/
 @BBPItemPack/
 @CF/
@@ -20,6 +21,7 @@
 @Gas-Pump-Refueling/
 @InventoryInCar/
 @PristineRepair/
+@Repack Ammo/
 @RUSForma_vehicles/
 @Tactical-Flava/
 @Trader/
