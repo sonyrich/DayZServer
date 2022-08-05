@@ -602,7 +602,7 @@
 		TF_Mag_M240_50Rnd,				M,	50000, 	40000
 		TF_Mag_M249_200Rnd,				M,	90000, 	72000
 		TF_Mag_PKM_100Rnd,				M,	70000, 	56000
-		TF_Mag_SVCh308_10Rnd
+		TF_Mag_SVCh308_10Rnd,			M,	40000,	20000
 	
 	<Category> Magazines
 		Mag_IJ70_8Rnd,				M,	8000,	2400
