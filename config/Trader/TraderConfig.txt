@@ -404,7 +404,7 @@
 		TF_M4A1_CQBR,			W,	1130000,	528000
 		TF_MK47_CQBR,			W,	1120000,	588000
 		TF_MK47,				W,	1140000,	588000
-		TF_MP443,				W,	284000,		122000
+		TF_MP443,				W,	285000,		122000
 		TF_VPO190,				W,	1220000,	576000
 		TF_AEK999,				W,	3000000,	1750000
 		TF_PKM,					W,	2900000,	1700000
@@ -412,36 +412,36 @@
 		TF_M240,				W,	2640000,	1400000
 		TF_M249,				W,	2700000,	1450000
 		TF_SVCh308,				W,	1260000,	530000
-		TF_SVCh,				W,	2000000,	1120000
+		TF_SVCh,				W,	1700000,	720000
 		TF_SR25,				W,	1270000,	536000
 		
 	<Category> Pistols
-		Flaregun,		W,	10000,	5000
-		Derringer_Black,W,	20000,	10000
-		Derringer_Grey,	W,	20000,	10000
-		Derringer_Pink,	W,	20000,	10000
-		MKII,			W,	97000,	38500
-		MakarovIJ70,	W,	70000,	25000
+		Flaregun,		W,	20000,	5000
+		Derringer_Black,W,	110000,	10000
+		Derringer_Grey,	W,	110000,	10000
+		Derringer_Pink,	W,	110000,	10000
+		MKII,			W,	185000,	38500
+		MakarovIJ70,	W,	155000,	25000
 		P1,				W,	-1,		34000
-		CZ75,			W,	95000,	35000
-		Glock19,		W,	96000,	36000
-		FNX45,			W,	98500,	39200
-		Colt1911,		W,	96000,	36000
+		CZ75,			W,	195000,	35000
+		Glock19,		W,	200000,	36000
+		FNX45,			W,	230000,	39200
+		Colt1911,		W,	210000,	36000
 		Engraved1911,	W,	-1,		38500
-		Deagle,			W,	155000,	80000
-		Deagle_Gold,	W,	158000,	87000
-		Magnum,			W,	150000,	70000
-		SawedoffMagnum,	W,	140000,	60000
+		Deagle,			W,	450000,	80000
+		Deagle_Gold,	W,	455000,	87000
+		Magnum,			W,	440000,	70000
+		SawedoffMagnum,	W,	440000,	60000
 		
 	<Category> Rifles
-		Izh18,			W,	160000,	50000
-		B95,			W,	470000,	95000
-		SawedoffB95,	W,	420000,	110000
-		Mosin9130,		W,	485000,	65000
-		CZ527,			W,	350000,	75000
-		CZ550,			W,	340000,	72000
+		Izh18,			W,	480000,	50000
+		B95,			W,	620000,	95000
+		SawedoffB95,	W,	610000,	110000
+		Mosin9130,		W,	835000,	65000
+		CZ527,			W,	510000,	75000
+		CZ550,			W,	510000,	72000
 		SKS,			W,	370000,	85000
-		Winchester70,	W,	280000,	140000
+		Winchester70,	W,	840000,	140000
 		Repeater,		W,	280000, 140000
 	
 	<Category> Assault Rifles
