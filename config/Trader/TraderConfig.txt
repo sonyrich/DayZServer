@@ -36,7 +36,7 @@
 		Mackerel,			S,	-1,		11000		
 		
 	<Category> Animal Parts
-		Bone,			*,	4000,	1000
+		Bone,			*,	4000,	1200
 		Lard,			S,	5000,	1400
 		Guts,			S,	8000,	2500
 		SmallGuts,		S,	6000,	1500
@@ -93,10 +93,10 @@
 		SodaCan_Spite,	*,	5000,	1000
 		WaterBottle,	*,	10000,	2500
 		Canteen,		*,	20000,	5000
-		Vodka,			*,	-1,		400000
+		Vodka,			*,	-1,		800000
 		
 	<Category> Medical Supplies
-		BandageDressing,		*,	10000,		1600
+		BandageDressing,		*,	25000,		9000
 		StartKitIV,				*,	5000,		1000
 		SalineBag,				*,	25000,		9000
 		BloodBagEmpty,			*,	2500,		600
@@ -129,7 +129,7 @@
 
 
 <Trader> Misc Trader
-	<Category> Tools (small)
+	<Category> Small Tools
 		Screwdriver,			*,	-1,		6000
 		Wrench,					*,	-1,		3000
 		SewingKit,				*,	30000,	7500
@@ -160,7 +160,7 @@
 		Binoculars,				*,	-1,		1000
 		ChernarusMap,			*,	-1,		500
 		
-	<Category> Tools (big)
+	<Category> Big Tools
 		LugWrench,			*,	5000,	1200
 		Shovel,				*,	20000,	7000
 		WoodAxe,			*,	25000,	8000
@@ -172,11 +172,11 @@
 		
 	<Category> Electronics
 		Battery9V,				*,	10000,	7500
-		PersonalRadio,			*,	2000,	1200
+		PersonalRadio,			*,	2000,	1500
+		NVGoggles,				*,	70000,	40000
 		ElectronicRepairKit,	*,	10000,	4500
 		CableReel,				*,	4000,	1000
 		BatteryCharger,			*,	8000,	3000
-		NVGoggles,				*,	70000,	40000
 		Megaphone,				*,	-1,		2000
 		BaseRadio,				*,	-1,		3000
 		Rangefinder,			*,	-1,		2000
@@ -196,14 +196,14 @@
 		Flashlight,				*,	-1,		1000
 	
 	<Category> Cooking & Hunting Supplies
-		Pot,					M,	20000,	8500
+		Pot,					M,	50000,	20000
 		Tripod,					*,	1200,	600
 		BearTrap,				*,	10000,	5000	
 		
 	<Category> Hardware Supplies
 		Paper,					*,	-1,		10
 		Pen_Blue,				*,	1000,	500
-		Rope,					*,	3000,	800
+		Rope,					*,	3000,	2000
 		TannedLeather,			*,	500,	100
 		AntiPestsSpray,			*,	1000,	200
 		MetalWire,				*,	2000,	500
@@ -241,11 +241,11 @@
 		PowerGenerator,			*,	100000,	25000
 	
 	<Category> Seeds & Lime
-		TomatoSeedsPack,		*,	5000,	1200
-		PepperSeedsPack,		*,	5000,	1200
-		ZucchiniSeedsPack,		*,	6000,	1500
-		PumpkinSeedsPack,		*,	8000,	2000
-		GardenLime,				*,	10000,	3500
+		TomatoSeedsPack,		*,	15000,	1200
+		PepperSeedsPack,		*,	15000,	1200
+		ZucchiniSeedsPack,		*,	16000,	1500
+		PumpkinSeedsPack,		*,	18000,	2000
+		GardenLime,				*,	30000,	3500
 		
 	<Category> Teddy Baers <3
 		Bear_Beige,	*,	5000,	1500
@@ -253,14 +253,14 @@
 		Bear_Pink,	*,	5000,	1500
 		Bear_White,	*,	5000,	1500
 		
-	<Category> Furnitures
+	<Category> Supply Furnitures
 		M_Kit_Gun_Rack,				*,	100000,	25000
 		M_Kit_Gun_Wall,				*,	120000,	30000
 		M_Kit_Fridge,				*,	120000,	30000
-		M_Kit_Gas_Stove,			*,	140000,	37500
-		M_Big_Gas_Canister,			*,	50000,	10000
-		M_Kit_Medical_Bag,			*,	40000,	12000
-		M_Kit_Gun_Cabinet,			*,	60000,	15000
+		M_Kit_Gas_Stove,			*,	400000,	100000
+		M_Big_Gas_Canister,			*,	100000,	50000
+		M_Kit_Medical_Bag,			*,	50000,	20000
+		M_Kit_Gun_Cabinet,			*,	80000,	15000
 		M_Kit_Gun_Rack_Tan,			*,	80000,	20000
 		M_Kit_Gun_Rack_Green,		*,	80000,	20000
 		M_Kit_Shelf,				*,	10000,	5000
@@ -269,7 +269,7 @@
 		M_WorkBench_BluePrint,		*,	10000,	3500
 		M_WorkBench_Hammer,			*,	7000,	2500
 	
-	<Category> BBP Kits
+	<Category> BBP Building Kits
 		BBP_Workbench_Kit,				*,	1000,	500
 		BBP_Step_Ladder_Kit,			*,	1000,	500
 		BBP_Wall_Kit,					*,	1000,	500
@@ -298,14 +298,14 @@
 		BBP_Metal_Stair_Kit,			*,	1000,	500
 		BBP_Triangle_Foundation_Kit,	*,	1000,	500
 	
-	<Category> BBP Item Pack
-		BBP_SolarPlus_PanelKit,			*,		65000,		15000
-		BBP_BedKit,						*,		18000,		6000
-		BBP_Bedding,					*,		9000,		3000
-		BBP_Floor_Lamp,					*,		8000,		400
-		BBP_Toilet,						*,		6000,		300
-		BBP_SofaKit,					*,		10000,		4000
-		BBP_WellKit,					*,		1000000,	300000
+	<Category> BBP Items Furnitures
+		BBP_BedKit,						*,		25000,		8000
+		BBP_Bedding,					1,		5000,		2000
+		BBP_SofaKit,					*,		25000,		8000
+		BBP_WellKit,					*,		2500000,	500000
+		BBP_SolarPlus_PanelKit,			*,		60000,		20000
+		BBP_Floor_Lamp,					*,		8000,		1000
+		BBP_Toilet,						*,		6000,		800
 		BBP_Bucket,						*,		3000,		1500
 		BBP_Land_Claim_FlagKit,			*,		5000,		2500
 		BBP_Wood_Storage,				*,		2000,		500
@@ -500,10 +500,10 @@
 		RDG2SmokeGrenade_White,		1,	30000,	15000
 		
 	<Category> TF | GRENADES
-		TF_EMPGrenade,			*,	50000,	40000
-		TF_PhosphorusGrenade,	*,	60000,	48000
-		TF_TeargasGrenade,		*,	40000,	32000
-		TF_ChemicalGrenade,		*,	100000,	75000
+		TF_EMPGrenade,			*,	55000,	20000
+		TF_PhosphorusGrenade,	*,	72000,	38000
+		TF_TeargasGrenade,		*,	90000,	42000
+		TF_ChemicalGrenade,		*,	250000,	95000
 		
 		
 <Trader> Weapon Supplies
@@ -1749,20 +1749,20 @@
 		
 <Trader> Aircraft Trader
 	<Category> Helicopters
-		ExpansionUh1h,			V,	2800000,	2300000
-		ExpansionMh6,			V,	3000000,	2500000
-		ExpansionMh6_Blueline,	V,	2700000,	2200000
-		ExpansionMh6_Digital,	V,	2700000,	2200000
-		ExpansionMerlin,		V,	3200000,	2600000
-		ExpansionGyrocopter,	V,	1800000,	1440000
+		ExpansionUh1h,			V,	6800000,	3400000
+		ExpansionMh6,			V,	8000000,	4000000
+		ExpansionMh6_Blueline,	V,	8000000,	4000000
+		ExpansionMh6_Digital,	V,	8000000,	4000000
+		ExpansionMerlin,		V,	7200000,	3600000
+		ExpansionGyrocopter,	V,	3800000,	1900000
 	
 	<Category> Helicopter Parts
-		ExpansionHelicopterBattery,	*,	50000,	40000
+		ExpansionHelicopterBattery,	*,	10000,	5000
 		CarRadiator,				*,	30000,	24000
-		SparkPlug,					*,	1000,	200
-		HeadlightH7,				*,	500,	100
+		SparkPlug,					*,	5000,	2000
+		HeadlightH7,				*,	1000,	500
 		ExpansionHydraulicHoses,	*,	3000,	2400
-		ExpansionIgniterPlug,		*,	5000,	4000
+		ExpansionIgniterPlug,		*,	5000,	3000
 	
 	<Category> Keys
 		VehicleKeyDuplicate,	K,		2000,	-1 		// The choosen Classname here only gets displayed in the UI (Name/Description); Make Sure SellValue is set to -1
