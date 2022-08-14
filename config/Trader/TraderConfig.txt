@@ -1748,13 +1748,29 @@
 		VehicleKeyLost,    		KL,    	5000,   -1		// The choosen Classname here only gets displayed in the UI (Name/Description); Make Sure SellValue is set to -1
 		
 <Trader> Aircraft Trader
-	<Category> Helicopters
+	<Category> Expansion Helicopters
 		ExpansionUh1h,			V,	6800000,	3400000
 		ExpansionMh6,			V,	8000000,	4000000
 		ExpansionMh6_Blueline,	V,	8000000,	4000000
 		ExpansionMh6_Digital,	V,	8000000,	4000000
 		ExpansionMerlin,		V,	7200000,	3600000
 		ExpansionGyrocopter,	V,	3800000,	1900000
+	
+	<Category> ARMA II Helicopters
+		ext_mh6,				V,	10,	3400000
+		ext_ah1z,				V,	10,	3400000
+		ext_ah64d,				V,	10,	3400000
+		ext_aw159,				V,	10,	3400000
+		ext_ch_47f,				V,	10,	3400000
+		ext_ka52,				V,	10,	3400000
+		ext_ka60,				V,	10,	3400000
+		ext_merlinhc3,			V,	10,	3400000
+		ext_mi171,				V,	10,	3400000
+		ext_mi24,				V,	10,	3400000
+		ext_mi8,				V,	10,	3400000
+		ext_mi8_attack,			V,	10,	3400000
+		ext_uh1y,				V,	10,	3400000
+		ext_uh60m,				V,	10,	3400000
 	
 	<Category> Helicopter Parts
 		ExpansionHelicopterBattery,	*,	10000,	5000

@@ -227,7 +227,202 @@
 	ExpansionMerlinFrontWheel
 	ExpansionMerlinBackWheel
 	ExpansionMerlinBackWheel
+
+<VehicleParts> ext_mh6
+	ExpansionHelicopterBattery
+	ExpansionIgniterPlug
+	ExpansionHydraulicHoses
+	HeadlightH7
+	Wrench
+	Camonet
+	CanisterGasoline
+	ext_tac_radio
 	
+<VehicleParts> ext_ah1z
+	ExpansionHelicopterBattery
+	ExpansionIgniterPlug
+	ExpansionHydraulicHoses
+	HeadlightH7
+	Wrench
+	Camonet
+	CanisterGasoline
+	ext_ah1z_door_1_1
+	ext_ah1z_door_2_1
+	ext_tac_radio
+
+<VehicleParts> ext_ah64d
+	ExpansionHelicopterBattery
+	ExpansionIgniterPlug
+	ExpansionHydraulicHoses
+	HeadlightH7
+	Wrench
+	Camonet
+	CanisterGasoline
+	ext_tac_radio
+	
+<VehicleParts> ext_aw159
+	ExpansionHelicopterBattery
+	ExpansionIgniterPlug
+	ExpansionHydraulicHoses
+	HeadlightH7
+	ext_aw159_frontwheel
+	ext_aw159_frontwheel
+	ext_aw159_backwheel
+	ext_aw159_backwheel
+	Wrench
+	Camonet
+	CanisterGasoline
+	ext_tac_radio
+
+<VehicleParts> ext_ch_47f
+	ExpansionHelicopterBattery
+	ExpansionIgniterPlug
+	ExpansionHydraulicHoses
+	HeadlightH7
+	Wrench
+	Camonet
+	CanisterGasoline
+	ext_tac_radio
+
+<VehicleParts> ext_ka52
+	ExpansionHelicopterBattery
+	ExpansionIgniterPlug
+	ExpansionHydraulicHoses
+	HeadlightH7
+	ext_ka52_door_1_1
+	ext_ka52_door_2_1
+	ext_ka52frontwheel
+	ext_ka52frontwheel
+	ext_ka52backwheel
+	ext_ka52backwheel
+	Wrench
+	Camonet
+	CanisterGasoline
+	ext_tac_radio
+
+<VehicleParts> ext_ka60
+	ExpansionHelicopterBattery
+	ExpansionIgniterPlug
+	ExpansionHydraulicHoses
+	HeadlightH7
+	ext_ka60_door
+	ext_ka60_frontwheel
+	ext_ka60_frontwheel
+	ext_ka60_backwheel
+	ext_ka60_backwheel
+	Wrench
+	Camonet
+	CanisterGasoline
+	ext_tac_radio
+
+<VehicleParts> ext_merlinhc3
+	ExpansionHelicopterBattery
+	ExpansionIgniterPlug
+	ExpansionHydraulicHoses
+	HeadlightH7
+	ext_merlinhc3_door_1_1
+	ext_merlinhc3_door_2_1
+	ext_merlinhc3_cargo_door
+	ext_merlinhc3_frontwheel
+	ext_merlinhc3_frontwheel
+	ext_merlinhc3_backwheel
+	ext_merlinhc3_backwheel
+	Wrench
+	Camonet
+	CanisterGasoline
+	ext_tac_radio
+
+<VehicleParts> ext_mi171
+	ExpansionHelicopterBattery
+	ExpansionIgniterPlug
+	ExpansionHydraulicHoses
+	HeadlightH7
+	ext_mi8door
+	ext_merlinhc3_door_2_1
+	ext_mi8frontwheel
+	ext_mi8frontwheel
+	ext_mi8backwheel
+	ext_mi8backwheel
+	Wrench
+	Camonet
+	CanisterGasoline
+	ext_tac_radio
+
+<VehicleParts> ext_mi24
+	ExpansionHelicopterBattery
+	ExpansionIgniterPlug
+	ExpansionHydraulicHoses
+	HeadlightH7
+	ext_mi24_door_1_1
+	ext_mi24_door_1_2
+	ext_mi24_door_2_1
+	ext_mi24_door_2_2
+	ext_mi24_door_cargo_1
+	ext_mi24_door_cargo_2
+	ext_mi24_wheel_1_1
+	ext_mi24_wheel_1_2
+	ext_mi24_wheel_2_1
+	ext_mi24_wheel_2_2
+	Wrench
+	Camonet
+	CanisterGasoline
+	ext_tac_radio
+
+<VehicleParts> ext_mi8
+	ExpansionHelicopterBattery
+	ExpansionIgniterPlug
+	ExpansionHydraulicHoses
+	HeadlightH7
+	ext_mi8door
+	ext_mi8frontwheel
+	ext_mi8frontwheel
+	ext_mi8backwheel
+	ext_mi8backwheel
+	Wrench
+	Camonet
+	CanisterGasoline
+	ext_tac_radio
+	
+<VehicleParts> ext_mi8_attack
+	ExpansionHelicopterBattery
+	ExpansionIgniterPlug
+	ExpansionHydraulicHoses
+	HeadlightH7
+	ext_mi8door
+	ext_mi8frontwheel
+	ext_mi8frontwheel
+	ext_mi8backwheel
+	ext_mi8backwheel
+	Wrench
+	Camonet
+	CanisterGasoline
+	ext_tac_radio
+
+<VehicleParts> ext_uh1y
+	ExpansionHelicopterBattery
+	ExpansionIgniterPlug
+	ExpansionHydraulicHoses
+	HeadlightH7
+	ext_uh1y_door_1_1
+	ext_uh1y_door_2_1
+	Wrench
+	Camonet
+	CanisterGasoline
+	ext_tac_radio
+
+<VehicleParts> ext_uh60m
+	ExpansionHelicopterBattery
+	ExpansionIgniterPlug
+	ExpansionHydraulicHoses
+	HeadlightH7
+	ext_uh60m_door_1_1
+	ext_uh60m_door_1_2
+	ext_uh60m_door_2_1
+	ext_uh60m_door_2_2
+	Wrench
+	Camonet
+	CanisterGasoline
+	ext_tac_radio
 
 <VehicleParts> KAVZ685_RF
 	KAVZ685_RF_wheel
