@@ -1131,6 +1131,12 @@
     <input name="UAExpansionCarRefill">
         <btn name="kR" />
     </input>
+    <input name="UAToggleLandingGear">
+        <btn name="kG" />
+    </input>
+    <input name="UAToggleAUXlight">
+        <btn name="kO" />
+    </input>
     <input name="UAExpansionBookToggle">
         <btn name="kB" />
     </input>
