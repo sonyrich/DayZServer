@@ -2220,28 +2220,28 @@
 		
 <Trader> Aircraft Trader
 	<Category> Expansion Helicopters
-		ExpansionUh1h,			VNK,	5200000,	3400000
+		ExpansionUh1h,			VNK,	4900000,	3400000
 		ExpansionMh6,			VNK,	5000000,	4000000
 		ExpansionMh6_Blueline,	VNK,	5000000,	4000000
 		ExpansionMh6_Digital,	VNK,	5000000,	4000000
-		ExpansionMerlin,		VNK,	7200000,	3600000
+		ExpansionMerlin,		VNK,	6000000,	3600000
 		ExpansionGyrocopter,	VNK,	2500000,	1900000
 	
 	<Category> ARMA II Helicopters
+		ext_ah1z,				VNK,	5800000,	3400000
+		ext_ah64d,				VNK,	5800000,	3400000
+		ext_ka52,				VNK,	5700000,	3400000
+		ext_mi24,				VNK,	1900000,	3400000
+		ext_aw159,				VNK,	7200000,	3400000
 		ext_mh6,				VNK,	6000000,	3400000
-		ext_ah1z,				VNK,	5300000,	3400000
-		ext_ah64d,				VNK,	5300000,	3400000
-		ext_aw159,				VNK,	6200000,	3400000
-		ext_ch_47f,				VNK,	9000000,	3400000
-		ext_ka52,				VNK,	5200000,	3400000
-		ext_ka60,				VNK,	6400000,	3400000
-		ext_merlinhc3,			VNK,	7500000,	3400000
-		ext_mi171,				VNK,	10,	3400000
-		ext_mi24,				VNK,	10,	3400000
-		ext_mi8,				VNK,	10,	3400000
-		ext_mi8_attack,			VNK,	10,	3400000
-		ext_uh1y,				VNK,	10,	3400000
-		ext_uh60m,				VNK,	10,	3400000
+		ext_uh1y,				VNK,	5900000,	3400000
+		ext_mi171,				VNK,	6300000,	3400000
+		ext_ka60,				VNK,	7800000,	3400000
+		ext_uh60m,				VNK,	6900000,	3400000
+		ext_mi8,				VNK,	7700000,	3400000
+		ext_mi8_attack,			VNK,	7700000,	3400000
+		ext_ch_47f,				VNK,	9400000,	3400000
+		ext_merlinhc3,			VNK,	9100000,	3400000
 	
 	<Category> Helicopter Parts
 		ExpansionHelicopterBattery,	*,	10000,	5000
