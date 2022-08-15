@@ -2220,22 +2220,22 @@
 		
 <Trader> Aircraft Trader
 	<Category> Expansion Helicopters
-		ExpansionUh1h,			VNK,	6800000,	3400000
-		ExpansionMh6,			VNK,	8000000,	4000000
-		ExpansionMh6_Blueline,	VNK,	8000000,	4000000
-		ExpansionMh6_Digital,	VNK,	8000000,	4000000
+		ExpansionUh1h,			VNK,	5200000,	3400000
+		ExpansionMh6,			VNK,	5000000,	4000000
+		ExpansionMh6_Blueline,	VNK,	5000000,	4000000
+		ExpansionMh6_Digital,	VNK,	5000000,	4000000
 		ExpansionMerlin,		VNK,	7200000,	3600000
-		ExpansionGyrocopter,	VNK,	3800000,	1900000
+		ExpansionGyrocopter,	VNK,	2500000,	1900000
 	
 	<Category> ARMA II Helicopters
-		ext_mh6,				VNK,	10,	3400000
-		ext_ah1z,				VNK,	10,	3400000
-		ext_ah64d,				VNK,	10,	3400000
-		ext_aw159,				VNK,	10,	3400000
-		ext_ch_47f,				VNK,	10,	3400000
-		ext_ka52,				VNK,	10,	3400000
-		ext_ka60,				VNK,	10,	3400000
-		ext_merlinhc3,			VNK,	10,	3400000
+		ext_mh6,				VNK,	6000000,	3400000
+		ext_ah1z,				VNK,	5300000,	3400000
+		ext_ah64d,				VNK,	5300000,	3400000
+		ext_aw159,				VNK,	6200000,	3400000
+		ext_ch_47f,				VNK,	9000000,	3400000
+		ext_ka52,				VNK,	5200000,	3400000
+		ext_ka60,				VNK,	6400000,	3400000
+		ext_merlinhc3,			VNK,	7500000,	3400000
 		ext_mi171,				VNK,	10,	3400000
 		ext_mi24,				VNK,	10,	3400000
 		ext_mi8,				VNK,	10,	3400000
