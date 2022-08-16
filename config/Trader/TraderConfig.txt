@@ -665,8 +665,8 @@
 	<Category> Ammunition
 		AmmoBox_22_50Rnd,			*,	2500,	1100
 		AmmoBox_380_35rnd,			*,	3500,	1700
-		AmmoBox_9x19_25rnd,			*,	-1,		2700
-		AmmoBox_45ACP_25rnd,		*,	-1,		3200
+		AmmoBox_9x19_25rnd,			*,	5400,	2700
+		AmmoBox_45ACP_25rnd,		*,	6400,	3200
 		AmmoBox_357_20Rnd,			*,	12000,	6000
 		AmmoBox_00buck_10rnd,		*,	8000,	4000
 		AmmoBox_12gaSlug_10Rnd,		*,	6500,	3000
@@ -949,7 +949,7 @@
 		PP19_Bttstck,		*,	11000,	4800
 		AKS74U_Bttstck,		*,	11000,	3300
 		AK74_WoodBttstck,	*,	12000,	3600
-		AK_PlasticBttstck,	*,	12500,	3750
+		AK_PlasticBttstck,	*,	12500,	3700
 		AK_WoodBttstck,		*,	12000,	3600
 		AK_FoldingBttstck,	*,	15000,	4500
 		M4_OEBttstck,		*,	14000,	4200
@@ -994,86 +994,86 @@
 		TLRLight,		*,	5000,	1800
 	
 	<Category> SNAFU Magazines
-		SNAFUAPS_20rdMag,                   *,		20000,			50
-		SN_Springfield_Mag,                 *,		27500,			75
-		SN_Mp443_Mag,                       *,		27500,			75
-		SN_M9_Mag,                          *,		27500,			75
-		GCGN_Vityaz_30Rnd,                  *,		30000,			100
-		Tec9_Mag,                           *,		30000,			100
-		SNAFUVECTOR_9mm_Mag,                *,		40000,			150
-		SNAFU_MP9_30rnd_Mag,                *,		30000,			100
-		SNAFU_Fort12_12rnd_Mag,             *,		27500,			75
-		SNAFU_MPX_30rnd_Mag,                *,		30000,			100
-		SNAFU_Agram_32rnd_Mag,              *,		40000,			150
-		SNAFUKH9_30rdMag,                   *,		30000,			100
-		SNAFUSten_32rdMag,                  *,		40000,			150
-		SNAFU_PDW_9mm_Mag,                  *,		40000,			150
-		SNAFU_PDW_45ACP_Mag,                *,		40000,			150
-		SNAFUUzi_32rdMag,                   *,		40000,			150
-		SNAFUUzi_72rdMag,                   *,		10000,			300
-		SN_USP_Mag,                         *,		27500,			75
-		SNAFUVECTOR_45acp_Mag,              *,		40000,			150
-		SNAFUThompsonMk2_30rdMag,           *,		30000,			100
-		GCGN_MP7_40Rnd,                     *,		80000,			250
-		SNAFUP90_50rdMag,                   *,		10000,			300
-		SN_Auto_Shotgun_Mag,                *,		25000,			800
-		VR80_Magazine_5rd,                  *,		10000,			300
-		VR80_Magazine_10rd,                 *,		15000,			500
+		SNAFUAPS_20rdMag,                   *,		20000,			5000
+		SN_Springfield_Mag,                 *,		27500,			7500
+		SN_Mp443_Mag,                       *,		27500,			7500
+		SN_M9_Mag,                          *,		27500,			7500
+		GCGN_Vityaz_30Rnd,                  *,		30000,			1000
+		Tec9_Mag,                           *,		30000,			1000
+		SNAFUVECTOR_9mm_Mag,                *,		40000,			1500
+		SNAFU_MP9_30rnd_Mag,                *,		30000,			1000
+		SNAFU_Fort12_12rnd_Mag,             *,		27500,			7500
+		SNAFU_MPX_30rnd_Mag,                *,		30000,			1000
+		SNAFU_Agram_32rnd_Mag,              *,		40000,			1500
+		SNAFUKH9_30rdMag,                   *,		30000,			1000
+		SNAFUSten_32rdMag,                  *,		40000,			1500
+		SNAFU_PDW_9mm_Mag,                  *,		40000,			1500
+		SNAFU_PDW_45ACP_Mag,                *,		40000,			1500
+		SNAFUUzi_32rdMag,                   *,		40000,			1500
+		SNAFUUzi_72rdMag,                   *,		10000,			3000
+		SN_USP_Mag,                         *,		27500,			7500
+		SNAFUVECTOR_45acp_Mag,              *,		40000,			1500
+		SNAFUThompsonMk2_30rdMag,           *,		30000,			1000
+		GCGN_MP7_40Rnd,                     *,		80000,			2500
+		SNAFUP90_50rdMag,                   *,		10000,			3000
+		SN_Auto_Shotgun_Mag,                *,		25000,			8000
+		VR80_Magazine_5rd,                  *,		10000,			3000
+		VR80_Magazine_10rd,                 *,		15000,			5000
 		AA12_Mag,                           *,		40000,			1300
-		SNAFU_SR3Vikhr_Mag,                 *,		20000,			750
-		SNAFU_M1918A2_Mag,                  *,		10000,			500
-		SNAFU_AK12_Mag,                     *,		20000,			600
+		SNAFU_SR3Vikhr_Mag,                 *,		20000,			7500
+		SNAFU_M1918A2_Mag,                  *,		10000,			5000
+		SNAFU_AK12_Mag,                     *,		20000,			6000
 		SNAFU_RPK16_Black_Mag,              *,		60000,			2000
 		SNAFU_RPK16_Green_Mag,              *,		60000,			2000
 		SNAFU_RPK16_Tan_Mag,                *,		60000,			2000
 		SNAFU_U100_Mag,                     *,		90000,			3000
-		SNAFU_PMAG556_Black,                *,		20000,			600
-		SNAFU_PMAG556_Grey,                 *,		20000,			600
-		SNAFU_PMAG556_OD,                   *,		20000,			600
-		SNAFU_PMAG556_Tan,                  *,		20000,			600
+		SNAFU_PMAG556_Black,                *,		20000,			6000
+		SNAFU_PMAG556_Grey,                 *,		20000,			6000
+		SNAFU_PMAG556_OD,                   *,		20000,			6000
+		SNAFU_PMAG556_Tan,                  *,		20000,			6000
 		SNAFU_BMAG556_Black,                *,		10000,			3000
 		SNAFU_BMAG556_Tan,                  *,		10000,			3000
-		SNAFU_CMAG30556_Black,              *,		20000,			600
-		SNAFU_CMAG30556_Tan,                *,		20000,			600
-		SNAFU_CMAG40556_Black,              *,		25000,			750
-		SNAFU_CMAG40556_Tan,                *,		25000,			750
+		SNAFU_CMAG30556_Black,              *,		20000,			6000
+		SNAFU_CMAG30556_Tan,                *,		20000,			6000
+		SNAFU_CMAG40556_Black,              *,		25000,			7500
+		SNAFU_CMAG40556_Tan,                *,		25000,			7500
 		SNAFU_CMAG60556_Black,              *,		40000,			1250
 		SNAFU_CMAG60556_Tan,                *,		40000,			1250
 		GCGN_HK416_Mag,                     *,		40000,			1250
-		SNAFU_CMAG30300_Black,              *,		20000,			600
-		SNAFU_CMAG30300_Tan,                *,		20000,			600
-		SNAFU_CMAG40300_Black,              *,		25000,			750
-		SNAFU_CMAG40300_Tan,                *,		25000,			750
+		SNAFU_CMAG30300_Black,              *,		20000,			6000
+		SNAFU_CMAG30300_Tan,                *,		20000,			6000
+		SNAFU_CMAG40300_Black,              *,		25000,			7500
+		SNAFU_CMAG40300_Tan,                *,		25000,			7500
 		SNAFU_CMAG60300_Black,              *,		40000,			1250
 		SNAFU_CMAG60300_Tan,                *,		40000,			1250
 		SNAFU_BMAG300_Tan,                  *,		10000,			3000
 		SNAFU_BMAG300_Black,                *,		10000,			3000
-		SG550_Mag,                          *,		20000,			625
-		SNAFUAUG_30rdMag,                   *,		20000,			625
-		SNAFUMk12_20rdMag,                  *,		15000,			500
+		SG550_Mag,                          *,		20000,			6200
+		SNAFUAUG_30rdMag,                   *,		20000,			6200
+		SNAFUMk12_20rdMag,                  *,		15000,			5000
 		GCGN_M249_Mag,                      *,		12000,			3500
-		SNAFU_KAC_Mag,                      *,		20000,			625
-		SNAFUHoneyBadger_30rdMag_Black,     *,		20000,			625
-		SNAFUHoneyBadger_30rdMag_Tan,       *,		20000,			625
-		SNAFUAR15_SPR_30RND_Mag,            *,		20000,			625
-		SNAFUAR15_SPR_40RND_Mag,            *,		25000,			750
+		SNAFU_KAC_Mag,                      *,		20000,			6200
+		SNAFUHoneyBadger_30rdMag_Black,     *,		20000,			6200
+		SNAFUHoneyBadger_30rdMag_Tan,       *,		20000,			6200
+		SNAFUAR15_SPR_30RND_Mag,            *,		20000,			6200
+		SNAFUAR15_SPR_40RND_Mag,            *,		25000,			7500
 		SNAFUAR15_SPR_60RND_Mag,            *,		40000,			1250
 		SNAFUAR15_SPR_100RND_Mag,           *,		10000,			3000
 		SNAFUPPSh_71rdMag,                  *,		40000,			1300
-		SNAFU_SKS_10Rnd_Mag,                *,		10000,			325
+		SNAFU_SKS_10Rnd_Mag,                *,		10000,			3200
 		SNAFU_SKS_30Rnd_Mag,                *,		30000,			1000
-		GCGN_VEPR_10rnd,                    *,		10000,			325
+		GCGN_VEPR_10rnd,                    *,		10000,			3200
 		SNAFUPPSKN_30rdMag,                 *,		30000,			1000
 		SNAFU_AK103_Mag,                    *,		30000,			1000
 		SNAFURPD_100rdMag,                  *,		12000,			3250
 		SNAFU_M14_Mag,                      *,		40000,			1250
-		SNAFU_M76_Mag,                      *,		20000,			700
-		SNAFU_FRF2_Mag,                     *,		20000,			700
+		SNAFU_M76_Mag,                      *,		20000,			7000
+		SNAFU_FRF2_Mag,                     *,		20000,			7000
 		GCGN_M110_Mag,						*,		40000,			1250
 		SNAFU_SR25_Mag,                     *,		40000,			1250
 		SNAFU_Saint_Mag,                    *,		40000,			1250
 		SNAFURSASS_Mag,                     *,		40000,			1250
-		GCGN_M700_Mag,                      *,		20000,			700
+		GCGN_M700_Mag,                      *,		20000,			7000
 		SNHK417_Mag,                        *,		40000,			1250
 		Modified_SA58_30RND_BK,             *,		60000,			2000
 		Modified_SA58_30RND_WBK,            *,		60000,			2000
@@ -1115,67 +1115,67 @@
 		SNAFUAlligator_5rdMag,              *,		45000,			15000		
 		
 	<Category> SNAFU Scopes
-		GCGN_M84_Optic,						*,		150000,			600
-		SNAFU_HuntingOptic,                 *,		150000,			600
-		SNAFU_AKHuntingOptic,               *,		150000,			600
-		SNAFU_HHuntingOptic,                *,		150000,			600
-		SNAFU_MHuntingOptic,                *,		150000,			600
-		SNAFU_M14Optic,                     *,		150000,			600
-		SNAFU_Nightforce,                   *,		150000,			600
-		SNAFU_AKNightforce,                 *,		150000,			600
-		SNAFU_HNightforce,                  *,		150000,			600
-		SNAFU_MNightforce,                  *,		150000,			600
-		SNAFU_Leupold_Mark8,                *,		150000,			600
-		SNAFU_AKLeupold_Mark8,              *,		150000,			600
-		SNAFU_HLeupold_Mark8,               *,		150000,			600
-		SNAFU_MLeupold_Mark8,               *,		150000,			600
-		SNAFU_Kahles,                       *,		150000,			600
-		SNAFU_AKKahles,                     *,		150000,			600
-		SNAFU_HKahles,                      *,		150000,			600
-		SNAFU_MKahles,                      *,		150000,			600
-		SNAFU_Aimpoint_ACO,                 *,		150000,			600
-		SNAFU_AKAimpoint_ACO,               *,		150000,			600
-		SNAFU_HAimpoint_ACO,                *,		150000,			600
-		SNAFU_MAimpoint_ACO,                *,		150000,			600
-		SNAFU_Aimpoint_M5,                  *,		150000,			600
-		SNAFU_AKAimpoint_M5,                *,		150000,			600
-		SNAFU_HAimpoint_M5,                 *,		150000,			600
-		SNAFU_MAimpoint_M5,                 *,		150000,			600
-		SNAFU_Elcan,                        *,		150000,			600
-		SNAFU_AKElcan,                      *,		150000,			600
-		SNAFU_HElcan,                       *,		150000,			600
-		SNAFU_MElcan,                       *,		150000,			600
-		SNAFU_EOTech_EXPS3,                 *,		150000,			600
-		SNAFU_AKEOTech_EXPS3,               *,		150000,			600
-		SNAFU_HEOTech_EXPS3,                *,		150000,			600
-		SNAFU_MEOTech_EXPS3,                *,		150000,			600
-		SNAFU_Trijicon,                     *,		150000,			600
-		SNAFU_AKTrijicon,                   *,		150000,			600
-		SNAFU_Trijicon_Docter,              *,		150000,			600
-		SNAFU_AKTrijicon_Docter,            *,		150000,			600
-		SNAFU_HTrijicon,                    *,		150000,			600
-		SNAFU_HTrijicon_Docter,             *,		150000,			600
-		SNAFU_MTrijicon,                    *,		150000,			600
-		SNAFU_MTrijicon_Docter,             *,		150000,			600
-		SNAFU_Walther,                      *,		150000,			600
-		SNAFU_AKWalther,                    *,		150000,			600
-		SNAFU_HWalther,                     *,		150000,			600
-		SNAFU_MWalther,                     *,		150000,			600
-		SNAFU_Docter,                       *,		150000,			600
-		SNAFU_Tango6T_Black,                *,		150000,			600
-		SNAFU_Tango6T_Tan,                  *,		150000,			600
-		SNAFU_Tango6T_Wood,                 *,		150000,			600
-		SNAFU_Tango6T_Snow,                 *,		150000,			600
-		SNAFU_AKTango6T_Black,              *,		150000,			600
-		SNAFU_AKTango6T_Tan,                *,		150000,			600
-		SNAFU_AKTango6T_Wood,               *,		150000,			600
-		SNAFU_AKTango6T_Snow,               *,		150000,			600
-		SNAFU_MTango6T_Black,               *,		150000,			600
-		SNAFU_MTango6T_Tan,                 *,		150000,			600
-		SNAFU_MTango6T_Wood,                *,		150000,			600
-		SNAFU_MTango6T_Snow,                *,		150000,			600
-		SNAFU_Kobra,                        *,		150000,			600
-		SNAFU_IRONMODOptic,                 *,		150000,			600
+		GCGN_M84_Optic,						*,		100000,			30000
+		SNAFU_HuntingOptic,                 *,		100000,			30000
+		SNAFU_AKHuntingOptic,               *,		100000,			30000
+		SNAFU_HHuntingOptic,                *,		100000,			30000
+		SNAFU_MHuntingOptic,                *,		100000,			30000
+		SNAFU_M14Optic,                     *,		100000,			30000
+		SNAFU_Nightforce,                   *,		100000,			30000
+		SNAFU_AKNightforce,                 *,		100000,			30000
+		SNAFU_HNightforce,                  *,		100000,			30000
+		SNAFU_MNightforce,                  *,		100000,			30000
+		SNAFU_Leupold_Mark8,                *,		100000,			30000
+		SNAFU_AKLeupold_Mark8,              *,		100000,			30000
+		SNAFU_HLeupold_Mark8,               *,		100000,			30000
+		SNAFU_MLeupold_Mark8,               *,		100000,			30000
+		SNAFU_Kahles,                       *,		100000,			30000
+		SNAFU_AKKahles,                     *,		100000,			30000
+		SNAFU_HKahles,                      *,		100000,			30000
+		SNAFU_MKahles,                      *,		100000,			30000
+		SNAFU_Aimpoint_ACO,                 *,		100000,			30000
+		SNAFU_AKAimpoint_ACO,               *,		100000,			30000
+		SNAFU_HAimpoint_ACO,                *,		100000,			30000
+		SNAFU_MAimpoint_ACO,                *,		100000,			30000
+		SNAFU_Aimpoint_M5,                  *,		100000,			30000
+		SNAFU_AKAimpoint_M5,                *,		100000,			30000
+		SNAFU_HAimpoint_M5,                 *,		100000,			30000
+		SNAFU_MAimpoint_M5,                 *,		100000,			30000
+		SNAFU_Elcan,                        *,		100000,			30000
+		SNAFU_AKElcan,                      *,		100000,			30000
+		SNAFU_HElcan,                       *,		100000,			30000
+		SNAFU_MElcan,                       *,		100000,			30000
+		SNAFU_EOTech_EXPS3,                 *,		100000,			30000
+		SNAFU_AKEOTech_EXPS3,               *,		100000,			30000
+		SNAFU_HEOTech_EXPS3,                *,		100000,			30000
+		SNAFU_MEOTech_EXPS3,                *,		100000,			30000
+		SNAFU_Trijicon,                     *,		100000,			30000
+		SNAFU_AKTrijicon,                   *,		100000,			30000
+		SNAFU_Trijicon_Docter,              *,		100000,			30000
+		SNAFU_AKTrijicon_Docter,            *,		100000,			30000
+		SNAFU_HTrijicon,                    *,		100000,			30000
+		SNAFU_HTrijicon_Docter,             *,		100000,			30000
+		SNAFU_MTrijicon,                    *,		100000,			30000
+		SNAFU_MTrijicon_Docter,             *,		100000,			30000
+		SNAFU_Walther,                      *,		100000,			30000
+		SNAFU_AKWalther,                    *,		100000,			30000
+		SNAFU_HWalther,                     *,		100000,			30000
+		SNAFU_MWalther,                     *,		100000,			30000
+		SNAFU_Docter,                       *,		100000,			30000
+		SNAFU_Tango6T_Black,                *,		100000,			30000
+		SNAFU_Tango6T_Tan,                  *,		100000,			30000
+		SNAFU_Tango6T_Wood,                 *,		100000,			30000
+		SNAFU_Tango6T_Snow,                 *,		100000,			30000
+		SNAFU_AKTango6T_Black,              *,		100000,			30000
+		SNAFU_AKTango6T_Tan,                *,		100000,			30000
+		SNAFU_AKTango6T_Wood,               *,		100000,			30000
+		SNAFU_AKTango6T_Snow,               *,		100000,			30000
+		SNAFU_MTango6T_Black,               *,		100000,			30000
+		SNAFU_MTango6T_Tan,                 *,		100000,			30000
+		SNAFU_MTango6T_Wood,                *,		100000,			30000
+		SNAFU_MTango6T_Snow,                *,		100000,			30000
+		SNAFU_Kobra,                        *,		100000,			30000
+		SNAFU_IRONMODOptic,                 *,		100000,			30000
 		
 	<Category> SNAFU HandGuards
 		SNAFU_GADAR,						*,		50000,			100
