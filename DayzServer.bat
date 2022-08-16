@@ -16,7 +16,7 @@ title %serverName% batch
 cd "%serverLocation%"
 echo (%time%) %serverName% started.
 ::Launch parameters (edit end: -config=|-port=|-profiles=|-doLogs|-adminLog|-netLog|-freezeCheck|-filePatching|-BEpath=|-cpuCount=)
-start "DayZ Server" /min "DayZServer_x64.exe" -config=%serverConfig% -port=%serverPort% "-profiles=config" "-mod=@CF;@Dabs Framework;@Trader;@DayZ-Expansion-Core;@DayZ-Expansion-Animations;@DayZ-Expansion-Licensed;@DayZ-Expansion-Book;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Navigation;@DayZ-Expansion-Groups;@VPPAdminTools;@ZomBerry Admin Tools;@WSPTraderLayout;@PristineRepair;@BaseBuildingPlus;@BBPItemPack;@Craft-Gun-Cleaning-Kit;@SNAFU Weapons;@Tactical-Flava;@Repack Ammo;@AmmoStackBullet;@Furniture-Kits;@RUSForma_vehicles;@Arma 2 Helicopters Remastered;@FlipTransport;@Gas-Pump-Refueling;@InventoryInCar;@FarmingPlus 2.0" -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
+start "DayZ Server" /min "DayZServer_x64.exe" -config=%serverConfig% -port=%serverPort% "-profiles=config" "-mod=@CF;@Dabs Framework;@Trader;@DayZ-Expansion-Core;@DayZ-Expansion-Animations;@DayZ-Expansion-Licensed;@DayZ-Expansion-Book;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Navigation;@DayZ-Expansion-Groups;@VPPAdminTools;@ZomBerry Admin Tools;@WSPTraderLayout;@PristineRepair;@BaseBuildingPlus;@BBPItemPack;@Craft-Gun-Cleaning-Kit;@SNAFU Weapons;@Tactical-Flava;@Repack Ammo;@Furniture-Kits;@RUSForma_vehicles;@Arma 2 Helicopters Remastered;@FlipTransport;@Gas-Pump-Refueling;@InventoryInCar;@FarmingPlus 2.0" -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
 ::Time in seconds before kill server process (14400 = 4 hours)
 timeout 14400
 taskkill /im DayZServer_x64.exe /F
