@@ -1178,121 +1178,121 @@
 		SNAFU_IRONMODOptic,                 *,		100000,			30000
 		
 	<Category> SNAFU HandGuards
-		SNAFU_GADAR,						*,		50000,			100
-		SNAFU_HG625,                        *,		50000,			100
-		SNAFU_HGGS,                         *,		50000,			100
-		SNAFU_MCMR07,                       *,		50000,			100
-		SNAFU_MCMR08,                       *,		50000,			100
-		SNAFU_MCMR09,                       *,		50000,			100
-		SNAFU_MCMR10,                       *,		50000,			100
-		SNAFU_MCMR13,                       *,		50000,			100
-		SNAFU_MCMR15,                       *,		50000,			100
-		SNAFU_HGMlok,                       *,		50000,			100
-		SNAFU_HGMlok_Tan,                   *,		50000,			100
-		SNAFU_MK7,                          *,		50000,			100
-		SNAFU_MK9,                          *,		50000,			100
-		SNAFU_MK10,                         *,		50000,			100
-		SNAFU_MK13,                         *,		50000,			100
-		SNAFU_MK15,                         *,		50000,			100
-		SNAFU_LVOAHG,                       *,		50000,			100
-		SNAFU_MK47HG,                       *,		50000,			100
-		SNAFU_SR3HG,                        *,		50000,			100
-		SNAFU_AK_HG,                        *,		50000,			100
-		SNAFU_M249HG,                       *,		50000,			100	
+		SNAFU_GADAR,						*,		50000,			10000
+		SNAFU_HG625,                        *,		50000,			10000
+		SNAFU_HGGS,                         *,		50000,			10000
+		SNAFU_MCMR07,                       *,		50000,			10000
+		SNAFU_MCMR08,                       *,		50000,			10000
+		SNAFU_MCMR09,                       *,		50000,			10000
+		SNAFU_MCMR10,                       *,		50000,			10000
+		SNAFU_MCMR13,                       *,		50000,			10000
+		SNAFU_MCMR15,                       *,		50000,			10000
+		SNAFU_HGMlok,                       *,		50000,			10000
+		SNAFU_HGMlok_Tan,                   *,		50000,			10000
+		SNAFU_MK7,                          *,		50000,			10000
+		SNAFU_MK9,                          *,		50000,			10000
+		SNAFU_MK10,                         *,		50000,			10000
+		SNAFU_MK13,                         *,		50000,			10000
+		SNAFU_MK15,                         *,		50000,			10000
+		SNAFU_LVOAHG,                       *,		50000,			10000
+		SNAFU_MK47HG,                       *,		50000,			10000
+		SNAFU_SR3HG,                        *,		50000,			10000
+		SNAFU_AK_HG,                        *,		50000,			10000
+		SNAFU_M249HG,                       *,		50000,			10000
 		
 	<Category> SNAFU Stocks
-		SA58_Stock,							*,		25000,			100
-		SNAFU_AK_AR_Stock,                  *,		25000,			100
-		SNAFU_M4SS_Stock,                   *,		25000,			100
-		SNAFU_MOE_Stock,                    *,		25000,			100
-		SNAFU_PRSGen3_Stock,                *,		25000,			100
-		SNAFU_SCQR_Stock,                   *,		25000,			100
-		SNAFU_SADAR_Stock,                  *,		25000,			100
-		SNAFU_SBA_Stock,                    *,		25000,			100
-		SNAFU_UBR_Stock,                    *,		25000,			100
-		SNAFU_AK19_Stock,                   *,		25000,			100
-		SNAFU_MK47_Stock,                   *,		25000,			100
-		SNAFU_M249Stock,                    *,		25000,			100
-		SNAFU_M200S_BK,                     *,		25000,			100
-		SNAFU_M200S_Tan,                    *,		25000,			100
-		SNAFU_M200S_Green,                  *,		25000,			100
-		SNAFU_M200S_Snow,                   *,		25000,			100
-		SNAFU_M200B_BK,                     *,		25000,			100
-		SNAFU_WSR3Stock,                    *,		25000,			100
-		SNAFUDSASA58_Stock,                 *,		25000,			100
+		SA58_Stock,							*,		25000,			6000
+		SNAFU_AK_AR_Stock,                  *,		25000,			6000
+		SNAFU_M4SS_Stock,                   *,		25000,			6000
+		SNAFU_MOE_Stock,                    *,		25000,			6000
+		SNAFU_PRSGen3_Stock,                *,		25000,			6000
+		SNAFU_SCQR_Stock,                   *,		25000,			6000
+		SNAFU_SADAR_Stock,                  *,		25000,			6000
+		SNAFU_SBA_Stock,                    *,		25000,			6000
+		SNAFU_UBR_Stock,                    *,		25000,			6000
+		SNAFU_AK19_Stock,                   *,		25000,			6000
+		SNAFU_MK47_Stock,                   *,		25000,			6000
+		SNAFU_M249Stock,                    *,		25000,			6000
+		SNAFU_M200S_BK,                     *,		25000,			6000
+		SNAFU_M200S_Tan,                    *,		25000,			6000
+		SNAFU_M200S_Green,                  *,		25000,			6000
+		SNAFU_M200S_Snow,                   *,		25000,			6000
+		SNAFU_M200B_BK,                     *,		25000,			6000
+		SNAFU_WSR3Stock,                    *,		25000,			6000
+		SNAFUDSASA58_Stock,                 *,		25000,			6000
 	
 	<Category> SNAFU Suppressors
-		GCGN_M1Garand_Supp,								*,		200000,			500
-		SR3_Vikhr_Supp,                                 *,		200000,			500
-		SNAFU_SR25_Supp,                                *,		200000,			500
-		SNAFU_Normalized_Suppressor_Green,              *,		200000,			500
-		SNAFU_Normalized_Suppressor_Black,              *,		200000,			500
-		SNAFU_Standardized_Suppressor_Black,            *,		200000,			500
-		SNAFU_Standardized_Suppressor_Green,            *,		200000,			500
-		SNAFU_LNormalized_Suppressor_Black,             *,		200000,			500
-		SNAFU_LNormalized_Suppressor_Green,             *,		200000,			500
-		SNAFU_LStandardized_Suppressor_Black,           *,		200000,			500
-		SNAFU_LStandardized_Suppressor_Green,           *,		200000,			500
-		SNAFUAR15_SPR_SIL,                              *,		200000,			500
-		SNAFUAR15_SPR_SQSIL,                            *,		200000,			500
-		SNAFUKivaari_338_Supp,                          *,		300000,			500
-		SNAFU_408_Suppressor_T,                         *,		400000,			500
-		Snafu_ScarH_SIL_Tan,                            *,		200000,			500
-		Snafu_ScarH_SIL_Black,                          *,		200000,			500
-		SNAFUGevar_Suppressor_Tan,                      *,		300000,			500
-		SNAFUGevar_Suppressor_Green,                    *,		300000,			500
-		SNAFU_Agram_Suppressor_Black,                   *,		100000,			500
-		SNAFU_MPX_Suppressor_Black,                     *,		100000,			500
-		SNAFU_SPMOD,                                    *,		200000,			500
-		SNAFU_HeramuzzelF,                              *,		200000,			500
-		SNAFU_MuzzelFF,                                 *,		200000,			500
-		SNAFU_SR3Vikhr_Supp,                            *,		200000,			500
-		SNAFU_AK308Muzzel,                              *,		200000,			500
-		SNAFU_AK19Muzzel,                               *,		200000,			500
-		SNAFU_MK47Muzzel,                               *,		200000,			500
+		GCGN_M1Garand_Supp,								*,		100000,			10000
+		SR3_Vikhr_Supp,                                 *,		100000,			10000
+		SNAFU_SR25_Supp,                                *,		100000,			10000
+		SNAFU_Normalized_Suppressor_Green,              *,		100000,			10000
+		SNAFU_Normalized_Suppressor_Black,              *,		100000,			10000
+		SNAFU_Standardized_Suppressor_Black,            *,		100000,			10000
+		SNAFU_Standardized_Suppressor_Green,            *,		100000,			10000
+		SNAFU_LNormalized_Suppressor_Black,             *,		100000,			10000
+		SNAFU_LNormalized_Suppressor_Green,             *,		100000,			10000
+		SNAFU_LStandardized_Suppressor_Black,           *,		100000,			10000
+		SNAFU_LStandardized_Suppressor_Green,           *,		100000,			10000
+		SNAFUAR15_SPR_SIL,                              *,		100000,			10000
+		SNAFUAR15_SPR_SQSIL,                            *,		100000,			10000
+		SNAFUKivaari_338_Supp,                          *,		100000,			10000
+		SNAFU_408_Suppressor_T,                         *,		100000,			10000
+		Snafu_ScarH_SIL_Tan,                            *,		100000,			10000
+		Snafu_ScarH_SIL_Black,                          *,		100000,			10000
+		SNAFUGevar_Suppressor_Tan,                      *,		100000,			10000
+		SNAFUGevar_Suppressor_Green,                    *,		100000,			10000
+		SNAFU_Agram_Suppressor_Black,                   *,		100000,			10000
+		SNAFU_MPX_Suppressor_Black,                     *,		100000,			10000
+		SNAFU_SPMOD,                                    *,		100000,			10000
+		SNAFU_HeramuzzelF,                              *,		100000,			10000
+		SNAFU_MuzzelFF,                                 *,		100000,			10000
+		SNAFU_SR3Vikhr_Supp,                            *,		100000,			10000
+		SNAFU_AK308Muzzel,                              *,		100000,			10000
+		SNAFU_AK19Muzzel,                               *,		100000,			10000
+		SNAFU_MK47Muzzel,                               *,		100000,			10000
 	
 	<Category> SNAFU Bipods
-		SNAFU_Bipod,						*,		75000,			250
-		SNAFU_PKPBIPOD,                     *,		50000,			250
-		SNAFU_NPKPBIPOD,                    *,		75000,			250
-		SNAFU_AtlasBipod,                   *,		75000,			250
-		SNAFU_ModBipod,                     *,		75000,			250
-		SNAFU_VSSKbipod,                    *,		55000,			250
-		SNAFU_M249Bipod,                    *,		50000,			250
-		SNAFU_M200B_BK,                     *,		55000,			250
+		SNAFU_Bipod,						*,		45000,			8500
+		SNAFU_PKPBIPOD,                     *,		40000,			8500
+		SNAFU_NPKPBIPOD,                    *,		45000,			8500
+		SNAFU_AtlasBipod,                   *,		45000,			8500
+		SNAFU_ModBipod,                     *,		45000,			8500
+		SNAFU_VSSKbipod,                    *,		55000,			8500
+		SNAFU_M249Bipod,                    *,		40000,			8500
+		SNAFU_M200B_BK,                     *,		65000,			8500
 	
 	<Category> SNAFU Attachments
-		SNAFU_SKS_Bayonet,						*,		50000,			250
-		GCGN_M1Garand_FlashHider,               *,		50000,			250
-		GCGN_M1Garand_Bayonet,                  *,		50000,			250
-		SNAFU_AK_Mount_Base,                    *,		50000,			250
-		SNAFU_Hunting_Mount_Base,               *,		50000,			250
-		SNAFU_Mosin_Mount_Base,                 *,		50000,			250
-		SNAFU_TACGripColtA2_Tan,                *,		50000,			250
-		SNAFU_TACGripColtA2_OD,                 *,		50000,			250
-		SNAFU_TACGripColtA2_Grey,               *,		50000,			250
-		SNAFU_TACGripColtA2_BK,                 *,		50000,			250
-		SNAFU_GIGripColtA2,                     *,		50000,			250
-		SNAFUUniversalLight,                    *,		50000,			250
-		SNAFU_PistolGripColtA2,                 *,		50000,			250
-		SNAFU_PEQ1_Laser,                       *,		50000,			250
+		SNAFU_SKS_Bayonet,						*,		10000,			2500
+		GCGN_M1Garand_FlashHider,               *,		10000,			2500
+		GCGN_M1Garand_Bayonet,                  *,		10000,			2500
+		SNAFU_AK_Mount_Base,                    *,		30000,			2500
+		SNAFU_Hunting_Mount_Base,               *,		20000,			2500
+		SNAFU_Mosin_Mount_Base,                 *,		20000,			2500
+		SNAFU_TACGripColtA2_Tan,                *,		40000,			2500
+		SNAFU_TACGripColtA2_OD,                 *,		40000,			2500
+		SNAFU_TACGripColtA2_Grey,               *,		40000,			2500
+		SNAFU_TACGripColtA2_BK,                 *,		40000,			2500
+		SNAFU_GIGripColtA2,                     *,		40000,			2500
+		SNAFUUniversalLight,                    *,		20000,			2500
+		SNAFU_PistolGripColtA2,                 *,		20000,			2500
+		SNAFU_PEQ1_Laser,                       *,		50000,			2500
 
 	<Category> SNAFU Ammo
 		GCGN_Ammo_3006,							*,		100000,			2000
-		GCGN_Ammo_408Chey,						*,		100000,			2000
-		SNAFU_Ammo_338,							*,		100000,			10000
+		GCGN_Ammo_408Chey,						10,		100000,			2000
+		SNAFU_Ammo_338,							10,		50000,			20000
 		GCGN_Ammo_762x51,                       *,		20000,			1050
 		SNAFU_Ammo_300ACC,                      *,		70000,			700
 		SNAFU_Ammo_46x30,                       *,		60000,			600
-		SNAFU_Ammo_5_7x28mm,                    *,		60000,			600
+		SNAFU_Ammo_5_7x28mm,                    20,		15000,			600
 		SNAFU_Ammo_127x55mm,                    *,		50000,			10000
-		SNAFU_Ammo_45_70mm,                     *,		55000,			550
+		SNAFU_Ammo_45_70mm,                     20,		40000,			550
 		SNAFU_Ammo_500_SW,                      *,		80000,			800
 		SNAFU_Ammo_145Cal,                      *,		50000,			500
 		SNAFU_MD_Ammo_556x45mm_M855A1,          *,		80000,			800
 		SNAFU_Ammo_762x25,                      *,		60000,			600
-		SNAFU_Ammo_44,                          *,		60000,			600
-		GCGN_Ammo_50Cal,                        *,		60000,			600
+		SNAFU_Ammo_44,                          20,		20000,			600
+		GCGN_Ammo_50Cal,                        10,		200000,			600
 		SNAFU_Ammo_127x55mmAP,                  *,		60000,			600
 		
 	<Category> SNAFU Grips
