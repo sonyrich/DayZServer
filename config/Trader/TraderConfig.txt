@@ -676,10 +676,10 @@
 		AmmoBox_545x39Tracer_20Rnd,	*,	12000,	6000
 		AmmoBox_762x39_20Rnd,		*,	14000,	7000
 		AmmoBox_762x39Tracer_20Rnd,	*,	14000,	7000
-		AmmoBox_9x39_20Rnd,			*,	16000,	8000
-		AmmoBox_9x39AP_20Rnd,		*,	18000,	9000
-		AmmoBox_308Win_20Rnd,		*,	20000,	10000
-		AmmoBox_308WinTracer_20Rnd,	*,	20000,	10000
+		AmmoBox_9x39_20Rnd,			*,	22000,	8000
+		AmmoBox_9x39AP_20Rnd,		*,	24000,	9000
+		AmmoBox_308Win_20Rnd,		*,	30000,	14000
+		AmmoBox_308WinTracer_20Rnd,	*,	30000,	14000
 		AmmoBox_762x54_20Rnd,		*,	22000,	11000
 		AmmoBox_762x54Tracer_20Rnd,	*,	22000,	11000
 		
@@ -1037,15 +1037,15 @@
 		SNAFU_CMAG30556_Tan,                *,		20000,			6000
 		SNAFU_CMAG40556_Black,              *,		25000,			7500
 		SNAFU_CMAG40556_Tan,                *,		25000,			7500
-		SNAFU_CMAG60556_Black,              *,		40000,			1250
-		SNAFU_CMAG60556_Tan,                *,		40000,			1250
-		GCGN_HK416_Mag,                     *,		40000,			1250
+		SNAFU_CMAG60556_Black,              *,		40000,			1200
+		SNAFU_CMAG60556_Tan,                *,		40000,			1200
+		GCGN_HK416_Mag,                     *,		40000,			1200
 		SNAFU_CMAG30300_Black,              *,		20000,			6000
 		SNAFU_CMAG30300_Tan,                *,		20000,			6000
 		SNAFU_CMAG40300_Black,              *,		25000,			7500
 		SNAFU_CMAG40300_Tan,                *,		25000,			7500
-		SNAFU_CMAG60300_Black,              *,		40000,			1250
-		SNAFU_CMAG60300_Tan,                *,		40000,			1250
+		SNAFU_CMAG60300_Black,              *,		40000,			1200
+		SNAFU_CMAG60300_Tan,                *,		40000,			1200
 		SNAFU_BMAG300_Tan,                  *,		10000,			3000
 		SNAFU_BMAG300_Black,                *,		10000,			3000
 		SG550_Mag,                          *,		20000,			6200
@@ -1057,7 +1057,7 @@
 		SNAFUHoneyBadger_30rdMag_Tan,       *,		20000,			6200
 		SNAFUAR15_SPR_30RND_Mag,            *,		20000,			6200
 		SNAFUAR15_SPR_40RND_Mag,            *,		25000,			7500
-		SNAFUAR15_SPR_60RND_Mag,            *,		40000,			1250
+		SNAFUAR15_SPR_60RND_Mag,            *,		40000,			1200
 		SNAFUAR15_SPR_100RND_Mag,           *,		10000,			3000
 		SNAFUPPSh_71rdMag,                  *,		40000,			1300
 		SNAFU_SKS_10Rnd_Mag,                *,		10000,			3200
@@ -1065,26 +1065,26 @@
 		GCGN_VEPR_10rnd,                    *,		10000,			3200
 		SNAFUPPSKN_30rdMag,                 *,		30000,			1000
 		SNAFU_AK103_Mag,                    *,		30000,			1000
-		SNAFURPD_100rdMag,                  *,		12000,			3250
-		SNAFU_M14_Mag,                      *,		40000,			1250
+		SNAFURPD_100rdMag,                  *,		12000,			3200
+		SNAFU_M14_Mag,                      *,		40000,			1200
 		SNAFU_M76_Mag,                      *,		20000,			7000
 		SNAFU_FRF2_Mag,                     *,		20000,			7000
-		GCGN_M110_Mag,						*,		40000,			1250
-		SNAFU_SR25_Mag,                     *,		40000,			1250
-		SNAFU_Saint_Mag,                    *,		40000,			1250
-		SNAFURSASS_Mag,                     *,		40000,			1250
+		GCGN_M110_Mag,						*,		40000,			1200
+		SNAFU_SR25_Mag,                     *,		40000,			1200
+		SNAFU_Saint_Mag,                    *,		40000,			1200
+		SNAFURSASS_Mag,                     *,		40000,			1200
 		GCGN_M700_Mag,                      *,		20000,			7000
-		SNHK417_Mag,                        *,		40000,			1250
+		SNHK417_Mag,                        *,		40000,			1200
 		Modified_SA58_30RND_BK,             *,		60000,			2000
 		Modified_SA58_30RND_WBK,            *,		60000,			2000
 		Modified_SA58_30RND_DT,             *,		60000,			2000
-		SA58_DrumMag,                       *,		10000,			3250
+		SA58_DrumMag,                       *,		10000,			3200
 		SA58_30RND_BK,                      *,		60000,			2000
 		SA58_30RND_WBK,                     *,		60000,			2000
 		SA58_30RND_DT,                      *,		60000,			2000
-		GCGN_Mag_FAL_50Rnd,                 *,		10000,			3250
-		SNAFUM1A_20rdMag,                   *,		40000,			1250
-		SNAFU_AK308_Mag,                    *,		40000,			1250
+		GCGN_Mag_FAL_50Rnd,                 *,		10000,			3200
+		SNAFUM1A_20rdMag,                   *,		40000,			1200
+		SNAFU_AK308_Mag,                    *,		40000,			1200
 		Snafu_ScarH_25RND_Mag_BK,           *,		42500,			1400
 		Snafu_ScarH_25RND_Mag_DKMC,         *,		42500,			1400
 		Snafu_ScarH_25RND_Mag_OD,           *,		42500,			1400
@@ -1092,14 +1092,14 @@
 		Snafu_ScarH_25RND_Mag_Tan,          *,		42500,			1400
 		SNAFU_ScarH_100RND_Mag_Black,       *,		20000,			6500
 		SNAFU_ScarH_100RND_Mag_Tan,         *,		20000,			6500
-		Snafu_pkp_250RND_Mag,               *,		35000,			12000
-		SNAFUM24_Mag,                       *,		80000,			2250
-		SNAFU_AWM_Mag,                      *,		80000,			2250
+		Snafu_pkp_250RND_Mag,               *,		35000,			1200
+		SNAFUM24_Mag,                       *,		80000,			2200
+		SNAFU_AWM_Mag,                      *,		80000,			2200
 		SNAFUM98B_Mag,                      *,		15000,			5000
-		SNAFUT5000_Mag,                     *,		80000,			2250
+		SNAFUT5000_Mag,                     *,		80000,			2200
 		SNAFUSRSA2_10rdMag,                 *,		15000,			5000
-		SNAFUTac21_5rdMag,                  *,		80000,			2250
-		SNAFUDVL10M2_5rdMag,                *,		80000,			2250
+		SNAFUTac21_5rdMag,                  *,		80000,			2200
+		SNAFUDVL10M2_5rdMag,                *,		80000,			2200
 		SNAFU_Mar10_15rnd_Mag,              *,		20000,			6500
 		SNAFUGevar_10rdMag,                 *,		15000,			5000
 		SNAFUKivaari_10rdMag,               *,		15000,			5000
@@ -1110,7 +1110,7 @@
 		SNAFUGM6Lynx_5rdMag,                *,		35000,			12000
 		GCGN_M82_Mag,                       *,		40000,			13250
 		SNAFUAX50_Mag,                      *,		35000,			12000
-		SNAFU_AS50_Mag,                     *,		40000,			13250
+		SNAFU_AS50_Mag,                     *,		40000,			13200
 		SNAFUASh12_20rdMag,                 *,		45000,			15000
 		SNAFUAlligator_5rdMag,              *,		45000,			15000		
 		
@@ -1279,35 +1279,35 @@
 
 	<Category> SNAFU Ammo
 		GCGN_Ammo_3006,							*,		100000,			2000
-		GCGN_Ammo_408Chey,						10,		100000,			2000
+		GCGN_Ammo_408Chey,						10,		100000,			20000
 		SNAFU_Ammo_338,							10,		50000,			20000
-		GCGN_Ammo_762x51,                       *,		20000,			1050
-		SNAFU_Ammo_300ACC,                      *,		70000,			700
-		SNAFU_Ammo_46x30,                       *,		60000,			600
-		SNAFU_Ammo_5_7x28mm,                    20,		15000,			600
-		SNAFU_Ammo_127x55mm,                    *,		50000,			10000
-		SNAFU_Ammo_45_70mm,                     20,		40000,			550
-		SNAFU_Ammo_500_SW,                      *,		80000,			800
-		SNAFU_Ammo_145Cal,                      *,		50000,			500
-		SNAFU_MD_Ammo_556x45mm_M855A1,          *,		80000,			800
-		SNAFU_Ammo_762x25,                      *,		60000,			600
-		SNAFU_Ammo_44,                          20,		20000,			600
-		GCGN_Ammo_50Cal,                        10,		200000,			600
-		SNAFU_Ammo_127x55mmAP,                  *,		60000,			600
+		GCGN_Ammo_762x51,                       *,		30000,			12000
+		SNAFU_Ammo_300ACC,                      *,		22000,			7000
+		SNAFU_Ammo_46x30,                       *,		14000,			6000
+		SNAFU_Ammo_5_7x28mm,                    20,		15000,			6000
+		SNAFU_Ammo_127x55mm,                    *,		30000,			10000
+		SNAFU_Ammo_127x55mmAP,                  *,		35000,			13000
+		SNAFU_Ammo_45_70mm,                     20,		40000,			15000
+		SNAFU_Ammo_500_SW,                      *,		26000,			9000
+		SNAFU_Ammo_145Cal,                      *,		30000,			5000
+		SNAFU_MD_Ammo_556x45mm_M855A1,          *,		28000,			8000
+		SNAFU_Ammo_762x25,                      *,		11000,			6000
+		SNAFU_Ammo_44,                          20,		20000,			6000
+		GCGN_Ammo_50Cal,                        10,		200000,			80000
 		
 	<Category> SNAFU Grips
-		SA58_FGrip,							*,		30000,			200
-		SNAFUAR15_AFG,                      *,		30000,			200
-		SNAFUScar_AFG_Tan,                  *,		30000,			200
-		SNAFUScar_AFG_BK,                   *,		30000,			200
-		SNAFUMPX_Grip,                      *,		30000,			200
-		SNAFU_AFG_02_Black,                 *,		30000,			200
-		SNAFU_AFG_02_Tan,                   *,		30000,			200
-		SNAFU_AFG_02_OD,                    *,		30000,			200
-		SNAFU_FGKAC_Grip,                   *,		30000,			200
-		SNAFU_FGCR_Grip,                    *,		30000,			200
-		SNAFU_SR3Grip,                      *,		30000,			200
-		SNAFU_M249Grip,                     *,		30000,			200
+		SA58_FGrip,							*,		30000,			2000
+		SNAFUAR15_AFG,                      *,		30000,			2000
+		SNAFUScar_AFG_Tan,                  *,		30000,			2000
+		SNAFUScar_AFG_BK,                   *,		30000,			2000
+		SNAFUMPX_Grip,                      *,		30000,			2000
+		SNAFU_AFG_02_Black,                 *,		30000,			2000
+		SNAFU_AFG_02_Tan,                   *,		30000,			2000
+		SNAFU_AFG_02_OD,                    *,		30000,			2000
+		SNAFU_FGKAC_Grip,                   *,		30000,			2000
+		SNAFU_FGCR_Grip,                    *,		30000,			2000
+		SNAFU_SR3Grip,                      *,		30000,			2000
+		SNAFU_M249Grip,                     *,		30000,			2000
 	
 <Trader> Clothing Trader
 	<Category> Glasses
