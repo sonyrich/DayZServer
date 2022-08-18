@@ -783,6 +783,8 @@
 		Mag_AKM_Drum75Rnd,			M,	32000,	9600
 		Mag_AK101_30Rnd,			M,	18000,	5400
 		Mag_AK74_30Rnd,				M,	17000,	5100
+		Mag_AK74_30Rnd_Green,		M,	17000,	5100
+		Mag_AK74_45Rnd,				M,	19000,	5300
 		Mag_Aug_30Rnd,				M,	19000,	5300
 		Mag_STANAG_30Rnd,			M,	22000,	6600
 		Mag_STANAGCoupled_30Rnd,	M,	44500,	13300
