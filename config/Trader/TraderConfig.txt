@@ -788,10 +788,12 @@
 		Mag_Aug_30Rnd,				M,	19000,	5300
 		Mag_STANAG_30Rnd,			M,	22000,	6600
 		Mag_STANAGCoupled_30Rnd,	M,	44500,	13300
+		Mag_STANAG_60Rnd,			M,	89000,	26600
 		Mag_CMAG_10Rnd,				M,	11000,	3300
 		Mag_CMAG_20Rnd,				M,	17000,	5100
 		Mag_CMAG_30Rnd,				M,	23000,	6900
 		Mag_CMAG_40Rnd,				M,	28000,	8400
+		Mag_FAMAS_25Rnd,			M,	20000,	9000
 		Mag_VSS_10Rnd,				M,	21000,	6300
 		Mag_SVD_10Rnd,				M,	20000,	6000
 		Mag_CZ550_10Rnd,			M,	15000,	5500
