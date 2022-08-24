@@ -715,28 +715,30 @@
 		TF_Ammo_40mm_HEDP,	1,	20000,	16000
 		
 	<Category> SNAFU Ammo
-		GCGN_Ammo_3006,							*,		100000,			2000
-		GCGN_Ammo_408Chey,						10,		100000,			20000
-		SNAFU_Ammo_338,							10,		50000,			20000
-		GCGN_Ammo_762x51,                       *,		30000,			12000
-		SNAFU_Ammo_300ACC,                      *,		22000,			7000
+		SNAFU_Ammo_762x25,                      *,		11000,			6000
 		SNAFU_Ammo_46x30,                       *,		14000,			6000
 		SNAFU_Ammo_5_7x28mm,                    20,		15000,			6000
+		SNAFU_Ammo_44,                          20,		20000,			6000
+		SNAFU_Ammo_500_SW,                      *,		26000,			9000
+		SNAFU_Ammo_45_70mm,                     20,		40000,			15000
+		SNAFU_MD_Ammo_556x45mm_M855A1,          *,		28000,			8000
+		SNAFU_Ammo_300ACC,                      *,		22000,			7000
+		GCGN_Ammo_762x51,                       *,		30000,			12000
+		GCGN_Ammo_3006,							*,		100000,			2000
 		SNAFU_Ammo_127x55mm,                    *,		30000,			10000
 		SNAFU_Ammo_127x55mmAP,                  *,		35000,			13000
-		SNAFU_Ammo_45_70mm,                     20,		40000,			15000
-		SNAFU_Ammo_500_SW,                      *,		26000,			9000
-		SNAFU_Ammo_145Cal,                      *,		30000,			5000
-		SNAFU_MD_Ammo_556x45mm_M855A1,          *,		28000,			8000
-		SNAFU_Ammo_762x25,                      *,		11000,			6000
-		SNAFU_Ammo_44,                          20,		20000,			6000
+		SNAFU_Ammo_338,							10,		50000,			20000
+		GCGN_Ammo_408Chey,						10,		100000,			20000
 		GCGN_Ammo_50Cal,                        10,		200000,			80000
-		
+		SNAFU_Ammo_145Cal,                      *,		30000,			5000
+
 	<Category> SNAFU Magazines
-		SNAFUAPS_20rdMag,                   *,		20000,			5000
-		SN_Springfield_Mag,                 *,		27500,			7500
 		SN_Mp443_Mag,                       *,		27500,			7500
 		SN_M9_Mag,                          *,		27500,			7500
+		SN_USP_Mag,                         *,		27500,			7500
+		SN_Springfield_Mag,                 *,		27500,			7500
+		SN_Auto_Shotgun_Mag,                *,		25000,			8000	
+		SNAFUAPS_20rdMag,                   *,		20000,			5000
 		GCGN_Vityaz_30Rnd,                  *,		30000,			1000
 		Tec9_Mag,                           *,		30000,			1000
 		SNAFUVECTOR_9mm_Mag,                *,		40000,			1500
@@ -750,12 +752,10 @@
 		SNAFU_PDW_45ACP_Mag,                *,		40000,			1500
 		SNAFUUzi_32rdMag,                   *,		40000,			1500
 		SNAFUUzi_72rdMag,                   *,		10000,			3000
-		SN_USP_Mag,                         *,		27500,			7500
 		SNAFUVECTOR_45acp_Mag,              *,		40000,			1500
 		SNAFUThompsonMk2_30rdMag,           *,		30000,			1000
 		GCGN_MP7_40Rnd,                     *,		80000,			2500
 		SNAFUP90_50rdMag,                   *,		10000,			3000
-		SN_Auto_Shotgun_Mag,                *,		25000,			8000
 		VR80_Magazine_5rd,                  *,		10000,			3000
 		VR80_Magazine_10rd,                 *,		15000,			5000
 		AA12_Mag,                           *,		40000,			1300
@@ -940,7 +940,6 @@
 		Mag_308WinSnaploader_2Rnd,	M,	5000,	1500
 		
 	<Category> SNAFU Scopes
-		GCGN_M84_Optic,						*,		10000,			5000
 		SNAFU_HuntingOptic,                 *,		40000,			5000
 		SNAFU_HHuntingOptic,                *,		40000,			5000
 		SNAFU_MHuntingOptic,                *,		40000,			5000
@@ -1001,6 +1000,7 @@
 		SNAFU_AKTango6T_Tan,                *,		10000,			5000
 		SNAFU_AKTango6T_Wood,               *,		10000,			5000
 		SNAFU_AKTango6T_Snow,               *,		10000,			5000
+		GCGN_M84_Optic,						*,		10000,			5000
 		
 	<Category> TF | Optics
         TF_ElcanSpecterDROptic_FDE,			*,	40000,	32000
