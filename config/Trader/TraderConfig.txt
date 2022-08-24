@@ -942,48 +942,37 @@
 	<Category> SNAFU Scopes
 		GCGN_M84_Optic,						*,		10000,			5000
 		SNAFU_HuntingOptic,                 *,		40000,			5000
-		SNAFU_AKHuntingOptic,               *,		20000,			5000
 		SNAFU_HHuntingOptic,                *,		40000,			5000
 		SNAFU_MHuntingOptic,                *,		40000,			5000
 		SNAFU_M14Optic,                     *,		20000,			5000
 		SNAFU_Nightforce,                   *,		40000,			5000
-		SNAFU_AKNightforce,                 *,		20000,			5000
 		SNAFU_HNightforce,                  *,		40000,			5000
 		SNAFU_MNightforce,                  *,		40000,			5000
 		SNAFU_Leupold_Mark8,                *,		40000,			5000
-		SNAFU_AKLeupold_Mark8,              *,		40000,			5000
 		SNAFU_HLeupold_Mark8,               *,		40000,			5000
 		SNAFU_MLeupold_Mark8,               *,		40000,			5000
 		SNAFU_Kahles,                       *,		40000,			5000
-		SNAFU_AKKahles,                     *,		40000,			5000
 		SNAFU_HKahles,                      *,		40000,			5000
 		SNAFU_MKahles,                      *,		40000,			5000
 		SNAFU_Aimpoint_ACO,                 *,		20000,			5000
-		SNAFU_AKAimpoint_ACO,               *,		20000,			5000
 		SNAFU_HAimpoint_ACO,                *,		20000,			5000
 		SNAFU_MAimpoint_ACO,                *,		20000,			5000
 		SNAFU_Aimpoint_M5,                  *,		10000,			5000
-		SNAFU_AKAimpoint_M5,                *,		10000,			5000
 		SNAFU_HAimpoint_M5,                 *,		10000,			5000
 		SNAFU_MAimpoint_M5,                 *,		10000,			5000
 		SNAFU_Elcan,                        *,		30000,			5000
-		SNAFU_AKElcan,                      *,		10000,			5000
 		SNAFU_HElcan,                       *,		30000,			5000
 		SNAFU_MElcan,                       *,		30000,			5000
 		SNAFU_EOTech_EXPS3,                 *,		10000,			5000
-		SNAFU_AKEOTech_EXPS3,               *,		70000,			5000
 		SNAFU_HEOTech_EXPS3,                *,		10000,			5000
 		SNAFU_MEOTech_EXPS3,                *,		10000,			5000
 		SNAFU_Trijicon,                     *,		20000,			5000
-		SNAFU_AKTrijicon,                   *,		10000,			5000
 		SNAFU_Trijicon_Docter,              *,		10000,			5000
-		SNAFU_AKTrijicon_Docter,            *,		10000,			5000
 		SNAFU_HTrijicon,                    *,		20000,			5000
 		SNAFU_HTrijicon_Docter,             *,		10000,			5000
 		SNAFU_MTrijicon,                    *,		10000,			5000
 		SNAFU_MTrijicon_Docter,             *,		10000,			5000
 		SNAFU_Walther,                      *,		10000,			5000
-		SNAFU_AKWalther,                    *,		6000,			5000
 		SNAFU_HWalther,                     *,		10000,			5000
 		SNAFU_MWalther,                     *,		10000,			5000
 		SNAFU_Docter,                       *,		10000,			5000
@@ -991,17 +980,28 @@
 		SNAFU_Tango6T_Tan,                  *,		200000,			5000
 		SNAFU_Tango6T_Wood,                 *,		200000,			5000
 		SNAFU_Tango6T_Snow,                 *,		200000,			5000
-		SNAFU_AKTango6T_Black,              *,		10000,			5000
-		SNAFU_AKTango6T_Tan,                *,		10000,			5000
-		SNAFU_AKTango6T_Wood,               *,		10000,			5000
-		SNAFU_AKTango6T_Snow,               *,		10000,			5000
 		SNAFU_MTango6T_Black,               *,		20000,			5000
 		SNAFU_MTango6T_Tan,                 *,		20000,			5000
 		SNAFU_MTango6T_Wood,                *,		20000,			5000
 		SNAFU_MTango6T_Snow,                *,		20000,			5000
 		SNAFU_Kobra,                        *,		10000,			5000
 		SNAFU_IRONMODOptic,                 *,		10000,			5000
-			
+		SNAFU_AKHuntingOptic,               *,		20000,			5000
+		SNAFU_AKNightforce,                 *,		20000,			5000
+		SNAFU_AKLeupold_Mark8,              *,		40000,			5000
+		SNAFU_AKKahles,                     *,		40000,			5000
+		SNAFU_AKAimpoint_ACO,               *,		20000,			5000
+		SNAFU_AKAimpoint_M5,                *,		10000,			5000
+		SNAFU_AKElcan,                      *,		10000,			5000
+		SNAFU_AKEOTech_EXPS3,               *,		70000,			5000
+		SNAFU_AKTrijicon,                   *,		10000,			5000
+		SNAFU_AKTrijicon_Docter,            *,		10000,			5000
+		SNAFU_AKWalther,                    *,		6000,			5000
+		SNAFU_AKTango6T_Black,              *,		10000,			5000
+		SNAFU_AKTango6T_Tan,                *,		10000,			5000
+		SNAFU_AKTango6T_Wood,               *,		10000,			5000
+		SNAFU_AKTango6T_Snow,               *,		10000,			5000
+		
 	<Category> TF | Optics
         TF_ElcanSpecterDROptic_FDE,			*,	40000,	32000
 		TF_ElcanSpecterDROptic_Black,		*,	40000,	32000
