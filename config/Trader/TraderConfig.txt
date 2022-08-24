@@ -989,13 +989,13 @@
 		SNAFU_AKNightforce,                 *,		20000,			5000
 		SNAFU_AKLeupold_Mark8,              *,		40000,			5000
 		SNAFU_AKKahles,                     *,		40000,			5000
-		SNAFU_AKAimpoint_ACO,               *,		20000,			5000
+		SNAFU_AKAimpoint_ACO,               *,		10000,			5000
 		SNAFU_AKAimpoint_M5,                *,		10000,			5000
-		SNAFU_AKElcan,                      *,		10000,			5000
+		SNAFU_AKElcan,                      *,		20000,			5000
 		SNAFU_AKEOTech_EXPS3,               *,		70000,			5000
-		SNAFU_AKTrijicon,                   *,		10000,			5000
+		SNAFU_AKTrijicon,                   *,		20000,			5000
 		SNAFU_AKTrijicon_Docter,            *,		10000,			5000
-		SNAFU_AKWalther,                    *,		6000,			5000
+		SNAFU_AKWalther,                    *,		8000,			5000
 		SNAFU_AKTango6T_Black,              *,		10000,			5000
 		SNAFU_AKTango6T_Tan,                *,		10000,			5000
 		SNAFU_AKTango6T_Wood,               *,		10000,			5000
