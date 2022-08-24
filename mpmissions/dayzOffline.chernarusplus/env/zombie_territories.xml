@@ -211,7 +211,7 @@
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="60" dmax="80" x="12825.5" z="9614" r="100"/>
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="20" dmax="80" x="13975.9" z="13404.5" r="60"/>
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="60" dmax="80" x="12470" z="12535" r="50"/>
-        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="60" dmax="80" x="11865" z="12452.5" r="80"/>
+        <zone name="InfectedIndustrial" smin="4" smax="5" dmin="140" dmax="150" x="11865" z="12452.5" r="90"/>		//Krasno Airfield Cafe
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="60" dmax="80" x="13179.4" z="14912.5" r="70"/>
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="20" dmax="50" x="14055" z="13296.9" r="60"/>
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="60" dmax="80" x="10376.3" z="1678.13" r="60"/>
