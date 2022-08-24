@@ -663,74 +663,74 @@
 		
 <Trader> Weapon Supplies
 	<Category> Ammunition
-		AmmoBox_22_50Rnd,			*,	2500,	1100
-		AmmoBox_380_35rnd,			*,	3500,	1700
-		AmmoBox_9x19_25rnd,			*,	5400,	2700
-		AmmoBox_45ACP_25rnd,		*,	6400,	3200
-		AmmoBox_357_20Rnd,			*,	12000,	6000
-		AmmoBox_00buck_10rnd,		*,	8000,	4000
-		AmmoBox_12gaSlug_10Rnd,		*,	6500,	3000
-		AmmoBox_556x45_20Rnd,		*,	13000,	6500
-		AmmoBox_556x45Tracer_20Rnd,	*,	13000,	6500
-		AmmoBox_545x39_20Rnd,		*,	12000,	6000
-		AmmoBox_545x39Tracer_20Rnd,	*,	12000,	6000
-		AmmoBox_762x39_20Rnd,		*,	14000,	7000
-		AmmoBox_762x39Tracer_20Rnd,	*,	14000,	7000
-		AmmoBox_9x39_20Rnd,			*,	22000,	8000
-		AmmoBox_9x39AP_20Rnd,		*,	24000,	9000
-		AmmoBox_308Win_20Rnd,		*,	30000,	14000
-		AmmoBox_308WinTracer_20Rnd,	*,	30000,	14000
-		AmmoBox_762x54_20Rnd,		*,	22000,	11000
-		AmmoBox_762x54Tracer_20Rnd,	*,	22000,	11000
+		AmmoBox_22_50Rnd,			*,	25000,		11000
+		AmmoBox_380_35rnd,			*,	35000,		17000
+		AmmoBox_9x19_25rnd,			*,	54000,		27000
+		AmmoBox_45ACP_25rnd,		*,	64000,		32000
+		AmmoBox_357_20Rnd,			*,	120000,		60000
+		AmmoBox_00buck_10rnd,		*,	80000,		40000
+		AmmoBox_12gaSlug_10Rnd,		*,	65000,		30000
+		AmmoBox_556x45_20Rnd,		*,	130000,		65000
+		AmmoBox_556x45Tracer_20Rnd,	*,	130000,		65000
+		AmmoBox_545x39_20Rnd,		*,	120000,		60000
+		AmmoBox_545x39Tracer_20Rnd,	*,	120000,		60000
+		AmmoBox_762x39_20Rnd,		*,	140000,		70000
+		AmmoBox_762x39Tracer_20Rnd,	*,	140000,		70000
+		AmmoBox_9x39_20Rnd,			*,	220000,		80000
+		AmmoBox_9x39AP_20Rnd,		*,	240000,		90000
+		AmmoBox_308Win_20Rnd,		*,	300000,		140000
+		AmmoBox_308WinTracer_20Rnd,	*,	300000,		140000
+		AmmoBox_762x54_20Rnd,		*,	220000,		110000
+		AmmoBox_762x54Tracer_20Rnd,	*,	220000,		110000
 		
-		Ammo_22,				1,	-1,	20	
-		Ammo_380,				1,	-1,	50
-		Ammo_9x19,				1,	-1,	100
-		Ammo_45ACP,				1,	-1,	120
-		Ammo_357,				1,	-1,	500
-		Ammo_12gaPellets,		1,	-1,	400
-		Ammo_12gaSlug,			1,	-1,	300
-		Ammo_9x39,				1,	-1,	400
-		Ammo_9x39AP,			1,	-1,	450
-		Ammo_308Win,			1,	-1,	500
-		Ammo_545x39,			1,	-1,	300
-		Ammo_556x45,			1,	-1,	320
-		Ammo_762x39,			1,	-1,	350
-		Ammo_762x54,			1,	-1,	550
-		Ammo_556x45Tracer,		1,	-1,	320
-		Ammo_545x39Tracer,		1,	-1,	300
-		Ammo_308WinTracer,		1,	-1,	500
-		Ammo_762x39Tracer,		1,	-1,	350
-		Ammo_762x54Tracer,		1,	-1,	550
-		Ammo_Flare,				1,	500,200
-		Ammo_FlareBlue,			1,	500,200
-		Ammo_FlareGreen,		1,	500,200
-		Ammo_FlareRed,			1,	500,200
+		Ammo_22,				1,	-1,		200	
+		Ammo_380,				1,	-1,		500
+		Ammo_9x19,				1,	-1,		1000
+		Ammo_45ACP,				1,	-1,		1200
+		Ammo_357,				1,	-1,		5000
+		Ammo_12gaPellets,		1,	-1,		4000
+		Ammo_12gaSlug,			1,	-1,		3000
+		Ammo_9x39,				1,	-1,		4000
+		Ammo_9x39AP,			1,	-1,		4500
+		Ammo_308Win,			1,	-1,		5000
+		Ammo_545x39,			1,	-1,		3000
+		Ammo_556x45,			1,	-1,		3200
+		Ammo_762x39,			1,	-1,		3500
+		Ammo_762x54,			1,	-1,		5500
+		Ammo_556x45Tracer,		1,	-1,		3200
+		Ammo_545x39Tracer,		1,	-1,		3000
+		Ammo_308WinTracer,		1,	-1,		5000
+		Ammo_762x39Tracer,		1,	-1,		3500
+		Ammo_762x54Tracer,		1,	-1,		5500
+		Ammo_Flare,				1,	5000,	2000
+		Ammo_FlareBlue,			1,	5000,	2000
+		Ammo_FlareGreen,		1,	5000,	2000
+		Ammo_FlareRed,			1,	5000,	2000
 		
 	<Category> TF | AMMO
-		TF_Ammo_57,				20,	15000,		7000
-		TF_Ammo_338LM,			10,	100000,		50000		
-		TF_Ammo_20mm,			10,	300000,		100000
-		TF_Ammo_20mm_HE,		10,	340000,		120000
-		TF_Ammo_40mm_HEDP,		1,	20000,		16000
+		TF_Ammo_57,				20,	150000,		7000
+		TF_Ammo_338LM,			10,	1000000,	50000		
+		TF_Ammo_20mm,			10,	3000000,	100000
+		TF_Ammo_20mm_HE,		10,	3400000,	120000
+		TF_Ammo_40mm_HEDP,		1,	1000000,	60000
 		
 	<Category> SNAFU Ammo
-		SNAFU_Ammo_762x25,					*,		11000,			5000
-		SNAFU_Ammo_46x30,					*,		14000,			6000
-		SNAFU_Ammo_5_7x28mm,				*,		15000,			7000
-		SNAFU_Ammo_44,						20,		20000,			9000
-		SNAFU_Ammo_500_SW,					20,		26000,			12000
-		SNAFU_Ammo_45_70mm,					20,		40000,			19000
-		SNAFU_MD_Ammo_556x45mm_M855A1,		*,		28000,			14000
-		SNAFU_Ammo_300ACC,					*,		22000,			11000
-		GCGN_Ammo_762x51,					*,		30000,			14000
-		GCGN_Ammo_3006,						*,		40000,			18000
-		SNAFU_Ammo_127x55mm,				*,		60000,			28000
-		SNAFU_Ammo_127x55mmAP,				*,		65000,			30000
-		SNAFU_Ammo_338,						10,		100000,			50000
-		GCGN_Ammo_408Chey,					10,		140000,			70000
-		GCGN_Ammo_50Cal,					10,		200000,			100000
-		SNAFU_Ammo_145Cal,					10,		300000,			150000
+		SNAFU_Ammo_762x25,					*,		110000,		50000
+		SNAFU_Ammo_46x30,					*,		140000,		60000
+		SNAFU_Ammo_5_7x28mm,				*,		150000,		70000
+		SNAFU_Ammo_44,						20,		200000,		90000
+		SNAFU_Ammo_500_SW,					20,		260000,		120000
+		SNAFU_Ammo_45_70mm,					20,		400000,		190000
+		SNAFU_MD_Ammo_556x45mm_M855A1,		*,		280000,		140000
+		SNAFU_Ammo_300ACC,					*,		220000,		110000
+		GCGN_Ammo_762x51,					*,		300000,		140000
+		GCGN_Ammo_3006,						*,		400000,		180000
+		SNAFU_Ammo_127x55mm,				*,		600000,		280000
+		SNAFU_Ammo_127x55mmAP,				*,		650000,		300000
+		SNAFU_Ammo_338,						10,		800000,		400000
+		GCGN_Ammo_408Chey,					10,		950000,		470000
+		GCGN_Ammo_50Cal,					10,		1000000,	500000
+		SNAFU_Ammo_145Cal,					10,		1500000,	800000
 
 	<Category> SNAFU Magazines
 		SN_Mp443_Mag,                       *,		27500,			7500
