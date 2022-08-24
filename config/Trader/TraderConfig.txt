@@ -22,14 +22,14 @@
 	<Category> Meat									// Trader Name (first Trader has ID = 0, second Trader has ID = 1, and so on..)
 		ChickenBreastMeat,	S,	20000,	6000		// Category Name
 		WolfSteakMeat,		S,	-1,		7500		// Quantity * means max value
-		DeerSteakMeat,		S,	-1,		12500		// Quantity V means Vehicle
-		PigSteakMeat,		S,	38000,	10500		// Buyvalue -1 means it can not be bought
+		DeerSteakMeat,		S,	-1,		12000		// Quantity V means Vehicle
+		BearSteakMeat,		S,	-1,		25000		// Buyvalue -1 means it can not be bought
 		GoatSteakMeat,		S,	65000,	12000		// Item Classname, Quantity, Buyvalue, Sellvalue
 		CowSteakMeat,		S,	-1,		8000		// Quantity VNK means Vehicle without Key
 		BoarSteakMeat,		S,	-1,		18000		// Quantity M means Magazine
 		SheepSteakMeat,		S,	-1,		11000		// Quantity S means Stack Meat
 		RabbitLegMeat,		S,	-1,		15000		// Quantity K means Key Duplication
-		BearSteakMeat,		S,	-1,		100000		// Quantity W means Weapon
+		PigSteakMeat,		S,	38000,	10500		// Quantity W means Weapon
 		Sardines,			S,	-1,		8000		// Sellvalue -1 means it can not be selled
 		Bitterlings,		S,	-1,		6500		
 		Carp,				S,	-1,		9500		
@@ -48,7 +48,7 @@
 		CowPelt,		S,	68000,	20000
 		SheepPelt,		S,	135000,	20000
 		RabbitPelt,		S,	400000,	11000
-		BearPelt,		S,	140000,	80000
+		BearPelt,		S,	140000,	60000
 	
 	<Category> Canned and Packaged Foods
 		PowderedMilk,		*,	15000,	8000
