@@ -615,7 +615,7 @@
         <zone name="InfectedMedic" smin="0" smax="2" dmin="2" dmax="5" x="1272.6" z="11410.1" r="50"/>		//Medicare below Sinystok
     </territory>
     <territory color="1124502272">
-		<zone name="InfectedArmy" smin="0" smax="0" dmin="40"dmax="80" x="338" z="9368" r="80"/>
+		<zone name="InfectedArmy" smin="10" smax="20" dmin="110"dmax="130" x="338" z="9368" r="90"/>			//Tri Kresta mili tents *TOP TIER*
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40"dmax="80" x="620.333" z="13648.7" r="75"/>
 		<zone name="InfectedArmy" smin="20" smax="30" dmin="10" dmax="20" x="725" z="1874.33" r="80"/>			//mili camp near Tikhiyzaliv
 		<zone name="InfectedArmy" smin="5" smax="10" dmin="10" dmax="12" x="1064" z="13897.5" r="80"/>
@@ -626,11 +626,11 @@
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40" dmax="80" x="2703" z="6757.38" r="80"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="40" dmax="80" x="6333" z="7806" r="70"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="0"dmax="0" x="3705" z="5982" r="20"/>					//Green Mountain
-        <zone name="InfectedArmy" smin="40" smax="45" dmin="10"dmax="12" x="1427" z="14453" r="90"/>			//top MB Tisy
-        <zone name="InfectedArmy" smin="45" smax="50" dmin="10" dmax="12" x="1555" z="14042.5" r="100"/>		//mid left MB Tisy
-        <zone name="InfectedArmyHard" smin="58" smax="60" dmin="10" dmax="20" x="1684.51" z="14254.8" r="140"/>	//mid MB Tisy
-        <zone name="InfectedArmyHard" smin="40" smax="55" dmin="7" dmax="8" x="1818.5" z="13816" r="100"/>		//bottom Platforms MB Tisy
-        <zone name="InfectedArmyHard" smin="75" smax="80" dmin="20" dmax="35" x="1508.5" z="13619" r="180"/>	//Tents below MB Tisy
+        <zone name="InfectedArmy" smin="40" smax="45" dmin="10"dmax="12" x="1427" z="14453" r="90"/>			//top MB Tisy *TOP TIER*
+        <zone name="InfectedArmy" smin="45" smax="50" dmin="10" dmax="12" x="1555" z="14042.5" r="100"/>		//mid left MB Tisy *TOP TIER*
+        <zone name="InfectedArmyHard" smin="58" smax="60" dmin="10" dmax="20" x="1684.51" z="14254.8" r="140"/>	//mid MB Tisy *TOP TIER*
+        <zone name="InfectedArmyHard" smin="40" smax="55" dmin="7" dmax="8" x="1818.5" z="13816" r="100"/>		//bottom Platforms MB Tisy *TOP TIER*
+        <zone name="InfectedArmyHard" smin="75" smax="80" dmin="20" dmax="35" x="1508.5" z="13619" r="180"/>	//Tents below MB Tisy *TOP TIER*
         <zone name="InfectedArmy" smin="0" smax="0" dmin="20" dmax="80" x="13622" z="13756" r="80"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="20" dmax="80" x="5794" z="3072" r="80"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="20" dmax="80" x="2080.67" z="3509.67" r="60"/>
