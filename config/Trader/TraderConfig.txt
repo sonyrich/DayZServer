@@ -1274,14 +1274,14 @@
 		SNAFU_MK47Muzzel,                               *,		100000,			10000
 	
 	<Category> SNAFU Bipods
-		SNAFU_Bipod,						*,		25000,			8500
-		SNAFU_PKPBIPOD,                     *,		20000,			8500
-		SNAFU_NPKPBIPOD,                    *,		25000,			8500
-		SNAFU_AtlasBipod,                   *,		25000,			8500
-		SNAFU_ModBipod,                     *,		25000,			8500
-		SNAFU_VSSKbipod,                    *,		25000,			8500
-		SNAFU_M249Bipod,                    *,		30000,			8500
-		SNAFU_M200B_BK,                     *,		45000,			8500
+		SNAFU_PKPBIPOD,                     *,		10000,			8500
+		SNAFU_NPKPBIPOD,                    *,		10000,			8500
+		SNAFU_VSSKbipod,                    *,		10000,			8500
+		SNAFU_M249Bipod,                    *,		10000,			8500
+		SNAFU_Bipod,						*,		15000,			8500
+		SNAFU_AtlasBipod,                   *,		15000,			8500
+		SNAFU_ModBipod,                     *,		15000,			8500
+		SNAFU_M200B_BK,                     *,		25000,			8500
 	
 	<Category> SNAFU Attachments
 		SNAFU_SKS_Bayonet,						*,		10000,			2500
