@@ -737,66 +737,66 @@
 		SN_M9_Mag,                          *,		88000,			7500
 		SN_USP_Mag,                         *,		88000,			7500
 		SN_Springfield_Mag,                 *,		88000,			7500
-		SN_Auto_Shotgun_Mag,                *,		250000,			8000	
+		SN_Auto_Shotgun_Mag,                *,		250000,			80000	
 		SNAFUAPS_20rdMag,                   *,		80000,			5000
 		GCGN_Vityaz_30Rnd,                  *,		90000,			1000
 		Tec9_Mag,                           *,		90000,			1000
-		SNAFUVECTOR_9mm_Mag,                *,		200000,			1500
-		SNAFUVECTOR_45acp_Mag,              *,		200000,			1500
-		SNAFU_MP9_30rnd_Mag,                *,		300000,			1000
+		SNAFUVECTOR_9mm_Mag,                *,		200000,			15000
+		SNAFUVECTOR_45acp_Mag,              *,		200000,			15000
+		SNAFU_MP9_30rnd_Mag,                *,		300000,			10000
 		SNAFU_Fort12_12rnd_Mag,             *,		88000,			7500
-		SNAFU_MPX_30rnd_Mag,                *,		100000,			1000
-		SNAFU_Agram_32rnd_Mag,              *,		100000,			1500
-		SNAFUKH9_30rdMag,                   *,		100000,			1000
+		SNAFU_MPX_30rnd_Mag,                *,		100000,			10000
+		SNAFU_Agram_32rnd_Mag,              *,		100000,			10000
+		SNAFUKH9_30rdMag,                   *,		100000,			10000
 		SNAFUSten_32rdMag,                  *,		92000,			1500
 		SNAFU_PDW_9mm_Mag,                  *,		90000,			1500
 		SNAFU_PDW_45ACP_Mag,                *,		90000,			1500
 		SNAFUUzi_32rdMag,                   *,		90000,			1500
-		SNAFUUzi_72rdMag,                   *,		150000,			3000
+		SNAFUUzi_72rdMag,                   *,		150000,			30000
 		SNAFUThompsonMk2_30rdMag,           *,		90000,			1000
-		GCGN_MP7_40Rnd,                     *,		120000,			2500
-		SNAFUP90_50rdMag,                   *,		270000,			3000
+		GCGN_MP7_40Rnd,                     *,		120000,			25000
+		SNAFUP90_50rdMag,                   *,		270000,			30000
 		VR80_Magazine_5rd,                  *,		80000,			3000
-		VR80_Magazine_10rd,                 *,		150000,			5000
-		AA12_Mag,                           *,		200000,			1300
-		SNAFU_SR3Vikhr_Mag,                 *,		120000,			7500
+		VR80_Magazine_10rd,                 *,		150000,			50000
+		AA12_Mag,                           *,		200000,			13000
+		SNAFU_SR3Vikhr_Mag,                 *,		120000,			25000
 		SNAFU_M1918A2_Mag,                  *,		70000,			5000
-		SNAFU_AK12_Mag,                     *,		100000,			6000
+		SNAFU_AK12_Mag,                     *,		100000,			30000
 		SNAFU_RPK16_Black_Mag,              *,		50000,			2000
 		SNAFU_RPK16_Green_Mag,              *,		50000,			2000
 		SNAFU_RPK16_Tan_Mag,                *,		50000,			2000
 		SNAFU_U100_Mag,                     *,		90000,			3000
-		SNAFU_PMAG556_Black,                *,		250000,			6000
-		SNAFU_PMAG556_Grey,                 *,		250000,			6000
-		SNAFU_PMAG556_OD,                   *,		250000,			6000
-		SNAFU_PMAG556_Tan,                  *,		250000,			6000
-		SNAFU_BMAG556_Black,                *,		250000,			3000
-		SNAFU_BMAG556_Tan,                  *,		250000,			3000
-		SNAFU_CMAG30556_Black,              *,		250000,			6000
-		SNAFU_CMAG30556_Tan,                *,		250000,			6000
-		SNAFU_CMAG40556_Black,              *,		280000,			7500
-		SNAFU_CMAG40556_Tan,                *,		280000,			7500
-		SNAFU_CMAG60556_Black,              *,		360000,			1200
-		SNAFU_CMAG60556_Tan,                *,		360000,			1200
-		GCGN_HK416_Mag,                     *,		270000,			1200
-		SNAFU_CMAG30300_Black,              *,		320000,			6000
-		SNAFU_CMAG30300_Tan,                *,		320000,			6000
-		SNAFU_CMAG40300_Black,              *,		380000,			7500
-		SNAFU_CMAG40300_Tan,                *,		380000,			7500
-		SNAFU_CMAG60300_Black,              *,		440000,			1200
-		SNAFU_CMAG60300_Tan,                *,		440000,			1200
-		SNAFU_BMAG300_Tan,                  *,		320000,			3000
+		SNAFU_PMAG556_Black,                *,		250000,			60000
+		SNAFU_PMAG556_Grey,                 *,		250000,			60000
+		SNAFU_PMAG556_OD,                   *,		250000,			60000
+		SNAFU_PMAG556_Tan,                  *,		250000,			60000
+		SNAFU_BMAG556_Black,                *,		250000,			30000
+		SNAFU_BMAG556_Tan,                  *,		250000,			30000
+		SNAFU_CMAG30556_Black,              *,		250000,			60000
+		SNAFU_CMAG30556_Tan,                *,		250000,			60000
+		SNAFU_CMAG40556_Black,              *,		280000,			75000
+		SNAFU_CMAG40556_Tan,                *,		280000,			75000
+		SNAFU_CMAG60556_Black,              *,		360000,			12000
+		SNAFU_CMAG60556_Tan,                *,		360000,			12000
+		GCGN_HK416_Mag,                     *,		270000,			12000
+		SNAFU_CMAG30300_Black,              *,		320000,			60000
+		SNAFU_CMAG30300_Tan,                *,		320000,			60000
+		SNAFU_CMAG40300_Black,              *,		380000,			75000
+		SNAFU_CMAG40300_Tan,                *,		380000,			75000
+		SNAFU_CMAG60300_Black,              *,		440000,			12000
+		SNAFU_CMAG60300_Tan,                *,		440000,			12000
+		SNAFU_BMAG300_Tan,                  *,		320000,			30000
 		SNAFU_BMAG300_Black,                *,		320000,			3000
-		SG550_Mag,                          *,		250000,			6200
-		SNAFUAUG_30rdMag,                   *,		240000,			6200
-		SNAFUMk12_20rdMag,                  *,		150000,			5000
-		GCGN_M249_Mag,                      *,		500000,			3500
-		SNAFU_KAC_Mag,                      *,		150000,			6200
-		SNAFUHoneyBadger_30rdMag_Black,     *,		320000,			6200
-		SNAFUHoneyBadger_30rdMag_Tan,       *,		320000,			6200
-		SNAFUAR15_SPR_30RND_Mag,            *,		250000,			6200
-		SNAFUAR15_SPR_40RND_Mag,            *,		280000,			7500
-		SNAFUAR15_SPR_60RND_Mag,            *,		380000,			1200
+		SG550_Mag,                          *,		250000,			62000
+		SNAFUAUG_30rdMag,                   *,		240000,			62000
+		SNAFUMk12_20rdMag,                  *,		150000,			50000
+		GCGN_M249_Mag,                      *,		500000,			35000
+		SNAFU_KAC_Mag,                      *,		150000,			62000
+		SNAFUHoneyBadger_30rdMag_Black,     *,		320000,			62000
+		SNAFUHoneyBadger_30rdMag_Tan,       *,		320000,			62000
+		SNAFUAR15_SPR_30RND_Mag,            *,		250000,			62000
+		SNAFUAR15_SPR_40RND_Mag,            *,		280000,			75000
+		SNAFUAR15_SPR_60RND_Mag,            *,		380000,			12000
 		SNAFUAR15_SPR_100RND_Mag,           *,		450000,			3000
 		SNAFUPPSh_71rdMag,                  *,		70000,			1300
 		SNAFU_SKS_10Rnd_Mag,                *,		100000,			3200
@@ -854,49 +854,49 @@
 		SNAFUAlligator_5rdMag,              *,		450000,			15000		
 		
 	<Category> TF | Magazines
-        TF_Mag_OTs_14_Groza_20Rnd,		M,	22000,	17600
-		TF_Mag_SCAR_H_20Rnd_Black,		M,	19000,	15200
-		TF_Mag_SCAR_H_20Rnd_FDE,		M,	19000,	15200
-		TF_Mag_SCAR_H_20Rnd_Shd,		M,	19000,	15200
-		TF_Mag_SCAR_H_25Rnd_Black,		M,	20000,	16000
-		TF_Mag_SCAR_H_25Rnd_FDE,		M,	20000,	16000
-		TF_Mag_SCAR_H_30Rnd_Black,		M,	21000,	16800
-		TF_Mag_SCAR_H_30Rnd_FDE,		M,	21000,	16800
-		TF_Mag_SCAR_H_PMAG25Rnd_Black,	M,	20000,	16000
-		TF_Mag_SCAR_H_Drum50Rnd,		M,	38500,	30800
-		TF_Mag_FAL_Drum50Rnd_Black,		M,	35000,	28000
-		TF_Mag_SR25_20Rnd,				M,	19000,	15200
-		TF_Mag_MAR10_10Rnd,				M,	70000,	56000
-		TF_Mag_Anzio20_3Rnd,			M,	78000,	62400
-		TF_Mag_M14_20Rnd,				M,	19000,	15200
-		TF_Mag_M14_10Rnd,				M,	11000,	8800
-		TF_Mag_FiveSeven_20Rnd,			M,	10000,	8000
-		TF_Mag_AK74_60Rnd,				M,	32000,	25600
-		TF_Mag_AK74_45Rnd,				M,	21500,	17200
-		TF_Mag_AKM_Plastic30Rnd,		M,	20000,	16000
-		TF_Mag_AKM_30Rnd,				M,	20000,	16000
-		TF_Mag_AKM_10Rnd,				M,	10000,	8000
-		TF_Mag_AKM_PMAG30Rnd,			M,	20500,	16400
-		TF_Mag_AKM_PMAG30Rnd_Banana,	M,	20800,	16640
-		TF_Mag_M4_STANAG_30Rnd,			M,	22000,	17600
-		TF_Mag_M4_PMAG10Rnd,			M,	11000,	8800
-		TF_Mag_M4_PMAG20Rnd,			M,	17000,	13600
-		TF_Mag_M4_PMAG30Rnd,			M,	23000,	18400
-		TF_Mag_M4_PMAG30Rnd_FDE,		M,	23000,	18400
-		TF_Mag_M4_PMAG40Rnd,			M,	28000,	22400
-		TF_Mag_M4_PMAG40Rnd_FDE,		M,	28000,	22400
-		TF_Mag_MP443_18Rnd,				M,	14000,	11200
-		TF_Mag_VPO190_4Rnd,				M,	25000,	20000
-		TF_Mag_AK101_Plastic30Rnd,		M,	20000, 	16000
-		TF_Mag_AK74_Bakelit30Rnd,		M,	20000, 	16000
-		TF_Mag_AK74_Plum30Rnd,			M,	20000, 	16000
-		TF_Mag_AK74_Plastic30Rnd,		M,	20000, 	16000
-		TF_Mag_AKM_Bakelit40Rnd,		M,	25000, 	16000
-		TF_Mag_AKM_Steel40Rnd,			M,	25000, 	16000
-		TF_Mag_M240_50Rnd,				M,	50000, 	40000
-		TF_Mag_M249_200Rnd,				M,	90000, 	72000
-		TF_Mag_PKM_100Rnd,				M,	70000, 	56000
-		TF_Mag_SVCh308_10Rnd,			M,	40000,	20000
+        TF_Mag_OTs_14_Groza_20Rnd,		M,	110000,	37600
+		TF_Mag_SCAR_H_20Rnd_Black,		M,	200000,	35200
+		TF_Mag_SCAR_H_20Rnd_FDE,		M,	200000,	35200
+		TF_Mag_SCAR_H_20Rnd_Shd,		M,	200000,	35200
+		TF_Mag_SCAR_H_25Rnd_Black,		M,	200000,	36000
+		TF_Mag_SCAR_H_25Rnd_FDE,		M,	200000,	36000
+		TF_Mag_SCAR_H_30Rnd_Black,		M,	210000,	36800
+		TF_Mag_SCAR_H_30Rnd_FDE,		M,	210000,	36800
+		TF_Mag_SCAR_H_PMAG25Rnd_Black,	M,	250000,	36000
+		TF_Mag_SCAR_H_Drum50Rnd,		M,	385000,	50800
+		TF_Mag_FAL_Drum50Rnd_Black,		M,	350000,	48000
+		TF_Mag_SR25_20Rnd,				M,	190000,	35200
+		TF_Mag_MAR10_10Rnd,				M,	700000,	76000
+		TF_Mag_Anzio20_3Rnd,			M,	780000,	78000
+		TF_Mag_M14_20Rnd,				M,	190000,	35200
+		TF_Mag_M14_10Rnd,				M,	110000,	11800
+		TF_Mag_FiveSeven_20Rnd,			M,	100000,	11000
+		TF_Mag_AK74_60Rnd,				M,	320000,	45600
+		TF_Mag_AK74_45Rnd,				M,	215000,	37200
+		TF_Mag_AKM_Plastic30Rnd,		M,	200000,	36000
+		TF_Mag_AKM_30Rnd,				M,	200000,	36000
+		TF_Mag_AKM_10Rnd,				M,	100000,	11000
+		TF_Mag_AKM_PMAG30Rnd,			M,	205000,	36400
+		TF_Mag_AKM_PMAG30Rnd_Banana,	M,	208000,	36000
+		TF_Mag_M4_STANAG_30Rnd,			M,	220000,	37600
+		TF_Mag_M4_PMAG10Rnd,			M,	110000,	11800
+		TF_Mag_M4_PMAG20Rnd,			M,	170000,	33600
+		TF_Mag_M4_PMAG30Rnd,			M,	230000,	38400
+		TF_Mag_M4_PMAG30Rnd_FDE,		M,	230000,	38400
+		TF_Mag_M4_PMAG40Rnd,			M,	280000,	42400
+		TF_Mag_M4_PMAG40Rnd_FDE,		M,	280000,	42400
+		TF_Mag_MP443_18Rnd,				M,	140000,	31200
+		TF_Mag_VPO190_4Rnd,				M,	250000,	40000
+		TF_Mag_AK101_Plastic30Rnd,		M,	200000, 36000
+		TF_Mag_AK74_Bakelit30Rnd,		M,	200000, 36000
+		TF_Mag_AK74_Plum30Rnd,			M,	200000, 36000
+		TF_Mag_AK74_Plastic30Rnd,		M,	200000, 36000
+		TF_Mag_AKM_Bakelit40Rnd,		M,	250000, 36000
+		TF_Mag_AKM_Steel40Rnd,			M,	250000, 36000
+		TF_Mag_M240_50Rnd,				M,	500000, 60000
+		TF_Mag_M249_200Rnd,				M,	900000, 92000
+		TF_Mag_PKM_100Rnd,				M,	700000, 76000
+		TF_Mag_SVCh308_10Rnd,			M,	400000,	40000
 	
 	<Category> Magazines
 		Mag_IJ70_8Rnd,				M,	8000,	2400
