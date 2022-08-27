@@ -358,39 +358,39 @@
 		BBP_Letter_Large_Z,				*,		100,		50
 		
 	<Category> MSP Decorations
-		Msp_Shelf_Kit					*,		10000,		5000
-		Msp_Shelf						*,		10000,		5000
-		Msp_SleepingBag_Green			*,		10000,		5000
-		Msp_SleepingBag_Blue			*,		10000,		5000
-		Msp_SleepingBag_LimeGreen		*,		10000,		5000
-		Msp_SleepingBag_Orange			*,		10000,		5000
-		Msp_SleepingBag_Purple			*,		10000,		5000
-		Msp_SleepingBag_Red				*,		10000,		5000
-		Msp_Mattress_Blue				*,		10000,		5000
-		Msp_Mattress_Green				*,		10000,		5000
-		Msp_Mattress_Pink				*,		10000,		5000
-		Msp_Mattress_Yellow				*,		10000,		5000
-		Msp_DeskClock					*,		10000,		5000
-		Msp_WoodenTable_Kit				*,		10000,		5000
-		Msp_WoodenTable					*,		10000,		5000
-		Msp_WoodenChair					*,		10000,		5000
-		Msp_RoomDivider_Kit				*,		10000,		5000
-		Msp_RoomDivider					*,		10000,		5000
-		Msp_RoomDivider_Flat			*,		10000,		5000
-		Msp_HousePlant_Philodendron		*,		10000,		5000
-		Msp_HousePlant_FicusTree		*,		10000,		5000
-		Msp_HousePlant_RubberFig		*,		10000,		5000
-		Msp_HousePlant_Succulent		*,		10000,		5000
-		Msp_Trophy_Gold 				*,		10000,		5000
-		Msp_Trophy_Bronze 				*,		10000,		5000
-		Msp_Trophy_Silver				*,		10000,		5000
+		Msp_Shelf_Kit,					*,		10000,		5000
+		Msp_Shelf,						*,		10000,		5000
+		Msp_SleepingBag_Green,			*,		10000,		5000
+		Msp_SleepingBag_Blue,			*,		10000,		5000
+		Msp_SleepingBag_LimeGreen,		*,		10000,		5000
+		Msp_SleepingBag_Orange,			*,		10000,		5000
+		Msp_SleepingBag_Purple,			*,		10000,		5000
+		Msp_SleepingBag_Red,			*,		10000,		5000
+		Msp_Mattress_Blue,				*,		10000,		5000
+		Msp_Mattress_Green,				*,		10000,		5000
+		Msp_Mattress_Pink,				*,		10000,		5000
+		Msp_Mattress_Yellow,			*,		10000,		5000
+		Msp_DeskClock,					*,		10000,		5000
+		Msp_WoodenTable_Kit,			*,		10000,		5000
+		Msp_WoodenTable,				*,		10000,		5000
+		Msp_WoodenChair,				*,		10000,		5000
+		Msp_RoomDivider_Kit,			*,		10000,		5000
+		Msp_RoomDivider,				*,		10000,		5000
+		Msp_RoomDivider_Flat,			*,		10000,		5000
+		Msp_HousePlant_Philodendron,	*,		10000,		5000
+		Msp_HousePlant_FicusTree,		*,		10000,		5000
+		Msp_HousePlant_RubberFig,		*,		10000,		5000
+		Msp_HousePlant_Succulent,		*,		10000,		5000
+		Msp_Trophy_Gold, 				*,		10000,		5000
+		Msp_Trophy_Bronze, 				*,		10000,		5000
+		Msp_Trophy_Silver,				*,		10000,		5000
 		
 	<Category> MSP Utilies
-		Msp_Gazebo_Kit					*,		10000,		5000
-		Msp_Gazebo						*,		10000,		5000
-		Msp_StoneFireplace_Kit			*,		10000,		5000
-		Msp_StoneFireplace				*,		10000,		5000
-		Msp_FireplaceRailing 			*,		10000,		5000
+		Msp_Gazebo_Kit,					*,		10000,		5000
+		Msp_Gazebo,						*,		10000,		5000
+		Msp_StoneFireplace_Kit,			*,		10000,		5000
+		Msp_StoneFireplace,				*,		10000,		5000
+		Msp_FireplaceRailing, 			*,		10000,		5000
 		
 <Trader> Weapon Trader
 	<Category> SNAFU Weapons Page 1
