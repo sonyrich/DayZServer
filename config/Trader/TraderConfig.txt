@@ -37,9 +37,9 @@
 		
 	<Category> Animal Parts
 		Bone,			*,	4000,	1200
-		Lard,			S,	5000,	1400
-		Guts,			S,	8000,	2500
-		SmallGuts,		S,	6000,	1500
+		Lard,			S,	-1,		1400
+		Guts,			S,	-1,		2500
+		SmallGuts,		S,	-1,		1500
 		WolfPelt,		S,	40000,	9000
 		PigPelt,		S,	44000,	10000
 		DeerPelt,		S,	60000,	14000
@@ -64,10 +64,10 @@
 		TacticalBaconCan,	*,	-1,		7200
 							
 	<Category> Fruits and Vegetables	
-		Pear,					*,	4000,	700
-		Apple,					*,	5000,	800
+		Pear,					*,	-1,		700
+		Apple,					*,	-1,		800
 		Zucchini,				*,	6000,	600
-		Plum,					*,	6000,	600	
+		Plum,					*,	-1,		600	
 		CaninaBerry,			*,	7000,	700	
 		SambucusBerry,			*,	7000,	700
 		GreenBellPepper,		*,	7000,	700
@@ -96,7 +96,7 @@
 		Vodka,			*,	-1,		800000
 		
 	<Category> Medical Supplies
-		BandageDressing,		*,	25000,		9000
+		BandageDressing,		*,	-1,			9000
 		StartKitIV,				*,	5000,		1000
 		SalineBag,				*,	25000,		9000
 		BloodBagEmpty,			*,	2500,		600
@@ -114,7 +114,7 @@
 		TetracyclineAntibiotics,1,	40000,		20000
 		PainkillerTablets,		2,	25000,		12500
 		Morphine,				*,	15000,		8000
-		Epinephrine,			*,	10000,		6500
+		Epinephrine,			*,	12000,		7000
 		CharcoalTablets,		*,	10000,		3000
 		PurificationTablets,	*,	5000,		1400
 		DisinfectantAlcohol,	*,	4500,		1200
@@ -253,7 +253,7 @@
 		Bear_Pink,	*,	5000,	1500
 		Bear_White,	*,	5000,	1500
 		
-	<Category> Supply Furnitures
+	<Category> M Kit Supply Furnitures
 		M_Kit_Gun_Rack,				*,	100000,	25000
 		M_Kit_Gun_Wall,				*,	120000,	30000
 		M_Kit_Fridge,				*,	120000,	30000
@@ -356,6 +356,41 @@
 		BBP_Letter_Large_X,				*,		100,		50
 		BBP_Letter_Large_Y,				*,		100,		50
 		BBP_Letter_Large_Z,				*,		100,		50
+		
+	<Category> MSP Decorations
+		Msp_Shelf_Kit					*,		10000,		5000
+		Msp_Shelf						*,		10000,		5000
+		Msp_SleepingBag_Green			*,		10000,		5000
+		Msp_SleepingBag_Blue			*,		10000,		5000
+		Msp_SleepingBag_LimeGreen		*,		10000,		5000
+		Msp_SleepingBag_Orange			*,		10000,		5000
+		Msp_SleepingBag_Purple			*,		10000,		5000
+		Msp_SleepingBag_Red				*,		10000,		5000
+		Msp_Mattress_Blue				*,		10000,		5000
+		Msp_Mattress_Green				*,		10000,		5000
+		Msp_Mattress_Pink				*,		10000,		5000
+		Msp_Mattress_Yellow				*,		10000,		5000
+		Msp_DeskClock					*,		10000,		5000
+		Msp_WoodenTable_Kit				*,		10000,		5000
+		Msp_WoodenTable					*,		10000,		5000
+		Msp_WoodenChair					*,		10000,		5000
+		Msp_RoomDivider_Kit				*,		10000,		5000
+		Msp_RoomDivider					*,		10000,		5000
+		Msp_RoomDivider_Flat			*,		10000,		5000
+		Msp_HousePlant_Philodendron		*,		10000,		5000
+		Msp_HousePlant_FicusTree		*,		10000,		5000
+		Msp_HousePlant_RubberFig		*,		10000,		5000
+		Msp_HousePlant_Succulent		*,		10000,		5000
+		Msp_Trophy_Gold 				*,		10000,		5000
+		Msp_Trophy_Bronze 				*,		10000,		5000
+		Msp_Trophy_Silver				*,		10000,		5000
+		
+	<Category> MSP Utilies
+		Msp_Gazebo_Kit					*,		10000,		5000
+		Msp_Gazebo						*,		10000,		5000
+		Msp_StoneFireplace_Kit			*,		10000,		5000
+		Msp_StoneFireplace				*,		10000,		5000
+		Msp_FireplaceRailing 			*,		10000,		5000
 		
 <Trader> Weapon Trader
 	<Category> SNAFU Weapons Page 1
@@ -940,16 +975,16 @@
 		Mag_308WinSnaploader_2Rnd,	M,	5000,	1500
 				
 	<Category> TF | Optics
+		TF_HAMROptic_Black,					*,	45000,	34000
         TF_ElcanSpecterDROptic_FDE,			*,	40000,	32000
 		TF_ElcanSpecterDROptic_Black,		*,	40000,	32000
 		TF_ElcanSpecterDR_6xOptic_FDE,		*,	60000,	48000
 		TF_ElcanSpecterDR_6xOptic_Black,	*,	60000,	48000
 		TF_EOTechXPSOpticDown_Black,		*,	35000,	28000
 		TF_EOTechXPSOpticUp_Black,			*,	35000,	28000
-		TF_DeltaPointOptic_Black,			*,	34500,	27600
-		TF_HAMROptic_Black,					*,	40500,	32400
-		TF_OTs_14_GrozaOptic,				*,	28000,	22400
-		TF_PK122_ValdayOptic,				*,	34000,	27200
+		TF_DeltaPointOptic_Black,			*,	34500,	27500
+		TF_OTs_14_GrozaOptic,				*,	25000,	20000
+		TF_PK122_ValdayOptic,				*,	34000,	27000
 		TF_OKP7Optic,						*,	30000,	24000
 		TF_M4_ColtA2Optic,					*,	30000,	24000
 
