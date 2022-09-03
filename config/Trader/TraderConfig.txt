@@ -860,6 +860,21 @@
 		TF_TeargasGrenade,		*,	90000,	42000
 		TF_ChemicalGrenade,		*,	250000,	95000
 		
+	<Category> Msp Melee:
+		Msp_BeanBasher
+		Msp_PipeAxe
+		Msp_PlainBat
+		Msp_PlainBat_Blue
+		Msp_PlainBat_Black
+		Msp_GoodNightBat
+		Msp_VorpalKnife
+		Msp_BlunderBat
+		Msp_BaseballBat
+		Msp_BaseballBat_SawBarbedWire
+		Msp_BaseballBat_Chain
+		Msp_BaseballBat_Nailed
+		Msp_BaseballBat_BarbedWire
+		Msp_Sawblade
 		
 <Trader> Weapon Supplies
 	<Category> Ammunition
