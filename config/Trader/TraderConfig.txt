@@ -1155,11 +1155,11 @@
 		Mag_308WinSnaploader_2Rnd,	M,	5000,	1500
 				
 	<Category> TF | Optics
-		TF_HAMROptic_Black,					*,	45000,	34000
-        TF_ElcanSpecterDROptic_FDE,			*,	40000,	32000
-		TF_ElcanSpecterDROptic_Black,		*,	40000,	32000
-		TF_ElcanSpecterDR_6xOptic_FDE,		*,	60000,	48000
-		TF_ElcanSpecterDR_6xOptic_Black,	*,	60000,	48000
+		TF_HAMROptic_Black,					*,	75000,	34000
+        TF_ElcanSpecterDROptic_FDE,			*,	70000,	32000
+		TF_ElcanSpecterDROptic_Black,		*,	70000,	32000
+		TF_ElcanSpecterDR_6xOptic_FDE,		*,	80000,	48000
+		TF_ElcanSpecterDR_6xOptic_Black,	*,	80000,	48000
 		TF_EOTechXPSOpticDown_Black,		*,	35000,	28000
 		TF_EOTechXPSOpticUp_Black,			*,	35000,	28000
 		TF_DeltaPointOptic_Black,			*,	34500,	27500
