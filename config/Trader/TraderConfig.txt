@@ -941,7 +941,7 @@
 		GCGN_Ammo_762x51,					*,		350000,		110000
 		GCGN_Ammo_3006,						*,		380000,		120000
 		SNAFU_Ammo_127x55mm,				*,		480000,		160000
-		SNAFU_Ammo_127x55mmAP,				*,		520000,		180000
+		SNAFU_Ammo_127x55mmAP,				*,		500000,		180000
 		SNAFU_Ammo_338,						10,		700000,		200000
 		GCGN_Ammo_408Chey,					10,		800000,		220000
 		GCGN_Ammo_50Cal,					10,		900000,		250000
