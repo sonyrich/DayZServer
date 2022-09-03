@@ -392,6 +392,171 @@
 		Msp_StoneFireplace,				*,		10000,		5000
 		Msp_FireplaceRailing, 			*,		10000,		5000
 		
+	<Category> MSP Garden:
+		Msp_PlanterBox
+		Msp_SquarePlanterBox
+		Msp_EmptySquarePlanterBox
+		Msp_EmptyPlanterBox
+		Msp_Greenhouse_Kit
+		Msp_Greenhouse
+		Msp_GreenhouseWood_Kit
+		Msp_GreenhouseWood
+		
+	<Category> MSP Fridges:
+		Msp_MoskvaFridge_Blue_Kit
+		Msp_MoskvaFridge_Blue
+		Msp_MoskvaFridge_Cream_Kit
+		Msp_MoskvaFridge_Cream
+		Msp_MoskvaFridge_Red_Kit
+		Msp_MoskvaFridge_Red
+		Msp_SovietOkaFridge_Kit
+		Msp_SovietOkaFridge
+		Msp_SnowballFridge_Kit
+		Msp_SnowballFridge
+		
+	<Category> MSP Storages:
+		Msp_LargeAmmoBox
+		Msp_GrenadeBox
+		Msp_TackleBox 
+		Msp_TackleBox_Black 
+		Msp_CoolerBox 
+		Msp_CoolerBox_Black 
+		Msp_Basket_Rectangular 
+		Msp_Basket_Wicker
+		Msp_MedievalChest 
+		Msp_TreasureChest
+		Msp_AmericanAppleCrate 
+		Msp_AppleCrate 
+		Msp_PlasticCrate 
+		Msp_AmmoCrate 
+		Msp_MilitaryCrate_Brown
+		Msp_MilitaryCrate_Green
+		Msp_MilitaryCrate_Grey
+		Msp_MilitaryCrate_Olive
+		Msp_MilitaryCrate_Tan
+		Msp_StorageBox_Kit
+		Msp_StorageBox
+		Msp_MilitaryLocker_Kit
+		Msp_MilitaryLocker
+		Msp_Locker_Kit
+		Msp_Locker
+		Msp_SoloLocker_Kit
+		Msp_SoloLocker
+		Msp_SoloLocker_Black_Kit
+		Msp_SoloLocker_Black
+		Msp_SoloLocker_White_Kit
+		Msp_SoloLocker_White
+		Msp_SoloLocker_Green_Kit
+		Msp_SoloLocker_Green
+		Msp_SoloLocker_Red_Kit
+		Msp_SoloLocker_Red
+		Msp_SoloLocker_RedRusty_Kit
+		Msp_SoloLocker_RedRusty
+		Msp_SoloLocker_Yellow_Kit
+		Msp_SoloLocker_Yellow
+		Msp_SoloLocker_YellowRusty_Kit
+		Msp_SoloLocker_YellowRusty
+		Msp_OldLocker_Kit
+		Msp_OldLocker
+		Msp_OldLocker_Green_Kit
+		Msp_OldLocker_Green
+		Msp_FourDoor_MilitaryLocker_Kit
+		Msp_FourDoor_MilitaryLocker
+		Msp_FourDoor_MilitaryLocker_Green_Kit
+		Msp_FourDoor_MilitaryLocker_Green
+		Msp_RifleSafe_Kit
+		Msp_RifleSafe
+		Msp_RifleSafe_Grey_Kit
+		Msp_RifleSafe_Grey
+		Msp_RifleSafe_Green_Kit
+		Msp_RifleSafe_Green
+		Msp_RifleSafe_Purple_Kit
+		Msp_RifleSafe_Purple
+		Msp_RifleSafe_Tan_Kit
+		Msp_RifleSafe_Tan
+		Msp_Safe 
+		Msp_ToolsBench_Blue_Kit
+		Msp_ToolsBench_Blue
+		Msp_ToolsBench_Grey_Kit
+		Msp_ToolsBench_Grey
+		Msp_ToolsBench_Red_Kit
+		Msp_ToolsBench_Red
+		Msp_Bookcase_Kit
+		Msp_Bookcase
+		Msp_Mailbox 
+		Msp_TrashCan 
+		Msp_Static_TrashCan 
+		Msp_MedicalBox_Kit
+		Msp_MedicalBox
+		Msp_Wardrobe_Brown_Kit
+		Msp_Wardrobe_Brown 
+		Msp_Wardrobe_Green_Kit
+		Msp_Wardrobe_Green 
+		Msp_Wardrobe_White_Kit
+		Msp_Wardrobe_White 
+		Msp_GunCabinet_Kit
+		Msp_GunCabinet
+		Msp_GunRack_Kit
+		Msp_GunRack
+		Msp_DoubleGunRack_Kit
+		Msp_DoubleGunRack
+		Msp_FishingRodsRack_Kit
+		Msp_FishingRodsRack	
+		Msp_WoodenGunRack_Kit
+		Msp_WoodenGunRack
+		Msp_Gunwall_Kit
+		Msp_Gunwall
+		
+	<Category> MSP Seasonal:
+		Msp_SantaPants
+		Msp_SantaJacket
+		Msp_Bunny
+		Msp_Rabbit 
+		Msp_Egg_Blue 
+		Msp_Egg_Pink 
+		Msp_Egg_Red 
+		Msp_Egg_Green 
+		Msp_Egg_Purple 
+		Msp_Egg_Yellow
+		Msp_BeachBall
+		Msp_BeachChair_Kit
+		Msp_BeachChair
+		Msp_BeachUmbrella
+		Msp_BeachUmbrella_Stripes
+		Msp_Floaties
+		Msp_Floatie_Wheel
+		Msp_Floatie_Unicorn
+		Msp_Floatie_Unicorn_Rainbow 
+		Msp_Floatie_Unicorn_BlueRainbow 
+		Msp_Floatie_Unicorn_GreenRainbow 
+		Msp_Floatie_Unicorn_PurpleRainbow 
+		Msp_Floatie_Flamingo 
+		Msp_KiddiePool_Kit
+		Msp_KiddiePool 
+		Msp_KiddiePool_Pink_Kit
+		Msp_KiddiePool_Pink 
+		Msp_KiddiePool_Yellow_Kit
+		Msp_KiddiePool_Yellow 
+		Msp_VolleyballNet_Kit
+		Msp_VolleyballNet 
+		Msp_Volleyball
+		Msp_Water_Gun
+		Msp_Water_Gun_Mag
+		Msp_WitchHat
+		MSP_WitchCauldron
+		Msp_CoffinBox 
+		Msp_MedievalGibbet_Kit
+		Msp_MedievalGibbet
+		Msp_MedievalGibbetWithMount_Kit
+		Msp_MedievalGibbetWithMount
+		
+	<Category> MSP Map items:
+		Msp_StandingSign_Metal 
+		Msp_RoadSign 
+		Msp_RoadSign_FleaMarket 
+		Msp_BoxingRing 
+		Msp_BoxingRing_Top
+		
 <Trader> Weapon Trader
 	<Category> SNAFU Weapons Page 1
 		SNAFUAPS,                          W,		340000,			20000
