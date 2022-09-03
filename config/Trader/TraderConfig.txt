@@ -885,18 +885,18 @@
 		AmmoBox_357_20Rnd,			*,	80000,		32000
 		AmmoBox_00buck_10rnd,		*,	100000,		40000
 		AmmoBox_12gaSlug_10Rnd,		*,	85000,		33000
-		AmmoBox_556x45_20Rnd,		*,	250000,		75000
-		AmmoBox_556x45Tracer_20Rnd,	*,	250000,		75000
-		AmmoBox_545x39_20Rnd,		*,	220000,		72000
-		AmmoBox_545x39Tracer_20Rnd,	*,	220000,		72000
-		AmmoBox_762x39_20Rnd,		*,	280000,		74000
-		AmmoBox_762x39Tracer_20Rnd,	*,	280000,		74000
-		AmmoBox_9x39_20Rnd,			*,	300000,		78000
-		AmmoBox_9x39AP_20Rnd,		*,	320000,		84000
-		AmmoBox_308Win_20Rnd,		*,	400000,		90000
-		AmmoBox_308WinTracer_20Rnd,	*,	400000,		90000
-		AmmoBox_762x54_20Rnd,		*,	430000,		100000
-		AmmoBox_762x54Tracer_20Rnd,	*,	430000,		100000
+		AmmoBox_556x45_20Rnd,		*,	200000,		75000
+		AmmoBox_556x45Tracer_20Rnd,	*,	200000,		75000
+		AmmoBox_545x39_20Rnd,		*,	180000,		72000
+		AmmoBox_545x39Tracer_20Rnd,	*,	180000,		72000
+		AmmoBox_762x39_20Rnd,		*,	240000,		74000
+		AmmoBox_762x39Tracer_20Rnd,	*,	240000,		74000
+		AmmoBox_9x39_20Rnd,			*,	280000,		78000
+		AmmoBox_9x39AP_20Rnd,		*,	300000,		84000
+		AmmoBox_308Win_20Rnd,		*,	350000,		90000
+		AmmoBox_308WinTracer_20Rnd,	*,	350000,		90000
+		AmmoBox_762x54_20Rnd,		*,	380000,		100000
+		AmmoBox_762x54Tracer_20Rnd,	*,	380000,		100000
 		
 		Ammo_22,				1,	-1,		200	
 		Ammo_380,				1,	-1,		500
@@ -923,22 +923,22 @@
 		Ammo_FlareRed,			1,	5000,	2000
 		
 	<Category> TF | AMMO
-		TF_Ammo_57,				20,	150000,		44000
+		TF_Ammo_57,				20,	15000,		44000
 		TF_Ammo_338LM,			10,	700000,		200000		
 		TF_Ammo_20mm,			10,	1000000,	290000
 		TF_Ammo_20mm_HE,		10,	1100000,	300000
 		TF_Ammo_40mm_HEDP,		1,	500000,		180000
 		
 	<Category> SNAFU Ammo
-		SNAFU_Ammo_762x25,					*,		110000,		35000
-		SNAFU_Ammo_46x30,					*,		140000,		40000
-		SNAFU_Ammo_5_7x28mm,				*,		150000,		44000
-		SNAFU_Ammo_44,						20,		200000,		60000
-		SNAFU_Ammo_500_SW,					20,		260000,		64000
-		SNAFU_Ammo_45_70mm,					20,		360000,		70000
-		SNAFU_MD_Ammo_556x45mm_M855A1,		*,		250000,		90000
-		SNAFU_Ammo_300ACC,					*,		270000,		93000
-		GCGN_Ammo_762x51,					*,		320000,		110000
+		SNAFU_Ammo_762x25,					*,		100000,		35000
+		SNAFU_Ammo_46x30,					*,		120000,		40000
+		SNAFU_Ammo_5_7x28mm,				*,		140000,		44000
+		SNAFU_Ammo_44,						20,		160000,		60000
+		SNAFU_Ammo_500_SW,					20,		220000,		64000
+		SNAFU_Ammo_45_70mm,					20,		300000,		70000
+		SNAFU_MD_Ammo_556x45mm_M855A1,		*,		200000,		90000
+		SNAFU_Ammo_300ACC,					*,		240000,		93000
+		GCGN_Ammo_762x51,					*,		350000,		110000
 		GCGN_Ammo_3006,						*,		380000,		120000
 		SNAFU_Ammo_127x55mm,				*,		480000,		160000
 		SNAFU_Ammo_127x55mmAP,				*,		520000,		180000
