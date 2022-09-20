@@ -870,6 +870,9 @@
     <input name="UAToggleMagni">
         <btn name="kI" />
     </input>
+    <input name="UATogglePlayerControls">
+        <btn name="kSpace" />
+    </input>
     <input name="UAHealTargets">
         <btn name="kJ" />
     </input>

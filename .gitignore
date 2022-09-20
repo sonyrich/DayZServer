@@ -55,12 +55,15 @@ whitelist.txt
 *.log
 *.bak
 *.ch
+*.vdf
 config/VPPAdminTools/Logging/*.txt
 mpmissions/dayzOffline.enoch/
 mpmissions/dayzOffline.chernarusplus/storage_0/
 mpmissions/dayzOffline.chernarusplus/storage_1/
 config/ExpansionMod/Groups/
 config/DataCache/
+logs/
+appcache/
 
 #include
 !DayzServer.bat
