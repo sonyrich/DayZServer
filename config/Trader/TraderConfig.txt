@@ -36,7 +36,7 @@
 		Mackerel,			S,	-1,		11000		
 		
 	<Category> Animal Parts
-		Bone,			*,	4000,	1200
+		Bone,			*,	-1,		1200
 		Lard,			S,	-1,		1400
 		Guts,			S,	-1,		2500
 		SmallGuts,		S,	-1,		1500
@@ -66,7 +66,7 @@
 	<Category> Fruits and Vegetables	
 		Pear,					*,	-1,		700
 		Apple,					*,	-1,		800
-		Zucchini,				*,	6000,	600
+		Zucchini,				*,	-1,		600
 		Plum,					*,	-1,		600	
 		CaninaBerry,			*,	7000,	700	
 		SambucusBerry,			*,	7000,	700
@@ -74,7 +74,7 @@
 		Potato,					*,	8000,	800
 		Pumpkin,				*,	8000,	800
 		Orange,					*,	9500,	800
-		Tomato,					*,	9600,	900
+		Tomato,					*,	-1,		900
 		Kiwi,					*,	10000,	-1	
 		Banana,					*,	11000,	-1
 		AgaricusMushroom,		*,	10000,	1200
@@ -88,10 +88,10 @@
 		
 	<Category> Drinks
 		SodaCan_Cola,	*,	5000,	1000
-		SodaCan_Kvass,	*,	5000,	1000
-		SodaCan_Pipsi,	*,	5000,	1000
-		SodaCan_Spite,	*,	5000,	1000
-		WaterBottle,	*,	10000,	2500
+		SodaCan_Kvass,	*,	-1,		1000
+		SodaCan_Pipsi,	*,	-1,		1000
+		SodaCan_Spite,	*,	-1,		1000
+		WaterBottle,	*,	-1,		2500
 		Canteen,		*,	20000,	5000
 		Vodka,			*,	-1,		800000
 		
@@ -134,28 +134,28 @@
 		Wrench,					*,	-1,		3000
 		SewingKit,				*,	30000,	7500
 		LeatherSewingKit,		*,	40000,	10000
-		WeaponCleaningKit,		*,	60000,	15000
+		WeaponCleaningKit,		*,	100000,	15000
 		EpoxyPutty,				*,	30000,	8700
-		DuctTape,				*,	20000,	5000
+		DuctTape,				*,	-1,		5000
 		Matchbox,				*,	2000,	500
-		PetrolLighter,			*,	7000,	2500
-		CanOpener,				*,	4000,	1000
-		Compass,				*,	1500,	500
-		OrienteeringCompass,	*,	1500,	500
-		FishingRod,				*,	50000,	10000
+		PetrolLighter,			*,	20000,	2500
+		CanOpener,				*,	-1,		1000
+		Compass,				*,	15000,	500
+		OrienteeringCompass,	*,	15000,	500
+		FishingRod,				*,	-1,		10000
 		Hook,					*,	10000,	4000
 		SteakKnife,				*,	-1,		1500
 		KitchenKnife,			*,	-1,		3000
 		Cleaver,				*,	-1,		4000
 		HuntingKnife,			*,	-1,		3000
-		CombatKnife,			*,	7000,	2800
+		CombatKnife,			*,	12000,	2800
 		Hatchet,				*,	-1,		4500
 		Machete,				*,	50000,	20000
 		Pliers,					*,	30000,	7500
 		Whetstone,				*,	10000,	2500
 		Hammer,					*,	5000,	1300
-		Hacksaw,				*,	10000,	2500
-		HandSaw,				*,	20000,	5000
+		Hacksaw,				*,	20000,	2500
+		HandSaw,				*,	30000,	5000
 		Lockpick,				*,	-1,		2000
 		Binoculars,				*,	-1,		1000
 		ChernarusMap,			*,	-1,		500
@@ -163,18 +163,18 @@
 	<Category> Big Tools
 		LugWrench,			*,	5000,	1200
 		Shovel,				*,	20000,	7000
-		WoodAxe,			*,	25000,	8000
-		Pickaxe,			*,	15000,	6800
+		WoodAxe,			*,	50000,	8000
+		Pickaxe,			*,	35000,	6800
 		SledgeHammer,		*,	15000,	4800
 		PipeWrench,			W,	7000,	2500
 		Crowbar,			*,	-1,		9000
 		FirefighterAxe,		*,	-1,		8000
 		
 	<Category> Electronics
-		Battery9V,				*,	10000,	7500
+		Battery9V,				*,	20000,	7500
 		PersonalRadio,			*,	2000,	1500
-		NVGoggles,				*,	70000,	40000
-		ElectronicRepairKit,	*,	10000,	4500
+		NVGoggles,				*,	120000,	40000
+		ElectronicRepairKit,	*,	15000,	4500
 		CableReel,				*,	4000,	1000
 		BatteryCharger,			*,	8000,	3000
 		Megaphone,				*,	-1,		2000
@@ -190,8 +190,8 @@
 		Roadflare,				*,	-1,		400
 		PortableGasLamp,		*,	500,	200
 		PortableGasStove,		*,	5000,	1200
-		Headtorch_Black,		*,	4000,	1000
-		Headtorch_Grey,			*,	4000,	1000
+		Headtorch_Black,		*,	10000,	1000
+		Headtorch_Grey,			*,	10000,	1000
 		Spotlight,				*,	10000,	2500
 		Flashlight,				*,	-1,		1000
 	
@@ -208,7 +208,7 @@
 		AntiPestsSpray,			*,	1000,	200
 		MetalWire,				*,	2000,	500
 		XmasLights,				*,	2000,	500
-		SeaChest,				*,	15000,	3800
+		SeaChest,				*,	50000,	3800
 		HandcuffKeys,			*,	-1,		8000
 		Handcuffs,				*,	-1,		8000
 		Netting,				1,	-1,		100
@@ -241,11 +241,11 @@
 		PowerGenerator,			*,	100000,	25000
 	
 	<Category> Seeds & Lime
-		TomatoSeedsPack,		*,	15000,	1200
-		PepperSeedsPack,		*,	15000,	1200
-		ZucchiniSeedsPack,		*,	16000,	1500
-		PumpkinSeedsPack,		*,	18000,	2000
-		GardenLime,				*,	30000,	3500
+		TomatoSeedsPack,		*,	-1,		1200
+		PepperSeedsPack,		*,	-1,		1200
+		ZucchiniSeedsPack,		*,	-1,		1500
+		PumpkinSeedsPack,		*,	-1,		2000
+		GardenLime,				*,	50000,	3500
 		
 	<Category> Teddy Baers <3
 		Bear_Beige,	*,	5000,	1500
@@ -302,7 +302,7 @@
 		BBP_BedKit,						*,		25000,		8000
 		BBP_Bedding,					1,		5000,		2000
 		BBP_SofaKit,					*,		25000,		8000
-		BBP_WellKit,					*,		2500000,	500000
+		BBP_WellKit,					*,		4000000,	400000
 		BBP_SolarPlus_PanelKit,			*,		60000,		20000
 		BBP_Floor_Lamp,					*,		8000,		1000
 		BBP_Toilet,						*,		6000,		800
@@ -370,7 +370,7 @@
 		Msp_Mattress_Green,				*,		10000,		5000
 		Msp_Mattress_Pink,				*,		10000,		5000
 		Msp_Mattress_Yellow,			*,		10000,		5000
-		Msp_DeskClock,					*,		10000,		5000
+		Msp_DeskClock,					*,		5000,		500
 		Msp_WoodenTable_Kit,			*,		10000,		5000
 		Msp_WoodenTable,				*,		10000,		5000
 		Msp_WoodenChair,				*,		10000,		5000
@@ -386,32 +386,32 @@
 		Msp_Trophy_Silver,				*,		10000,		5000
 		
 	<Category> MSP Utilies
-		Msp_Gazebo_Kit,					*,		10000,		5000
-		Msp_Gazebo,						*,		10000,		5000
-		Msp_StoneFireplace_Kit,			*,		10000,		5000
-		Msp_StoneFireplace,				*,		10000,		5000
-		Msp_FireplaceRailing, 			*,		10000,		5000
+		Msp_Gazebo_Kit,					*,		75000,		25000
+		Msp_Gazebo,						*,		-1,			5000
+		Msp_StoneFireplace_Kit,			*,		50000,		5000
+		Msp_StoneFireplace,				*,		-1,			5000
+		Msp_FireplaceRailing, 			*,		5000,		500
 		
 	<Category> MSP Garden:
-		Msp_PlanterBox,					*,		10000,		5000
-		Msp_SquarePlanterBox,			*,		10000,		5000
-		Msp_EmptySquarePlanterBox,		*,		10000,		5000
-		Msp_EmptyPlanterBox,			*,		10000,		5000
-		Msp_Greenhouse_Kit,				*,		10000,		5000
-		Msp_Greenhouse,					*,		10000,		5000
-		Msp_GreenhouseWood_Kit,			*,		10000,		5000
-		Msp_GreenhouseWood,				*,		10000,		5000
+		Msp_PlanterBox,					*,		20000,		2000
+		Msp_SquarePlanterBox,			*,		50000,		5000
+		Msp_EmptySquarePlanterBox,		*,		50000,		5000
+		Msp_EmptyPlanterBox,			*,		50000,		5000
+		Msp_Greenhouse_Kit,				*,		1000000,	100000
+		Msp_Greenhouse,					*,		-1,			5000
+		Msp_GreenhouseWood_Kit,			*,		400000,		40000
+		Msp_GreenhouseWood,				*,		-1,			5000
 		
 	<Category> MSP Fridges:
-		Msp_MoskvaFridge_Blue_Kit,		*,		10000,		5000
+		Msp_MoskvaFridge_Blue_Kit,		*,		40000,		5000
 		Msp_MoskvaFridge_Blue,			*,		10000,		5000
-		Msp_MoskvaFridge_Cream_Kit,		*,		10000,		5000
+		Msp_MoskvaFridge_Cream_Kit,		*,		40000,		5000
 		Msp_MoskvaFridge_Cream,			*,		10000,		5000
-		Msp_MoskvaFridge_Red_Kit,		*,		10000,		5000
+		Msp_MoskvaFridge_Red_Kit,		*,		40000,		5000
 		Msp_MoskvaFridge_Red,			*,		10000,		5000
-		Msp_SovietOkaFridge_Kit,		*,		10000,		5000
+		Msp_SovietOkaFridge_Kit,		*,		40000,		5000
 		Msp_SovietOkaFridge,			*,		10000,		5000
-		Msp_SnowballFridge_Kit,			*,		10000,		5000
+		Msp_SnowballFridge_Kit,			*,		40000,		5000
 		Msp_SnowballFridge,				*,		10000,		5000
 		
 	<Category> MSP Storages:
@@ -544,7 +544,7 @@
 		Msp_Water_Gun_Mag,						*,		10000,		5000
 		Msp_WitchHat,							*,		10000,		5000
 		MSP_WitchCauldron,						*,		10000,		5000
-		Msp_CoffinBox, 							*,		10000,		5000
+		Msp_CoffinBox, 							*,		5000,		500
 		Msp_MedievalGibbet_Kit,					*,		10000,		5000
 		Msp_MedievalGibbet,						*,		10000,		5000
 		Msp_MedievalGibbetWithMount_Kit,		*,		10000,		5000
@@ -559,13 +559,13 @@
 		
 <Trader> Weapon Trader
 	<Category> SNAFU Weapons Page 1
-		SNAFUAPS,                          W,		340000,			20000
-		SN_Springfield,                    W,		600000,			61000
-		SN_Glock19,                        W,		280000,			20000
+		SNAFUAPS,                          W,		-1,				20000
+		SN_Springfield,                    W,		-1,				61000
+		SN_Glock19,                        W,		-1,				20000
 		SN_Mp443,                          W,		285000,			20000
-		SN_M9,                             W,		270000,			20000
+		SN_M9,                             W,		-1,				20000
 		GCGN_Vityaz,                       W,		400000,			32000
-		Tec9_Gun,                          W,		200000,			50000
+		Tec9_Gun,                          W,		-1,				50000
 		SNAFUVECTOR_9mm_GUN,               W,		1000000,		80000
 		SNAFU_MP9_GUN,                     W,		1500000,		100000
 		SNAFU_Fort12_GUN,                  W,		200000,			18000
@@ -587,28 +587,28 @@
 		SNAFU_Trenchgun,                   W,		700000,			610000
 		SNAFU_TP82S,                       W,		200000,			20000
 		SN_Auto_Shotgun,                   W,		900000,			90000
-		SN_M870,                           W,		870000,			71000
+		SN_M870,                           W,		-1,				71000
 		VR80_Gun,                          W,		1500000,		130000
 		Spas12_Gun,                        W,		1000000,		80000
-		AA12_Gun,                          W,		2200000,		200000
+		AA12_Gun,                          W,		-1,				200000
 		SNAFUSR3_Vikhr,                    W,		1600000,		140000
 		GCGN_M1Garand,                     W,		1200000,		100000
 		SNAFU_M1918A2,                     W,		1400000,		120000
-		SNAFUMarlin1895,                   W,		1900000,		200000
-		SNAFU_AK12A,                       W,		1200000,		100000
+		SNAFUMarlin1895,                   W,		-1,				200000
+		SNAFU_AK12A,                       W,		-1,				100000
 		SNAFU_RPK16_Black,                 W,		1000000,		120000
-		SNAFU_RPK16_Green,                 W,		1000000,		120000
-		SNAFU_RPK16_Tan,                   W,		1000000,		120000
+		SNAFU_RPK16_Green,                 W,		-1,				120000
+		SNAFU_RPK16_Tan,                   W,		-1,				120000
 		SNAFU_AEK545_Gun,                  W,		1400000,		130000
 		SNAFU_U100,                        W,		1800000,		150000
-		GCGN_M4A1,                         W,		1550000,		125000
+		GCGN_M4A1,                         W,		-1,				125000
 		SNAFU_CZ805_Gun,                   W,		1450000,		125000
-		GCGN_HK416,                        W,		1550000,		120000
+		GCGN_HK416,                        W,		-1,				120000
 		ACR_Gun,                           W,		1300000,		100000
 		M4_6933_Gun,                       W,		1400000,		120000
 		IA2_Gun,                           W,		1300000,		100000
 		SG550_Gun,                         W,		1350000,		100000
-		MK18_Gun,                          W,		1520000,		130000
+		MK18_Gun,                          W,		-1,				130000
 		SCAR_Gun,                          W,		1700000,		160000
 		SNAFU_CALI_GUN,                    W,		1500000,		130000
 		SNAFU_AK19,                        W,		1380000,		120000
@@ -618,12 +618,12 @@
 		SNAFUFAMAS,                        W,		1470000,		130000
 		SNAFUMk12,                         W,		1490000,		135000
 		SNAFUSA80,                         W,		1280000,		100000
-		HK416_Gun,                         W,		1550000,		130000
+		HK416_Gun,                         W,		-1,				130000
 		SNAFUAUG,                          W,		1600000,		160000
-		SNAFUAUG_BK,                       W,		1600000,		160000
+		SNAFUAUG_BK,                       W,		-1,				160000
 		SNAFU_ADAR_Modular16_GUN,          W,		1220000,		100000
-		SNAFU_AR15_Modular16_GUN,          W,		1220000,		100000
-		SNAFU_LVOA556_GUN,                 W,		1550000,		130000
+		SNAFU_AR15_Modular16_GUN,          W,		-1,				100000
+		SNAFU_LVOA556_GUN,                 W,		-1,				130000
 		SNAFU_M4556_Modular14_GUN,         W,		1700000,		140000
 		SNAFU_M4556_Modular16_GUN,         W,		1700000,		140000
 		SNAFU_Saint556_Gun,                W,		1560000,		130000
@@ -635,33 +635,33 @@
 		GCGN_VEPR,                         W,		600000,			50000
 		SNAFUPPSKN,                        W,		1300000,		100000
 		SNAFU_AK103A,                      W,		1600000,		140000
-		SNAFURPD,                          W,		2400000,		200000
+		SNAFURPD,                          W,		-1,				200000
 		SNAFU_MK4710Gun,                   W,		1400000,		110000
 		SNAFU_MK4716Gun,                   W,		1400000,		110000
 		SNAFU_KAC_Gun,                     W,		1500000,		130000
-		SNAFUHoneyBadger_Black,            W,		1680000,		140000
-		SNAFUHoneyBadger_Tan,              W,		1680000,		140000
-		SNAFU_AR15SPRBK,                   W,		1480000,		120000
-		SNAFU_AR15SPRTAN,                  W,		1480000,		120000
-		SNAFU_M4300AC_10_GUN,              W,		1570000,		130000
-		SNAFU_M4300AC_14_GUN,              W,		1570000,		130000
-		SNAFU_M4300AC_16_GUN,              W,		1570000,		130000
-		SNAFU_M4300AC_14DV_GUN,            W,		1570000,		130000
+		SNAFUHoneyBadger_Black,            W,		-1,				140000
+		SNAFUHoneyBadger_Tan,              W,		-1,				140000
+		SNAFU_AR15SPRBK,                   W,		-1,				120000
+		SNAFU_AR15SPRTAN,                  W,		-1,				120000
+		SNAFU_M4300AC_10_GUN,              W,		-1,				130000
+		SNAFU_M4300AC_14_GUN,              W,		-1,				130000
+		SNAFU_M4300AC_16_GUN,              W,		-1,				130000
+		SNAFU_M4300AC_14DV_GUN,            W,		-1,				130000
 		SNAFU_M14,                         W,		1250000,		110000
 		SNAFU_M76,                         W,		1900000,		160000
-		SNAFU_FRF2,                        W,		1600000,		130000
+		SNAFU_FRF2,                        W,		-1,				130000
 		SNAFU_M48,                         W,		1700000,		150000
-		GCGN_M110_Black,                   W,		1280000,		120000
-		GCGN_M110_Green,                   W,		1280000,		120000
-		GCGN_M110_Tan,                     W,		1280000,		120000
+		GCGN_M110_Black,                   W,		-1,				120000
+		GCGN_M110_Green,                   W,		-1,				120000
+		GCGN_M110_Tan,                     W,		-1,				120000
 		SNAFU_SR25_Gun,                    W,		1270000,		120000
 		SNAFU_Saint_Gun,                   W,		1100000,		92000
 		SNAFURSASS_Wood_GUN,               W,		1320000,		120000
 		SNAFURSASS_od_GUN,                 W,		1320000,		120000
 		SNAFURSASS_dkmc_GUN,               W,		1320000,		120000
 		GCGN_M700,                         W,		1600000,		130000
-		SNHK417_Gun,                       W,		1700000,		140000
-		SNSA58_Gun,                        W,		1750000,		140000
+		SNHK417_Gun,                       W,		-1,				140000
+		SNSA58_Gun,                        W,		-1,				140000
 		SNAFUM1A_Black,                    W,		1220000,		100000
 		SNAFUM1A_Green,                    W,		1220000,		100000
 		SNAFUM1A_Tan,                      W,		1220000,		100000
@@ -675,13 +675,13 @@
 		Snafu_pkp_Black_GUN,               W,		3100000,		250000
 		Snafu_pkp_NBlack_GUN,              W,		3100000,		250000
 		SNAFUM24_GUN,                      W,		2200000,		183000
-		SNAFU_AWM_Gun,                     W,		3700000,		320000
-		SNAFUM98B_Atac_GUN,                W,		3720000,		320000
-		SNAFUM98B_Digi_GUN,                W,		3720000,		320000
-		SNAFUM98B_Ger_GUN,                 W,		3720000,		320000
-		SNAFUM98B_Mc_GUN,                  W,		3720000,		320000
-		SNAFUM98B_Snow_GUN,                W,		3720000,		320000
-		SNAFUM98B_Wood_GUN,                W,		3720000,		320000
+		SNAFU_AWM_Gun,                     W,		-1,				320000
+		SNAFUM98B_Atac_GUN,                W,		-1,				320000
+		SNAFUM98B_Digi_GUN,                W,		-1,				320000
+		SNAFUM98B_Ger_GUN,                 W,		-1,				320000
+		SNAFUM98B_Mc_GUN,                  W,		-1,				320000
+		SNAFUM98B_Snow_GUN,                W,		-1,				320000
+		SNAFUM98B_Wood_GUN,                W,		-1,				320000
 		SNAFUT5000_Dkmcc_GUN,              W,		3500000,		250000
 		SNAFUT5000_Snow_GUN,               W,		3500000,		250000
 		SNAFUT5000_Wood_GUN,               W,		3500000,		250000
@@ -693,23 +693,23 @@
 		SNAFUGevar_Black,                  W,		2200000,		200000
 		SNAFUGevar_Green,                  W,		2200000,		200000
 		SNAFUGevar_Tan,                    W,		2200000,		200000
-		SNAFUKivaari_Black_GUN,            W,		3800000,		350000
-		SNAFUKivaari_Tan_GUN,              W,		3800000,		350000
-		SNAFUKivaari_Grey_GUN,             W,		3800000,		350000
-		SNAFUKivaari_Snow_GUN,             W,		3800000,		350000
+		SNAFUKivaari_Black_GUN,            W,		-1,				350000
+		SNAFUKivaari_Tan_GUN,              W,		-1,				350000
+		SNAFUKivaari_Grey_GUN,             W,		-1,				350000
+		SNAFUKivaari_Snow_GUN,             W,		-1,				350000
 		SNAFU_M300BK,	                   W,		4050000,		360000
 		SNAFU_M300TAN,	                   W,		4050000,		360000
 		SNAFU_M300Green,                   W,		4050000,		360000
-		GCGN_M200,                         W,		4050000,		360000
-		SNAFU_M200Green,                   W,		4050000,		360000
-		SNAFU_M200SNOW,	                   W,		4050000,		360000
-		GCGN_M200_Tan,                     W,		4050000,		360000
+		GCGN_M200,                         W,		-1,				360000
+		SNAFU_M200Green,                   W,		-1,				360000
+		SNAFU_M200SNOW,	                   W,		-1,				360000
+		GCGN_M200_Tan,                     W,		-1,				360000
 		SNAFUM96,                          W,		2000000,		200000
 		SNAFUGM6Lynx,                      W,		4200000,		370000
 		GCGN_M82_Barret,                   W,		4200000,		370000
 		SNAFUAX50_GUN,                     W,		4000000,		360000
 		SNAFU_AS50_GUN,                    W,		4800000,		410000
-		SNAFUASh12,                        W,		2000000,		200000
+		SNAFUASh12,                        W,		-1,				200000
 		SNAFUVSSK,		                   W,		2200000,		220000
 		SNAFUAlligator,                    W,		2100000,		220000
 	
@@ -775,61 +775,61 @@
 		Derringer_Black,W,	110000,	10000
 		Derringer_Grey,	W,	110000,	10000
 		Derringer_Pink,	W,	110000,	10000
-		MKII,			W,	185000,	38500
-		MakarovIJ70,	W,	155000,	25000
+		MKII,			W,	-1,		38500
+		MakarovIJ70,	W,	-1,		25000
 		P1,				W,	-1,		34000
-		CZ75,			W,	195000,	35000
-		Glock19,		W,	200000,	36000
-		FNX45,			W,	230000,	39200
-		Colt1911,		W,	210000,	36000
-		Engraved1911,	W,	-1,		38500
+		CZ75,			W,	-1,		35000
+		Glock19,		W,	-1,		36000
+		FNX45,			W,	-1,		39200
+		Colt1911,		W,	-1,		36000
+		Engraved1911,	W,	210000,	38500
 		Deagle,			W,	450000,	80000
 		Deagle_Gold,	W,	455000,	87000
 		Magnum,			W,	440000,	70000
 		SawedoffMagnum,	W,	440000,	60000
 		
 	<Category> Rifles
-		Izh18,			W,	480000,	50000
-		B95,			W,	620000,	95000
+		Izh18,			W,	-1,		50000
+		B95,			W,	-1,		95000
 		SawedoffB95,	W,	610000,	110000
 		Mosin9130,		W,	835000,	65000
-		CZ527,			W,	510000,	75000
-		CZ550,			W,	510000,	72000
-		SKS,			W,	370000,	85000
+		CZ527,			W,	-1,		75000
+		CZ550,			W,	-1,		72000
+		SKS,			W,	-1,		85000
 		Winchester70,	W,	840000,	140000
 		Repeater,		W,	280000, 140000
 	
 	<Category> Assault Rifles
-		AKS74U,			W,	300000,	135000
-		AK74,			W,	380000,	138000
+		AKS74U,			W,	-1,		135000
+		AK74,			W,	-1,		138000
 		AK101,			W,	420000,	148000
 		AKM,			W,	450000,	170000
 		M4A1,			W,	-1,		150000
 		M16A2,			W,	-1,		145000
-		AUG,			W,	510000,	152000
+		AUG,			W,	-1,		152000
 		AUGShort,		W,	-1,		150000
 		FAMAS,			W,	-1,		145000
 		SawedoffFAMAS,	W,	540000,	145000
 		FAL,			W,	-1,		200000
 		
 	<Category> Shotguns
-		Izh43Shotgun,			W,	105000,	52000
+		Izh43Shotgun,			W,	-1,		52000
 		SawedoffIzh43Shotgun,	W,	120000,	60000
 		Mp133Shotgun,			W,	-1,		68000
 		Saiga,					W,	-1,		100000
 		
 	<Category> Submachine Guns
-		CZ61,	W,	200000,	75000
+		CZ61,	W,	-1,		75000
 		MP5K,	W,	-1,		88000
 		PP19,	W,	220000,	87000
 		UMP45,	W,	-1,		90000
 		
 	<Category> Sniper Rifles
 		VSS,					W,	450000,	225000
-		Scout,					W,	180000,	90000
+		Scout,					W,	-1,		90000
 		Scout_Chernarus,		W,	180000,	90000
 		Scout_Livonia,			W,	180000,	90000
-		SVD,					W,	600000,	300000
+		SVD,					W,	-1,		300000
 	
 	<Category> Melee	
 		BrassKnuckles_Shiny,	W,	5000,	2500
@@ -880,22 +880,22 @@
 	<Category> Ammunition
 		AmmoBox_22_50Rnd,			*,	25000,		10000
 		AmmoBox_380_35rnd,			*,	44000,		18000
-		AmmoBox_9x19_25rnd,			*,	50000,		20000
-		AmmoBox_45ACP_25rnd,		*,	60000,		22000
+		AmmoBox_9x19_25rnd,			*,	-1,			20000
+		AmmoBox_45ACP_25rnd,		*,	-1,			22000
 		AmmoBox_357_20Rnd,			*,	80000,		32000
 		AmmoBox_00buck_10rnd,		*,	100000,		40000
 		AmmoBox_12gaSlug_10Rnd,		*,	85000,		33000
-		AmmoBox_556x45_20Rnd,		*,	200000,		75000
+		AmmoBox_556x45_20Rnd,		*,	-1,			75000
 		AmmoBox_556x45Tracer_20Rnd,	*,	200000,		75000
-		AmmoBox_545x39_20Rnd,		*,	180000,		72000
+		AmmoBox_545x39_20Rnd,		*,	-1,			72000
 		AmmoBox_545x39Tracer_20Rnd,	*,	180000,		72000
-		AmmoBox_762x39_20Rnd,		*,	240000,		74000
+		AmmoBox_762x39_20Rnd,		*,	-1,			74000
 		AmmoBox_762x39Tracer_20Rnd,	*,	240000,		74000
-		AmmoBox_9x39_20Rnd,			*,	280000,		78000
+		AmmoBox_9x39_20Rnd,			*,	-1,			78000
 		AmmoBox_9x39AP_20Rnd,		*,	300000,		84000
 		AmmoBox_308Win_20Rnd,		*,	350000,		90000
 		AmmoBox_308WinTracer_20Rnd,	*,	350000,		90000
-		AmmoBox_762x54_20Rnd,		*,	380000,		100000
+		AmmoBox_762x54_20Rnd,		*,	-1,			100000
 		AmmoBox_762x54Tracer_20Rnd,	*,	380000,		100000
 		
 		Ammo_22,				1,	-1,		200	
@@ -1288,14 +1288,14 @@
 		TF_RifleSling_OD,					*,	2000,	1200
 
 	<Category> Handguards
-		MP5_PlasticHndgrd,	*,	6000,	1800
+		MP5_PlasticHndgrd,	*,	-1,		1800
 		MP5_RailHndgrd,		*,	8000,	2400
-		AK74_Hndgrd,		*,	10000,	3000
+		AK74_Hndgrd,		*,	-1,		3000
 		AK_WoodHndgrd,		*,	10000,	3000
-		AK_RailHndgrd,		*,	20000,	6000
-		AK_PlasticHndgrd,	*,	15000,	4500
+		AK_RailHndgrd,		*,	-1,		6000
+		AK_PlasticHndgrd,	*,	-1,		4500
 		M4_PlasticHndgrd,	*,	10000,	3000
-		M4_RISHndgrd,		*,	12000,	3600
+		M4_RISHndgrd,		*,	-1,		3600
 		M4_MPHndgrd,		*,	13000,	3900
 
 	<Category> Buttstocks
@@ -1314,17 +1314,17 @@
 		M4_MPBttstck,		*,	15000,	4500
 	
 	<Category> Optics
-		M4_CarryHandleOptic,	*,	8000,	2400
+		M4_CarryHandleOptic,	*,	-1,		2400
 		PistolOptic,			*,	5000,	2000
 		BUISOptic,				*,	7500,	2200
 		ReflexOptic,			*,	11000,	5000
 		FNP45_MRDSOptic,		*,	10000,	3000
-		ACOGOptic,				*,	18000,	5400
+		ACOGOptic,				*,	-1,		5400
 		M68Optic,				*,	15000,	4500
 		M4_T3NRDSOptic,			*,	16000,	4800
-		KobraOptic,				*,	12000,	3600
+		KobraOptic,				*,	-1,		3600
 		KashtanOptic,			*,	14000,	4200
-		PUScopeOptic,			*,	16000,	4800
+		PUScopeOptic,			*,	-1,		4800
 		HuntingOptic,			*,	25000,	7500
 		PSO1Optic,				*,	20000,	6000
 		PSO11Optic,				*,	20000,	6000
@@ -1347,8 +1347,8 @@
 		SKS_Bayonet,	*,	9000,	2700
 		
 	<Category> Flashlights
-		Universallight,	*,	6000,	2000
-		TLRLight,		*,	5000,	1800
+		Universallight,	*,	8000,	2000
+		TLRLight,		*,	10000,	1800
 		
 	<Category> SNAFU Attachments
 		SNAFUUniversalLight,                    *,		50000,			15000
@@ -1495,16 +1495,16 @@
 		SNAFU_LStandardized_Suppressor_Green,           *,		100000,			10000
 		SNAFUAR15_SPR_SIL,                              *,		100000,			10000
 		SNAFUAR15_SPR_SQSIL,                            *,		100000,			10000
-		SNAFUKivaari_338_Supp,                          *,		100000,			10000
-		SNAFU_408_Suppressor_T,                         *,		100000,			10000
-		SNAFUGevar_Suppressor_Tan,                      *,		100000,			10000
-		SNAFUGevar_Suppressor_Green,                    *,		100000,			10000
+		SNAFUKivaari_338_Supp,                          *,		200000,			10000
+		SNAFU_408_Suppressor_T,                         *,		250000,			10000
+		SNAFUGevar_Suppressor_Tan,                      *,		150000,			10000
+		SNAFUGevar_Suppressor_Green,                    *,		150000,			10000
 		Snafu_ScarH_SIL_Tan,                            *,		100000,			10000
 		Snafu_ScarH_SIL_Black,                          *,		100000,			10000
 		SNAFU_SPMOD,                                    *,		100000,			10000
 		SNAFU_HeramuzzelF,                              *,		100000,			10000
 		SNAFU_MuzzelFF,                                 *,		100000,			10000
-		SNAFU_AK308Muzzel,                              *,		100000,			10000
+		SNAFU_AK308Muzzel,                              *,		150000,			10000
 		SNAFU_MK47Muzzel,                               *,		100000,			10000
 		SNAFU_AK19Muzzel,                               *,		80000,			10000
 		SNAFU_Agram_Suppressor_Black,                   *,		60000,			10000
