@@ -415,66 +415,66 @@
 		Msp_SnowballFridge,				*,		10000,		5000
 		
 	<Category> MSP Storages:
-		Msp_LargeAmmoBox,							*,		10000,		5000
-		Msp_GrenadeBox,								*,		10000,		5000
+		Msp_LargeAmmoBox,							*,		20000,		5000
+		Msp_GrenadeBox,								*,		20000,		5000
 		Msp_TackleBox, 								*,		10000,		5000
 		Msp_TackleBox_Black, 						*,		10000,		5000
 		Msp_CoolerBox,								*,		10000,		5000
 		Msp_CoolerBox_Black, 						*,		10000,		5000
 		Msp_Basket_Rectangular,						*,		10000,		5000
 		Msp_Basket_Wicker,							*,		10000,		5000
-		Msp_MedievalChest, 							*,		10000,		5000
-		Msp_TreasureChest,							*,		10000,		5000
+		Msp_MedievalChest, 							*,		20000,		5000
+		Msp_TreasureChest,							*,		90000,		5000
 		Msp_AmericanAppleCrate, 					*,		10000,		5000
 		Msp_AppleCrate, 							*,		10000,		5000
-		Msp_PlasticCrate, 							*,		10000,		5000
-		Msp_AmmoCrate, 								*,		10000,		5000
-		Msp_MilitaryCrate_Brown,					*,		10000,		5000
-		Msp_MilitaryCrate_Green,					*,		10000,		5000
-		Msp_MilitaryCrate_Grey,						*,		10000,		5000
-		Msp_MilitaryCrate_Olive,					*,		10000,		5000
-		Msp_MilitaryCrate_Tan,						*,		10000,		5000
-		Msp_StorageBox_Kit,							*,		10000,		5000
-		Msp_StorageBox,								*,		10000,		5000
-		Msp_MilitaryLocker_Kit,						*,		10000,		5000
-		Msp_MilitaryLocker,							*,		10000,		5000
-		Msp_Locker_Kit,								*,		10000,		5000
-		Msp_Locker,									*,		10000,		5000
-		Msp_SoloLocker_Kit,							*,		10000,		5000
-		Msp_SoloLocker,								*,		10000,		5000
-		Msp_SoloLocker_Black_Kit,					*,		10000,		5000
-		Msp_SoloLocker_Black,						*,		10000,		5000
-		Msp_SoloLocker_White_Kit,					*,		10000,		5000
-		Msp_SoloLocker_White,						*,		10000,		5000
-		Msp_SoloLocker_Green_Kit,					*,		10000,		5000
-		Msp_SoloLocker_Green,						*,		10000,		5000
-		Msp_SoloLocker_Red_Kit,						*,		10000,		5000
-		Msp_SoloLocker_Red,							*,		10000,		5000
-		Msp_SoloLocker_RedRusty_Kit,				*,		10000,		5000
-		Msp_SoloLocker_RedRusty,					*,		10000,		5000
-		Msp_SoloLocker_Yellow_Kit,					*,		10000,		5000
-		Msp_SoloLocker_Yellow,						*,		10000,		5000
-		Msp_SoloLocker_YellowRusty_Kit,				*,		10000,		5000
-		Msp_SoloLocker_YellowRusty,					*,		10000,		5000
-		Msp_OldLocker_Kit,							*,		10000,		5000
-		Msp_OldLocker,								*,		10000,		5000
-		Msp_OldLocker_Green_Kit,					*,		10000,		5000
-		Msp_OldLocker_Green,						*,		10000,		5000
-		Msp_FourDoor_MilitaryLocker_Kit,			*,		10000,		5000
-		Msp_FourDoor_MilitaryLocker,				*,		10000,		5000
-		Msp_FourDoor_MilitaryLocker_Green_Kit,		*,		10000,		5000
-		Msp_FourDoor_MilitaryLocker_Green,			*,		10000,		5000
-		Msp_RifleSafe_Kit,							*,		10000,		5000
-		Msp_RifleSafe,								*,		10000,		5000
-		Msp_RifleSafe_Grey_Kit,						*,		10000,		5000
-		Msp_RifleSafe_Grey,							*,		10000,		5000
-		Msp_RifleSafe_Green_Kit,					*,		10000,		5000
-		Msp_RifleSafe_Green,						*,		10000,		5000
-		Msp_RifleSafe_Purple_Kit,					*,		10000,		5000
-		Msp_RifleSafe_Purple,						*,		10000,		5000
-		Msp_RifleSafe_Tan_Kit,						*,		10000,		5000
-		Msp_RifleSafe_Tan,							*,		10000,		5000
-		Msp_Safe, 									*,		10000,		5000
+		Msp_PlasticCrate, 							*,		30000,		5000
+		Msp_AmmoCrate, 								*,		20000,		5000
+		Msp_MilitaryCrate_Brown,					*,		500000,		5000
+		Msp_MilitaryCrate_Green,					*,		500000,		5000
+		Msp_MilitaryCrate_Grey,						*,		500000,		5000
+		Msp_MilitaryCrate_Olive,					*,		500000,		5000
+		Msp_MilitaryCrate_Tan,						*,		500000,		5000
+		Msp_StorageBox_Kit,							*,		100000,		5000
+		Msp_StorageBox,								*,		-1,			5000
+		Msp_MilitaryLocker_Kit,						*,		400000,		5000
+		Msp_MilitaryLocker,							*,		-1,			5000
+		Msp_Locker_Kit,								*,		300000,		5000
+		Msp_Locker,									*,		-1,			5000
+		Msp_SoloLocker_Kit,							*,		100000,		5000
+		Msp_SoloLocker,								*,		-1,			5000
+		Msp_SoloLocker_Black_Kit,					*,		100000,		5000
+		Msp_SoloLocker_Black,						*,		-1,			5000
+		Msp_SoloLocker_White_Kit,					*,		100000,		5000
+		Msp_SoloLocker_White,						*,		-1,			5000
+		Msp_SoloLocker_Green_Kit,					*,		100000,		5000
+		Msp_SoloLocker_Green,						*,		-1,			5000
+		Msp_SoloLocker_Red_Kit,						*,		100000,		5000
+		Msp_SoloLocker_Red,							*,		-1,			5000
+		Msp_SoloLocker_RedRusty_Kit,				*,		90000,		5000
+		Msp_SoloLocker_RedRusty,					*,		-1,			5000
+		Msp_SoloLocker_Yellow_Kit,					*,		100000,		5000
+		Msp_SoloLocker_Yellow,						*,		-1,			5000
+		Msp_SoloLocker_YellowRusty_Kit,				*,		100000,		5000
+		Msp_SoloLocker_YellowRusty,					*,		-1,			5000
+		Msp_OldLocker_Kit,							*,		200000,		5000
+		Msp_OldLocker,								*,		-1,			5000
+		Msp_OldLocker_Green_Kit,					*,		200000,		5000
+		Msp_OldLocker_Green,						*,		-1,			5000
+		Msp_FourDoor_MilitaryLocker_Kit,			*,		500000,		5000
+		Msp_FourDoor_MilitaryLocker,				*,		-1,			5000
+		Msp_FourDoor_MilitaryLocker_Green_Kit,		*,		500000,		5000
+		Msp_FourDoor_MilitaryLocker_Green,			*,		-1,			5000
+		Msp_RifleSafe_Kit,							*,		400000,		5000
+		Msp_RifleSafe,								*,		-1,			5000
+		Msp_RifleSafe_Grey_Kit,						*,		400000,		5000
+		Msp_RifleSafe_Grey,							*,		-1,			5000
+		Msp_RifleSafe_Green_Kit,					*,		400000,		5000
+		Msp_RifleSafe_Green,						*,		-1,			5000
+		Msp_RifleSafe_Purple_Kit,					*,		400000,		5000
+		Msp_RifleSafe_Purple,						*,		-1,			5000
+		Msp_RifleSafe_Tan_Kit,						*,		400000,		5000
+		Msp_RifleSafe_Tan,							*,		-1,			5000
+		Msp_Safe, 									*,		250000,		5000
 		Msp_ToolsBench_Blue_Kit,					*,		10000,		5000
 		Msp_ToolsBench_Blue,						*,		10000,		5000
 		Msp_ToolsBench_Grey_Kit,					*,		10000,		5000
@@ -482,30 +482,30 @@
 		Msp_ToolsBench_Red_Kit,						*,		10000,		5000
 		Msp_ToolsBench_Red,							*,		10000,		5000
 		Msp_Bookcase_Kit,							*,		10000,		5000
-		Msp_Bookcase,								*,		10000,		5000
+		Msp_Bookcase,								*,		-1,			5000
 		Msp_Mailbox, 								*,		10000,		5000
-		Msp_TrashCan,								*,		10000,		5000
-		Msp_Static_TrashCan, 						*,		10000,		5000
-		Msp_MedicalBox_Kit,							*,		10000,		5000
-		Msp_MedicalBox,								*,		10000,		5000
-		Msp_Wardrobe_Brown_Kit,						*,		10000,		5000
-		Msp_Wardrobe_Brown, 						*,		10000,		5000
-		Msp_Wardrobe_Green_Kit,						*,		10000,		5000
-		Msp_Wardrobe_Green, 						*,		10000,		5000
-		Msp_Wardrobe_White_Kit,						*,		10000,		5000
-		Msp_Wardrobe_White, 						*,		10000,		5000
-		Msp_GunCabinet_Kit,							*,		10000,		5000
-		Msp_GunCabinet,								*,		10000,		5000
-		Msp_GunRack_Kit,							*,		10000,		5000
-		Msp_GunRack,								*,		10000,		5000
-		Msp_DoubleGunRack_Kit,						*,		10000,		5000
-		Msp_DoubleGunRack,							*,		10000,		5000
-		Msp_FishingRodsRack_Kit,					*,		10000,		5000
-		Msp_FishingRodsRack,						*,		10000,		5000
-		Msp_WoodenGunRack_Kit,						*,		10000,		5000
-		Msp_WoodenGunRack,							*,		10000,		5000
-		Msp_Gunwall_Kit,							*,		10000,		5000
-		Msp_Gunwall,								*,		10000,		5000
+		Msp_TrashCan,								*,		5000,		5000
+		Msp_Static_TrashCan, 						*,		-1,			5000
+		Msp_MedicalBox_Kit,							*,		150000,		5000
+		Msp_MedicalBox,								*,		-1,			5000
+		Msp_Wardrobe_Brown_Kit,						*,		100000,		5000
+		Msp_Wardrobe_Brown, 						*,		-1,			5000
+		Msp_Wardrobe_Green_Kit,						*,		100000,		5000
+		Msp_Wardrobe_Green, 						*,		-1,			5000
+		Msp_Wardrobe_White_Kit,						*,		100000,		5000
+		Msp_Wardrobe_White, 						*,		-1,			5000
+		Msp_GunCabinet_Kit,							*,		100000,		5000
+		Msp_GunCabinet,								*,		-1,			5000
+		Msp_GunRack_Kit,							*,		120000,		5000
+		Msp_GunRack,								*,		-1,			5000
+		Msp_DoubleGunRack_Kit,						*,		240000,		5000
+		Msp_DoubleGunRack,							*,		-1,			5000
+		Msp_FishingRodsRack_Kit,					*,		20000,		5000
+		Msp_FishingRodsRack,						*,		-1,			5000
+		Msp_WoodenGunRack_Kit,						*,		100000,		5000
+		Msp_WoodenGunRack,							*,		-1,			5000
+		Msp_Gunwall_Kit,							*,		500000,		5000
+		Msp_Gunwall,								*,		-1,			5000
 		
 	<Category> MSP Seasonal:
 		Msp_SantaPants,							*,		10000,		5000
