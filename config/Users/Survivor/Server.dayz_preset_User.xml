@@ -432,6 +432,14 @@
         <btn name="kLControl" />
         <btn name="x1TriggerRight" />
     </input>
+    <input name="UACarHorn">
+        <btn name="kH" />
+        <btn name="x1ThumbLeft" />
+    </input>
+    <input name="UACarHandbrake">
+        <btn name="kSpace" />
+        <btn name="x1ShoulderRight" />
+    </input>
     <input name="UAUILeft">
         <btn name="kLeft" />
         <btn name="x1PadLeft" />
@@ -467,6 +475,12 @@
             <event name="release" />
         </btn>
     </input>
+    <input name="UAMenuSelect">
+        <btn name="mBLeft" />
+    </input>
+    <input name="UAMenuBack">
+        <btn name="mBRight" />
+    </input>
     <input name="UAUICtrlX">
         <btn name="x1X" />
     </input>
@@ -499,9 +513,11 @@
         <btn name="x1PadRight" />
     </input>
     <input name="UAUIQuickbarRadialOpen">
+        <btn name="kComma" />
         <btn name="x1ShoulderRight" />
     </input>
     <input name="UAUIQuickbarRadialInventoryOpen">
+        <btn name="kComma" />
         <btn name="x1ThumbLeft" />
     </input>
     <input name="UAUIRadialMenuStickHelper">
@@ -593,6 +609,18 @@
         <btn name="x1X">
             <event name="click" />
         </btn>
+    </input>
+    <input name="UAMapToggle">
+        <btn name="kM" />
+    </input>
+    <input name="UAMapMovementHorizontal">
+        <btn name="x1LeftThumbHorizontal" />
+    </input>
+    <input name="UAMapMovementVertical">
+        <btn name="x1LeftThumbVertical" />
+    </input>
+    <input name="UAMapZoom">
+        <btn name="x1RightThumbVertical" />
     </input>
     <input name="UASwitchPreset">
         <btn name="x1Y" />
@@ -896,11 +924,8 @@
     <input name="UASelectObject">
         <btn name="mBLeft" />
     </input>
-    <input name="UARotateInc">
-        <btn name="mBLeft" />
-    </input>
-    <input name="UARotateDec">
-        <btn name="mBRight" />
+    <input name="UADeSelectObject">
+        <btn name="kLControl" />
     </input>
     <input name="UAExecuteCommand">
         <btn name="kReturn" />
@@ -953,6 +978,12 @@
     </input>
     <input name="UACamFOV">
         <btn name="kLControl" />
+    </input>
+    <input name="UARotateLeft">
+        <btn name="mLeft" />
+    </input>
+    <input name="UARotateRight">
+        <btn name="mRight" />
     </input>
     <input name="UACamShiftLeft">
         <btn name="mLeft" />
@@ -1065,6 +1096,13 @@
     <input name="UAExpansionPlaneEngineDown">
         <btn name="kLControl" />
     </input>
+    <input name="UAExpansionPlaneBrake" />
+    <input name="UAExpansionPlaneBrakeUp">
+        <btn name="kH" />
+    </input>
+    <input name="UAExpansionPlaneBrakeDown">
+        <btn name="kN" />
+    </input>
     <input name="UAExpansionPlaneElevatorUp">
         <btn name="kS" />
     </input>
@@ -1084,10 +1122,13 @@
         <btn name="kE" />
     </input>
     <input name="UAExpansionPlaneFlapsUp">
-        <btn name="kPrior" />
+        <btn name="kG" />
     </input>
     <input name="UAExpansionPlaneFlapsDown">
-        <btn name="kNext" />
+        <btn name="kB" />
+    </input>
+    <input name="UAExpansionPlaneWheelBrake">
+        <btn name="kJ" />
     </input>
     <input name="UAExpansionBoatMoveForward">
         <btn name="kW" />

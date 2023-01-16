@@ -1,5 +1,5 @@
 {
-    "m_Version": 4,
+    "m_Version": 5,
     "EnableMap": 1,
     "UseMapOnMapItem": 1,
     "ShowPlayerPosition": 1,
@@ -17,21 +17,22 @@
     "ShowNameOnServerMarkers": 1,
     "ShowDistanceOnServerMarkers": 1,
     "ServerMarkers": [
-		{
-			"m_UID": "NWAircraftTrader",
-			"m_Visibility": 6,
-			"m_Is3D": 1,
-			"m_Text": "Aircraft Trader",
-			"m_IconName": "Helicopter",
-			"m_Color": -13710223,
-			"m_Position": [
-				4080.0,    
-				339.0,    
-				10801.0
-			],
-			"m_Locked": 0
-		},
-		{
+        {
+            "m_UID": "NWAircraftTrader",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Aircraft Trader",
+            "m_IconName": "Helicopter",
+            "m_Color": -13710223,
+            "m_Position": [
+                4080.0,
+                339.0,
+                10801.0
+            ],
+            "m_Locked": 0,
+            "m_Persist": 0
+        },
+        {
             "m_UID": "ServerMarker_Trader_Green_Montain",
             "m_Visibility": 6,
             "m_Is3D": 1,
@@ -43,9 +44,10 @@
                 405.0,
                 5988.0
             ],
-            "m_Locked": 0
+            "m_Locked": 0,
+            "m_Persist": 0
         },
-		{
+        {
             "m_UID": "ServerMarker_Trader_Kumyrna",
             "m_Visibility": 6,
             "m_Is3D": 1,
@@ -57,13 +59,15 @@
                 300.0,
                 5995.0
             ],
-            "m_Locked": 0
+            "m_Locked": 0,
+            "m_Persist": 0
         }
-	],
+    ],
     "EnableHUDCompass": 1,
     "NeedCompassItemForHUDCompass": 1,
     "NeedGPSItemForHUDCompass": 1,
     "CompassColor": -1,
     "CreateDeathMarker": 1,
-    "PlayerLocationNotifier": 1
+    "PlayerLocationNotifier": 1,
+    "CompassBadgesColor": -1946157056
 }
