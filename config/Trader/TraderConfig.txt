@@ -789,6 +789,7 @@
 		SawedoffMagnum,	W,	440000,	60000
 		
 	<Category> Rifles
+		Ruger1022,		W,	200000,	55000
 		Izh18,			W,	-1,		50000
 		B95,			W,	-1,		95000
 		SawedoffB95,	W,	610000,	110000
