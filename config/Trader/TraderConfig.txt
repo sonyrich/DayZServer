@@ -878,25 +878,25 @@
 		
 <Trader> Weapon Supplies
 	<Category> Ammunition
-		AmmoBox_22_50Rnd,			*,	25000,		10000
-		AmmoBox_380_35rnd,			*,	44000,		18000
-		AmmoBox_9x19_25rnd,			*,	-1,			20000
-		AmmoBox_45ACP_25rnd,		*,	-1,			22000
-		AmmoBox_357_20Rnd,			*,	80000,		32000
-		AmmoBox_00buck_10rnd,		*,	100000,		40000
-		AmmoBox_12gaSlug_10Rnd,		*,	85000,		33000
-		AmmoBox_556x45_20Rnd,		*,	-1,			75000
-		AmmoBox_556x45Tracer_20Rnd,	*,	200000,		75000
-		AmmoBox_545x39_20Rnd,		*,	-1,			72000
-		AmmoBox_545x39Tracer_20Rnd,	*,	180000,		72000
-		AmmoBox_762x39_20Rnd,		*,	-1,			74000
-		AmmoBox_762x39Tracer_20Rnd,	*,	240000,		74000
-		AmmoBox_9x39_20Rnd,			*,	-1,			78000
-		AmmoBox_9x39AP_20Rnd,		*,	300000,		84000
-		AmmoBox_308Win_20Rnd,		*,	350000,		90000
-		AmmoBox_308WinTracer_20Rnd,	*,	350000,		90000
-		AmmoBox_762x54_20Rnd,		*,	-1,			100000
-		AmmoBox_762x54Tracer_20Rnd,	*,	380000,		100000
+		AmmoBox_22_50Rnd,				*,    25000,	10000
+        AmmoBox_380_35rnd,				*,    44000,	18000
+        AmmoBox_9x19_25rnd,				*,    50000,	20000
+        AmmoBox_45ACP_25rnd,			*,    60000,	22000
+        AmmoBox_357_20Rnd,				*,    80000,	32000
+        AmmoBox_00buck_10rnd,			*,    100000,	40000
+        AmmoBox_12gaSlug_10Rnd,			*,    85000,	33000
+        AmmoBox_556x45_20Rnd,			*,    200000,	75000
+        AmmoBox_556x45Tracer_20Rnd,		*,    200000,	75000
+        AmmoBox_545x39_20Rnd,			*,    180000,	72000
+        AmmoBox_545x39Tracer_20Rnd,		*,    180000,	72000
+        AmmoBox_762x39_20Rnd,			*,    240000,	74000
+        AmmoBox_762x39Tracer_20Rnd,		*,    240000,	74000
+        AmmoBox_9x39_20Rnd,				*,    280000,	78000
+        AmmoBox_9x39AP_20Rnd,			*,    300000,	84000
+        AmmoBox_308Win_20Rnd,			*,    350000,	90000
+        AmmoBox_308WinTracer_20Rnd,		*,    350000,	90000
+        AmmoBox_762x54_20Rnd,			*,    380000,	100000
+        AmmoBox_762x54Tracer_20Rnd,		*,    380000,	100000
 		
 		Ammo_22,				1,	-1,		200	
 		Ammo_380,				1,	-1,		500
