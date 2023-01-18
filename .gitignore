@@ -36,12 +36,14 @@
 #server files
 addons/
 battleye/
+battleye_og/
 bliss/
 docs/
 dta/
 keys/
 ban.txt
 DayZServer_x64.exe
+DayZServer_x64_noBE.exe
 dayz.gproj
 dayzsetting.xml
 whitelist.txt
