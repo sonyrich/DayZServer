@@ -674,18 +674,18 @@
 		GCGN_M700,                         W,		1600000,		130000
 		SNHK417_Gun,                       W,		-1,				140000
 		SNSA58_Gun,                        W,		-1,				140000
-		SNAFUM1A_Black,                    W,		-1,		100000
-		SNAFUM1A_Green,                    W,		-1,		100000
-		SNAFUM1A_Tan,                      W,		-1,		100000
+		SNAFUM1A_Black,                    W,		-1,				100000
+		SNAFUM1A_Green,                    W,		-1,				100000
+		SNAFUM1A_Tan,                      W,		-1,				100000
 		SNAFU_AK308,                       W,		1820000,		150000
 		SNAFU_Saint_Gun,                   W,		1100000,		100000
-		Snafu_ScarH_Black_GUN,             W,		-1,		150000
-		Snafu_ScarH_DKMC_GUN,              W,		-1,		150000
-		Snafu_ScarH_OD_GUN,                W,		-1,		150000
-		Snafu_ScarH_Snow_GUN,              W,		-1,		150000
-		Snafu_ScarH_Tan_GUN,               W,		-1,		150000
-		Snafu_pkp_Black_GUN,               W,		-1,		250000
-		Snafu_pkp_NBlack_GUN,              W,		-1,		250000
+		Snafu_ScarH_Black_GUN,             W,		-1,				150000
+		Snafu_ScarH_DKMC_GUN,              W,		-1,				150000
+		Snafu_ScarH_OD_GUN,                W,		-1,				150000
+		Snafu_ScarH_Snow_GUN,              W,		-1,				150000
+		Snafu_ScarH_Tan_GUN,               W,		-1,				150000
+		Snafu_pkp_Black_GUN,               W,		-1,				250000
+		Snafu_pkp_NBlack_GUN,              W,		-1,				250000
 		SNAFUM24_GUN,                      W,		2200000,		183000
 		SNAFU_AWM_Gun,                     W,		-1,				320000
 		SNAFUM98B_Atac_GUN,                W,		-1,				320000
