@@ -162,7 +162,7 @@
 	Truck_01_WheelDouble
 
 <VehicleParts>Truck_01_Covered_Blue
-     TruckBattery
+	TruckBattery
 	Truck_01_Wheel
 	Truck_01_WheelDouble
 	Truck_01_Hood_Blue
@@ -178,7 +178,7 @@
 	Truck_01_WheelDouble
 
 <VehicleParts>Truck_01_Covered_Orange
-     TruckBattery
+	TruckBattery
 	Truck_01_Wheel
 	Truck_01_WheelDouble
 	Truck_01_Hood_Orange
@@ -192,6 +192,23 @@
 	Truck_01_WheelDouble
 	Truck_01_WheelDouble
 	Truck_01_WheelDouble
+	
+<VehicleParts>Offroad_02
+	Offroad_02_Door_1_1
+	Offroad_02_Door_1_2
+	Offroad_02_Door_2_1
+	Offroad_02_Door_2_2
+	Offroad_02_Hood
+	Offroad_02_Trunk
+	Offroad_02_Wheel
+	Offroad_02_Wheel
+	Offroad_02_Wheel
+	Offroad_02_Wheel
+	Offroad_02_Wheel
+	CarBattery
+	GlowPlug
+	HeadlightH7
+	HeadlightH7
 	
 <VehicleParts> ExpansionUh1h
 	ExpansionHelicopterBattery
