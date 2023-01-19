@@ -722,8 +722,8 @@
 		SNAFUAX50_GUN,                     W,		4000000,		360000
 		SNAFU_AS50_GUN,                    W,		4800000,		410000
 		SNAFUASh12,                        W,		-1,				200000
-		SNAFUVSSK,		                   W,		2200000,		220000
-		SNAFUAlligator,                    W,		2100000,		220000
+		SNAFUVSSK,		                   W,		2200000,		300000
+		SNAFUAlligator,                    W,		2100000,		450000
 	
 	<Category> TF | WEAPONS
 		TF_ADAR2_15,			W,	1100000,	306000
