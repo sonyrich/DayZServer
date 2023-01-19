@@ -2395,13 +2395,13 @@
 		Hatchback_02_Trunk_BlueRust,		*,		380,		130
 		Hatchback_02_Trunk_RedRust,			*,		380,		130
 		Hatchback_02_Wheel,					*,		500,		100
-		Offroad_02_Door_1_1					*,		500,		180
-		Offroad_02_Door_1_2					*,		500,		180
-		Offroad_02_Door_2_1					*,		500,		180
-		Offroad_02_Door_2_2					*,		500,		180
-		Offroad_02_Hood						*,		500,		180
-		Offroad_02_Trunk					*,		500,		180
-		Offroad_02_Wheel					*,		500,		180
+		Offroad_02_Door_1_1,				*,		500,		180
+		Offroad_02_Door_1_2,				*,		500,		180
+		Offroad_02_Door_2_1,				*,		500,		180
+		Offroad_02_Door_2_2,				*,		500,		180
+		Offroad_02_Hood,					*,		500,		180
+		Offroad_02_Trunk,					*,		500,		180
+		Offroad_02_Wheel,					*,		500,		180
 		Sedan_02_Door_1_1,					*,		450,		160
 		Sedan_02_Door_1_1_Grey,				*,		450,		160
 		Sedan_02_Door_1_1_GreyRust,			*,		450,		160
