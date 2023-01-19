@@ -117,8 +117,8 @@
 		GasMask_Filter,			*,	20000,		8000
 		Heatpack,				*,	3000,		600
 		Rag,					2,	400,		100
-		SalineBag,				*,	25000,		9000
-		StartKitIV,				*,	5000,		1000
+		SalineBag,				*,	25000,		11000
+		StartKitIV,				*,	5000,		3000
 		Thermometer,			*,	500,		200
 		
 	<Category> Medications
