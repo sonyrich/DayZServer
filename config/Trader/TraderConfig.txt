@@ -873,6 +873,12 @@
 	//<Category> Light Machine Guns
 		
 	<Category> Grenades
+		Ammo_40mm_Explosive			1,	30000,	15000
+		Ammo_40mm_ChemGas			1,	30000,	15000
+		Ammo_40mm_Smoke_Red			1,	30000,	15000
+		Ammo_40mm_Smoke_Green		1,	30000,	15000
+		Ammo_40mm_Smoke_White		1,	30000,	15000
+		Ammo_40mm_Smoke_Black		1,	30000,	15000
 		FlashGrenade,				1,	35000,	17500
 		M18SmokeGrenade_Green,		1,	30000,	15000
 		M18SmokeGrenade_Purple,		1,	30000,	15000
