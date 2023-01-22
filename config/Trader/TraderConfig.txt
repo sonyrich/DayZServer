@@ -37,17 +37,16 @@
 		Bitterlings,		S,	-1,		6500
 		BoarSteakMeat,		S,	-1,		18000
 		Carp,				S,	-1,		9500
-		ChickenBreastMeat,	S,	20000,	6000
-		CowSteakMeat,		S,	-1,		8000
+		ChickenBreastMeat,	S,	40000,	6000
+		CowSteakMeat,		S,	75000,	8000
 		DeerSteakMeat,		S,	-1,		12000
-		GoatSteakMeat,		S,	65000,	12000
+		GoatSteakMeat,		S,	85000,	12000
 		Mackerel,			S,	-1,		11000
-		PigSteakMeat,		S,	38000,	10500
+		PigSteakMeat,		S,	68000,	10500
 		RabbitLegMeat,		S,	-1,		15000
 		Sardines,			S,	-1,		8000
 		SheepSteakMeat,		S,	-1,		11000
 		WolfSteakMeat,		S,	-1,		7500
-		BearPelt,		S,	140000,	60000
 		Bone,			*,	-1,		1200
 		CowPelt,		S,	68000,	20000
 		DeerPelt,		S,	60000,	14000
@@ -60,7 +59,8 @@
 		SmallGuts,		S,	-1,		1500
 		WildboarPelt,	S,	72000,	16000
 		WolfPelt,		S,	40000,	9000
-	
+		BearPelt,		S,	140000,	60000
+
 	<Category> Canned Food N Drinks
 		BakedBeansCan,		*,	50000,	6000
 		BoxCerealCrunchin,	*,	38000,	7000
