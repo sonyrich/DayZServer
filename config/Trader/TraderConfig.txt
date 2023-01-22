@@ -837,46 +837,46 @@
 		StunBaton,				W,	10000,	5000
 
 	<Category> Msp Melee:
-		Msp_BeanBasher
-		Msp_PipeAxe
-		Msp_PlainBat
-		Msp_PlainBat_Blue
-		Msp_PlainBat_Black
-		Msp_GoodNightBat
-		Msp_VorpalKnife
-		Msp_BlunderBat
-		Msp_BaseballBat
-		Msp_BaseballBat_SawBarbedWire
-		Msp_BaseballBat_Chain
-		Msp_BaseballBat_Nailed
-		Msp_BaseballBat_BarbedWire
-		Msp_Sawblade
+		Msp_BeanBasher,					W,	50000,	5000
+		Msp_PipeAxe,					W,	80000,	8000
+		Msp_PlainBat,					W,	40000,	4000
+		Msp_PlainBat_Blue,				W,	40000,	4000
+		Msp_PlainBat_Black,				W,	40000,	4000
+		Msp_GoodNightBat,				W,	40000,	4000
+		Msp_VorpalKnife,				W,	50000,	5000
+		Msp_BlunderBat,					W,	40000,	4000
+		Msp_BaseballBat,				W,	40000,	4000
+		Msp_BaseballBat_SawBarbedWire,	W,	70000,	7000
+		Msp_BaseballBat_Chain,			W,	70000,	7000
+		Msp_BaseballBat_Nailed,			W,	80000,	8000
+		Msp_BaseballBat_BarbedWire,		W,	90000,	9000
+		Msp_Sawblade,					W,	80000,	8000
 		
 	//<Category> Light Machine Guns
 		
 	<Category> Grenades
-		Ammo_40mm_Explosive			1,	30000,	15000
-		Ammo_40mm_ChemGas			1,	30000,	15000
-		Ammo_40mm_Smoke_Red			1,	30000,	15000
-		Ammo_40mm_Smoke_Green		1,	30000,	15000
-		Ammo_40mm_Smoke_White		1,	30000,	15000
-		Ammo_40mm_Smoke_Black		1,	30000,	15000
-		FlashGrenade,				1,	35000,	17500
-		M18SmokeGrenade_Green,		1,	30000,	15000
-		M18SmokeGrenade_Purple,		1,	30000,	15000
-		M18SmokeGrenade_Red,		1,	30000,	15000
-		M18SmokeGrenade_White,		1,	30000,	15000
-		M18SmokeGrenade_Yellow,		1,	30000,	15000
-		M67Grenade,					1,	80000,	40000
-		RDG2SmokeGrenade_Black,		1,	30000,	15000
-		RDG2SmokeGrenade_White,		1,	30000,	15000
-		RGD5Grenade,				1,	60000,	30000
+		Ammo_40mm_Explosive			1,	60000,	15000
+		Ammo_40mm_ChemGas			1,	60000,	15000
+		Ammo_40mm_Smoke_Red			1,	20000,	15000
+		Ammo_40mm_Smoke_Green		1,	20000,	15000
+		Ammo_40mm_Smoke_White		1,	20000,	15000
+		Ammo_40mm_Smoke_Black		1,	20000,	15000
+		FlashGrenade,				1,	65000,	17500
+		M18SmokeGrenade_Green,		1,	25000,	15000
+		M18SmokeGrenade_Purple,		1,	25000,	15000
+		M18SmokeGrenade_Red,		1,	25000,	15000
+		M18SmokeGrenade_White,		1,	25000,	15000
+		M18SmokeGrenade_Yellow,		1,	25000,	15000
+		M67Grenade,					1,	82000,	40000
+		RDG2SmokeGrenade_Black,		1,	20000,	15000
+		RDG2SmokeGrenade_White,		1,	20000,	15000
+		RGD5Grenade,				1,	80000,	30000
 		
 	<Category> TF GRENADES
 		TF_ChemicalGrenade,		*,	250000,	95000
-		TF_EMPGrenade,			*,	55000,	20000
+		TF_EMPGrenade,			*,	65000,	20000
 		TF_PhosphorusGrenade,	*,	72000,	38000
-		TF_TeargasGrenade,		*,	90000,	42000
+		TF_TeargasGrenade,		*,	80000,	42000
 		
 <Trader> Weapon Supplies
 	<Category> Ammunition
@@ -891,14 +891,14 @@
         AmmoBox_556x45Tracer_20Rnd,		*,    200000,	75000
         AmmoBox_545x39_20Rnd,			*,    180000,	72000
         AmmoBox_545x39Tracer_20Rnd,		*,    180000,	72000
-        AmmoBox_762x39_20Rnd,			*,    240000,	74000
-        AmmoBox_762x39Tracer_20Rnd,		*,    240000,	74000
-        AmmoBox_9x39_20Rnd,				*,    280000,	78000
-        AmmoBox_9x39AP_20Rnd,			*,    300000,	84000
-        AmmoBox_308Win_20Rnd,			*,    350000,	90000
-        AmmoBox_308WinTracer_20Rnd,		*,    350000,	90000
-        AmmoBox_762x54_20Rnd,			*,    380000,	100000
-        AmmoBox_762x54Tracer_20Rnd,		*,    380000,	100000
+        AmmoBox_762x39_20Rnd,			*,    225000,	74000
+        AmmoBox_762x39Tracer_20Rnd,		*,    225000,	74000
+        AmmoBox_9x39_20Rnd,				*,    250000,	78000
+        AmmoBox_9x39AP_20Rnd,			*,    270000,	84000
+        AmmoBox_308Win_20Rnd,			*,    320000,	90000
+        AmmoBox_308WinTracer_20Rnd,		*,    320000,	90000
+        AmmoBox_762x54_20Rnd,			*,    340000,	100000
+        AmmoBox_762x54Tracer_20Rnd,		*,    340000,	100000
 		
 		Ammo_22,					1,	-1,		200	
 		Ammo_380,					1,	-1,		500
@@ -925,39 +925,39 @@
 		Ammo_FlareRed,				1,	5000,	2000
 		
 	<Category> TF AMMO
-		TF_Ammo_20mm,				10,	1000000,	290000
-		TF_Ammo_20mm_HE,			10,	1100000,	300000
-		TF_Ammo_338LM,				10,	700000,		200000
-		TF_Ammo_40mm_HEDP,			1,	500000,		180000
-		TF_Ammo_57,					20,	15000,		44000
+		TF_Ammo_20mm,				10,	950000,		290000
+		TF_Ammo_20mm_HE,			10,	1000000,	300000
+		TF_Ammo_338LM,				10,	375000,		200000
+		TF_Ammo_40mm_HEDP,			1,	100000,		180000
+		TF_Ammo_57,					20,	90000,		44000
 		
 	<Category> SNAFU Ammo
-		GCGN_Ammo_3006,						*,		380000,		120000
-		GCGN_Ammo_408Chey,					10,		800000,		220000
-		GCGN_Ammo_50Cal,					10,		900000,		250000
-		GCGN_Ammo_762x51,					*,		350000,		110000
+		GCGN_Ammo_3006,						*,		335000,		120000
+		GCGN_Ammo_408Chey,					10,		520000,		220000
+		GCGN_Ammo_50Cal,					10,		700000,		250000
+		GCGN_Ammo_762x51,					*,		320000,		110000
 		SNAFU_Ammo_127x55mm,				*,		480000,		160000
-		SNAFU_Ammo_127x55mmAP,				*,		500000,		180000
-		SNAFU_Ammo_145Cal,					10,		1000000,	290000
-		SNAFU_Ammo_300ACC,					*,		240000,		93000
-		SNAFU_Ammo_338,						10,		700000,		200000
-		SNAFU_Ammo_44,						20,		160000,		60000
-		SNAFU_Ammo_45_70mm,					20,		300000,		70000
-		SNAFU_Ammo_46x30,					*,		120000,		40000
-		SNAFU_Ammo_500_SW,					20,		220000,		64000
-		SNAFU_Ammo_5_7x28mm,				*,		140000,		44000
-		SNAFU_Ammo_762x25,					*,		100000,		35000
-		SNAFU_MD_Ammo_556x45mm_M855A1,		*,		200000,		90000
+		SNAFU_Ammo_127x55mmAP,				*,		490000,		180000
+		SNAFU_Ammo_145Cal,					10,		850000,		290000
+		SNAFU_Ammo_300ACC,					*,		210000,		93000
+		SNAFU_Ammo_338,						10,		375000,		200000
+		SNAFU_Ammo_44,						20,		100000,		60000
+		SNAFU_Ammo_45_70mm,					20,		200000,		70000
+		SNAFU_Ammo_46x30,					*,		85000,		40000
+		SNAFU_Ammo_500_SW,					20,		150000,		64000
+		SNAFU_Ammo_5_7x28mm,				*,		90000,		44000
+		SNAFU_Ammo_762x25,					*,		70000,		35000
+		SNAFU_MD_Ammo_556x45mm_M855A1,		*,		205000,		90000
 
 	<Category> SNAFU Magazines
-		AA12_Mag,                           M,		100000,			13000
-		GCGN_HK416_Mag,                     M,		140000,			12000
-		GCGN_M110_Mag,						M,		100000,			12000
-		GCGN_M200_Mag,                      M,		200000,			12000
+		AA12_Mag,                           M,		70000,			13000
+		GCGN_HK416_Mag,                     M,		65000,			12000
+		GCGN_M110_Mag,						M,		80000,			12000
+		GCGN_M200_Mag,                      M,		100000,			12000
 		GCGN_M249_Mag,                      M,		350000,			35000
-		GCGN_M700_Mag,                      M,		100000,			10000
-		GCGN_M82_Mag,                       M,		300000,			35000
-		GCGN_MP7_40Rnd,                     M,		80000,			10000
+		GCGN_M700_Mag,                      M,		70000,			10000
+		GCGN_M82_Mag,                       M,		170000,			35000
+		GCGN_MP7_40Rnd,                     M,		40000,			10000
 		GCGN_Mag_FAL_50Rnd,                 M,		150000,			15000
 		GCGN_VEPR_10rnd,                    M,		30000,			3200
 		GCGN_Vityaz_30Rnd,                  M,		30000,			3000
@@ -969,17 +969,17 @@
 		SA58_30RND_WBK,                     M,		90000,			9000
 		SA58_DrumMag,                       M,		200000,			15000
 		SG550_Mag,                          M,		78000,			8000
-		SNAFUAPS_20rdMag,                   M,		40000,			5000
+		SNAFUAPS_20rdMag,                   M,		30000,			5000
 		SNAFUAR15_SPR_100RND_Mag,           M,		220000,			20000
 		SNAFUAR15_SPR_30RND_Mag,            M,		80000,			8500
 		SNAFUAR15_SPR_40RND_Mag,            M,		100000,			10000
 		SNAFUAR15_SPR_60RND_Mag,            M,		120000,			12000
-		SNAFUASh12_20rdMag,                 M,		120000,			12000
-		SNAFUAUG_30rdMag,                   M,		85000,			8000
-		SNAFUAX50_Mag,                      M,		270000,			25000
-		SNAFUAlligator_5rdMag,              M,		350000,			30000
-		SNAFUDVL10M2_5rdMag,                M,		220000,			20000
-		SNAFUGM6Lynx_5rdMag,                M,		300000,			30000
+		SNAFUASh12_20rdMag,                 M,		100000,			12000
+		SNAFUAUG_30rdMag,                   M,		80000,			8000
+		SNAFUAX50_Mag,                      M,		240000,			25000
+		SNAFUAlligator_5rdMag,              M,		300000,			30000
+		SNAFUDVL10M2_5rdMag,                M,		200000,			20000
+		SNAFUGM6Lynx_5rdMag,                M,		250000,			30000
 		SNAFUGevar_10rdMag,                 M,		250000,			5000
 		SNAFUHoneyBadger_30rdMag_Black,     M,		95000,			10000
 		SNAFUHoneyBadger_30rdMag_Tan,       M,		95000,			10000
@@ -988,25 +988,25 @@
 		SNAFUKivaari_25rdMag,               M,		400000,			34000
 		SNAFUM1A_20rdMag,                   M,		100000,			10000
 		SNAFUM24_Mag,                       M,		120000,			11000
-		SNAFUM96_5rdMag,                    M,		300000,			30000
-		SNAFUM98B_Mag,                      M,		280000,			20000
-		SNAFUMk12_20rdMag,                  M,		90000,			10000
-		SNAFUP90_50rdMag,                   M,		150000,			12000
+		SNAFUM96_5rdMag,                    M,		260000,			30000
+		SNAFUM98B_Mag,                      M,		220000,			20000
+		SNAFUMk12_20rdMag,                  M,		60000,			10000
+		SNAFUP90_50rdMag,                   M,		120000,			12000
 		SNAFUPPSKN_30rdMag,                 M,		70000,			7000
-		SNAFUPPSh_71rdMag,                  M,		70000,			7000
-		SNAFURPD_100rdMag,                  M,		250000,			20000
+		SNAFUPPSh_71rdMag,                  M,		80000,			7000
+		SNAFURPD_100rdMag,                  M,		270000,			20000
 		SNAFURSASS_Mag,                     M,		140000,			14000
 		SNAFUSRSA2_10rdMag,                 M,		270000,			25000
 		SNAFUSten_32rdMag,                  M,		52000,			5000
-		SNAFUT5000_Mag,                     M,		270000,			25000
-		SNAFUTac21_5rdMag,                  M,		280000,			25000
+		SNAFUT5000_Mag,                     M,		250000,			25000
+		SNAFUTac21_5rdMag,                  M,		270000,			25000
 		SNAFUThompsonMk2_30rdMag,           M,		40000,			5000
 		SNAFUUzi_32rdMag,                   M,		32000,			3500
 		SNAFUUzi_72rdMag,                   M,		70000,			7000
 		SNAFUVECTOR_45acp_Mag,              M,		60000,			6000
 		SNAFUVECTOR_9mm_Mag,                M,		55000,			5000
-		SNAFU_AK103_Mag,                    M,		120000,			12000
-		SNAFU_AK12_Mag,                     M,		120000,			12000
+		SNAFU_AK103_Mag,                    M,		100000,			12000
+		SNAFU_AK12_Mag,                     M,		100000,			12000
 		SNAFU_AK308_Mag,                    M,		170000,			17000
 		SNAFU_AS50_Mag,                     M,		380000,			38000
 		SNAFU_AWM_Mag,                      M,		250000,			25000
@@ -1158,18 +1158,18 @@
 		Mag_VSS_10Rnd,						M,	21000,	6300
 				
 	<Category> TF Optics
-		TF_DeltaPointOptic_Black,			*,	34500,	27500
-		TF_EOTechXPSOpticDown_Black,		*,	35000,	28000
-		TF_EOTechXPSOpticUp_Black,			*,	35000,	28000
-		TF_ElcanSpecterDROptic_Black,		*,	70000,	32000
-		TF_ElcanSpecterDR_6xOptic_Black,	*,	80000,	48000
-		TF_ElcanSpecterDR_6xOptic_FDE,		*,	80000,	48000
-		TF_HAMROptic_Black,					*,	75000,	34000
+		TF_DeltaPointOptic_Black,			*,	95000,	27500
+		TF_EOTechXPSOpticDown_Black,		*,	65000,	28000
+		TF_EOTechXPSOpticUp_Black,			*,	65000,	28000
+		TF_ElcanSpecterDROptic_Black,		*,	100000,	32000
+		TF_ElcanSpecterDR_6xOptic_Black,	*,	140000,	48000
+		TF_ElcanSpecterDR_6xOptic_FDE,		*,	140000,	48000
+		TF_HAMROptic_Black,					*,	150000,	34000
 		TF_M4_ColtA2Optic,					*,	30000,	24000
-		TF_OKP7Optic,						*,	30000,	24000
+		TF_OKP7Optic,						*,	70000,	24000
 		TF_OTs_14_GrozaOptic,				*,	25000,	20000
 		TF_PK122_ValdayOptic,				*,	34000,	27000
-		TF_ElcanSpecterDROptic_FDE,			*,	70000,	32000
+		TF_ElcanSpecterDROptic_FDE,			*,	120000,	32000
 
 	<Category> TF BUTTSTOCKS
 		TF_AK_AdapterBttstck,				*,	18000,	14400
@@ -1281,14 +1281,16 @@
 		TF_Foil_hat,						*,	10000,	8000
 		TF_Harris_Bipod,					*,	22000,	11000
 		TF_M14_Adapter,						*,	20000,	10000
-		TF_NVGoggles_AVS9,					*,	80000,	64000
-		TF_NVGoggles_PNV10T,				*,	80000,	64000
-		TF_NVGoggles_PVS14,					*,	80000,	64000
-		TF_NVGoggles_PVS15,					*,	80000,	64000
 		TF_RifleSling_Black,				*,	2000,	1200
 		TF_RifleSling_Brown,				*,	2000,	1200
 		TF_RifleSling_OD,					*,	2000,	1200
 		TF_Atlas_Bipod,						*,	30000,	14000
+
+	<Category> TF Nightvision Goggles
+		TF_NVGoggles_AVS9,					*,	200000,	64000
+		TF_NVGoggles_PNV10T,				*,	200000,	64000
+		TF_NVGoggles_PVS14,					*,	200000,	64000
+		TF_NVGoggles_PVS15,					*,	200000,	64000
 
 	<Category> Handguards
 		AK74_Hndgrd,		*,	-1,		3000
@@ -1359,17 +1361,17 @@
 	
 	<Category> SNAFU Lights N Lasers
 		SNAFUUniversalLight,			*,		50000,			15000
-		SNAFU_PEQ1_Laser,				*,		45000,			15000
+		SNAFU_PEQ1_Laser,				*,		50000,			15000
 		
 	<Category> SNAFU Bipods
-		SNAFU_AtlasBipod,				*,		15000,			8500
-		SNAFU_Bipod,					*,		15000,			8500
-		SNAFU_ModBipod,					*,		15000,			8500
-		SNAFU_M200B_BK,					*,		25000,			8500
-		SNAFU_M249Bipod,				*,		10000,			8500
-		SNAFU_NPKPBIPOD,				*,		10000,			8500
-		SNAFU_PKPBIPOD,					*,		10000,			8500
-		SNAFU_VSSKbipod,				*,		10000,			8500
+		SNAFU_AtlasBipod,				*,		35000,			8500
+		SNAFU_Bipod,					*,		35000,			8500
+		SNAFU_ModBipod,					*,		35000,			8500
+		SNAFU_M200B_BK,					*,		55000,			8500
+		SNAFU_M249Bipod,				*,		30000,			8500
+		SNAFU_NPKPBIPOD,				*,		30000,			8500
+		SNAFU_PKPBIPOD,					*,		30000,			8500
+		SNAFU_VSSKbipod,				*,		30000,			8500
 			
 	<Category> SNAFU HandGuards
 		SNAFU_AK_HG,					*,		50000,			10000
@@ -1401,50 +1403,50 @@
 		SNAFU_PistolGripColtA2,			*,		40000,			10000
 		
 	<Category> SNAFU Stocks
-		SA58_Stock,							*,		35000,			10000
-		SNAFUDSASA58_Stock,                 *,		35000,			10000
-		SNAFU_AK19_Stock,                   *,		35000,			10000
-		SNAFU_AK_AR_Stock,                  *,		40000,			10000
-		SNAFU_M200B_BK,                     *,		35000,			10000
-		SNAFU_M200S_BK,                     *,		35000,			10000
-		SNAFU_M200S_Green,                  *,		35000,			10000
-		SNAFU_M200S_Snow,                   *,		35000,			10000
-		SNAFU_M200S_Tan,                    *,		35000,			10000
-		SNAFU_M249Stock,                    *,		35000,			10000
-		SNAFU_M4SS_Stock,                   *,		35000,			10000
-		SNAFU_MK47_Stock,                   *,		35000,			10000
-		SNAFU_MOE_Stock,                    *,		40000,			10000
-		SNAFU_PRSGen3_Stock,                *,		35000,			10000
-		SNAFU_SADAR_Stock,                  *,		35000,			10000
+		SA58_Stock,							*,		75000,			10000
+		SNAFUDSASA58_Stock,                 *,		75000,			10000
+		SNAFU_AK19_Stock,                   *,		75000,			10000
+		SNAFU_AK_AR_Stock,                  *,		90000,			10000
+		SNAFU_M200B_BK,                     *,		75000,			10000
+		SNAFU_M200S_BK,                     *,		75000,			10000
+		SNAFU_M200S_Green,                  *,		75000,			10000
+		SNAFU_M200S_Snow,                   *,		75000,			10000
+		SNAFU_M200S_Tan,                    *,		75000,			10000
+		SNAFU_M249Stock,                    *,		75000,			10000
+		SNAFU_M4SS_Stock,                   *,		75000,			10000
+		SNAFU_MK47_Stock,                   *,		75000,			10000
+		SNAFU_MOE_Stock,                    *,		110000,			10000
+		SNAFU_PRSGen3_Stock,                *,		140000,			10000
+		SNAFU_SADAR_Stock,                  *,		55000,			10000
 		SNAFU_SBA_Stock,                    *,		35000,			10000
-		SNAFU_SCQR_Stock,                   *,		35000,			10000
-		SNAFU_UBR_Stock,                    *,		35000,			10000
-		SNAFU_WSR3Stock,                    *,		35000,			10000
+		SNAFU_SCQR_Stock,                   *,		75000,			10000
+		SNAFU_UBR_Stock,                    *,		75000,			10000
+		SNAFU_WSR3Stock,                    *,		75000,			10000
 		
 	<Category> SNAFU Optics
 		GCGN_M84_Optic,						*,		10000,			5000
-		SNAFU_Aimpoint_ACO,                 *,		20000,			5000
-		SNAFU_Aimpoint_M5,                  *,		10000,			5000
-		SNAFU_Docter,                       *,		10000,			5000
-		SNAFU_EOTech_EXPS3,                 *,		10000,			5000
-		SNAFU_Elcan,                        *,		30000,			5000
-		SNAFU_HAimpoint_ACO,                *,		20000,			5000
-		SNAFU_HAimpoint_M5,                 *,		10000,			5000
-		SNAFU_HEOTech_EXPS3,                *,		10000,			5000
-		SNAFU_HElcan,                       *,		30000,			5000
-		SNAFU_HHuntingOptic,                *,		40000,			5000
-		SNAFU_HKahles,                      *,		40000,			5000
-		SNAFU_HLeupold_Mark8,               *,		40000,			5000
-		SNAFU_HNightforce,                  *,		40000,			5000
-		SNAFU_HTrijicon,                    *,		20000,			5000
-		SNAFU_HTrijicon_Docter,             *,		10000,			5000
-		SNAFU_HWalther,                     *,		10000,			5000
-		SNAFU_HuntingOptic,                 *,		40000,			5000
+		SNAFU_Aimpoint_ACO,                 *,		90000,			5000
+		SNAFU_Aimpoint_M5,                  *,		100000,			5000
+		SNAFU_Docter,                       *,		100000,			5000
+		SNAFU_EOTech_EXPS3,                 *,		100000,			5000
+		SNAFU_Elcan,                        *,		180000,			5000
+		SNAFU_HAimpoint_ACO,                *,		70000,			5000
+		SNAFU_HAimpoint_M5,                 *,		70000,			5000
+		SNAFU_HEOTech_EXPS3,                *,		70000,			5000
+		SNAFU_HElcan,                       *,		140000,			5000
+		SNAFU_HHuntingOptic,                *,		150000,			5000
+		SNAFU_HKahles,                      *,		140000,			5000
+		SNAFU_HLeupold_Mark8,               *,		160000,			5000
+		SNAFU_HNightforce,                  *,		70000,			5000
+		SNAFU_HTrijicon,                    *,		70000,			5000
+		SNAFU_HTrijicon_Docter,             *,		70000,			5000
+		SNAFU_HWalther,                     *,		70000,			5000
+		SNAFU_HuntingOptic,                 *,		70000,			5000
 		SNAFU_IRONMODOptic,                 *,		10000,			5000
-		SNAFU_Kahles,                       *,		40000,			5000
+		SNAFU_Kahles,                       *,		180000,			5000
 		SNAFU_Kobra,                        *,		10000,			5000
-		SNAFU_Leupold_Mark8,                *,		40000,			5000
-		SNAFU_M14Optic,                     *,		20000,			5000
+		SNAFU_Leupold_Mark8,                *,		220000,			5000
+		SNAFU_M14Optic,                     *,		40000,			5000
 		SNAFU_MAimpoint_ACO,                *,		20000,			5000
 		SNAFU_MAimpoint_M5,                 *,		10000,			5000
 		SNAFU_MEOTech_EXPS3,                *,		10000,			5000
@@ -1485,48 +1487,48 @@
 		SNAFU_AKWalther,                    *,		8000,			5000
 	
 	<Category> SNAFU Suppressors
-		GCGN_M1Garand_Supp,							*,		30000,			10000
-		SNAFUAR15_SPR_SIL,							*,		100000,			10000
-		SNAFUAR15_SPR_SQSIL,						*,		100000,			10000
-		SNAFUGevar_Suppressor_Green,				*,		150000,			10000
-		SNAFUGevar_Suppressor_Tan,					*,		150000,			10000
-		SNAFUKivaari_338_Supp,						*,		200000,			10000
-		SNAFU_408_Suppressor_T,						*,		250000,			10000
+		GCGN_M1Garand_Supp,							*,		80000,			10000
+		SNAFUAR15_SPR_SIL,							*,		120000,			20000
+		SNAFUAR15_SPR_SQSIL,						*,		120000,			20000
+		SNAFUGevar_Suppressor_Green,				*,		150000,			20000
+		SNAFUGevar_Suppressor_Tan,					*,		150000,			20000
+		SNAFUKivaari_338_Supp,						*,		200000,			20000
+		SNAFU_408_Suppressor_T,						*,		250000,			20000
 		SNAFU_AK19Muzzel,							*,		80000,			10000
-		SNAFU_AK308Muzzel,							*,		150000,			10000
-		SNAFU_Agram_Suppressor_Black,				*,		60000,			10000
-		SNAFU_HeramuzzelF,							*,		100000,			10000
-		SNAFU_LNormalized_Suppressor_Black,			*,		100000,			10000
-		SNAFU_LNormalized_Suppressor_Green,			*,		100000,			10000
-		SNAFU_LStandardized_Suppressor_Black,		*,		100000,			10000
-		SNAFU_LStandardized_Suppressor_Green,		*,		100000,			10000
-		SNAFU_MK47Muzzel,							*,		100000,			10000
-		SNAFU_MPX_Suppressor_Black,					*,		60000,			10000
-		SNAFU_MuzzelFF,								*,		100000,			10000
-		SNAFU_Normalized_Suppressor_Black,			*,		100000,			10000
-		SNAFU_Normalized_Suppressor_Green,			*,		100000,			10000
-		SNAFU_SPMOD,								*,		100000,			10000
-		SNAFU_SR25_Supp,							*,		100000,			10000
+		SNAFU_AK308Muzzel,							*,		100000,			20000
+		SNAFU_Agram_Suppressor_Black,				*,		100000,			20000
+		SNAFU_HeramuzzelF,							*,		100000,			20000
+		SNAFU_LNormalized_Suppressor_Black,			*,		140000,			20000
+		SNAFU_LNormalized_Suppressor_Green,			*,		140000,			20000
+		SNAFU_LStandardized_Suppressor_Black,		*,		140000,			20000
+		SNAFU_LStandardized_Suppressor_Green,		*,		140000,			20000
+		SNAFU_MK47Muzzel,							*,		100000,			20000
+		SNAFU_MPX_Suppressor_Black,					*,		170000,			20000
+		SNAFU_MuzzelFF,								*,		100000,			20000
+		SNAFU_Normalized_Suppressor_Black,			*,		140000,			20000
+		SNAFU_Normalized_Suppressor_Green,			*,		140000,			20000
+		SNAFU_SPMOD,								*,		160000,			20000
+		SNAFU_SR25_Supp,							*,		180000,			20000
 		SNAFU_SR3Vikhr_Supp,						*,		30000,			10000
-		SNAFU_Standardized_Suppressor_Black,		*,		100000,			10000
-		SNAFU_Standardized_Suppressor_Green,		*,		100000,			10000
+		SNAFU_Standardized_Suppressor_Black,		*,		140000,			20000
+		SNAFU_Standardized_Suppressor_Green,		*,		140000,			20000
 		SR3_Vikhr_Supp,								*,		30000,			10000
-		Snafu_ScarH_SIL_Black,						*,		100000,			10000
-		Snafu_ScarH_SIL_Tan,						*,		100000,			10000
+		Snafu_ScarH_SIL_Black,						*,		180000,			20000
+		Snafu_ScarH_SIL_Tan,						*,		180000,			20000
 				
 	<Category> SNAFU Underbarrel Grips
 		SA58_FGrip,							*,		40000,			8000
-		SNAFUAR15_AFG,                      *,		50000,			10000
-		SNAFUMPX_Grip,                      *,		10000,			4000
-		SNAFUScar_AFG_BK,                   *,		30000,			8000
-		SNAFUScar_AFG_Tan,                  *,		30000,			8000
-		SNAFU_AFG_02_Black,                 *,		50000,			10000
-		SNAFU_AFG_02_OD,                    *,		50000,			10000
-		SNAFU_AFG_02_Tan,                   *,		50000,			10000
-		SNAFU_FGCR_Grip,                    *,		40000,			8000
-		SNAFU_FGKAC_Grip,                   *,		40000,			8000
-		SNAFU_M249Grip,                     *,		30000,			8000
-		SNAFU_SR3Grip,                      *,		40000,			8000
+		SNAFUAR15_AFG,                      *,		80000,			10000
+		SNAFUMPX_Grip,                      *,		20000,			4000
+		SNAFUScar_AFG_BK,                   *,		80000,			8000
+		SNAFUScar_AFG_Tan,                  *,		80000,			8000
+		SNAFU_AFG_02_Black,                 *,		80000,			10000
+		SNAFU_AFG_02_OD,                    *,		80000,			10000
+		SNAFU_AFG_02_Tan,                   *,		80000,			10000
+		SNAFU_FGCR_Grip,                    *,		60000,			8000
+		SNAFU_FGKAC_Grip,                   *,		60000,			8000
+		SNAFU_M249Grip,                     *,		40000,			8000
+		SNAFU_SR3Grip,                      *,		50000,			8000
 
 <Trader> Clothing Trader
 	<Category> Glasses
