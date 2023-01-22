@@ -18,8 +18,7 @@
 	<Currency> MoneyRuble100, 	100
 
 
-<Trader> Consume Trader	
-	<Category> Meat
+<Trader> Consume Trader
 		// Trader Name (first Trader has ID = 0, second Trader has ID = 1, and so on..)
 		// Category Name
 		// Quantity * means max value
@@ -31,7 +30,9 @@
 		// Quantity S means Stack Meat
 		// Quantity K means Key Duplication
 		// Quantity W means Weapon
-		// Sellvalue -1 means it can not be selled	
+		// Sellvalue -1 means it can not be selled
+		
+	<Category> Butcher Shop
 		BearSteakMeat,		S,	-1,		25000
 		Bitterlings,		S,	-1,		6500
 		BoarSteakMeat,		S,	-1,		18000
@@ -46,8 +47,6 @@
 		Sardines,			S,	-1,		8000
 		SheepSteakMeat,		S,	-1,		11000
 		WolfSteakMeat,		S,	-1,		7500
-		
-	<Category> Animal Parts
 		BearPelt,		S,	140000,	60000
 		Bone,			*,	-1,		1200
 		CowPelt,		S,	68000,	20000
@@ -62,7 +61,7 @@
 		WildboarPelt,	S,	72000,	16000
 		WolfPelt,		S,	40000,	9000
 	
-	<Category> Canned and Packaged Foods
+	<Category> Canned Food N Drinks
 		BakedBeansCan,		*,	50000,	6000
 		BoxCerealCrunchin,	*,	38000,	7000
 		Marmalade,			*,	37000,	3500
@@ -74,6 +73,13 @@
 		SpaghettiCan,		*,	52000,	4800
 		TacticalBaconCan,	*,	-1,		9500
 		TunaCan,			*,	24000,	4000
+		Canteen,			*,	20000,	5000
+		SodaCan_Cola,		*,	8000,	1000
+		SodaCan_Kvass,		*,	-1,		1000
+		SodaCan_Pipsi,		*,	8000,	1000
+		SodaCan_Spite,		*,	-1,		1000
+		WaterBottle,		*,	-1,		2500
+		Vodka,				*,	-1,		1000000
 							
 	<Category> Fruits and Vegetables	
 		AgaricusMushroom,		*,	10000,	1200
@@ -97,17 +103,8 @@
 		SambucusBerry,			*,	7000,	700
 		Tomato,					*,	-1,		900
 		Zucchini,				*,	-1,		600
-		
-	<Category> Drinks
-		Canteen,		*,	20000,	5000
-		SodaCan_Cola,	*,	5000,	1000
-		SodaCan_Kvass,	*,	-1,		1000
-		SodaCan_Pipsi,	*,	-1,		1000
-		SodaCan_Spite,	*,	-1,		1000
-		Vodka,			*,	-1,		800000
-		WaterBottle,	*,	-1,		2500
-		
-	<Category> Medical Supplies
+				
+	<Category> Pharmacy
 		BandageDressing,		*,	-1,			9000
 		BloodBagEmpty,			*,	2500,		600
 		BloodTestKit,			*,	1000,		300
@@ -120,16 +117,14 @@
 		SalineBag,				*,	25000,		11000
 		StartKitIV,				*,	5000,		3000
 		Thermometer,			*,	500,		200
-		
-	<Category> Medications
-		CharcoalTablets,		*,	10000,		3000
-		DisinfectantAlcohol,	*,	4500,		1200
-		Epinephrine,			*,	12000,		7000
-		Morphine,				*,	15000,		8000
-		PainkillerTablets,		2,	25000,		12500
-		PurificationTablets,	*,	5000,		1400
-		TetracyclineAntibiotics,1,	40000,		20000
-		VitaminBottle,			1,	50000,		25000
+		CharcoalTablets,			*,	10000,		3000
+		DisinfectantAlcohol,		*,	4500,		1200
+		Epinephrine,				*,	12000,		7000
+		Morphine,					*,	15000,		8000
+		PainkillerTablets,			2,	25000,		12500
+		PurificationTablets,		*,	5000,		1400
+		TetracyclineAntibiotics,	1,	40000,		20000
+		VitaminBottle,				1,	50000,		25000
 		
 	<Category> Money Exchange
 		MoneyRuble1,	1,	1,		-1
@@ -139,9 +134,8 @@
 		MoneyRuble50,	1,	50,		-1
 		MoneyRuble100,	1,	100,	-1
 
-
 <Trader> Misc Trader
-	<Category> Small Tools
+	<Category> Tools
 		Screwdriver,			*,	10000,	6000
 		Wrench,					*,	-1,		3000
 		SewingKit,				*,	45000,	9000
@@ -171,8 +165,6 @@
 		Lockpick,				*,	-1,		2000
 		Binoculars,				*,	-1,		1000
 		ChernarusMap,			*,	-1,		500
-		
-	<Category> Big Tools
 		Crowbar,			*,	-1,		9000
 		FirefighterAxe,		*,	-1,		8000
 		LugWrench,			*,	5000,	1200
@@ -181,36 +173,6 @@
 		Shovel,				*,	20000,	7000
 		SledgeHammer,		*,	15000,	4800
 		WoodAxe,			*,	50000,	8000
-		
-	<Category> Electronics
-		BaseRadio,				*,	-1,		3000
-		Battery9V,				*,	50000,	7500
-		BatteryCharger,			*,	8000,	3000
-		CableReel,				*,	4000,	1000
-		ElectronicRepairKit,	*,	15000,	4500
-		Megaphone,				*,	-1,		2000
-		NVGoggles,				*,	70000,	20000
-		PersonalRadio,			*,	2000,	1500
-		Rangefinder,			*,	-1,		2000
-	
-	<Category> Fire & Lights
-		Chemlight_Blue,			*,	500,	100
-		Chemlight_Green,		*,	500,	100
-		Chemlight_Red,			*,	500,	100
-		Chemlight_White,		*,	500,	100
-		Chemlight_Yellow,		*,	500,	100
-		Flashlight,				*,	-1,		1000
-		Headtorch_Black,		*,	10000,	1000
-		Headtorch_Grey,			*,	10000,	1000
-		PortableGasLamp,		*,	500,	200
-		PortableGasStove,		*,	5000,	1200
-		Roadflare,				*,	-1,		400
-		Spotlight,				*,	10000,	2500
-	
-	<Category> Cooking & Hunting Supplies
-		Pot,					M,	50000,	20000
-		Tripod,					*,	1200,	600
-		BearTrap,				*,	10000,	5000	
 		
 	<Category> Hardware Supplies
 		Paper,					*,	1000,	100
@@ -251,12 +213,42 @@
 		Barrel_Red,				M,	30000,	7500
 		Barrel_Yellow,			M,	30000,	7500
 		PowerGenerator,			*,	100000,	25000
-	
+		
+	<Category> Electronics
+		BaseRadio,				*,	-1,		3000
+		Battery9V,				*,	50000,	7500
+		BatteryCharger,			*,	8000,	3000
+		CableReel,				*,	4000,	1000
+		ElectronicRepairKit,	*,	15000,	4500
+		Megaphone,				*,	-1,		2000
+		NVGoggles,				*,	70000,	20000
+		PersonalRadio,			*,	2000,	1500
+		Rangefinder,			*,	-1,		2000
+
+	<Category> Cooking & Hunting Supplies
+		Pot,					M,	50000,	20000
+		Tripod,					*,	1200,	600
+		BearTrap,				*,	10000,	5000	
+
+	<Category> Light Materials
+		Chemlight_Blue,			*,	500,	100
+		Chemlight_Green,		*,	500,	100
+		Chemlight_Red,			*,	500,	100
+		Chemlight_White,		*,	500,	100
+		Chemlight_Yellow,		*,	500,	100
+		Flashlight,				*,	-1,		1000
+		Headtorch_Black,		*,	10000,	1000
+		Headtorch_Grey,			*,	10000,	1000
+		PortableGasLamp,		*,	500,	200
+		PortableGasStove,		*,	5000,	1200
+		Roadflare,				*,	-1,		400
+		Spotlight,				*,	10000,	2500
+			
 	<Category> Seeds & Lime
 		GardenLime,				*,	50000,	3500
 		PepperSeedsPack,		*,	-1,		1200
 		PumpkinSeedsPack,		*,	-1,		2000
-		TomatoSeedsPack,		*,	-1,		1200
+		TomatoSeedsPack,		*,	22000,	1200
 		ZucchiniSeedsPack,		*,	-1,		1500
 		
 	<Category> Teddy Baers <3
@@ -1493,34 +1485,34 @@
 		SNAFU_AKWalther,                    *,		8000,			5000
 	
 	<Category> SNAFU Suppressors
-		GCGN_M1Garand_Supp,								*,		30000,			10000
-		SNAFUAR15_SPR_SIL,                              *,		100000,			10000
-		SNAFUAR15_SPR_SQSIL,                            *,		100000,			10000
-		SNAFUGevar_Suppressor_Green,                    *,		150000,			10000
-		SNAFUGevar_Suppressor_Tan,                      *,		150000,			10000
-		SNAFUKivaari_338_Supp,                          *,		200000,			10000
-		SNAFU_408_Suppressor_T,                         *,		250000,			10000
-		SNAFU_AK19Muzzel,                               *,		80000,			10000
-		SNAFU_AK308Muzzel,                              *,		150000,			10000
-		SNAFU_Agram_Suppressor_Black,                   *,		60000,			10000
-		SNAFU_HeramuzzelF,                              *,		100000,			10000
-		SNAFU_LNormalized_Suppressor_Black,             *,		100000,			10000
-		SNAFU_LNormalized_Suppressor_Green,             *,		100000,			10000
-		SNAFU_LStandardized_Suppressor_Black,           *,		100000,			10000
-		SNAFU_LStandardized_Suppressor_Green,           *,		100000,			10000
-		SNAFU_MK47Muzzel,                               *,		100000,			10000
-		SNAFU_MPX_Suppressor_Black,                     *,		60000,			10000
-		SNAFU_MuzzelFF,                                 *,		100000,			10000
-		SNAFU_Normalized_Suppressor_Black,              *,		100000,			10000
-		SNAFU_Normalized_Suppressor_Green,              *,		100000,			10000
-		SNAFU_SPMOD,                                    *,		100000,			10000
-		SNAFU_SR25_Supp,                                *,		100000,			10000
-		SNAFU_SR3Vikhr_Supp,                            *,		30000,			10000
-		SNAFU_Standardized_Suppressor_Black,            *,		100000,			10000
-		SNAFU_Standardized_Suppressor_Green,            *,		100000,			10000
-		SR3_Vikhr_Supp,                                 *,		30000,			10000
-		Snafu_ScarH_SIL_Black,                          *,		100000,			10000
-		Snafu_ScarH_SIL_Tan,                            *,		100000,			10000
+		GCGN_M1Garand_Supp,							*,		30000,			10000
+		SNAFUAR15_SPR_SIL,							*,		100000,			10000
+		SNAFUAR15_SPR_SQSIL,						*,		100000,			10000
+		SNAFUGevar_Suppressor_Green,				*,		150000,			10000
+		SNAFUGevar_Suppressor_Tan,					*,		150000,			10000
+		SNAFUKivaari_338_Supp,						*,		200000,			10000
+		SNAFU_408_Suppressor_T,						*,		250000,			10000
+		SNAFU_AK19Muzzel,							*,		80000,			10000
+		SNAFU_AK308Muzzel,							*,		150000,			10000
+		SNAFU_Agram_Suppressor_Black,				*,		60000,			10000
+		SNAFU_HeramuzzelF,							*,		100000,			10000
+		SNAFU_LNormalized_Suppressor_Black,			*,		100000,			10000
+		SNAFU_LNormalized_Suppressor_Green,			*,		100000,			10000
+		SNAFU_LStandardized_Suppressor_Black,		*,		100000,			10000
+		SNAFU_LStandardized_Suppressor_Green,		*,		100000,			10000
+		SNAFU_MK47Muzzel,							*,		100000,			10000
+		SNAFU_MPX_Suppressor_Black,					*,		60000,			10000
+		SNAFU_MuzzelFF,								*,		100000,			10000
+		SNAFU_Normalized_Suppressor_Black,			*,		100000,			10000
+		SNAFU_Normalized_Suppressor_Green,			*,		100000,			10000
+		SNAFU_SPMOD,								*,		100000,			10000
+		SNAFU_SR25_Supp,							*,		100000,			10000
+		SNAFU_SR3Vikhr_Supp,						*,		30000,			10000
+		SNAFU_Standardized_Suppressor_Black,		*,		100000,			10000
+		SNAFU_Standardized_Suppressor_Green,		*,		100000,			10000
+		SR3_Vikhr_Supp,								*,		30000,			10000
+		Snafu_ScarH_SIL_Black,						*,		100000,			10000
+		Snafu_ScarH_SIL_Tan,						*,		100000,			10000
 				
 	<Category> SNAFU Underbarrel Grips
 		SA58_FGrip,							*,		40000,			8000
@@ -1574,7 +1566,6 @@
 		WorkingGloves_Black,		*,	2000,	1000
 		WorkingGloves_Brown,		*,	2000,	1000
 		WorkingGloves_Yellow,		*,	2000,	1000
-		
 
 	<Category> Hats & Caps
 		Bandana_Blackpattern,		*,	6000,	200
@@ -2020,39 +2011,37 @@
 	<Category> Ghillie
 		// Keep in Mind that Players can also 
 		// craft Ghillie Clothing and sell them!
-		GhillieAtt_Mossy,		*,	10000,	500
-		GhillieAtt_Tan,			*,	10000,	500
-		GhillieAtt_Woodland,	*,	10000,	500
-		GhillieBushrag_Mossy,	*,	10000,	500
-		GhillieBushrag_Tan,		*,	10000,	500
-		GhillieBushrag_Woodland,*,	10000,	500
-		GhillieHood_Mossy,		*,	10000,	500
-		GhillieHood_Tan,		*,	10000,	500
-		GhillieHood_Woodland,	*,	10000,	500
-		GhillieSuit_Mossy,		*,	10000,	500
-		GhillieSuit_Tan,		*,	10000,	500
-		GhillieSuit_Woodland,	*,	10000,	500
-		GhillieTop_Mossy,		*,	10000,	500
-		GhillieTop_Tan,			*,	10000,	500
-		GhillieTop_Woodland,	*,	10000,	500
+		GhillieAtt_Mossy,		*,	10000,	1000
+		GhillieAtt_Tan,			*,	10000,	1000
+		GhillieAtt_Woodland,	*,	10000,	1000
+		GhillieBushrag_Mossy,	*,	10000,	1000
+		GhillieBushrag_Tan,		*,	10000,	1000
+		GhillieBushrag_Woodland,*,	10000,	1000
+		GhillieHood_Mossy,		*,	10000,	1000
+		GhillieHood_Tan,		*,	10000,	1000
+		GhillieHood_Woodland,	*,	10000,	1000
+		GhillieSuit_Mossy,		*,	10000,	1000
+		GhillieSuit_Tan,		*,	10000,	1000
+		GhillieSuit_Woodland,	*,	10000,	1000
+		GhillieTop_Mossy,		*,	10000,	1000
+		GhillieTop_Tan,			*,	10000,	1000
+		GhillieTop_Woodland,	*,	10000,	1000
 		
 	//<Category> Seasonal
 		//SantasBeard,			*,		15,		0
 		//SantasHat,			*,		35,		0
 		//PumpkinHelmet,		*,		50,		0
 
-	<Category> Holster & Pouches
+	<Category> Belt, Holster & Pouches
 		ChestHolster,			*,	2000,	700
 		LeatherKnifeSheath,		*,	7000,	2200
 		NylonKnifeSheath,		*,	7000,	2200
 		PlateCarrierHolster,	*,	8000,	2400
 		PlateCarrierPouches,	*,	12000,	3600
+		CivilianBelt,			*,	15000,	4500
+		MilitaryBelt,			*,	16000,	4800
 		
-	<Category> Belt
-		CivilianBelt,	*,	15000,	4500
-		MilitaryBelt,	*,	16000,	4800
-		
-	<Category> Bags
+	<Category> Backpacks
 		AliceBag_Black,			*,	63000,	20000
 		AliceBag_Camo,			*,	63000,	20000
 		AliceBag_Green,			*,	63000,	20000
@@ -2085,7 +2074,7 @@
 		WaterproofBag_Orange,	*,	1000,	300
 		WaterproofBag_Yellow,	*,	1000,	300
 		
-	<Category> TF | HELMETS AND COVERS
+	<Category> TF HELMETS AND COVERS
 		TF_6B47HelmetCover_EMR,				*,	8000,	6400
 		TF_6B47HelmetCover_Syrian,			*,	8000,	6400
 		TF_LSHZHelmet_OD,					*,	50000,	40000
@@ -2100,7 +2089,7 @@
 		TF_WeldingMask_Tagilla,				*,	20000,	16000
 		TF_6B47Helmet,						*,	40000,	32000
 
-	<Category> TF | VESTS
+	<Category> TF VESTS
 		TF_6B23Vest_EMR,					*,	30000,	24000
 		TF_6B23Vest_GFlora,					*,	30000,	24000
 		TF_6B23_112Vest_EMR,				*,	30000,	24000
@@ -2125,7 +2114,7 @@
 		TF_PlateCarrierVest_Coyote,			*,	30000,	24000
 		TF_PlateCarrierVest_EMR,			*,	30000,	24000
 
-	<Category> TF | POUCHES
+	<Category> TF POUCHES
 		TF_2GrenPouch,					*,	5000,	4000
 		TF_2GrenPouch_Khaki,			*,	5000,	4000
 		TF_3GrenPouch,					*,	4000,	2000
@@ -2164,7 +2153,7 @@
 		TF_PlateCarrierPouches_Coyote,	*,	5000,	4000
 		TF_PlateCarrierPouches_EMR,		*,	5000,	4000
 
-	<Category> TF | BAGS
+	<Category> TF BAGS
 		TF_AVSBag_Coyote,		*,	30000,	24000
 		TF_AVSBag_Khaki,		*,	30000,	24000
 		TF_CamelBakBag_Black,	*,	50000,	40000
@@ -2175,7 +2164,7 @@
 		TF_MAPBag_Coyote,		*,	30000,	24000
 		TF_MAPBag_Khaki,		*,	30000,	24000
 
-	<Category> TF | Clothes/Gear
+	<Category> TF Clothes/Gear
 		TF_6sh122Jacket_Autumn,		*,	8000,	6400
 		TF_6sh122Jacket_Spring,		*,	8000,	6400
 		TF_6sh122Jacket_Syrian,		*,	8000,	6400
