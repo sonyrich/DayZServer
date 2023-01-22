@@ -1532,8 +1532,8 @@
 
 <Trader> Clothing Trader
 	<Category> Glasses
-		AviatorGlasses,			*,	4000,	2000
 		TacticalGoggles,		*,	40000,	4500
+		AviatorGlasses,			*,	4000,	2000
 		DesignerGlasses,		*,	3000,	1500
 		NVGHeadstrap,			*,	50000,	3000
 		SportGlasses_Black,		*,	2000,	1000
@@ -1644,13 +1644,13 @@
 	<Category> Helmets
 		BallisticHelmet_Black,			*,	30000,	10000
 		BallisticHelmet_Green,			*,	35000,	11000
-		BallisticHelmet_UN,				*,	25000,	8000
-		ConstructionHelmet_Blue,		*,	3000,	700
-		ConstructionHelmet_Lime,		*,	3300,	800
-		ConstructionHelmet_Orange,		*,	3000,	700
-		ConstructionHelmet_Red,			*,	3000,	700
-		ConstructionHelmet_White,		*,	3000,	700
-		ConstructionHelmet_Yellow,		*,	3000,	700
+		BallisticHelmet_UN,				*,	25000,	9000
+		ConstructionHelmet_Blue,		*,	8000,	700
+		ConstructionHelmet_Lime,		*,	8300,	800
+		ConstructionHelmet_Orange,		*,	8000,	700
+		ConstructionHelmet_Red,			*,	8000,	700
+		ConstructionHelmet_White,		*,	8000,	700
+		ConstructionHelmet_Yellow,		*,	8000,	700
 		DarkMotoHelmet_Black,			*,	8500,	2300
 		DarkMotoHelmet_Blue,			*,	8000,	2200
 		DarkMotoHelmet_Green,			*,	9000,	2500
@@ -1677,7 +1677,7 @@
 		HockeyHelmet_Blue,				*,	5000,	1300
 		HockeyHelmet_Red,				*,	5000,	1300
 		HockeyHelmet_White,				*,	5000,	1300
-		Mich2001Helmet,					*,	15000,	4000
+		Mich2001Helmet,					*,	55000,	9000
 		MotoHelmet_Black,				*,	7500,	2000
 		MotoHelmet_Blue,				*,	7000,	1800
 		MotoHelmet_Green,				*,	8000,	2200
@@ -1725,42 +1725,42 @@
 		Shirt_PlaneBlack,			*,	1700,		400
 		Shirt_RedCheck,				*,	1600,		400
 		Shirt_WhiteCheck,			*,	1600,		400
-		TShirt_Beige,				*,	1000,		200
+		TShirt_Beige,				*,	1200,		200
 		TShirt_Black,				*,	1200,		300
-		TShirt_Blue,				*,	800,		200
+		TShirt_Blue,				*,	1200,		200
 		TShirt_Green,				*,	1200,		300
-		TShirt_Grey,				*,	1000,		200
-		TShirt_OrangeWhiteStripes,	*,	800,		200
-		TShirt_Red,					*,	800,		200
-		TShirt_RedBlackStripes,		*,	800,		200
-		TShirt_White,				*,	1000,		200
-		TacticalShirt_Black,		*,	7000,		1000
-		TacticalShirt_Grey,			*,	7000,		1000
-		TacticalShirt_Olive,		*,	7000,		1200
-		TacticalShirt_Tan,			*,	7000,		1000
-		TelnyashkaShirt,			*,	1400,		300
+		TShirt_Grey,				*,	1200,		200
+		TShirt_OrangeWhiteStripes,	*,	1200,		200
+		TShirt_Red,					*,	1200,		200
+		TShirt_RedBlackStripes,		*,	1200,		200
+		TShirt_White,				*,	1200,		200
+		TacticalShirt_Black,		*,	9000,		1000
+		TacticalShirt_Grey,			*,	9000,		1000
+		TacticalShirt_Olive,		*,	9000,		1200
+		TacticalShirt_Tan,			*,	9000,		1000
+		TelnyashkaShirt,			*,	4400,		300
 
 	<Category> Hoodies & Sweater
-		Hoodie_Black,			*,	3000,	600
-		Hoodie_Blue,			*,	3000,	600
-		Hoodie_Brown,			*,	3000,	600
-		Hoodie_Green,			*,	3500,	700
-		Hoodie_Grey,			*,	3000,	600
-		Hoodie_Red,				*,	3000,	600
-		Sweater_Blue,			*,	2000,	500
-		Sweater_Gray,			*,	2000,	500
-		Sweater_Green,			*,	2500,	600
-		Sweater_Red,			*,	2000,	500
+		Hoodie_Black,			*,	5000,	600
+		Hoodie_Blue,			*,	5000,	600
+		Hoodie_Brown,			*,	5000,	600
+		Hoodie_Green,			*,	5500,	700
+		Hoodie_Grey,			*,	5000,	600
+		Hoodie_Red,				*,	5000,	600
+		Sweater_Blue,			*,	5000,	500
+		Sweater_Gray,			*,	5000,	500
+		Sweater_Green,			*,	5500,	600
+		Sweater_Red,			*,	5000,	500
 		
 	<Category> Vests
 		HighCapacityVest_Black,	*,	20000,	9000
 		HighCapacityVest_Olive,	*,	20000,	9000
-		HuntingVest,			*,	4000,	2000
+		HuntingVest,			*,	10000,	2000
 		PlateCarrierVest,		*,	20000,	9000
-		PoliceVest,				*,	4500,	2200
-		PressVest_Blue,			*,	5000,	2500
-		PressVest_LightBlue,	*,	5000,	2500
-		ReflexVest,				*,	2000,	1000
+		PoliceVest,				*,	11000,	2200
+		PressVest_Blue,			*,	8000,	2500
+		PressVest_LightBlue,	*,	8000,	2500
+		ReflexVest,				*,	7000,	1000
 		SmershVest,				*,	15000,	6000
 		UKAssVest_Black,		*,	10000,	4000
 		UKAssVest_Camo,			*,	10000,	4000
