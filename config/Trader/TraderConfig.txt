@@ -1533,13 +1533,13 @@
 <Trader> Clothing Trader
 	<Category> Glasses
 		AviatorGlasses,			*,	4000,	2000
+		TacticalGoggles,		*,	40000,	4500
 		DesignerGlasses,		*,	3000,	1500
-		NVGHeadstrap,			*,	10000,	3000
+		NVGHeadstrap,			*,	50000,	3000
 		SportGlasses_Black,		*,	2000,	1000
 		SportGlasses_Blue,		*,	2000,	1000
 		SportGlasses_Green,		*,	2000,	1000
 		SportGlasses_Orange,	*,	2000,	1000
-		TacticalGoggles,		*,	9000,	4500
 		ThickFramesGlasses,		*,	2300,	1100
 		ThinFramesGlasses,		*,	2000,	1000
 		
@@ -1554,20 +1554,20 @@
 		Armband_Yellow,			*,		1000,	500
 		
 	<Category> Gloves
-		NBCGlovesGray,				*,	15000,	4500
-		OMNOGloves_Brown,			*,	10000,	3000
-		OMNOGloves_Gray,			*,	10000,	3000
-		SurgicalGloves_Blue,		*,	500,	100
-		SurgicalGloves_Green,		*,	500,	100
-		SurgicalGloves_LightBlue,	*,	500,	100
-		SurgicalGloves_White,		*,	500,	100
-		TacticalGloves_Beige,		*,	8000,	2400
-		TacticalGloves_Black,		*,	8000,	2400
-		TacticalGloves_Green,		*,	8000,	2400
-		WorkingGloves_Beige,		*,	2000,	1000
-		WorkingGloves_Black,		*,	2000,	1000
-		WorkingGloves_Brown,		*,	2000,	1000
-		WorkingGloves_Yellow,		*,	2000,	1000
+		NBCGlovesGray,				*,	65000,	8500
+		OMNOGloves_Brown,			*,	50000,	3000
+		OMNOGloves_Gray,			*,	50000,	3000
+		SurgicalGloves_Blue,		*,	5000,	1000
+		SurgicalGloves_Green,		*,	5000,	1000
+		SurgicalGloves_LightBlue,	*,	5000,	1000
+		SurgicalGloves_White,		*,	5000,	1000
+		TacticalGloves_Beige,		*,	40000,	2400
+		TacticalGloves_Black,		*,	40000,	2400
+		TacticalGloves_Green,		*,	40000,	2400
+		WorkingGloves_Beige,		*,	20000,	1000
+		WorkingGloves_Black,		*,	20000,	1000
+		WorkingGloves_Brown,		*,	20000,	1000
+		WorkingGloves_Yellow,		*,	20000,	1000
 
 	<Category> Hats & Caps
 		Bandana_Blackpattern,		*,	6000,	200
@@ -1704,7 +1704,7 @@
 		BandanaMask_GreenPattern,	*,	3000,		800
 		BandanaMask_PolkaPattern,	*,	2500,		600
 		BandanaMask_RedPattern,		*,	2500,		600
-		GP5GasMask,					*,	10000,		6000
+		GP5GasMask,					*,	100000,		10000
 		HockeyMask,					*,	4000,		1000
 		NioshFaceMask,				*,	4000,		1000
 		SurgicalMask,				*,	1500,		300
@@ -1809,7 +1809,7 @@
 		ManSuit_Khaki,					*,	1800,	400
 		ManSuit_LightGrey,				*,	1800,	400
 		ManSuit_White,					*,	1800,	400
-		NBCJacketGray,					*,	40000,	12000
+		NBCJacketGray,					*,	100000,	15000
 		ParamedicJacket_Blue,			*,	3600,	900
 		ParamedicJacket_Crimson,		*,	3600,	900
 		ParamedicJacket_Green,			*,	3600,	900
@@ -1926,7 +1926,7 @@
 		MedicalScrubsPants_Blue,	*,	1000,	200
 		MedicalScrubsPants_Green,	*,	1000,	200
 		MedicalScrubsPants_White,	*,	1000,	200
-		NBCPantsGray,				*,	40000,	12000
+		NBCPantsGray,				*,	80000,	12000
 		ParamedicPants_Blue,		*,	3500,	800
 		ParamedicPants_Crimson,		*,	3500,	800
 		ParamedicPants_Green,		*,	3500,	800
@@ -1957,58 +1957,58 @@
 		USMCPants_Woodland,			*,	10000,	3000
 	
 	<Category> Shoes & Boots
-		AthleticShoes_Black,		*,	2300,	500
-		AthleticShoes_Blue,			*,	1700,	400
-		AthleticShoes_Brown,		*,	2000,	500
-		AthleticShoes_Green,		*,	2300,	500
-		AthleticShoes_Grey,			*,	2000,	500
-		CombatBoots_Beige,			*,	8000,	2400
-		CombatBoots_Black,			*,	8000,	2400
-		CombatBoots_Brown,			*,	8000,	2400
-		CombatBoots_Green,			*,	8000,	2400
-		CombatBoots_Grey,			*,	8000,	2400
-		DressShoes_Beige,			*,	3500,	800
-		DressShoes_Black,			*,	3500,	800
-		DressShoes_Brown,			*,	3500,	800
-		DressShoes_Sunburst,		*,	3500,	800
-		DressShoes_White,			*,	3200,	700
-		HikingBootsLow_Beige,		*,	4500,	700
-		HikingBootsLow_Black,		*,	4500,	700
-		HikingBootsLow_Blue,		*,	4500,	700
-		HikingBootsLow_Grey,		*,	4500,	700
-		HikingBoots_Black,			*,	5000,	700
-		HikingBoots_Brown,			*,	5000,	700
-		JoggingShoes_Black,			*,	3000,	700
-		JoggingShoes_Blue,			*,	3000,	700
-		JoggingShoes_Red,			*,	3000,	700
-		JoggingShoes_Violet,		*,	3000,	700
-		JoggingShoes_White,			*,	3000,	700
-		JungleBoots_Beige,			*,	7500,	2200
-		JungleBoots_Black,			*,	7500,	2200
-		JungleBoots_Brown,			*,	7500,	2200
-		JungleBoots_Green,			*,	7500,	2200
-		JungleBoots_Olive,			*,	7500,	2200
-		MilitaryBoots_Beige,		*,	8000,	2400
-		MilitaryBoots_Black,		*,	8000,	2400
-		MilitaryBoots_Bluerock,		*,	8000,	2400
-		MilitaryBoots_Brown,		*,	8000,	2400
-		MilitaryBoots_Redpunk,		*,	8000,	2400
-		NBCBootsGray,				*,	25000,	7500
-		Sneakers_Black,				*,	3100,	700
-		Sneakers_Gray,				*,	3000,	700
-		Sneakers_Green,				*,	3200,	700
-		Sneakers_Red,				*,	3000,	700
-		Sneakers_White,				*,	3000,	700
-		TTSKOBoots,					*,	9000,	2700
-		Wellies_Black,				*,	2000,	500
-		Wellies_Brown,				*,	2000,	500
-		Wellies_Green,				*,	2000,	500
-		Wellies_Grey,				*,	2000,	500
-		WorkingBoots_Beige,			*,	5000,	900
-		WorkingBoots_Brown,			*,	5000,	900
-		WorkingBoots_Green,			*,	5000,	900
-		WorkingBoots_Grey,			*,	5000,	900
-		WorkingBoots_Yellow,		*,	5000,	900
+		AthleticShoes_Black,		*,	23000,	5000
+		AthleticShoes_Blue,			*,	17000,	4000
+		AthleticShoes_Brown,		*,	20000,	5000
+		AthleticShoes_Green,		*,	23000,	5000
+		AthleticShoes_Grey,			*,	20000,	5000
+		CombatBoots_Beige,			*,	80000,	6400
+		CombatBoots_Black,			*,	80000,	6400
+		CombatBoots_Brown,			*,	80000,	6400
+		CombatBoots_Green,			*,	80000,	6400
+		CombatBoots_Grey,			*,	80000,	6400
+		DressShoes_Beige,			*,	35000,	5000
+		DressShoes_Black,			*,	35000,	5000
+		DressShoes_Brown,			*,	35000,	5000
+		DressShoes_Sunburst,		*,	35000,	5000
+		DressShoes_White,			*,	32000,	5000
+		HikingBootsLow_Beige,		*,	45000,	7000
+		HikingBootsLow_Black,		*,	45000,	7000
+		HikingBootsLow_Blue,		*,	45000,	7000
+		HikingBootsLow_Grey,		*,	45000,	7000
+		HikingBoots_Black,			*,	50000,	7000
+		HikingBoots_Brown,			*,	50000,	7000
+		JoggingShoes_Black,			*,	30000,	7000
+		JoggingShoes_Blue,			*,	30000,	7000
+		JoggingShoes_Red,			*,	30000,	7000
+		JoggingShoes_Violet,		*,	30000,	7000
+		JoggingShoes_White,			*,	30000,	7000
+		JungleBoots_Beige,			*,	75000,	8200
+		JungleBoots_Black,			*,	75000,	8200
+		JungleBoots_Brown,			*,	75000,	8200
+		JungleBoots_Green,			*,	75000,	8200
+		JungleBoots_Olive,			*,	75000,	8200
+		MilitaryBoots_Beige,		*,	80000,	8400
+		MilitaryBoots_Black,		*,	80000,	8400
+		MilitaryBoots_Bluerock,		*,	80000,	8400
+		MilitaryBoots_Brown,		*,	80000,	8400
+		MilitaryBoots_Redpunk,		*,	80000,	8400
+		NBCBootsGray,				*,	90000,	11000
+		Sneakers_Black,				*,	31000,	7000
+		Sneakers_Gray,				*,	30000,	7000
+		Sneakers_Green,				*,	32000,	7000
+		Sneakers_Red,				*,	30000,	7000
+		Sneakers_White,				*,	30000,	7000
+		TTSKOBoots,					*,	90000,	8700
+		Wellies_Black,				*,	20000,	5000
+		Wellies_Brown,				*,	20000,	5000
+		Wellies_Green,				*,	20000,	5000
+		Wellies_Grey,				*,	20000,	5000
+		WorkingBoots_Beige,			*,	50000,	9000
+		WorkingBoots_Brown,			*,	50000,	9000
+		WorkingBoots_Green,			*,	50000,	9000
+		WorkingBoots_Grey,			*,	50000,	9000
+		WorkingBoots_Yellow,		*,	50000,	9000
 
 	<Category> Ghillie
 		// Keep in Mind that Players can also 
@@ -2035,125 +2035,125 @@
 		//PumpkinHelmet,		*,		50,		0
 
 	<Category> Belt, Holster & Pouches
-		ChestHolster,			*,	2000,	700
-		LeatherKnifeSheath,		*,	7000,	2200
-		NylonKnifeSheath,		*,	7000,	2200
-		PlateCarrierHolster,	*,	8000,	2400
-		PlateCarrierPouches,	*,	12000,	3600
-		CivilianBelt,			*,	15000,	4500
-		MilitaryBelt,			*,	16000,	4800
+		ChestHolster,			*,	20000,	700
+		LeatherKnifeSheath,		*,	70000,	2200
+		NylonKnifeSheath,		*,	70000,	2200
+		PlateCarrierHolster,	*,	30000,	2400
+		PlateCarrierPouches,	*,	82000,	3600
+		CivilianBelt,			*,	150000,	4500
+		MilitaryBelt,			*,	160000,	4800
 		
 	<Category> Backpacks
-		AliceBag_Black,			*,	63000,	20000
-		AliceBag_Camo,			*,	63000,	20000
-		AliceBag_Green,			*,	63000,	20000
-		AssaultBag_Black,		*,	44000,	10000
-		AssaultBag_Green,		*,	44000,	10000
-		AssaultBag_Ttsko,		*,	44000,	10000
-		ChildBag_Blue,			*,	4000,	500
-		ChildBag_Green,			*,	4500,	600
-		ChildBag_Red,			*,	4000,	500
-		CoyoteBag_Brown,		*,	20000,	6000
-		CoyoteBag_Green,		*,	20000,	6000
-		DryBag_Black,			*,	3500,	800
-		DryBag_Blue,			*,	3000,	800
-		DryBag_Green,			*,	4000,	100
-		DryBag_Orange,			*,	3000,	800
-		DryBag_Red,				*,	3000,	800
-		DryBag_Yellow,			*,	3000,	800
-		HuntingBag,				*,	28000,	7000
-		MountainBag_Blue,		*,	55000,	12000
-		MountainBag_Green,		*,	55000,	12000
-		MountainBag_Orange,		*,	55000,	12000
-		MountainBag_Red,		*,	55000,	12000
-		SmershBag,				*,	1000,	300
-		TaloonBag_Blue,			*,	5000,	100
-		TaloonBag_Green,		*,	7000,	200
-		TaloonBag_Orange,		*,	5000,	100
-		TaloonBag_Violet,		*,	5000,	100
-		TortillaBag,			*,	20000,	6000
-		WaterproofBag_Green,	*,	1100,	300
-		WaterproofBag_Orange,	*,	1000,	300
-		WaterproofBag_Yellow,	*,	1000,	300
+		AliceBag_Black,			*,	150000,	20000
+		AliceBag_Camo,			*,	150000,	20000
+		AliceBag_Green,			*,	150000,	20000
+		AssaultBag_Black,		*,	94000,	10000
+		AssaultBag_Green,		*,	94000,	10000
+		AssaultBag_Ttsko,		*,	94000,	10000
+		ChildBag_Blue,			*,	8000,	500
+		ChildBag_Green,			*,	8000,	600
+		ChildBag_Red,			*,	8000,	500
+		CoyoteBag_Brown,		*,	50000,	6000
+		CoyoteBag_Green,		*,	50000,	6000
+		DryBag_Black,			*,	8000,	800
+		DryBag_Blue,			*,	8000,	800
+		DryBag_Green,			*,	8000,	100
+		DryBag_Orange,			*,	8000,	800
+		DryBag_Red,				*,	8000,	800
+		DryBag_Yellow,			*,	8000,	800
+		HuntingBag,				*,	48000,	7000
+		MountainBag_Blue,		*,	45000,	12000
+		MountainBag_Green,		*,	95000,	12000
+		MountainBag_Orange,		*,	95000,	12000
+		MountainBag_Red,		*,	95000,	12000
+		SmershBag,				*,	5000,	300
+		TaloonBag_Blue,			*,	9000,	100
+		TaloonBag_Green,		*,	9000,	200
+		TaloonBag_Orange,		*,	9000,	100
+		TaloonBag_Violet,		*,	9000,	100
+		TortillaBag,			*,	40000,	6000
+		WaterproofBag_Green,	*,	6100,	300
+		WaterproofBag_Orange,	*,	6000,	300
+		WaterproofBag_Yellow,	*,	6000,	300
 		
 	<Category> TF HELMETS AND COVERS
 		TF_6B47HelmetCover_EMR,				*,	8000,	6400
 		TF_6B47HelmetCover_Syrian,			*,	8000,	6400
-		TF_LSHZHelmet_OD,					*,	50000,	40000
-		TF_MICH2000Helmet,					*,	60000,	48000
-		TF_MICH2000HelmetCover_Woodland,	*,	60000,	48000
-		TF_MICH2000Helmet_Black,			*,	60000,	48000
-		TF_MICH2000Helmet_Khaku,			*,	60000,	48000
+		TF_LSHZHelmet_OD,					*,	70000,	40000
+		TF_MICH2000Helmet,					*,	90000,	48000
+		TF_MICH2000HelmetCover_Woodland,	*,	90000,	48000
+		TF_MICH2000Helmet_Black,			*,	90000,	48000
+		TF_MICH2000Helmet_Khaku,			*,	90000,	48000
 		TF_Maska1Helmet,					*,	100000,	80000
 		TF_Maska1SchVizor,					*,	30000,	24000
 		TF_Maska1Vizor,						*,	30000,	24000
 		TF_WeldingMask,						*,	20000,	16000
 		TF_WeldingMask_Tagilla,				*,	20000,	16000
-		TF_6B47Helmet,						*,	40000,	32000
+		TF_6B47Helmet,						*,	60000,	32000
 
 	<Category> TF VESTS
-		TF_6B23Vest_EMR,					*,	30000,	24000
-		TF_6B23Vest_GFlora,					*,	30000,	24000
-		TF_6B23_112Vest_EMR,				*,	30000,	24000
-		TF_6B23_112Vest_EMR_Syrian,			*,	30000,	24000
-		TF_6B23_112Vest_GFlora,				*,	30000,	24000
-		TF_6B23_112Vest_GFlora_Syrian,		*,	30000,	24000
-		TF_6B43Vest_6sh112_EMR,				*,	30000,	24000
-		TF_6B43Vest_6sh112_EMR_Syrian,		*,	30000,	24000
-		TF_6B43Vest_6sh112_Syrian,			*,	30000,	24000
-		TF_6B43Vest_6sh112_Syrian_EMR,		*,	30000,	24000
-		TF_6B43Vest_EMR,					*,	30000,	24000
-		TF_6B43Vest_Syrian,					*,	30000,	24000
-		TF_6sh112_EMR,						*,	30000,	24000
-		TF_6sh112_Syrian,					*,	30000,	24000
-		TF_AVSVest_Coyote,					*,	30000,	24000
-		TF_AVSVest_Tagilla,					*,	30000,	24000
-		TF_IMTVVest,						*,	30000,	24000
-		TF_IMTVVest_Khaki,					*,	30000,	24000
-		TF_JPCVest_Coyote,					*,	30000,	24000
-		TF_JPCVest_MC,						*,	30000,	24000
-		TF_LVMBAVVest_KH,					*,	30000,	24000
-		TF_PlateCarrierVest_Coyote,			*,	30000,	24000
-		TF_PlateCarrierVest_EMR,			*,	30000,	24000
+		TF_6B23Vest_EMR,					*,	130000,	24000
+		TF_6B23Vest_GFlora,					*,	130000,	24000
+		TF_6B23_112Vest_EMR,				*,	130000,	24000
+		TF_6B23_112Vest_EMR_Syrian,			*,	130000,	24000
+		TF_6B23_112Vest_GFlora,				*,	130000,	24000
+		TF_6B23_112Vest_GFlora_Syrian,		*,	130000,	24000
+		TF_6B43Vest_6sh112_EMR,				*,	130000,	24000
+		TF_6B43Vest_6sh112_EMR_Syrian,		*,	130000,	24000
+		TF_6B43Vest_6sh112_Syrian,			*,	130000,	24000
+		TF_6B43Vest_6sh112_Syrian_EMR,		*,	130000,	24000
+		TF_6B43Vest_EMR,					*,	130000,	24000
+		TF_6B43Vest_Syrian,					*,	130000,	24000
+		TF_6sh112_EMR,						*,	130000,	24000
+		TF_6sh112_Syrian,					*,	130000,	24000
+		TF_AVSVest_Coyote,					*,	250000,	24000
+		TF_AVSVest_Tagilla,					*,	250000,	24000
+		TF_IMTVVest,						*,	250000,	24000
+		TF_IMTVVest_Khaki,					*,	250000,	24000
+		TF_JPCVest_Coyote,					*,	250000,	24000
+		TF_JPCVest_MC,						*,	250000,	24000
+		TF_LVMBAVVest_KH,					*,	130000,	24000
+		TF_PlateCarrierVest_Coyote,			*,	250000,	24000
+		TF_PlateCarrierVest_EMR,			*,	250000,	24000
 
 	<Category> TF POUCHES
-		TF_2GrenPouch,					*,	5000,	4000
-		TF_2GrenPouch_Khaki,			*,	5000,	4000
-		TF_3GrenPouch,					*,	4000,	2000
-		TF_3GrenPouch_Khaki,			*,	4000,	2000
-		TF_6B43GrenPouch,				*,	5000,	4000
-		TF_6B43MagPouch,				*,	5000,	4000
-		TF_AFAKMedPouch_Coyote,			*,	2000,	1000
-		TF_AFAKMedPouch_Khaki,			*,	2000,	1000
-		TF_AVSGren2Pouch_Coyote,		*,	3000,	2000
-		TF_AVSGren2Pouch_Khaki,			*,	3000,	2000
-		TF_AVSMag3Pouch_Coyote,			*,	5000,	4000
-		TF_AVSMag3Pouch_Khaki,			*,	5000,	4000
-		TF_DumpMagPouch,				*,	2000,	1000
-		TF_DumpMagPouch_Khaki,			*,	2000,	1000
-		TF_FastMag3Pouch_Coyote,		*,	5000,	4000
-		TF_FastMag3Pouch_Khaki,			*,	5000,	4000
-		TF_JPCMag3Pouch_Coyote,			*,	5000,	4000
-		TF_LMGPouch,					*,	5000,	4000
-		TF_LMGPouch_Khaki,				*,	5000,	4000
-		TF_LMG_M4Pouch,					*,	5000,	4000
-		TF_LMG_M4Pouch_Khaki,			*,	5000,	4000
-		TF_LargeUtilityPouch_Coyote,	*,	5000,	4000
-		TF_LargeUtilityPouch_Khaki,		*,	5000,	4000
-		TF_Mag2Pouch,					*,	5000,	4000
-		TF_Mag2Pouch_Khaki,				*,	5000,	4000
-		TF_Mag3Pouch,					*,	5000,	4000
-		TF_Mag3Pouch_Khaki,				*,	5000,	4000
-		TF_MedPouch1,					*,	2000,	1000
-		TF_MedPouch1_Khaki,				*,	2000,	1000
-		TF_MedPouch2,					*,	2000,	1000
-		TF_MedPouch2_Coyote,			*,	2000,	1000
-		TF_MedPouch3,					*,	2000,	1000
-		TF_MedPouch3_Khaki,				*,	2000,	1000
-		TF_PlateCarrierHolster_Coyote,	*,	5000,	4000
-		TF_PlateCarrierHolster_EMR,		*,	5000,	4000
-		TF_PlateCarrierPouches_Coyote,	*,	5000,	4000
-		TF_PlateCarrierPouches_EMR,		*,	5000,	4000
+		TF_2GrenPouch,					*,	50000,	4000
+		TF_2GrenPouch_Khaki,			*,	50000,	4000
+		TF_3GrenPouch,					*,	40000,	2000
+		TF_3GrenPouch_Khaki,			*,	40000,	2000
+		TF_6B43GrenPouch,				*,	50000,	4000
+		TF_6B43MagPouch,				*,	50000,	4000
+		TF_AFAKMedPouch_Coyote,			*,	20000,	1000
+		TF_AFAKMedPouch_Khaki,			*,	20000,	1000
+		TF_AVSGren2Pouch_Coyote,		*,	30000,	2000
+		TF_AVSGren2Pouch_Khaki,			*,	30000,	2000
+		TF_AVSMag3Pouch_Coyote,			*,	50000,	4000
+		TF_AVSMag3Pouch_Khaki,			*,	50000,	4000
+		TF_DumpMagPouch,				*,	20000,	1000
+		TF_DumpMagPouch_Khaki,			*,	20000,	1000
+		TF_FastMag3Pouch_Coyote,		*,	50000,	4000
+		TF_FastMag3Pouch_Khaki,			*,	50000,	4000
+		TF_JPCMag3Pouch_Coyote,			*,	50000,	4000
+		TF_LMGPouch,					*,	50000,	4000
+		TF_LMGPouch_Khaki,				*,	50000,	4000
+		TF_LMG_M4Pouch,					*,	50000,	4000
+		TF_LMG_M4Pouch_Khaki,			*,	50000,	4000
+		TF_LargeUtilityPouch_Coyote,	*,	50000,	4000
+		TF_LargeUtilityPouch_Khaki,		*,	50000,	4000
+		TF_Mag2Pouch,					*,	50000,	4000
+		TF_Mag2Pouch_Khaki,				*,	50000,	4000
+		TF_Mag3Pouch,					*,	50000,	4000
+		TF_Mag3Pouch_Khaki,				*,	50000,	4000
+		TF_MedPouch1,					*,	20000,	1000
+		TF_MedPouch1_Khaki,				*,	20000,	1000
+		TF_MedPouch2,					*,	20000,	1000
+		TF_MedPouch2_Coyote,			*,	20000,	1000
+		TF_MedPouch3,					*,	20000,	1000
+		TF_MedPouch3_Khaki,				*,	20000,	1000
+		TF_PlateCarrierHolster_Coyote,	*,	50000,	4000
+		TF_PlateCarrierHolster_EMR,		*,	50000,	4000
+		TF_PlateCarrierPouches_Coyote,	*,	50000,	4000
+		TF_PlateCarrierPouches_EMR,		*,	50000,	4000
 
 	<Category> TF BAGS
 		TF_AVSBag_Coyote,		*,	30000,	24000
@@ -2167,27 +2167,27 @@
 		TF_MAPBag_Khaki,		*,	30000,	24000
 
 	<Category> TF Clothes/Gear
-		TF_6sh122Jacket_Autumn,		*,	8000,	6400
-		TF_6sh122Jacket_Spring,		*,	8000,	6400
-		TF_6sh122Jacket_Syrian,		*,	8000,	6400
-		TF_6sh122Jacket_Syrian_EMR,	*,	8000,	6400
-		TF_6sh122Jacket_Winter,		*,	8000,	6400
-		TF_6sh122Pants_Autumn,		*,	8000,	6400
-		TF_6sh122Pants_Spring,		*,	8000,	6400
-		TF_6sh122Pants_Syrian,		*,	8000,	6400
-		TF_6sh122Pants_Syrian_EMR,	*,	8000,	6400
-		TF_6sh122Pants_Winter,		*,	8000,	6400
-		TF_CargoPantsShort_Black,	*,	8000,	6400
-		TF_CargoPantsShort_MARPAT,	*,	8000,	6400
-		TF_FannyPack_Coyote,		*,	8000,	6400
-		TF_G3CombatPants_MC,		*,	8000,	6400
-		TF_G3CombatPants_RG,		*,	8000,	6400
-		TF_G3CombatPants_WD,		*,	8000,	6400
-		TF_G3CombatShirt_MC,		*,	8000,	6400
-		TF_G3CombatShirt_RG,		*,	8000,	6400
-		TF_G3CombatShirt_WD,		*,	8000,	6400
-		TF_PMK4GasMask,				*,	8000,	6400
-		TF_PMK4GasMask_OD,			*,	8000,	6400
+		TF_6sh122Jacket_Autumn,		*,	10000,	6400
+		TF_6sh122Jacket_Spring,		*,	10000,	6400
+		TF_6sh122Jacket_Syrian,		*,	10000,	6400
+		TF_6sh122Jacket_Syrian_EMR,	*,	10000,	6400
+		TF_6sh122Jacket_Winter,		*,	10000,	6400
+		TF_6sh122Pants_Autumn,		*,	10000,	6400
+		TF_6sh122Pants_Spring,		*,	10000,	6400
+		TF_6sh122Pants_Syrian,		*,	10000,	6400
+		TF_6sh122Pants_Syrian_EMR,	*,	10000,	6400
+		TF_6sh122Pants_Winter,		*,	10000,	6400
+		TF_CargoPantsShort_Black,	*,	10000,	6400
+		TF_CargoPantsShort_MARPAT,	*,	10000,	6400
+		TF_FannyPack_Coyote,		*,	10000,	6400
+		TF_G3CombatPants_MC,		*,	10000,	6400
+		TF_G3CombatPants_RG,		*,	10000,	6400
+		TF_G3CombatPants_WD,		*,	10000,	6400
+		TF_G3CombatShirt_MC,		*,	10000,	6400
+		TF_G3CombatShirt_RG,		*,	10000,	6400
+		TF_G3CombatShirt_WD,		*,	10000,	6400
+		TF_PMK4GasMask,				*,	10000,	6400
+		TF_PMK4GasMask_OD,			*,	10000,	6400
 	
 <Trader> Vehicles Trader
 	<Category> Vehicles
