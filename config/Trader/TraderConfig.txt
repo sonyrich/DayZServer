@@ -121,10 +121,10 @@
 		DisinfectantAlcohol,		*,	4500,		1200
 		Epinephrine,				*,	12000,		7000
 		Morphine,					*,	15000,		8000
-		PainkillerTablets,			2,	25000,		12500
-		PurificationTablets,		*,	5000,		1400
-		TetracyclineAntibiotics,	1,	40000,		20000
-		VitaminBottle,				1,	50000,		25000
+		PainkillerTablets,			2,	50000,		12500
+		PurificationTablets,		*,	15000,		1400
+		TetracyclineAntibiotics,	1,	70000,		20000
+		VitaminBottle,				1,	75000,		25000
 		
 	<Category> Money Exchange
 		MoneyRuble1,	1,	1,		-1
