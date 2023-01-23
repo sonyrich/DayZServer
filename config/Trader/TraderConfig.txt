@@ -61,15 +61,15 @@
 		WolfPelt,		S,	40000,	9000
 		BearPelt,		S,	140000,	60000
 
-	<Category> Canned Food N Drinks
+	<Category> Food N Drinks
 		BakedBeansCan,		*,	50000,	6000
 		BoxCerealCrunchin,	*,	38000,	7000
 		Marmalade,			*,	37000,	3500
 		PeachesCan,			*,	45000,	4000
 		PorkCan,			*,	28000,	4500
 		PowderedMilk,		*,	30000,	8000
-		Rice,				*,	20000,	2000
-		SardinesCan,		*,	20000,	4600
+		Rice,				*,	14000,	2000
+		SardinesCan,		*,	30000,	4600
 		SpaghettiCan,		*,	52000,	4800
 		TacticalBaconCan,	*,	-1,		9500
 		TunaCan,			*,	24000,	4000
