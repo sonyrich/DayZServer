@@ -106,17 +106,17 @@
 				
 	<Category> Pharmacy
 		BandageDressing,		*,	-1,			9000
-		BloodBagEmpty,			*,	2500,		600
-		BloodTestKit,			*,	1000,		300
-		Defibrillator,			*,	10000,		2500
+		BloodBagEmpty,			*,	12000,		6000
+		BloodTestKit,			*,	5000,		1000
+		Defibrillator,			*,	10000,		4500
 		DisinfectantSpray,		*,	3000,		800
 		FirstAidKit,			*,	1500,		400
-		GasMask_Filter,			*,	20000,		8000
-		Heatpack,				*,	3000,		600
+		GasMask_Filter,			*,	50000,		15000
+		Heatpack,				*,	8000,		3000
 		Rag,					2,	400,		100
 		SalineBag,				*,	25000,		11000
 		StartKitIV,				*,	5000,		3000
-		Thermometer,			*,	500,		200
+		Thermometer,			*,	2500,		1000
 		CharcoalTablets,			*,	10000,		3000
 		DisinfectantAlcohol,		*,	4500,		1200
 		Epinephrine,				*,	12000,		7000
@@ -564,158 +564,158 @@
 <Trader> Weapon Trader
 	<Category> SNAFU Weapons Page 1
 		SNAFUAPS,                          W,		-1,				20000
-		SN_Springfield,                    W,		-1,				61000
+		SN_Springfield,                    W,		-1,				21000
 		SN_Glock19,                        W,		-1,				20000
 		SN_Mp443,                          W,		285000,			20000
 		SN_M9,                             W,		-1,				20000
-		SN_USP,                            W,		320000,			29000
-		SNAFU_Fort12_GUN,                  W,		200000,			18000
-		SNAFUChiappaRhino,                 W,		340000,			30500
-		SNAFUSWM629,                       W,		700000,			53000
-		SNAFUMagnum500,                    W,		850000,			68000
-		Tec9_Gun,                          W,		-1,				50000
-		GCGN_Vityaz,                       W,		400000,			32000
-		SNAFUUzi,                          W,		700000,			70000
-		SNAFUVECTOR_9mm_GUN,               W,		1000000,		80000
-		SNAFUVECTOR_45acp_GUN,             W,		1200000,		110000
-		SNAFU_MP9_GUN,                     W,		1500000,		100000
-		SNAFU_MPX_GUN,                     W,		1650000,		105000
-		SNAFU_Agram_GUN,                   W,		920000,			91000
-		SNAFUKH9,                          W,		1500000,		100000
-		SNAFUSten,                         W,		180000,			120000
-		SNAFU_PDW_9mm,	                   W,		1500000,		100000
-		SNAFU_PDW_45ACP,	               W,		1600000,		130000
-		SNAFUThompsonMk2,                  W,		950000,			60000
-		GCGN_MP7,                          W,		1250000,		100000
-		SNAFUP90,                          W,		1600000,		120000
-		SNAFU_Trenchgun,                   W,		700000,			610000
-		SNAFU_TP82S,                       W,		200000,			20000
-		SN_Auto_Shotgun,                   W,		900000,			90000
-		SN_M870,                           W,		-1,				71000
-		VR80_Gun,                          W,		-1,				130000
-		Spas12_Gun,                        W,		1000000,		80000
-		AA12_Gun,                          W,		-1,				200000
-		SNAFUSR3_Vikhr,                    W,		1600000,		140000
-		GCGN_M1Garand,                     W,		1200000,		100000
-		SNAFU_M1918A2,                     W,		1400000,		120000
-		SNAFUMarlin1895,                   W,		-1,				200000
-		SNAFU_AK12A,                       W,		-1,				100000
-		SNAFU_RPK16_Black,                 W,		1000000,		120000
-		SNAFU_RPK16_Green,                 W,		-1,				120000
-		SNAFU_RPK16_Tan,                   W,		-1,				120000
-		SNAFU_AEK545_Gun,                  W,		1400000,		130000
-		SNAFU_U100,                        W,		1800000,		150000
-		GCGN_M4A1,                         W,		-1,				125000
-		SNAFU_CZ805_Gun,                   W,		-1,				125000
-		GCGN_HK416,                        W,		-1,				120000
-		ACR_Gun,                           W,		1300000,		100000
-		M4_6933_Gun,                       W,		1400000,		120000
-		IA2_Gun,                           W,		1300000,		100000
-		SG550_Gun,                         W,		1350000,		100000
-		MK18_Gun,                          W,		-1,				130000
-		SCAR_Gun,                          W,		1700000,		160000
-		SNAFU_CALI_GUN,                    W,		1500000,		130000
-		SNAFU_AK19,                        W,		1380000,		120000
-		SNAFUTAR21_Black,                  W,		1600000,		120000
-		SNAFUTAR21_Tan,                    W,		1600000,		120000
-		SNAFUTAR21_Green,                  W,		1600000,		120000
-		SNAFUFAMAS,                        W,		1470000,		130000
-		SNAFUMk12,                         W,		1490000,		135000
-		SNAFUSA80,                         W,		1280000,		100000
-		HK416_Gun,                         W,		-1,				130000
-		SNAFUAUG,                          W,		1600000,		160000
-		SNAFUAUG_BK,                       W,		-1,				160000
-		SNAFU_ADAR_Modular16_GUN,          W,		1220000,		100000
-		SNAFU_AR15_Modular16_GUN,          W,		-1,				100000
-		SNAFU_LVOA556_GUN,                 W,		-1,				130000
-		SNAFU_M4556_Modular14_GUN,         W,		1700000,		140000
-		SNAFU_M4556_Modular16_GUN,         W,		1700000,		140000
-		SNAFU_Saint556_Gun,                W,		1560000,		130000
-		GCGN_M249,                         W,		2800000,		200000
+		SN_USP,                            W,		320000,			24000
+		SNAFU_Fort12_GUN,                  W,		200000,			19000
+		SNAFUChiappaRhino,                 W,		340000,			27500
+		SNAFUSWM629,                       W,		700000,			34000
+		SNAFUMagnum500,                    W,		850000,			38000
+		Tec9_Gun,                          W,		-1,				36000
+		GCGN_Vityaz,                       W,		400000,			35000
+		SNAFUUzi,                          W,		700000,			37000
+		SNAFUVECTOR_9mm_GUN,               W,		1000000,		38000
+		SNAFUVECTOR_45acp_GUN,             W,		1200000,		38500
+		SNAFU_MP9_GUN,                     W,		1500000,		38000
+		SNAFU_MPX_GUN,                     W,		1650000,		38000
+		SNAFU_Agram_GUN,                   W,		920000,			34000
+		SNAFUKH9,                          W,		1500000,		33000
+		SNAFUSten,                         W,		180000,			28000
+		SNAFU_PDW_9mm,	                   W,		1500000,		30000
+		SNAFU_PDW_45ACP,	               W,		1600000,		32000
+		SNAFUThompsonMk2,                  W,		950000,			28000
+		GCGN_MP7,                          W,		1250000,		32000
+		SNAFUP90,                          W,		1600000,		39000
+		SNAFU_Trenchgun,                   W,		700000,			41000
+		SNAFU_TP82S,                       W,		200000,			23000
+		SN_Auto_Shotgun,                   W,		900000,			40000
+		SN_M870,                           W,		-1,				36000
+		VR80_Gun,                          W,		-1,				44000
+		Spas12_Gun,                        W,		1000000,		40000
+		AA12_Gun,                          W,		-1,				49000
+		SNAFUSR3_Vikhr,                    W,		1600000,		41000
+		GCGN_M1Garand,                     W,		1200000,		40000
+		SNAFU_M1918A2,                     W,		1400000,		50000
+		SNAFUMarlin1895,                   W,		-1,				52000
+		SNAFU_AK12A,                       W,		-1,				50000
+		SNAFU_RPK16_Black,                 W,		1000000,		52000
+		SNAFU_RPK16_Green,                 W,		-1,				52000
+		SNAFU_RPK16_Tan,                   W,		-1,				52000
+		SNAFU_AEK545_Gun,                  W,		1400000,		53000
+		SNAFU_U100,                        W,		1800000,		50000
+		GCGN_M4A1,                         W,		-1,				45000
+		SNAFU_CZ805_Gun,                   W,		-1,				45000
+		GCGN_HK416,                        W,		-1,				45000
+		ACR_Gun,                           W,		1300000,		45000
+		M4_6933_Gun,                       W,		1400000,		45000
+		IA2_Gun,                           W,		1300000,		50000
+		SG550_Gun,                         W,		1350000,		43000
+		MK18_Gun,                          W,		-1,				45000
+		SCAR_Gun,                          W,		1700000,		44000
+		SNAFU_CALI_GUN,                    W,		1500000,		44000
+		SNAFU_AK19,                        W,		1380000,		46000
+		SNAFUTAR21_Black,                  W,		1600000,		44000
+		SNAFUTAR21_Tan,                    W,		1600000,		44000
+		SNAFUTAR21_Green,                  W,		1600000,		44000
+		SNAFUFAMAS,                        W,		1470000,		42000
+		SNAFUMk12,                         W,		1490000,		45000
+		SNAFUSA80,                         W,		1280000,		52000
+		HK416_Gun,                         W,		-1,				45000
+		SNAFUAUG,                          W,		1600000,		41000
+		SNAFUAUG_BK,                       W,		-1,				41000
+		SNAFU_ADAR_Modular16_GUN,          W,		1220000,		43000
+		SNAFU_AR15_Modular16_GUN,          W,		-1,				45000
+		SNAFU_LVOA556_GUN,                 W,		-1,				45000
+		SNAFU_M4556_Modular14_GUN,         W,		1700000,		45000
+		SNAFU_M4556_Modular16_GUN,         W,		1700000,		45000
+		SNAFU_Saint556_Gun,                W,		1560000,		45000
+		GCGN_M249,                         W,		2800000,		90000
 	
 	<Category> SNAFU Weapons Page 2
-		SNAFUPPSh,                         W,		400000,			310000
-		SNAFU_SKS,                         W,		-1,				650000
-		GCGN_VEPR,                         W,		600000,			50000
-		SNAFUPPSKN,                        W,		1300000,		100000
-		SNAFU_AK103A,                      W,		1600000,		140000
-		SNAFURPD,                          W,		-1,				200000
-		SNAFU_MK4710Gun,                   W,		-1,				110000
-		SNAFU_MK4716Gun,                   W,		-1,				110000
-		SNAFU_KAC_Gun,                     W,		1500000,		130000
-		SNAFUHoneyBadger_Black,            W,		-1,				140000
-		SNAFUHoneyBadger_Tan,              W,		-1,				140000
-		SNAFU_AR15SPRBK,                   W,		-1,				120000
-		SNAFU_AR15SPRTAN,                  W,		-1,				120000
-		SNAFU_M4300AC_10_GUN,              W,		-1,				130000
-		SNAFU_M4300AC_14_GUN,              W,		-1,				130000
-		SNAFU_M4300AC_16_GUN,              W,		-1,				130000
-		SNAFU_M4300AC_14DV_GUN,            W,		-1,				130000
-		SNAFU_M14,                         W,		1250000,		110000
-		SNAFU_M76,                         W,		1900000,		160000
-		SNAFU_FRF2,                        W,		-1,				130000
-		SNAFU_M48,                         W,		1700000,		150000
-		GCGN_M110_Black,                   W,		-1,				120000
-		GCGN_M110_Green,                   W,		-1,				120000
-		GCGN_M110_Tan,                     W,		-1,				120000
-		SNAFU_SR25_Gun,                    W,		1270000,		120000
-		SNAFU_Saint_Gun,                   W,		1100000,		92000
-		SNAFURSASS_Wood_GUN,               W,		1320000,		120000
-		SNAFURSASS_od_GUN,                 W,		1320000,		120000
-		SNAFURSASS_dkmc_GUN,               W,		1320000,		120000
-		GCGN_M700,                         W,		1600000,		130000
-		SNHK417_Gun,                       W,		-1,				140000
-		SNSA58_Gun,                        W,		-1,				140000
-		SNAFUM1A_Black,                    W,		-1,				100000
-		SNAFUM1A_Green,                    W,		-1,				100000
-		SNAFUM1A_Tan,                      W,		-1,				100000
-		SNAFU_AK308,                       W,		1820000,		150000
-		SNAFU_Saint_Gun,                   W,		1100000,		100000
-		Snafu_ScarH_Black_GUN,             W,		-1,				150000
-		Snafu_ScarH_DKMC_GUN,              W,		-1,				150000
-		Snafu_ScarH_OD_GUN,                W,		-1,				150000
-		Snafu_ScarH_Snow_GUN,              W,		-1,				150000
-		Snafu_ScarH_Tan_GUN,               W,		-1,				150000
-		Snafu_pkp_Black_GUN,               W,		-1,				250000
-		Snafu_pkp_NBlack_GUN,              W,		-1,				250000
-		SNAFUM24_GUN,                      W,		2200000,		183000
-		SNAFU_AWM_Gun,                     W,		-1,				320000
-		SNAFUM98B_Atac_GUN,                W,		-1,				320000
-		SNAFUM98B_Digi_GUN,                W,		-1,				320000
-		SNAFUM98B_Ger_GUN,                 W,		-1,				320000
-		SNAFUM98B_Mc_GUN,                  W,		-1,				320000
-		SNAFUM98B_Snow_GUN,                W,		-1,				320000
-		SNAFUM98B_Wood_GUN,                W,		-1,				320000
-		SNAFUT5000_Dkmcc_GUN,              W,		3500000,		250000
-		SNAFUT5000_Snow_GUN,               W,		3500000,		250000
-		SNAFUT5000_Wood_GUN,               W,		3500000,		250000
-		SNAFUSRSA2,                        W,		3680000,		252000
-		SNAFUTac21,                        W,		3650000,		252000
+		SNAFUPPSh,                         W,		400000,			33000
+		SNAFU_SKS,                         W,		-1,				40000
+		GCGN_VEPR,                         W,		600000,			40000
+		SNAFUPPSKN,                        W,		1300000,		40000
+		SNAFU_AK103A,                      W,		1600000,		47000
+		SNAFURPD,                          W,		-1,				95000
+		SNAFU_MK4710Gun,                   W,		-1,				48000
+		SNAFU_MK4716Gun,                   W,		-1,				48000
+		SNAFU_KAC_Gun,                     W,		1500000,		50000
+		SNAFUHoneyBadger_Black,            W,		-1,				52000
+		SNAFUHoneyBadger_Tan,              W,		-1,				52000
+		SNAFU_AR15SPRBK,                   W,		-1,				46000
+		SNAFU_AR15SPRTAN,                  W,		-1,				46000
+		SNAFU_M4300AC_10_GUN,              W,		-1,				52000
+		SNAFU_M4300AC_14_GUN,              W,		-1,				52000
+		SNAFU_M4300AC_16_GUN,              W,		-1,				52000
+		SNAFU_M4300AC_14DV_GUN,            W,		-1,				52000
+		SNAFU_M14,                         W,		1250000,		44000
+		SNAFU_M76,                         W,		1900000,		49000
+		SNAFU_FRF2,                        W,		-1,				46000
+		SNAFU_M48,                         W,		1700000,		55000
+		GCGN_M110_Black,                   W,		-1,				52000
+		GCGN_M110_Green,                   W,		-1,				52000
+		GCGN_M110_Tan,                     W,		-1,				52000
+		SNAFU_SR25_Gun,                    W,		1270000,		52000
+		SNAFU_Saint_Gun,                   W,		1100000,		45000
+		SNAFURSASS_Wood_GUN,               W,		1320000,		52000
+		SNAFURSASS_od_GUN,                 W,		1320000,		52000
+		SNAFURSASS_dkmc_GUN,               W,		1320000,		52000
+		GCGN_M700,                         W,		1600000,		55000
+		SNHK417_Gun,                       W,		-1,				55000
+		SNSA58_Gun,                        W,		-1,				56000
+		SNAFUM1A_Black,                    W,		-1,				54000
+		SNAFUM1A_Green,                    W,		-1,				54000
+		SNAFUM1A_Tan,                      W,		-1,				54000
+		SNAFU_AK308,                       W,		1820000,		55000
+		SNAFU_Saint_Gun,                   W,		1100000,		45000
+		Snafu_ScarH_Black_GUN,             W,		-1,				55000
+		Snafu_ScarH_DKMC_GUN,              W,		-1,				55000
+		Snafu_ScarH_OD_GUN,                W,		-1,				55000
+		Snafu_ScarH_Snow_GUN,              W,		-1,				55000
+		Snafu_ScarH_Tan_GUN,               W,		-1,				55000
+		Snafu_pkp_Black_GUN,               W,		-1,				110000
+		Snafu_pkp_NBlack_GUN,              W,		-1,				110000
+		SNAFUM24_GUN,                      W,		2200000,		100000
+		SNAFU_AWM_Gun,                     W,		-1,				120000
+		SNAFUM98B_Atac_GUN,                W,		-1,				140000
+		SNAFUM98B_Digi_GUN,                W,		-1,				140000
+		SNAFUM98B_Ger_GUN,                 W,		-1,				140000
+		SNAFUM98B_Mc_GUN,                  W,		-1,				140000
+		SNAFUM98B_Snow_GUN,                W,		-1,				140000
+		SNAFUM98B_Wood_GUN,                W,		-1,				140000
+		SNAFUT5000_Dkmcc_GUN,              W,		3500000,		150000
+		SNAFUT5000_Snow_GUN,               W,		3500000,		150000
+		SNAFUT5000_Wood_GUN,               W,		3500000,		150000
+		SNAFUSRSA2,                        W,		3680000,		152000
+		SNAFUTac21,                        W,		3650000,		152000
 		SNAFUDVL10M2,                      W,		1760000,		135000
-		SNAFU_MAR10_Black_GUN,             W,		3900000,		350000
-		SNAFUGevar_Grey,                   W,		2200000,		200000
-		SNAFUGevar_Black,                  W,		2200000,		200000
-		SNAFUGevar_Green,                  W,		2200000,		200000
-		SNAFUGevar_Tan,                    W,		2200000,		200000
-		SNAFUKivaari_Black_GUN,            W,		-1,				350000
-		SNAFUKivaari_Tan_GUN,              W,		-1,				350000
-		SNAFUKivaari_Grey_GUN,             W,		-1,				350000
-		SNAFUKivaari_Snow_GUN,             W,		-1,				350000
-		SNAFU_M300BK,	                   W,		4050000,		360000
-		SNAFU_M300TAN,	                   W,		4050000,		360000
-		SNAFU_M300Green,                   W,		4050000,		360000
-		GCGN_M200,                         W,		-1,				360000
-		SNAFU_M200Green,                   W,		-1,				360000
-		SNAFU_M200SNOW,	                   W,		-1,				360000
-		GCGN_M200_Tan,                     W,		-1,				360000
-		SNAFUM96,                          W,		2000000,		200000
-		SNAFUGM6Lynx,                      W,		4200000,		370000
-		GCGN_M82_Barret,                   W,		4200000,		370000
-		SNAFUAX50_GUN,                     W,		4000000,		360000
-		SNAFU_AS50_GUN,                    W,		4800000,		410000
-		SNAFUASh12,                        W,		-1,				200000
-		SNAFUVSSK,		                   W,		2200000,		300000
-		SNAFUAlligator,                    W,		2100000,		450000
+		SNAFU_MAR10_Black_GUN,             W,		3900000,		140000
+		SNAFUGevar_Grey,                   W,		2200000,		130000
+		SNAFUGevar_Black,                  W,		2200000,		130000
+		SNAFUGevar_Green,                  W,		2200000,		130000
+		SNAFUGevar_Tan,                    W,		2200000,		130000
+		SNAFUKivaari_Black_GUN,            W,		-1,				140000
+		SNAFUKivaari_Tan_GUN,              W,		-1,				140000
+		SNAFUKivaari_Grey_GUN,             W,		-1,				140000
+		SNAFUKivaari_Snow_GUN,             W,		-1,				140000
+		SNAFU_M300BK,	                   W,		4050000,		160000
+		SNAFU_M300TAN,	                   W,		4050000,		160000
+		SNAFU_M300Green,                   W,		4050000,		160000
+		GCGN_M200,                         W,		-1,				160000
+		SNAFU_M200Green,                   W,		-1,				160000
+		SNAFU_M200SNOW,	                   W,		-1,				160000
+		GCGN_M200_Tan,                     W,		-1,				160000
+		SNAFUM96,                          W,		2000000,		160000
+		SNAFUGM6Lynx,                      W,		4200000,		170000
+		GCGN_M82_Barret,                   W,		4200000,		170000
+		SNAFUAX50_GUN,                     W,		4000000,		160000
+		SNAFU_AS50_GUN,                    W,		4800000,		200000
+		SNAFUASh12,                        W,		-1,				150000
+		SNAFUVSSK,		                   W,		2200000,		170000
+		SNAFUAlligator,                    W,		2100000,		250000
 	
 	<Category> TF WEAPONS
 		TF_ADAR2_15,			W,	1100000,	306000
@@ -775,57 +775,57 @@
 		TF_VPO190,				W,	1320000,	376000
 		
 	<Category> Vanilla Weapons
-		CZ75,					W,	-1,		35000
-		Colt1911,				W,	-1,		36000
-		Deagle,					W,	450000,	80000
-		Deagle_Gold,			W,	455000,	87000
+		CZ75,					W,	-1,		25000
+		Colt1911,				W,	-1,		26000
+		Deagle,					W,	450000,	30000
+		Deagle_Gold,			W,	455000,	37000
 		Derringer_Black,		W,	110000,	10000
 		Derringer_Grey,			W,	110000,	10000
 		Derringer_Pink,			W,	110000,	10000
-		Engraved1911,			W,	210000,	38500
-		FNX45,					W,	-1,		39200
-		Glock19,				W,	-1,		36000
-		MKII,					W,	-1,		38500
-		Magnum,					W,	440000,	70000
-		MakarovIJ70,			W,	-1,		25000
-		P1,						W,	-1,		34000
-		SawedoffMagnum,			W,	440000,	60000
-		Flaregun,				W,	20000,	5000
-		B95,					W,	-1,		95000
-		CZ527,					W,	-1,		75000
-		CZ550,					W,	-1,		72000
-		Izh18,					W,	-1,		50000
-		Mosin9130,				W,	835000,	65000
-		Repeater,				W,	280000, 140000
-		SKS,					W,	-1,		85000
-		SawedoffB95,			W,	610000,	110000
-		Winchester70,			W,	840000,	140000
-		Ruger1022,				W,	200000,	55000
-		AK101,					W,	420000,	148000
-		AK74,					W,	-1,		138000
-		AKM,					W,	450000,	170000
-		AKS74U,					W,	-1,		135000
-		AUG,					W,	-1,		152000
-		AUGShort,				W,	-1,		150000
-		FAL,					W,	-1,		200000
-		FAMAS,					W,	-1,		145000
-		M16A2,					W,	-1,		145000
-		M4A1,					W,	-1,		150000
-		SawedoffFAMAS,			W,	540000,	145000
-		Izh43Shotgun,			W,	-1,		52000
-		Mp133Shotgun,			W,	-1,		68000
-		Saiga,					W,	-1,		100000
-		SawedoffIzh43Shotgun,	W,	120000,	60000
-		CZ61,					W,	-1,		75000
-		MP5K,					W,	-1,		88000
-		PP19,					W,	220000,	87000
-		UMP45,					W,	-1,		90000
-		SSG82,					W,	180000,	90000
-		SVD,					W,	-1,		300000
-		Scout,					W,	-1,		90000
-		Scout_Chernarus,		W,	180000,	90000
-		Scout_Livonia,			W,	180000,	90000
-		VSS,					W,	450000,	225000
+		Engraved1911,			W,	210000,	28000
+		FNX45,					W,	-1,		29000
+		Glock19,				W,	-1,		26000
+		MKII,					W,	-1,		27000
+		Magnum,					W,	440000,	32000
+		SawedoffMagnum,			W,	440000,	30000
+		MakarovIJ70,			W,	-1,		22000
+		P1,						W,	-1,		26000
+		Flaregun,				W,	20000,	8000
+		B95,					W,	-1,		45000
+		CZ527,					W,	-1,		45000
+		CZ550,					W,	-1,		42000
+		Izh18,					W,	-1,		40000
+		Mosin9130,				W,	835000,	45000
+		Repeater,				W,	280000, 50000
+		SKS,					W,	-1,		45000
+		SawedoffB95,			W,	610000,	31000
+		Winchester70,			W,	840000,	40000
+		Ruger1022,				W,	200000,	35000
+		AK101,					W,	420000,	42000
+		AK74,					W,	-1,		44000
+		AKM,					W,	450000,	450000
+		AKS74U,					W,	-1,		44000
+		AUG,					W,	-1,		45000
+		AUGShort,				W,	-1,		45000
+		FAL,					W,	-1,		50000
+		FAMAS,					W,	-1,		45000
+		M16A2,					W,	-1,		45000
+		M4A1,					W,	-1,		45000
+		SawedoffFAMAS,			W,	540000,	45000
+		Izh43Shotgun,			W,	-1,		50000
+		Mp133Shotgun,			W,	-1,		48000
+		Saiga,					W,	-1,		52000
+		SawedoffIzh43Shotgun,	W,	120000,	50000
+		CZ61,					W,	-1,		35000
+		MP5K,					W,	-1,		36000
+		PP19,					W,	220000,	37000
+		UMP45,					W,	-1,		36000
+		SSG82,					W,	180000,	50000
+		SVD,					W,	-1,		70000
+		Scout,					W,	-1,		50000
+		Scout_Chernarus,		W,	180000,	50000
+		Scout_Livonia,			W,	180000,	50000
+		VSS,					W,	450000,	55000
 	
 	<Category> Melee	
 		BaseballBat,			W,	10000,	5000
@@ -932,22 +932,22 @@
 		TF_Ammo_57,					20,	90000,		44000
 		
 	<Category> SNAFU Ammo
-		GCGN_Ammo_3006,						*,		335000,		120000
-		GCGN_Ammo_408Chey,					10,		520000,		220000
-		GCGN_Ammo_50Cal,					10,		700000,		250000
-		GCGN_Ammo_762x51,					*,		320000,		110000
-		SNAFU_Ammo_127x55mm,				*,		480000,		160000
-		SNAFU_Ammo_127x55mmAP,				*,		490000,		180000
-		SNAFU_Ammo_145Cal,					10,		850000,		290000
-		SNAFU_Ammo_300ACC,					*,		210000,		93000
-		SNAFU_Ammo_338,						10,		375000,		200000
+		GCGN_Ammo_3006,						*,		335000,		92000
+		GCGN_Ammo_408Chey,					10,		520000,		110000
+		GCGN_Ammo_50Cal,					10,		700000,		150000
+		GCGN_Ammo_762x51,					*,		320000,		90000
+		SNAFU_Ammo_127x55mm,				*,		480000,		100000
+		SNAFU_Ammo_127x55mmAP,				*,		490000,		110000
+		SNAFU_Ammo_145Cal,					10,		850000,		210000
+		SNAFU_Ammo_300ACC,					*,		210000,		92000
+		SNAFU_Ammo_338,						10,		375000,		150000
 		SNAFU_Ammo_44,						20,		100000,		60000
 		SNAFU_Ammo_45_70mm,					20,		200000,		70000
 		SNAFU_Ammo_46x30,					*,		85000,		40000
 		SNAFU_Ammo_500_SW,					20,		150000,		64000
 		SNAFU_Ammo_5_7x28mm,				*,		90000,		44000
 		SNAFU_Ammo_762x25,					*,		70000,		35000
-		SNAFU_MD_Ammo_556x45mm_M855A1,		*,		205000,		90000
+		SNAFU_MD_Ammo_556x45mm_M855A1,		*,		205000,		80000
 
 	<Category> SNAFU Magazines
 		AA12_Mag,                           M,		70000,			13000
