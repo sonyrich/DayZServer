@@ -175,7 +175,7 @@
 		WoodAxe,			*,	50000,	8000
 		
 	<Category> Hardware Supplies
-		Paper,					*,	1000,	100
+		Paper,					*,	500,	100
 		Pen_Blue,				*,	1000,	500
 		Rope,					*,	3000,	2000
 		TannedLeather,			*,	500,	100
@@ -258,20 +258,20 @@
 		Bear_White,	*,	5000,	1500
 		
 	<Category> M Kit Furnitures
-		M_Big_Gas_Canister,			*,	100000,	50000
-		M_Kit_Fridge,				*,	120000,	30000
-		M_Kit_Gas_Stove,			*,	400000,	100000
-		M_Kit_Gun_Cabinet,			*,	80000,	15000
-		M_Kit_Gun_Rack,				*,	100000,	25000
-		M_Kit_Gun_Rack_Green,		*,	80000,	20000
-		M_Kit_Gun_Rack_Tan,			*,	80000,	20000
-		M_Kit_Gun_Wall,				*,	120000,	30000
-		M_Kit_Medical_Bag,			*,	50000,	20000
-		M_Kit_Shelf,				*,	10000,	5000
-		M_Kit_WorkBenchTable,		*,	15000,	5700
-		M_WorkBench_BluePrint,		*,	10000,	3500
-		M_WorkBench_Hammer,			*,	7000,	2500
-		M_WorkBench_ToolBox,		*,	20000,	7500
+		M_Big_Gas_Canister,			*,	100000,		50000
+		M_Kit_Fridge,				*,	120000,		30000
+		M_Kit_Gas_Stove,			*,	400000,		100000
+		M_Kit_Gun_Cabinet,			*,	80000,		15000
+		M_Kit_Gun_Rack,				*,	100000,		25000
+		M_Kit_Gun_Rack_Green,		*,	80000,		20000
+		M_Kit_Gun_Rack_Tan,			*,	80000,		20000
+		M_Kit_Gun_Wall,				*,	120000,		30000
+		M_Kit_Medical_Bag,			*,	50000,		20000
+		M_Kit_Shelf,				*,	10000,		5000
+		M_Kit_WorkBenchTable,		*,	15000,		5700
+		M_WorkBench_BluePrint,		*,	10000,		3500
+		M_WorkBench_Hammer,			*,	7000,		2500
+		M_WorkBench_ToolBox,		*,	20000,		7500
 	
 	<Category> BBP Building Kits
 		BBP_Barbwire_Fence_Kit,			*,	1000,	500
@@ -373,7 +373,7 @@
 		Msp_RoomDivider,				*,		-1,			5000
 		Msp_RoomDivider_Flat,			*,		-1,			5000
 		Msp_RoomDivider_Kit,			*,		50000,		5000
-		Msp_Shelf,						*,		-1,		5000
+		Msp_Shelf,						*,		-1,			5000
 		Msp_Shelf_Kit,					*,		20000,		5000
 		Msp_Mattress_Blue,				*,		10000,		5000
 		Msp_Mattress_Green,				*,		10000,		5000
@@ -425,91 +425,91 @@
 		Msp_MilitaryCrate_Olive,					*,		500000,		50000
 		Msp_MilitaryCrate_Tan,						*,		500000,		50000
 		Msp_MilitaryLocker,							*,		-1,			50000
-		Msp_MilitaryLocker_Kit,						*,		400000,		50000
-		Msp_AmericanAppleCrate, 					*,		15000,		50000
-		Msp_AmmoCrate, 								*,		20000,		50000
-		Msp_AppleCrate, 							*,		15000,		50000
-		Msp_Basket_Rectangular,						*,		15000,		50000
-		Msp_Basket_Wicker,							*,		15000,		50000
-		Msp_Bookcase,								*,		-1,			50000
-		Msp_Bookcase_Kit,							*,		25000,		50000
-		Msp_CoolerBox,								*,		30000,		50000
-		Msp_CoolerBox_Black, 						*,		30000,		50000
-		Msp_DoubleGunRack,							*,		-1,			50000
-		Msp_DoubleGunRack_Kit,						*,		240000,		50000
-		Msp_FishingRodsRack,						*,		-1,			50000
-		Msp_FishingRodsRack_Kit,					*,		20000,		50000
+		Msp_MilitaryLocker_Kit,						*,		400000,		40000
+		Msp_AmericanAppleCrate, 					*,		15000,		5000
+		Msp_AmmoCrate, 								*,		20000,		5000
+		Msp_AppleCrate, 							*,		15000,		5000
+		Msp_Basket_Rectangular,						*,		15000,		5000
+		Msp_Basket_Wicker,							*,		15000,		5000
+		Msp_Bookcase,								*,		-1,			8000
+		Msp_Bookcase_Kit,							*,		25000,		8000
+		Msp_CoolerBox,								*,		30000,		10000
+		Msp_CoolerBox_Black, 						*,		30000,		10000
+		Msp_DoubleGunRack,							*,		-1,			30000
+		Msp_DoubleGunRack_Kit,						*,		240000,		30000
+		Msp_FishingRodsRack,						*,		-1,			30000
+		Msp_FishingRodsRack_Kit,					*,		20000,		30000
 		Msp_FourDoor_MilitaryLocker,				*,		-1,			50000
 		Msp_FourDoor_MilitaryLocker_Green,			*,		-1,			50000
 		Msp_FourDoor_MilitaryLocker_Green_Kit,		*,		500000,		50000
 		Msp_FourDoor_MilitaryLocker_Kit,			*,		500000,		50000
-		Msp_GrenadeBox,								*,		20000,		50000
-		Msp_GunCabinet,								*,		-1,			50000
-		Msp_GunCabinet_Kit,							*,		100000,		50000
-		Msp_GunRack,								*,		-1,			50000
-		Msp_GunRack_Kit,							*,		120000,		50000
-		Msp_Gunwall,								*,		-1,			50000
+		Msp_GrenadeBox,								*,		20000,		8000
+		Msp_GunCabinet,								*,		-1,			30000
+		Msp_GunCabinet_Kit,							*,		100000,		30000
+		Msp_GunRack,								*,		-1,			30000
+		Msp_GunRack_Kit,							*,		120000,		30000
+		Msp_Gunwall,								*,		-1,			30000
 		Msp_Gunwall_Kit,							*,		500000,		50000
-		Msp_LargeAmmoBox,							*,		20000,		50000
-		Msp_Locker,									*,		-1,			50000
-		Msp_Locker_Kit,								*,		300000,		50000
-		Msp_Mailbox, 								*,		10000,		50000
-		Msp_MedicalBox,								*,		-1,			50000
-		Msp_MedicalBox_Kit,							*,		75000,		50000
-		Msp_MedievalChest, 							*,		40000,		50000
-		Msp_OldLocker,								*,		-1,			50000
-		Msp_OldLocker_Green,						*,		-1,			50000
-		Msp_OldLocker_Green_Kit,					*,		200000,		50000
-		Msp_OldLocker_Kit,							*,		200000,		50000
-		Msp_PlasticCrate, 							*,		30000,		50000
-		Msp_RifleSafe,								*,		-1,			50000
-		Msp_RifleSafe_Green,						*,		-1,			50000
-		Msp_RifleSafe_Green_Kit,					*,		400000,		50000
-		Msp_RifleSafe_Grey,							*,		-1,			50000
-		Msp_RifleSafe_Grey_Kit,						*,		400000,		50000
-		Msp_RifleSafe_Kit,							*,		400000,		50000
-		Msp_RifleSafe_Purple,						*,		-1,			50000
-		Msp_RifleSafe_Purple_Kit,					*,		400000,		50000
-		Msp_RifleSafe_Tan,							*,		-1,			50000
-		Msp_RifleSafe_Tan_Kit,						*,		400000,		50000
-		Msp_Safe, 									*,		250000,		50000
-		Msp_SoloLocker,								*,		-1,			50000
-		Msp_SoloLocker_Black,						*,		-1,			50000
-		Msp_SoloLocker_Black_Kit,					*,		100000,		50000
-		Msp_SoloLocker_Green,						*,		-1,			50000
-		Msp_SoloLocker_Green_Kit,					*,		100000,		50000
-		Msp_SoloLocker_Kit,							*,		100000,		50000
-		Msp_SoloLocker_Red,							*,		-1,			50000
-		Msp_SoloLocker_RedRusty,					*,		-1,			50000
-		Msp_SoloLocker_RedRusty_Kit,				*,		90000,		50000
-		Msp_SoloLocker_Red_Kit,						*,		100000,		50000
-		Msp_SoloLocker_White,						*,		-1,			50000
-		Msp_SoloLocker_White_Kit,					*,		100000,		50000
-		Msp_SoloLocker_Yellow,						*,		-1,			50000
-		Msp_SoloLocker_YellowRusty,					*,		-1,			50000
-		Msp_SoloLocker_YellowRusty_Kit,				*,		100000,		50000
-		Msp_SoloLocker_Yellow_Kit,					*,		100000,		50000
-		Msp_Static_TrashCan, 						*,		-1,			50000
-		Msp_StorageBox,								*,		-1,			50000
-		Msp_StorageBox_Kit,							*,		100000,		50000
-		Msp_TackleBox, 								*,		10000,		50000
-		Msp_TackleBox_Black, 						*,		10000,		50000
-		Msp_ToolsBench_Blue,						*,		10000,		50000
-		Msp_ToolsBench_Blue_Kit,					*,		10000,		50000
-		Msp_ToolsBench_Grey,						*,		10000,		50000
-		Msp_ToolsBench_Grey_Kit,					*,		10000,		50000
-		Msp_ToolsBench_Red,							*,		10000,		50000
-		Msp_ToolsBench_Red_Kit,						*,		10000,		50000
-		Msp_TrashCan,								*,		5000,		50000
-		Msp_TreasureChest,							*,		90000,		50000
-		Msp_Wardrobe_Brown, 						*,		-1,			50000
-		Msp_Wardrobe_Brown_Kit,						*,		100000,		50000
-		Msp_Wardrobe_Green, 						*,		-1,			50000
-		Msp_Wardrobe_Green_Kit,						*,		100000,		50000
-		Msp_Wardrobe_White, 						*,		-1,			50000
-		Msp_Wardrobe_White_Kit,						*,		100000,		50000
-		Msp_WoodenGunRack,							*,		-1,			50000
-		Msp_WoodenGunRack_Kit,						*,		100000,		50000
+		Msp_LargeAmmoBox,							*,		20000,		30000
+		Msp_Locker,									*,		-1,			30000
+		Msp_Locker_Kit,								*,		300000,		30000
+		Msp_Mailbox, 								*,		10000,		5000
+		Msp_MedicalBox,								*,		-1,			10000
+		Msp_MedicalBox_Kit,							*,		75000,		10000
+		Msp_MedievalChest, 							*,		40000,		20000
+		Msp_OldLocker,								*,		-1,			20000
+		Msp_OldLocker_Green,						*,		-1,			20000
+		Msp_OldLocker_Green_Kit,					*,		200000,		20000
+		Msp_OldLocker_Kit,							*,		200000,		20000
+		Msp_PlasticCrate, 							*,		30000,		10000
+		Msp_RifleSafe,								*,		-1,			40000
+		Msp_RifleSafe_Green,						*,		-1,			40000
+		Msp_RifleSafe_Green_Kit,					*,		400000,		40000
+		Msp_RifleSafe_Grey,							*,		-1,			40000
+		Msp_RifleSafe_Grey_Kit,						*,		400000,		40000
+		Msp_RifleSafe_Kit,							*,		400000,		40000
+		Msp_RifleSafe_Purple,						*,		-1,			40000
+		Msp_RifleSafe_Purple_Kit,					*,		400000,		40000
+		Msp_RifleSafe_Tan,							*,		-1,			40000
+		Msp_RifleSafe_Tan_Kit,						*,		400000,		40000
+		Msp_Safe, 									*,		250000,		20000
+		Msp_SoloLocker,								*,		-1,			20000
+		Msp_SoloLocker_Black,						*,		-1,			20000
+		Msp_SoloLocker_Black_Kit,					*,		100000,		20000
+		Msp_SoloLocker_Green,						*,		-1,			20000
+		Msp_SoloLocker_Green_Kit,					*,		100000,		20000
+		Msp_SoloLocker_Kit,							*,		100000,		20000
+		Msp_SoloLocker_Red,							*,		-1,			20000
+		Msp_SoloLocker_RedRusty,					*,		-1,			20000
+		Msp_SoloLocker_RedRusty_Kit,				*,		90000,		15000
+		Msp_SoloLocker_Red_Kit,						*,		100000,		20000
+		Msp_SoloLocker_White,						*,		-1,			20000
+		Msp_SoloLocker_White_Kit,					*,		100000,		20000
+		Msp_SoloLocker_Yellow,						*,		-1,			20000
+		Msp_SoloLocker_YellowRusty,					*,		-1,			20000
+		Msp_SoloLocker_YellowRusty_Kit,				*,		100000,		20000
+		Msp_SoloLocker_Yellow_Kit,					*,		100000,		20000
+		Msp_Static_TrashCan, 						*,		-1,			8000
+		Msp_TrashCan,								*,		25000,		8000
+		Msp_StorageBox,								*,		-1,			20000
+		Msp_StorageBox_Kit,							*,		100000,		20000
+		Msp_TackleBox, 								*,		10000,		5000
+		Msp_TackleBox_Black, 						*,		10000,		5000
+		Msp_ToolsBench_Blue,						*,		10000,		5000
+		Msp_ToolsBench_Blue_Kit,					*,		10000,		5000
+		Msp_ToolsBench_Grey,						*,		10000,		5000
+		Msp_ToolsBench_Grey_Kit,					*,		10000,		5000
+		Msp_ToolsBench_Red,							*,		10000,		5000
+		Msp_ToolsBench_Red_Kit,						*,		10000,		5000
+		Msp_TreasureChest,							*,		90000,		20000
+		Msp_Wardrobe_Brown, 						*,		-1,			20000
+		Msp_Wardrobe_Brown_Kit,						*,		100000,		20000
+		Msp_Wardrobe_Green, 						*,		-1,			20000
+		Msp_Wardrobe_Green_Kit,						*,		100000,		20000
+		Msp_Wardrobe_White, 						*,		-1,			20000
+		Msp_Wardrobe_White_Kit,						*,		100000,		20000
+		Msp_WoodenGunRack,							*,		-1,			20000
+		Msp_WoodenGunRack_Kit,						*,		100000,		20000
 		
 	<Category> MSP Seasonal:
 		MSP_WitchCauldron,						*,		10000,		5000
@@ -803,7 +803,7 @@
 		Ruger1022,				W,	200000,	35000
 		AK101,					W,	420000,	42000
 		AK74,					W,	-1,		44000
-		AKM,					W,	450000,	450000
+		AKM,					W,	450000,	45000
 		AKS74U,					W,	-1,		44000
 		AUG,					W,	-1,		45000
 		AUGShort,				W,	-1,		45000
@@ -902,23 +902,23 @@
 		
 		Ammo_22,					1,	-1,		200	
 		Ammo_380,					1,	-1,		500
-		Ammo_9x19,					1,	-1,		1000
-		Ammo_45ACP,					1,	-1,		1200
-		Ammo_357,					1,	-1,		5000
+		Ammo_9x19,					1,	-1,		800
+		Ammo_45ACP,					1,	-1,		900
+		Ammo_357,					1,	-1,		1600
 		Ammo_12gaPellets,			1,	-1,		4000
-		Ammo_12gaSlug,				1,	-1,		3000
+		Ammo_12gaSlug,				1,	-1,		3300
 		Ammo_9x39,					1,	-1,		4000
 		Ammo_9x39AP,				1,	-1,		4500
 		Ammo_308Win,				1,	-1,		5000
-		Ammo_545x39,				1,	-1,		3000
-		Ammo_556x45,				1,	-1,		3200
-		Ammo_762x39,				1,	-1,		3500
-		Ammo_762x54,				1,	-1,		5500
-		Ammo_556x45Tracer,			1,	-1,		3200
-		Ammo_545x39Tracer,			1,	-1,		3000
+		Ammo_545x39,				1,	-1,		3600
+		Ammo_556x45,				1,	-1,		3700
+		Ammo_762x39,				1,	-1,		3800
+		Ammo_762x54,				1,	-1,		5000
+		Ammo_556x45Tracer,			1,	-1,		3700
+		Ammo_545x39Tracer,			1,	-1,		3600
 		Ammo_308WinTracer,			1,	-1,		5000
-		Ammo_762x39Tracer,			1,	-1,		3500
-		Ammo_762x54Tracer,			1,	-1,		5500
+		Ammo_762x39Tracer,			1,	-1,		3700
+		Ammo_762x54Tracer,			1,	-1,		5000
 		Ammo_Flare,					1,	5000,	2000
 		Ammo_FlareBlue,				1,	5000,	2000
 		Ammo_FlareGreen,			1,	5000,	2000
@@ -1324,7 +1324,7 @@
 		FNP45_MRDSOptic,		*,	10000,	3000
 		HuntingOptic,			*,	25000,	7500
 		KashtanOptic,			*,	14000,	4200
-		KazuarOptic,			*,	35000,	10500
+		KazuarOptic,			*,	35000,	9500
 		KobraOptic,				*,	-1,		3600
 		M4_CarryHandleOptic,	*,	-1,		2400
 		M4_T3NRDSOptic,			*,	16000,	4800
@@ -1334,18 +1334,18 @@
 		PUScopeOptic,			*,	-1,		4800
 		PistolOptic,			*,	5000,	2000
 		ReflexOptic,			*,	11000,	5000
-		StarlightOptic,			*,	50000,	20000
+		StarlightOptic,			*,	50000,	10000
 	
 	<Category> Muzzle Attachments
-		AK_Suppressor,		*,	40000,	20000
-		M4_Suppressor,		*,	43000,	22000
-		PistolSuppressor,	*,	36000,	18000
-		MP5_Compensator	,	*,	25000,	12000
-		Mosin_Compensator,	*,	10000,	6000
-		AK_Bayonet,		*,	9000,	2700
-		M9A1_Bayonet,	*,	9000,	2700
-		Mosin_Bayonet,	*,	9000,	2700
-		SKS_Bayonet,	*,	9000,	2700
+		AK_Suppressor,		*,	40000,	10000
+		M4_Suppressor,		*,	43000,	12000
+		PistolSuppressor,	*,	36000,	8000
+		MP5_Compensator	,	*,	25000,	9200
+		Mosin_Compensator,	*,	10000,	7000
+		AK_Bayonet,		*,	9000,	3700
+		M9A1_Bayonet,	*,	9000,	3700
+		Mosin_Bayonet,	*,	9000,	3700
+		SKS_Bayonet,	*,	9000,	3700
 		
 	<Category> Light Attachments
 		TLRLight,		*,	10000,	1800
@@ -1406,7 +1406,7 @@
 		SA58_Stock,							*,		75000,			10000
 		SNAFUDSASA58_Stock,                 *,		75000,			10000
 		SNAFU_AK19_Stock,                   *,		75000,			10000
-		SNAFU_AK_AR_Stock,                  *,		90000,			10000
+		SNAFU_AK_AR_Stock,                  *,		90000,			20000
 		SNAFU_M200B_BK,                     *,		75000,			10000
 		SNAFU_M200S_BK,                     *,		75000,			10000
 		SNAFU_M200S_Green,                  *,		75000,			10000
@@ -1415,10 +1415,10 @@
 		SNAFU_M249Stock,                    *,		75000,			10000
 		SNAFU_M4SS_Stock,                   *,		75000,			10000
 		SNAFU_MK47_Stock,                   *,		75000,			10000
-		SNAFU_MOE_Stock,                    *,		110000,			10000
-		SNAFU_PRSGen3_Stock,                *,		140000,			10000
+		SNAFU_MOE_Stock,                    *,		85000,			18000
+		SNAFU_PRSGen3_Stock,                *,		95000,			20000
 		SNAFU_SADAR_Stock,                  *,		55000,			10000
-		SNAFU_SBA_Stock,                    *,		35000,			10000
+		SNAFU_SBA_Stock,                    *,		45000,			10000
 		SNAFU_SCQR_Stock,                   *,		75000,			10000
 		SNAFU_UBR_Stock,                    *,		75000,			10000
 		SNAFU_WSR3Stock,                    *,		75000,			10000
@@ -1535,7 +1535,7 @@
 		TacticalGoggles,		*,	40000,	4500
 		AviatorGlasses,			*,	4000,	2000
 		DesignerGlasses,		*,	3000,	1500
-		NVGHeadstrap,			*,	50000,	3000
+		NVGHeadstrap,			*,	30000,	3000
 		SportGlasses_Black,		*,	2000,	1000
 		SportGlasses_Blue,		*,	2000,	1000
 		SportGlasses_Green,		*,	2000,	1000
@@ -1699,11 +1699,11 @@
 		Balaclava3Holes_Black,		*,	5000,		1000
 		Balaclava3Holes_Blue,		*,	5000,		1000
 		Balaclava3Holes_Green,		*,	5000,		1000
-		BandanaMask_BlackPattern,	*,	2500,		600
-		BandanaMask_CamoPattern,	*,	3500,		1000
+		BandanaMask_BlackPattern,	*,	3000,		800
+		BandanaMask_CamoPattern,	*,	3000,		800
 		BandanaMask_GreenPattern,	*,	3000,		800
-		BandanaMask_PolkaPattern,	*,	2500,		600
-		BandanaMask_RedPattern,		*,	2500,		600
+		BandanaMask_PolkaPattern,	*,	3000,		800
+		BandanaMask_RedPattern,		*,	3000,		800
 		GP5GasMask,					*,	100000,		10000
 		HockeyMask,					*,	4000,		1000
 		NioshFaceMask,				*,	4000,		1000
@@ -2050,14 +2050,14 @@
 		AssaultBag_Black,		*,	94000,	10000
 		AssaultBag_Green,		*,	94000,	10000
 		AssaultBag_Ttsko,		*,	94000,	10000
-		ChildBag_Blue,			*,	8000,	500
-		ChildBag_Green,			*,	8000,	600
-		ChildBag_Red,			*,	8000,	500
+		ChildBag_Blue,			*,	8000,	800
+		ChildBag_Green,			*,	8000,	800
+		ChildBag_Red,			*,	8000,	800
 		CoyoteBag_Brown,		*,	50000,	6000
 		CoyoteBag_Green,		*,	50000,	6000
 		DryBag_Black,			*,	8000,	800
 		DryBag_Blue,			*,	8000,	800
-		DryBag_Green,			*,	8000,	100
+		DryBag_Green,			*,	8000,	800
 		DryBag_Orange,			*,	8000,	800
 		DryBag_Red,				*,	8000,	800
 		DryBag_Yellow,			*,	8000,	800
@@ -2066,15 +2066,15 @@
 		MountainBag_Green,		*,	95000,	12000
 		MountainBag_Orange,		*,	95000,	12000
 		MountainBag_Red,		*,	95000,	12000
-		SmershBag,				*,	5000,	300
-		TaloonBag_Blue,			*,	9000,	100
-		TaloonBag_Green,		*,	9000,	200
-		TaloonBag_Orange,		*,	9000,	100
-		TaloonBag_Violet,		*,	9000,	100
+		SmershBag,				*,	5000,	1000
+		TaloonBag_Blue,			*,	9000,	1000
+		TaloonBag_Green,		*,	9000,	1000
+		TaloonBag_Orange,		*,	9000,	1000
+		TaloonBag_Violet,		*,	9000,	1000
 		TortillaBag,			*,	40000,	6000
-		WaterproofBag_Green,	*,	6100,	300
-		WaterproofBag_Orange,	*,	6000,	300
-		WaterproofBag_Yellow,	*,	6000,	300
+		WaterproofBag_Green,	*,	6000,	2000
+		WaterproofBag_Orange,	*,	6000,	2000
+		WaterproofBag_Yellow,	*,	6000,	2000
 		
 	<Category> TF HELMETS AND COVERS
 		TF_6B47HelmetCover_EMR,				*,	8000,	6400
@@ -2466,12 +2466,12 @@
 		ExpansionUh1h,			VNK,	5700000,	3400000
 	
 	<Category> Helicopter Parts
-		CarRadiator,				*,	30000,	24000
-		ExpansionHelicopterBattery,	*,	10000,	5000
-		ExpansionHydraulicHoses,	*,	3000,	2400
-		ExpansionIgniterPlug,		*,	5000,	3000
-		HeadlightH7,				*,	1000,	500
-		SparkPlug,					*,	5000,	2000
+		CarRadiator,				*,	90000,	74000
+		ExpansionHelicopterBattery,	*,	50000,	5000
+		ExpansionHydraulicHoses,	*,	9000,	2400
+		ExpansionIgniterPlug,		*,	9000,	3000
+		HeadlightH7,				*,	5000,	1500
+		SparkPlug,					*,	25000,	12000
 	
 	<Category> Keys
 		VehicleKeyDuplicate,	K,		2000,	-1 		// The choosen Classname here only gets displayed in the UI (Name/Description); Make Sure SellValue is set to -1
