@@ -887,18 +887,18 @@
         AmmoBox_357_20Rnd,				*,    80000,	32000
         AmmoBox_00buck_10rnd,			*,    100000,	40000
         AmmoBox_12gaSlug_10Rnd,			*,    85000,	33000
-        AmmoBox_556x45_20Rnd,			*,    200000,	75000
-        AmmoBox_556x45Tracer_20Rnd,		*,    200000,	75000
-        AmmoBox_545x39_20Rnd,			*,    180000,	72000
-        AmmoBox_545x39Tracer_20Rnd,		*,    180000,	72000
-        AmmoBox_762x39_20Rnd,			*,    225000,	74000
-        AmmoBox_762x39Tracer_20Rnd,		*,    225000,	74000
-        AmmoBox_9x39_20Rnd,				*,    250000,	78000
-        AmmoBox_9x39AP_20Rnd,			*,    270000,	84000
-        AmmoBox_308Win_20Rnd,			*,    320000,	90000
-        AmmoBox_308WinTracer_20Rnd,		*,    320000,	90000
-        AmmoBox_762x54_20Rnd,			*,    340000,	100000
-        AmmoBox_762x54Tracer_20Rnd,		*,    340000,	100000
+        AmmoBox_556x45_20Rnd,			*,    140000,	75000
+        AmmoBox_556x45Tracer_20Rnd,		*,    140000,	75000
+        AmmoBox_545x39_20Rnd,			*,    120000,	72000
+        AmmoBox_545x39Tracer_20Rnd,		*,    120000,	72000
+        AmmoBox_762x39_20Rnd,			*,    160000,	74000
+        AmmoBox_762x39Tracer_20Rnd,		*,    160000,	74000
+        AmmoBox_9x39_20Rnd,				*,    180000,	78000
+        AmmoBox_9x39AP_20Rnd,			*,    180000,	84000
+        AmmoBox_308Win_20Rnd,			*,    200000,	90000
+        AmmoBox_308WinTracer_20Rnd,		*,    200000,	90000
+        AmmoBox_762x54_20Rnd,			*,    300000,	100000
+        AmmoBox_762x54Tracer_20Rnd,		*,    300000,	100000
 		
 		Ammo_22,					1,	-1,		200	
 		Ammo_380,					1,	-1,		500
