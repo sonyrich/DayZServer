@@ -1395,12 +1395,6 @@
 		SNAFU_MK7,						*,		50000,			10000
 		SNAFU_MK9,						*,		50000,			10000
 		SNAFU_SR3HG,					*,		50000,			10000
-		SNAFU_TACGripColtA2_BK,			*,		40000,			10000
-		SNAFU_TACGripColtA2_Grey,		*,		40000,			10000
-		SNAFU_TACGripColtA2_OD,			*,		40000,			10000
-		SNAFU_TACGripColtA2_Tan,		*,		40000,			10000
-		SNAFU_GIGripColtA2,				*,		40000,			10000
-		SNAFU_PistolGripColtA2,			*,		40000,			10000
 		
 	<Category> SNAFU Stocks
 		SA58_Stock,							*,		75000,			10000
@@ -1529,6 +1523,12 @@
 		SNAFU_FGKAC_Grip,                   *,		60000,			8000
 		SNAFU_M249Grip,                     *,		40000,			8000
 		SNAFU_SR3Grip,                      *,		50000,			8000
+		SNAFU_TACGripColtA2_BK,				*,		40000,			10000
+		SNAFU_TACGripColtA2_Grey,			*,		40000,			10000
+		SNAFU_TACGripColtA2_OD,				*,		40000,			10000
+		SNAFU_TACGripColtA2_Tan,			*,		40000,			10000
+		SNAFU_GIGripColtA2,					*,		40000,			10000
+		SNAFU_PistolGripColtA2,				*,		40000,			10000
 
 <Trader> Clothing Trader
 	<Category> Glasses
