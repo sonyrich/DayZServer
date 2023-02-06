@@ -570,9 +570,9 @@
 		SN_M9,                             W,		-1,				20000
 		SN_USP,                            W,		320000,			24000
 		SNAFU_Fort12_GUN,                  W,		200000,			19000
-		SNAFUChiappaRhino,                 W,		340000,			27500
+		SNAFUChiappaRhino,                 W,		-1,				27500
 		SNAFUSWM629,                       W,		700000,			34000
-		SNAFUMagnum500,                    W,		850000,			38000
+		SNAFUMagnum500,                    W,		-1,				38000
 		Tec9_Gun,                          W,		-1,				36000
 		GCGN_Vityaz,                       W,		400000,			35000
 		SNAFUUzi,                          W,		700000,			37000
@@ -582,7 +582,7 @@
 		SNAFU_MPX_GUN,                     W,		1650000,		38000
 		SNAFU_Agram_GUN,                   W,		920000,			34000
 		SNAFUKH9,                          W,		1500000,		33000
-		SNAFUSten,                         W,		180000,			28000
+		SNAFUSten,                         W,		-1,				28000
 		SNAFU_PDW_9mm,	                   W,		1500000,		30000
 		SNAFU_PDW_45ACP,	               W,		1600000,		32000
 		SNAFUThompsonMk2,                  W,		950000,			28000
@@ -590,7 +590,7 @@
 		SNAFUP90,                          W,		1600000,		39000
 		SNAFU_Trenchgun,                   W,		700000,			41000
 		SNAFU_TP82S,                       W,		200000,			23000
-		SN_Auto_Shotgun,                   W,		900000,			40000
+		SN_Auto_Shotgun,                   W,		-1,				40000
 		SN_M870,                           W,		-1,				36000
 		VR80_Gun,                          W,		-1,				44000
 		Spas12_Gun,                        W,		1000000,		40000
