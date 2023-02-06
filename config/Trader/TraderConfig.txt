@@ -65,6 +65,7 @@
 		BakedBeansCan,		*,	50000,	6000
 		BoxCerealCrunchin,	*,	38000,	7000
 		Marmalade,			*,	37000,	3500
+		Honey,				*,	41000,	3600
 		PeachesCan,			*,	45000,	4000
 		PorkCan,			*,	28000,	4500
 		PowderedMilk,		*,	30000,	8000
