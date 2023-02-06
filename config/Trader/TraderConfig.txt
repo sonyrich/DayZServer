@@ -862,18 +862,18 @@
 	//<Category> Light Machine Guns
 		
 	<Category> Grenades
-		FlashGrenade,				1,	65000,	17500
-		M18SmokeGrenade_Green,		1,	25000,	15000
-		M18SmokeGrenade_Purple,		1,	25000,	15000
-		M18SmokeGrenade_Red,		1,	25000,	15000
-		M18SmokeGrenade_White,		1,	25000,	15000
-		M18SmokeGrenade_Yellow,		1,	25000,	15000
-		M67Grenade,					1,	82000,	40000
-		RDG2SmokeGrenade_Black,		1,	20000,	15000
-		RDG2SmokeGrenade_White,		1,	20000,	15000
-		RGD5Grenade,				1,	80000,	30000
-		ClaymoreMine,				1,	85000,	31000
-		LandMineTrap,				1,	75000,	27000
+		FlashGrenade,				*,	65000,	17500
+		M18SmokeGrenade_Green,		*,	25000,	15000
+		M18SmokeGrenade_Purple,		*,	25000,	15000
+		M18SmokeGrenade_Red,		*,	25000,	15000
+		M18SmokeGrenade_White,		*,	25000,	15000
+		M18SmokeGrenade_Yellow,		*,	25000,	15000
+		M67Grenade,					*,	82000,	40000
+		RDG2SmokeGrenade_Black,		*,	20000,	15000
+		RDG2SmokeGrenade_White,		*,	20000,	15000
+		RGD5Grenade,				*,	80000,	30000
+		ClaymoreMine,				*,	85000,	31000
+		LandMineTrap,				*,	75000,	27000
 		
 	<Category> TF GRENADES
 		TF_ChemicalGrenade,		*,	250000,	95000
