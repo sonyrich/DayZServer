@@ -173,6 +173,7 @@
 		Shovel,				*,	20000,	7000
 		SledgeHammer,		*,	15000,	4800
 		WoodAxe,			*,	50000,	8000
+		Pipe,				*,	45000,	7000
 		
 	<Category> Hardware Supplies
 		Paper,					*,	500,	100
@@ -202,6 +203,12 @@
 		CombinationLock,		*,	700,	100
 		CombinationLock4,		*,	900,	200
 		MediumTent,				*,	50000,	12500
+		MediumTent_Green,		*,	50000,	12500
+		MediumTent_Orange,		*,	50000,	12500
+		PartyTent,				*,	75000,	14000
+		PartyTent_Blue,			*,	75000,	14000
+		PartyTent_Brown,		*,	75000,	14000
+		PartyTent_Lunapark,		*,	75000,	14000
 		CarTent,				*,	200000,	50000
 		LargeTent,				*,	120000,	30000
 		BarrelHoles_Blue,		*,	10000,	2500
@@ -855,12 +862,6 @@
 	//<Category> Light Machine Guns
 		
 	<Category> Grenades
-		Ammo_40mm_Explosive			1,	60000,	15000
-		Ammo_40mm_ChemGas			1,	60000,	15000
-		Ammo_40mm_Smoke_Red			1,	20000,	15000
-		Ammo_40mm_Smoke_Green		1,	20000,	15000
-		Ammo_40mm_Smoke_White		1,	20000,	15000
-		Ammo_40mm_Smoke_Black		1,	20000,	15000
 		FlashGrenade,				1,	65000,	17500
 		M18SmokeGrenade_Green,		1,	25000,	15000
 		M18SmokeGrenade_Purple,		1,	25000,	15000
@@ -871,6 +872,8 @@
 		RDG2SmokeGrenade_Black,		1,	20000,	15000
 		RDG2SmokeGrenade_White,		1,	20000,	15000
 		RGD5Grenade,				1,	80000,	30000
+		ClaymoreMine,				1,	85000,	31000
+		LandMineTrap,				1,	75000,	27000
 		
 	<Category> TF GRENADES
 		TF_ChemicalGrenade,		*,	250000,	95000
@@ -1156,6 +1159,9 @@
 		Mag_Scout_5Rnd,						M,	10000,	5000
 		Mag_UMP_25Rnd,						M,	12000,	3600
 		Mag_VSS_10Rnd,						M,	21000,	6300
+		Mag_Ruger1022_10Rnd,				M,	10000,	3000
+		Mag_Ruger1022_15Rnd,				M,	12000,	3400
+		Mag_Ruger1022_30Rnd,				M,	15000,	3600
 				
 	<Category> TF Optics
 		TF_DeltaPointOptic_Black,			*,	95000,	27500
@@ -1695,6 +1701,16 @@
 		ZSh3PilotHelmet,				*,	13000,	3500
 
 	<Category> Masks
+		AirborneMask,				*,	125000,		15000
+		GasMask,					*,	100000,		10000
+		GP5GasMask,					*,	100000,		10000
+		BalaclavaMask_Black,		*,	5000,		1000
+		BalaclavaMask_Blackskull,	*,	5000,		1000
+		BalaclavaMask_Beige,		*,	5000,		1000
+		BalaclavaMask_Blue,			*,	5000,		1000
+		BalaclavaMask_Green,		*,	5000,		1000
+		BalaclavaMask_Pink,			*,	5000,		1000
+		BalaclavaMask_White,		*,	5000,		1000
 		Balaclava3Holes_Beige,		*,	5000,		1000
 		Balaclava3Holes_Black,		*,	5000,		1000
 		Balaclava3Holes_Blue,		*,	5000,		1000
@@ -1704,7 +1720,6 @@
 		BandanaMask_GreenPattern,	*,	3000,		800
 		BandanaMask_PolkaPattern,	*,	3000,		800
 		BandanaMask_RedPattern,		*,	3000,		800
-		GP5GasMask,					*,	100000,		10000
 		HockeyMask,					*,	4000,		1000
 		NioshFaceMask,				*,	4000,		1000
 		SurgicalMask,				*,	1500,		300
