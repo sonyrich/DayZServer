@@ -106,24 +106,24 @@
 		Zucchini,				*,	-1,		600
 				
 	<Category> Pharmacy
-		BandageDressing,		*,	-1,			9000
-		BloodBagEmpty,			*,	12000,		6000
-		BloodTestKit,			*,	5000,		1000
-		Defibrillator,			*,	10000,		4500
-		DisinfectantSpray,		*,	3000,		800
-		FirstAidKit,			*,	1500,		400
-		GasMask_Filter,			*,	50000,		15000
-		Heatpack,				*,	8000,		3000
-		Rag,					2,	400,		100
-		SalineBag,				*,	25000,		11000
-		StartKitIV,				*,	5000,		3000
-		Thermometer,			*,	2500,		1000
-		CharcoalTablets,			*,	10000,		3000
-		DisinfectantAlcohol,		*,	4500,		1200
-		Epinephrine,				*,	12000,		7000
-		Morphine,					*,	15000,		8000
-		PainkillerTablets,			2,	50000,		12500
-		PurificationTablets,		*,	15000,		1400
+		BandageDressing,		*,	-1,			25000
+		BloodBagEmpty,			*,	36000,		18000
+		BloodTestKit,			*,	15000,		3000
+		Defibrillator,			*,	30000,		14000
+		DisinfectantSpray,		*,	9000,		2400
+		FirstAidKit,			*,	4500,		1200
+		GasMask_Filter,			*,	150000,		45000
+		Heatpack,				*,	24000,		9000
+		Rag,					2,	1200,		300
+		SalineBag,				*,	75000,		33000
+		StartKitIV,				*,	15000,		9000
+		Thermometer,			*,	7500,		3000
+		CharcoalTablets,			*,	30000,		9000
+		DisinfectantAlcohol,		*,	13500,		3600
+		Epinephrine,				*,	36000,		20000
+		Morphine,					*,	45000,		22000
+		PurificationTablets,		*,	25000,		8500
+		PainkillerTablets,			2,	50000,		13000
 		TetracyclineAntibiotics,	1,	70000,		20000
 		VitaminBottle,				1,	75000,		25000
 		
